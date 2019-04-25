@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Exception;
+namespace DrdPlus\Blog\Exception;
 
 use Exception;
 

@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Posts\Year2018\ParameterToSymfonyController\Controller;
+namespace DrdPlus\Blog\Posts\Year2018\ParameterToSymfonyController\Controller;
 
 final class LectureController
 {

@@ -28,12 +28,12 @@
   },
   "autoload": {
     "psr-4": {
-      "TomasVotruba\\Website\\": "src"
+      "DrdPlus\\Blog\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "TomasVotruba\\Website\\Tests\\": "tests"
+      "DrdPlus\\Blog\\Tests\\": "tests"
     }
   },
   "scripts": {

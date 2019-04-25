@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Posts\Year2018\ConsoleDI\DependencyInjection\CompilerPass;
+namespace DrdPlus\Blog\Posts\Year2018\ConsoleDI\DependencyInjection\CompilerPass;
 
 use Symfony\Component\Console\Application;
 use Symfony\Component\Console\Command\Command;

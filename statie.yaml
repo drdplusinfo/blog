@@ -9,17 +9,17 @@ services:
     _defaults:
         autowire: true
 
-    TomasVotruba\Website\:
+    DrdPlus\Blog\:
         resource: 'src'
 
 parameters:
     post_template_path: 'templates/new_post.twig'
 
     # global templates variables
-    google_analytics_tracking_id: "UA-46082345-1"
+    google_analytics_tracking_id: "UA-121206931-1"
     site_title: "Blog DrdPlus.info"
     site_url: "https://blog.drdplus.info"
-    disqus_shortname: "itsworthsharing"
+    disqus_shortname: "blog-drdplus-info"
     github_repository_tests_directory: "https://github.com/drdplusinfo/blog/tree/master/tests"
 
     thanker_repository_name: 'drdplusinfo/blog'
@@ -33,3 +33,4 @@ parameters:
     redirects:
         # old url → new url
         /blog: '/'
+        /kontakty: '/kontakt'

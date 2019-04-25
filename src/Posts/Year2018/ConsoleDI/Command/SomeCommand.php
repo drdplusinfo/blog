@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Posts\Year2018\ConsoleDI\Command;
+namespace DrdPlus\Blog\Posts\Year2018\ConsoleDI\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;

@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Posts\Year2018\ParameterToSymfonyController\App;
+namespace DrdPlus\Blog\Posts\Year2018\ParameterToSymfonyController\App;
 
 use Symfony\Component\Config\Loader\LoaderInterface;
 use Symfony\Component\HttpKernel\Bundle\BundleInterface;

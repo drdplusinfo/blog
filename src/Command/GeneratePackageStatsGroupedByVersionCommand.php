@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Command;
+namespace DrdPlus\Blog\Command;
 
 use Nette\Utils\DateTime;
 use Symfony\Component\Console\Command\Command;
@@ -10,8 +10,8 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 use Symplify\PackageBuilder\Console\Command\CommandNaming;
 use Symplify\PackageBuilder\Console\ShellCode;
 use Symplify\Statie\FileSystem\GeneratedFilesDumper;
-use TomasVotruba\Website\Packagist\VendorPackagesProvider;
-use TomasVotruba\Website\Result\PackageDataGroupedByVersionFactory;
+use DrdPlus\Blog\Packagist\VendorPackagesProvider;
+use DrdPlus\Blog\Result\PackageDataGroupedByVersionFactory;
 
 final class GeneratePackageStatsGroupedByVersionCommand extends Command
 {

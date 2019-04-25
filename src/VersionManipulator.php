@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website;
+namespace DrdPlus\Blog;
 
 use Nette\Utils\Strings;
 use PharIo\Version\Version;
-use TomasVotruba\Website\Exception\ShouldNotHappenException;
+use DrdPlus\Blog\Exception\ShouldNotHappenException;
 
 final class VersionManipulator
 {

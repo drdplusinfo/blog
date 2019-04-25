@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Posts\Year2018\ProcessAsync;
+namespace DrdPlus\Blog\Posts\Year2018\ProcessAsync;
 
 use Symfony\Component\Process\Process;
 

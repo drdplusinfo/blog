@@ -9,5 +9,5 @@ services:
         # for tests
         public: true
 
-    TomasVotruba\Website\Posts\Year2018\ParameterToSymfonyController\Controller\:
+    DrdPlus\Blog\Posts\Year2018\ParameterToSymfonyController\Controller\:
         resource: ../Controller

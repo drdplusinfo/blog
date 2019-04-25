@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Packagist;
+namespace DrdPlus\Blog\Packagist;
 
-use TomasVotruba\Website\Exception\ShouldNotHappenException;
-use TomasVotruba\Website\Json\FileToJsonLoader;
+use DrdPlus\Blog\Exception\ShouldNotHappenException;
+use DrdPlus\Blog\Json\FileToJsonLoader;
 
 final class PackageRawMonthlyDownloadsProvider
 {

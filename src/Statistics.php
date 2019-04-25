@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website;
+namespace DrdPlus\Blog;
 
 final class Statistics
 {

@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Packagist;
+namespace DrdPlus\Blog\Packagist;
 
-use TomasVotruba\Website\Exception\ShouldNotHappenException;
-use TomasVotruba\Website\Json\FileToJsonLoader;
-use TomasVotruba\Website\VersionManipulator;
+use DrdPlus\Blog\Exception\ShouldNotHappenException;
+use DrdPlus\Blog\Json\FileToJsonLoader;
+use DrdPlus\Blog\VersionManipulator;
 
 final class MinorPackageVersionsDownloadsProvider
 {

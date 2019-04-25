@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Result;
+namespace DrdPlus\Blog\Result;
 
 use Nette\Utils\Strings;
-use TomasVotruba\Website\Packagist\MinorPackageVersionsDownloadsProvider;
-use TomasVotruba\Website\Packagist\PackageVersionPublishDatesProvider;
+use DrdPlus\Blog\Packagist\MinorPackageVersionsDownloadsProvider;
+use DrdPlus\Blog\Packagist\PackageVersionPublishDatesProvider;
 
 final class PackageDataGroupedByVersionFactory
 {

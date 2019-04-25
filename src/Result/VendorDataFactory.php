@@ -1,11 +1,11 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Result;
+namespace DrdPlus\Blog\Result;
 
 use Nette\Utils\DateTime;
 use Symfony\Component\Console\Style\SymfonyStyle;
-use TomasVotruba\Website\ArrayUtils;
-use TomasVotruba\Website\Packagist\VendorPackagesProvider;
+use DrdPlus\Blog\ArrayUtils;
+use DrdPlus\Blog\Packagist\VendorPackagesProvider;
 
 final class VendorDataFactory
 {

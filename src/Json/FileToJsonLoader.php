@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Json;
+namespace DrdPlus\Blog\Json;
 
 use Nette\Utils\FileSystem;
 use Nette\Utils\Json;

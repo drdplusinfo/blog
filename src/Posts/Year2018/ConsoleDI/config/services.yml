@@ -2,7 +2,7 @@ services:
     _defaults:
         autowire: true
 
-    TomasVotruba\Website\Posts\Year2018\ConsoleDI\:
+    DrdPlus\Blog\Posts\Year2018\ConsoleDI\:
         resource: ..
 
     Symfony\Component\Console\Application:

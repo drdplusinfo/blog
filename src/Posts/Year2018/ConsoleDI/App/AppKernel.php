@@ -1,12 +1,12 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Posts\Year2018\ConsoleDI\App;
+namespace DrdPlus\Blog\Posts\Year2018\ConsoleDI\App;
 
 use Symfony\Component\Config\Loader\LoaderInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\BundleInterface;
 use Symfony\Component\HttpKernel\Kernel;
-use TomasVotruba\Website\Posts\Year2018\ConsoleDI\DependencyInjection\CompilerPass\CollectCommandsToApplicationCompilerPass;
+use DrdPlus\Blog\Posts\Year2018\ConsoleDI\DependencyInjection\CompilerPass\CollectCommandsToApplicationCompilerPass;
 
 final class AppKernel extends Kernel
 {

@@ -1,11 +1,11 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Result;
+namespace DrdPlus\Blog\Result;
 
 use Nette\Utils\Strings;
-use TomasVotruba\Website\ArrayUtils;
-use TomasVotruba\Website\Packagist\PackageMonthlyDownloadsProvider;
-use TomasVotruba\Website\Statistics;
+use DrdPlus\Blog\ArrayUtils;
+use DrdPlus\Blog\Packagist\PackageMonthlyDownloadsProvider;
+use DrdPlus\Blog\Statistics;
 
 final class PackageDataFactory
 {

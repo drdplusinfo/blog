@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace TomasVotruba\Website\Packagist;
+namespace DrdPlus\Blog\Packagist;
 
-use TomasVotruba\Website\Packagist\Purifier\InterveningPackagesPurifier;
+use DrdPlus\Blog\Packagist\Purifier\InterveningPackagesPurifier;
 
 final class PackageMonthlyDownloadsProvider
 {
