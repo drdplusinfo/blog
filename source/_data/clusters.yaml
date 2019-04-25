@@ -1,0 +1,39 @@
+# @todo it would be nice to be able to download those clusters as PDF/mobi at least
+parameters:
+    clusters:
+#        -
+#            title: "Coding Standards - What, Why, Where?"
+#            post_ids: [46, 47, 37]
+
+#        -
+#            title: "Deep Work"
+#            post_ids: [20, 23, 60]
+
+#        -
+#            title: "Hacking Symfony"
+#            # container mostly
+#            post_ids: [128, 103, 109, 105, 129, 137, 158]
+
+        -
+            title: "From Nette to Symfony"
+            post_ids: [188, 192, 193, 186, 185, 171, 120, 197]
+            description: "How to migrate from Nette to Symfony?"
+        -
+            title: "Master PHP CLI Apps with Symfony"
+            post_ids: [128, 103, 109, 105, 129, 137]
+            description: "Do you want to write CLI Apps in PHP like a boss but you never did that before? Or do you look for tips to improve your CLI project? This will help you write better and cleaner code no matter level you're on."
+
+        -
+            title: "Open-Source from Dummy to a Master"
+            post_ids: [12, 13, 54, 116]
+            description: "Mastering open-source is tough, because the topic is so wide and various. It's often long journey of blind paths and self-experience. Take this shortcut and gain years of experience in days."
+
+        -
+            title: "Collector Pattern, The Shortcut Hack to SOLID Code"
+            post_ids: [114, 158, 80, 36, 133]
+            description: "Collector is the one pattern that will help your code exponentially. It's super easy to start using in every level of application. Stop learning 5 SOLID principles theory and start using it in your code today."
+
+        -
+            title: "Monorepo: From Zero to Hero"
+            post_ids: [69, 25, 26, 82, 124, 138, 143, 160, 161, 182]
+            description: "What is monorepo? How can you use it to speed up your packages' and projects' development? How to run your own monorepo in 10 minutes?"

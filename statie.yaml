@@ -1,0 +1,35 @@
+imports:
+    - { resource: 'source/_data/*.yaml' }
+    - { resource: 'source/_data/generated/*.yaml' }
+    # enabled on localhost only
+    - { resource: 'statie.local.yaml',  ignore_errors: true }
+    - { resource: 'config/*.yaml' }
+
+services:
+    _defaults:
+        autowire: true
+
+    TomasVotruba\Website\:
+        resource: 'src'
+
+parameters:
+    post_template_path: 'templates/new_post.twig'
+
+    # global templates variables
+    google_analytics_tracking_id: "UA-46082345-1"
+    site_title: "Blog DrdPlus.info"
+    site_url: "https://blog.drdplus.info"
+    disqus_shortname: "itsworthsharing"
+    github_repository_tests_directory: "https://github.com/drdplusinfo/blog/tree/master/tests"
+
+    thanker_repository_name: 'drdplusinfo/blog'
+    thanker_author_name: 'DrdPlusInfo'
+
+    avatar_url: '/assets/images/red_dragon_128.png'
+
+    # Statie settings
+    github_repository_source_directory: "https://github.com/drdplusinfo/blog/tree/master/source"
+
+    redirects:
+        # old url → new url
+        /blog: '/'

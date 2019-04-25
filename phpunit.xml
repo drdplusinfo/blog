@@ -1,0 +1,21 @@
+<phpunit
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="vendor/phpunit/phpunit/phpunit.xsd"
+    bootstrap="vendor/autoload.php"
+    colors="true"
+    verbose="true"
+>
+    <testsuites>
+        <testsuite name="main">
+            <directory>tests</directory>
+            <exclude>packages/StatieTweetPublisher/tests</exclude>
+            <exclude>tests/Posts/Year2019/FinalMock/Listener/</exclude>
+            <exclude>tests/Posts/Year2019/FinalMock/Hook/</exclude>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory>src</directory>
+        </whitelist>
+    </filter>
+</phpunit>

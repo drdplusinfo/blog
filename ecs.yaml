@@ -1,0 +1,33 @@
+imports:
+    - { resource: 'vendor/symplify/easy-coding-standard/config/psr2.yml' }
+    - { resource: 'vendor/symplify/easy-coding-standard/config/php71.yml' }
+    - { resource: 'vendor/symplify/easy-coding-standard/config/common.yml' }
+    - { resource: 'vendor/symplify/easy-coding-standard/config/symplify.yml' }
+    - { resource: 'vendor/symplify/easy-coding-standard/config/clean-code.yml' }
+
+services:
+    SlevomatCodingStandard\Sniffs\TypeHints\TypeHintDeclarationSniff:
+        enable_each_parameter_and_return_inspection: true
+
+    Symplify\CodingStandard\Sniffs\CleanCode\CognitiveComplexitySniff:
+        max_cognitive_complexity: 8
+
+parameters:
+    skip:
+        Symplify\CodingStandard\Sniffs\DependencyInjection\NoClassInstantiationSniff:
+            - '*/src/Posts/Year2017/Ast/*'
+
+        # exists since PHP 7.3, not before
+        Symplify\CodingStandard\Fixer\Php\ClassStringToClassConstantFixer:
+            - 'tests/Posts/Year2018/Php73/Php73Test.php'
+
+        # mixed[] array redundancy
+        SlevomatCodingStandard\Sniffs\TypeHints\TypeHintDeclarationSniff.MissingTraversableReturnTypeHintSpecification: ~
+        SlevomatCodingStandard\Sniffs\TypeHints\TypeHintDeclarationSniff.MissingTraversableParameterTypeHintSpecification: ~
+
+        Symplify\CodingStandard\Sniffs\Debug\CommentedOutCodeSniff.Found:
+            - 'src/Command/GeneratePackageStatsCommand.php'
+
+        # false positive
+        SlevomatCodingStandard\Sniffs\Variables\UnusedVariableSniff.UnusedVariable:
+            - 'src/Packagist/MinorPackageVersionsDownloadsProvider.php'

@@ -1,0 +1,23 @@
+includes:
+    - 'vendor/symplify/phpstan-extensions/config/config.neon'
+
+parameters:
+    level: max
+    reportUnmatchedErrors: false
+
+    ignoreErrors:
+        # intentional for tests
+        - '#Call to function is_countable\(\) with null will always evaluate to false#'
+
+        # php-parser Node/Stmt mixups
+        - '#(.*?)array<PhpParser\\Node>, array<PhpParser\\Node\\Stmt(.*?)#'
+
+        # false positive
+        - '#Cannot access property \$stmts on PhpParser\\Node\\Stmt\|null#'
+
+        # mocks
+        - '#Call to an undefined method PHPUnit\\Framework\\MockObject\\MockObject\|TomasVotruba\\Website\\Posts\\Year2019\\(.*?)\\FinalClass\:\:(.*?)\(\)#'
+
+        - '#Method TomasVotruba\\Website\\Packagist\\MinorPackageVersionsDownloadsProvider\:\:provideForPackage\(\) should return array<int\> but returns array#'
+
+        - '#Offset (.*?) does not exist on array#'

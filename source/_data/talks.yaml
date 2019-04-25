@@ -1,0 +1,57 @@
+parameters:
+    talks:
+        -
+            title: "Instant Upgrades with Rector"
+            anchor: "rector"
+            slides_link: "https://docs.google.com/presentation/d/1jGlKzuQXNFLyF1jERlS3FiRhRMeSaR9fQr8XoqAtWV0/edit?usp=sharing"
+            demo_link: "https://github.com/rectorphp/demo"
+            video_link: "https://www.youtube.com/watch?v=HM5xcWqQkwo"
+            post_link: "/blog/2018/02/19/rector-part-1-what-and-how/"
+            events:
+                - { name: "Friends of PHP Brno @ Czech Republic, 03/2019", link: "https://www.facebook.com/events/415328609225062/" }
+                - { name: "Dresden PHP UG @ Germany, 02/2019", link: "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/257775077/" }
+                - { name: "Friends of PHP Brno @ Czech Republic, 02/2019", link: "https://www.meetup.com/Pehapkari-Brno/events/258960849/" }
+                - { name: "Vienna PHP @ Austria, 02/2019", link: "https://www.meetup.com/viennaphp/events/ncmvwpyzdbcc/" }
+                - { name: "Friends of PHP Vysočina @ Czech Republic, 02/2019", link: "https://www.facebook.com/events/342162879917136/" }
+                # 2018
+                - { name: "PHP Asia @ Singapore, 09/2018", link: "https://2018.phpconf.asia/" }
+                - { name: "Berlin Symfony UG @ Germany, 08/2018", link: "https://www.meetup.com/sfugberlin/events/253573567" }
+                - { name: "Vienna PHP @ Austria, 09/2018", link: "https://www.meetup.com/viennaphp/events/ncmvwpyxmbbc/" }
+                - { name: "Vienna PHP @ Austria, 06/2018", link: "https://www.meetup.com/viennaphp/events/djtpjpyxjbcc/" }
+                - { name: "Friends of PHP in Pardubice @ Czech Republic, 06/2018", link: "https://www.facebook.com/events/1783858791700944/" }
+                - { name: "Berlin PHP UG @ Germany, 06/2018", link: "http://www.bephpug.de/2018/06/05/june.html" }
+                - { name: "PHPLive @ Czech Republic & Slovakia, 2018", link: "https://www.phplive.cz" }
+                # 2017
+                - { name: "PHP Central Europe Conference @ Poland, 2017", link: "https://2017.phpce.eu" }
+
+        -
+            title: "How to Setup Coding Standards under 5 minutes"
+            anchor: "ecs"
+            slides_link: "https://docs.google.com/presentation/d/1MLVUNdukSMXTCIDf1mndajiDKvuI5vgf1Y_Uer1IWQE/edit?usp=sharing"
+            related_post: "/blog/2017/05/03/combine-power-of-php-code-sniffer-and-php-cs-fixer-in-3-lines/"
+            video_link: "https://www.facebook.com/pehapkari/videos/vl.1769747516670517/1341201322596341/?type=1"
+            events:
+                - { name: "PHP Central Europe Conference @ Poland, 2017", link: "https://2017.phpce.eu" }
+                - { name: "Vienna PHP @ Austria, 05/2017", link: "https://www.meetup.com/viennaphp/events/237296390" }
+                - { name: "Dresden PHP UG @ Germany, 04/2017", link: "https://www.meetup.com/PHP-USERGROUP-DRESDEN/events/238473452" }
+                - { name: "Nette Camp @ Czech Republic, 2017", link: "https://nettecamp.cz" }
+
+        -
+            title: "How to Run Monorepo under 10 minutes"
+            anchor: "monorepo"
+            slides_link: "https://docs.google.com/presentation/d/1UzlKWoEdFlDLj2fzFW9e7VMyncurY-Jwwh3O78rLB-g/edit?usp=sharing"
+            related_post: "/blog/2018/10/08/new-in-symplify-5-create-merge-and-split-monorepo-with-1-command/"
+            demo_link: "https://github.com/TomasVotruba/monorepo-demo"
+            video_link: "https://slideslive.com/38911637/jak-rozjet-monorepo-za-10-minut"
+            events:
+                - { name: "Developer Day 2018 @ Czech Republic, 11/2018", link: "https://www.hubbr.cz/udalosti/events/developer-day-2018" }
+                - { name: "Friends of PHP Prague @ Czech Republic, 09/2018", link: "https://www.meetup.com/friends-of-php-prague/events/254388973/" }
+
+        -
+            title: "Why Your Company Loses Money By Not-Open-Sourcing"
+            anchor: "open-source"
+            slides_link: "https://docs.google.com/presentation/d/1kYpsn_ZAR_Q2A7WYqBIjeVIjdKe67W_d0PTHVgsvMo4/edit?usp=sharing"
+            video_link: "https://www.youtube.com/watch?v=suscn1HeRAc"
+            related_post: "/blog/2018/07/26/why-is-your-company-losing-money-by-not-open-sourcing-1-hiring/"
+            events:
+                - { name: "PHPPrague 2 @ Czech Republic, 2018", link: "https://www.facebook.com/events/204178450306613/" }
