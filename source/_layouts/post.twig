@@ -98,13 +98,33 @@
         {% endif %}
 
         {# show previous post #}
-        {% if posts[post.getId() - 1] is defined %}
-            {% set previous_post = posts[post.getId() - 1] %}
-
+        {% set nextPost = posts|next_post(post) %}
+        {% set previousPost = posts|previous_post(post) %}
+        {% if previousPost or nextPost %}
             <div class="card mb-5 mt-4">
-                <div class="card-body text-center">
-                    <strong>Next</strong>:
-                    <a href="/{{ previous_post|link }}/">{{ previous_post.title|replace('&nbsp;', ' ') }}</a>
+                <div class="card-deck">
+                    {% if previousPost %}
+                        <div class="card-body text-left">
+                            <em>
+                                <small>předchozí</small>
+                            </em>
+                            <a href="/{{ previousPost|link }}/">
+                                &lt;&lt; {{ previousPost.date|date('j. n. Y') }}
+                                {{ previousPost.title|replace('&nbsp;', ' ')|raw }}
+                            </a>
+                        </div>
+                    {% endif %}
+                    {% if nextPost %}
+                        <div class="card-body text-right">
+                            <em>
+                                <small>následující</small>
+                            </em>
+                            <a href="/{{ nextPost|link }}/">
+                                &gt;&gt; {{ nextPost.date|date('j. n. Y') }}
+                                {{ nextPost.title|replace('&nbsp;', ' ')|raw }}
+                            </a>
+                        </div>
+                    {% endif %}
                 </div>
             </div>
         {% endif %}
@@ -131,13 +151,13 @@
 {% block socialTags %}
     {# Facebook sharing #}
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="{{ post.title|replace('&nbsp;', ' ')|escape }}"/>
+    <meta property="og:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
     <meta property="og:description" content="{{ post.perex|striptags }}"/>
     <meta property="og:url" content="{{ site_url }}/{{ post|link }}"/>
 
     {# Twitter sharing #}
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@votrubaT">
-    <meta name="twitter:title" content="{{ post.title|replace('&nbsp;', ' ')|escape }}"/>
+    <meta name="twitter:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
     <meta name="twitter:description" content="{{ post.perex|striptags }}"/>
 {% endblock %}
