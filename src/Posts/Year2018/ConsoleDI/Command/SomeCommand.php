@@ -6,7 +6,7 @@ use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-final class SomeCommand extends Command
+class SomeCommand extends Command
 {
     protected function configure(): void
     {

@@ -6,7 +6,7 @@ use DrdPlus\Blog\Exception\ShouldNotHappenException;
 use DrdPlus\Blog\Json\FileToJsonLoader;
 use DrdPlus\Blog\VersionManipulator;
 
-final class MinorPackageVersionsDownloadsProvider
+class MinorPackageVersionsDownloadsProvider
 {
     /**
      * @var string

@@ -6,7 +6,7 @@ use Nette\Utils\Strings;
 use DrdPlus\Blog\Packagist\MinorPackageVersionsDownloadsProvider;
 use DrdPlus\Blog\Packagist\PackageVersionPublishDatesProvider;
 
-final class PackageDataGroupedByVersionFactory
+class PackageDataGroupedByVersionFactory
 {
     /**
      * @var MinorPackageVersionsDownloadsProvider

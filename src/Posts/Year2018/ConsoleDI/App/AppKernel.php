@@ -8,7 +8,7 @@ use Symfony\Component\HttpKernel\Bundle\BundleInterface;
 use Symfony\Component\HttpKernel\Kernel;
 use DrdPlus\Blog\Posts\Year2018\ConsoleDI\DependencyInjection\CompilerPass\CollectCommandsToApplicationCompilerPass;
 
-final class AppKernel extends Kernel
+class AppKernel extends Kernel
 {
     public function __construct()
     {

@@ -5,7 +5,7 @@ namespace DrdPlus\Blog\Json;
 use Nette\Utils\FileSystem;
 use Nette\Utils\Json;
 
-final class FileToJsonLoader
+class FileToJsonLoader
 {
     public function load(string $file): array
     {

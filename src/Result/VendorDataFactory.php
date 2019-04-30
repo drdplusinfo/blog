@@ -7,7 +7,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 use DrdPlus\Blog\ArrayUtils;
 use DrdPlus\Blog\Packagist\VendorPackagesProvider;
 
-final class VendorDataFactory
+class VendorDataFactory
 {
     /**
      * @var SymfonyStyle

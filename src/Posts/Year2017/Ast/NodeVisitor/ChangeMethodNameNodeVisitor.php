@@ -7,7 +7,7 @@ use PhpParser\Node\Identifier;
 use PhpParser\Node\Stmt\ClassMethod;
 use PhpParser\NodeVisitorAbstract;
 
-final class ChangeMethodNameNodeVisitor extends NodeVisitorAbstract
+class ChangeMethodNameNodeVisitor extends NodeVisitorAbstract
 {
     public function enterNode(Node $node): ?Node
     {

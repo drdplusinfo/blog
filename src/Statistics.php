@@ -2,7 +2,7 @@
 
 namespace DrdPlus\Blog;
 
-final class Statistics
+class Statistics
 {
     /**
      * @var float[]

@@ -6,7 +6,7 @@ use Nette\Utils\Strings;
 use PharIo\Version\Version;
 use DrdPlus\Blog\Exception\ShouldNotHappenException;
 
-final class VersionManipulator
+class VersionManipulator
 {
     /**
      * @var Version[]

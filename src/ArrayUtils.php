@@ -2,7 +2,7 @@
 
 namespace DrdPlus\Blog;
 
-final class ArrayUtils
+class ArrayUtils
 {
     public function sortDataByKey(array $data, string $key): array
     {

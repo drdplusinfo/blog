@@ -9,7 +9,7 @@ use PhpParser\NodeVisitor\CloningVisitor;
 use PhpParser\Parser\Php7;
 use PhpParser\PrettyPrinter\Standard;
 
-final class FormatPreservingPrinter
+class FormatPreservingPrinter
 {
     public function traverseWithVisitorAndPrint(NodeVisitor $nodeVisitor, string $code): string
     {

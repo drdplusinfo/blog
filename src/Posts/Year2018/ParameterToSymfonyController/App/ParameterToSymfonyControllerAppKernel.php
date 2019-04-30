@@ -6,7 +6,7 @@ use Symfony\Component\Config\Loader\LoaderInterface;
 use Symfony\Component\HttpKernel\Bundle\BundleInterface;
 use Symfony\Component\HttpKernel\Kernel;
 
-final class ParameterToSymfonyControllerAppKernel extends Kernel
+class ParameterToSymfonyControllerAppKernel extends Kernel
 {
     public function __construct()
     {

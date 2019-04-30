@@ -7,7 +7,7 @@ use DrdPlus\Blog\ArrayUtils;
 use DrdPlus\Blog\Packagist\PackageMonthlyDownloadsProvider;
 use DrdPlus\Blog\Statistics;
 
-final class PackageDataFactory
+class PackageDataFactory
 {
     /**
      * @var int

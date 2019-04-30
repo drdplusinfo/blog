@@ -8,7 +8,7 @@ use DrdPlus\Blog\Exception\ShouldNotHappenException;
 use DrdPlus\Blog\Json\FileToJsonLoader;
 use DrdPlus\Blog\VersionManipulator;
 
-final class PackageVersionPublishDatesProvider
+class PackageVersionPublishDatesProvider
 {
     /**
      * @var string

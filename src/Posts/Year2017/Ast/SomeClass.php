@@ -2,7 +2,7 @@
 
 namespace DrdPlus\Blog\Posts\Year2017\Ast;
 
-final class SomeClass
+class SomeClass
 {
     public function someMethod(): void
     {

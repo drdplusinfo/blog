@@ -2,7 +2,7 @@
 
 namespace DrdPlus\Blog\Posts\Year2019\FinalMock;
 
-final class FinalClass
+class FinalClass
 {
     public function getNumber(): int
     {

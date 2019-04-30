@@ -4,7 +4,7 @@ namespace DrdPlus\Blog\Posts\Year2018\ProcessAsync;
 
 use Symfony\Component\Process\Process;
 
-final class ProcessesInParallel
+class ProcessesInParallel
 {
     /**
      * @var int[]

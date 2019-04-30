@@ -2,7 +2,7 @@
 
 namespace DrdPlus\Blog\Posts\Year2018\ParameterToSymfonyController\Controller;
 
-final class LectureController
+class LectureController
 {
     /**
      * @var string

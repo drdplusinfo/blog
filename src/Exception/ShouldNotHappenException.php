@@ -4,6 +4,6 @@ namespace DrdPlus\Blog\Exception;
 
 use Exception;
 
-final class ShouldNotHappenException extends Exception
+class ShouldNotHappenException extends Exception
 {
 }

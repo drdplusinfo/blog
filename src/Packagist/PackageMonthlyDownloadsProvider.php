@@ -4,7 +4,7 @@ namespace DrdPlus\Blog\Packagist;
 
 use DrdPlus\Blog\Packagist\Purifier\InterveningPackagesPurifier;
 
-final class PackageMonthlyDownloadsProvider
+class PackageMonthlyDownloadsProvider
 {
     /**
      * @var PackageRawMonthlyDownloadsProvider

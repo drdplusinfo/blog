@@ -5,7 +5,7 @@ namespace DrdPlus\Blog\Packagist;
 use DrdPlus\Blog\Exception\ShouldNotHappenException;
 use DrdPlus\Blog\Json\FileToJsonLoader;
 
-final class PackageRawMonthlyDownloadsProvider
+class PackageRawMonthlyDownloadsProvider
 {
     /**
      * @var string
