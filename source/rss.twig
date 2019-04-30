@@ -34,7 +34,7 @@ outputPath: rss.xml
 
             {% if includePost %}
                 <item>
-                    <title><![CDATA[ {{ post.title|replace('&nbsp;', ' ') }} ]]></title>
+                    <title><![CDATA[ {{ post.title|striptags|replace('&nbsp;', ' ') }} ]]></title>
                     <link>{{ site_url }}/{{ post|link }}/</link>
                     <description><![CDATA[ {{ post.perex|striptags }} ]]></description>
                     <guid isPermaLink="false">{{ site_url }}/{{ post|link }}/</guid>
