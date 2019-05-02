@@ -8,5 +8,8 @@ echo implode(
     (new Granam\Git\Git())->update(__DIR__)
 );
 
+exec('composer install --optimize-autoloader --no-interaction', $output);
+print_r(array_filter($output));
+
 exec(__DIR__ . '/vendor/bin/statie generate source', $output);
 print_r(array_filter($output));
