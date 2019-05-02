@@ -1,6 +1,6 @@
 ---
 id: 2019-03-29-1
-title: "Úroveň nula"
+title: "Pidi pravidla - *Úroveň nula*"
 perex: |
 ---
 

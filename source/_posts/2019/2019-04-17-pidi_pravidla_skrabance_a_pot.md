@@ -1,6 +1,6 @@
 ---
 id: 2019-04-17-1
-title: "Škrábance a pot"
+title: "Pidi pravidla - *Škrábance a pot*"
 perex: |
 ---
 

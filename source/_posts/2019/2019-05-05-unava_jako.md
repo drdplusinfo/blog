@@ -1,6 +1,6 @@
 ---
 id: 2019-05-05-1
-title: "Únava jako"
+title: "Únava jako..."
 perex: |
 ---
 
