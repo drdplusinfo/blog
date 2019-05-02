@@ -1,8 +1,8 @@
-{% if future_talks|length %}
+{% if future_actions is defined and future_actions|length %}
     <div class="alert alert-sm alert-success mt-3">
         Meet me at
-        {% for future_talk in future_talks if future_talk.date > "now"|date %}
-            <a href="{{ future_talk.url }}">{{ future_talk.event }}</a> ({{ future_talk.city }}, {{ future_talk.date|date("M j") }}){% if loop.index < (length(future_talks) - 1) %}, {% elseif loop.index == (length(future_talks) - 1) %} or{% elseif loop.index == (length(future_talks)) %}.{% endif %}
+        {% for future_action in future_actions if future_action.date > "now"|date %}
+            <a href="{{ future_action.url }}">{{ future_action.event }}</a> ({{ future_action.city }}, {{ future_action.date|date("M j") }}){% if loop.index < (length(future_actions) - 1) %}, {% elseif loop.index == (length(future_actions) - 1) %} or{% elseif loop.index == (length(future_actions)) %}.{% endif %}
         {% endfor %}
     </div>
 {% endif %}
