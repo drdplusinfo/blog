@@ -105,23 +105,19 @@
                 <div class="card-deck">
                     {% if previousPost %}
                         <div class="card-body text-left">
-                            <em>
-                                <small>předchozí</small>
-                            </em>
                             <a href="/{{ previousPost|link }}/">
-                                &lt;&lt; {{ previousPost.date|date('j. n. Y') }}
+                                &lt;&lt;
+                                {{ previousPost.date|date('j. n. Y') }}
                                 {{ previousPost.title|replace('&nbsp;', ' ')|raw }}
                             </a>
                         </div>
                     {% endif %}
                     {% if nextPost %}
                         <div class="card-body text-right">
-                            <em>
-                                <small>následující</small>
-                            </em>
                             <a href="/{{ nextPost|link }}/">
-                                &gt;&gt; {{ nextPost.date|date('j. n. Y') }}
+                                {{ nextPost.date|date('j. n. Y') }}
                                 {{ nextPost.title|replace('&nbsp;', ' ')|raw }}
+                                &gt;&gt;
                             </a>
                         </div>
                     {% endif %}
