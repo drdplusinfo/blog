@@ -7,3 +7,6 @@ echo implode(
     "\n",
     (new Granam\Git\Git())->update(__DIR__)
 );
+
+exec(__DIR__ . '/vendor/bin/statie generate source', $output);
+print_r(array_filter($output));
