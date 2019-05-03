@@ -8,9 +8,9 @@
         <em class="fas fa-calendar fa-fw"></em>
         <time datetime="{{ post.getDateInFormat('Y-m-D') }}">
             {% if post.getDateInFormat('Y') == "now"|date("Y") %}
-                {{ post.getDateInFormat('D, M j') }}
+                {{ post.getDateInFormat(day_month_format) }}
             {% else %}
-                {{ post.getDateInFormat('D, M j, Y') }}
+                {{ post.getDateInFormat(date_format) }}
             {% endif %}
         </time>
     </li>

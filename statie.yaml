@@ -28,3 +28,6 @@ parameters:
         # old url → new url
         /blog: '/'
         /kontakty: '/kontakt'
+
+    date_format: 'j. n. Y'
+    day_month_format: 'j. n.'
