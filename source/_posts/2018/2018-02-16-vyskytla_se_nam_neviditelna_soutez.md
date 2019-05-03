@@ -83,9 +83,9 @@ A hle, *Markéta Maky-Orel Machová* nakopala mým představám zadek. jako jedi
 
 Posuďte sami.
 
-![jednorožec](/images/jednorozec.maky.orel.png)
-![liška](/images/liska.maky.orel.png)
-![kun](/images/kun.maky.orel.png)
+![jednorožec](/assets/images/posts/jednorozec.maky.orel.png)
+![liška](/assets/images/posts/liska.maky.orel.png)
+![kun](/assets/images/posts/kun.maky.orel.png)
 
 Děkujeme!
 
