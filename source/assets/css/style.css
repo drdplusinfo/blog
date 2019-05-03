@@ -293,6 +293,12 @@ nav a:hover, nav ul li.active a, nav a.active, nav a:active {
     }
 }
 
+@media (max-width: 540px) {
+    .hidden-xs-down {
+        display: none !important;
+    }
+}
+
 @media (min-width: 769px) {
     .hidden-md-up {
         display: none !important;
@@ -607,4 +613,9 @@ nobr {
 
 .rotate-45 {
     transform: rotate(45deg);
+}
+
+.inline-image {
+    display: inline-block;
+    max-height: 1.4em;
 }
