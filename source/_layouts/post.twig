@@ -11,7 +11,7 @@
     <div class="container-fluid" id="post">
         <h1>{{ post.title|raw }}</h1>
 
-        {% include "_snippets/post/post_metadata_line.twig" with { "post": post, "showPullRequestLink": TRUE, "showCommentCount": TRUE } %}
+        {% include "_snippets/post/post_metadata_line.twig" with { "post": post, "showPullRequestLink": TRUE, "showCommentCount": false } %}
 
         {% if post.deprecated_since is defined %}
             <div class="card border-danger card-bigger">

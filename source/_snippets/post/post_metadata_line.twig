@@ -15,7 +15,7 @@
         </time>
     </li>
 
-    {% if showCommentCount is defined %}
+    {% if showCommentCount is defined and showCommentCount %}
         <li class="list-inline-item mr-3">
             <em class="fas fa-fw fa-comments"></em>
             <a href="{{ site_url }}/{{ post|link }}/#disqus_thread">X</a> komentáře
