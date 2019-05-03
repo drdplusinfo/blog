@@ -4,7 +4,7 @@ title: "Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla"
 perex: |
 ---
 
-# Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla
+## Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla
 
 *2. 8. 2017*
 

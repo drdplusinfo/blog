@@ -4,7 +4,7 @@ title: "Technický milník - zrychlili jsme"
 perex: |
 ---
 
-# Technický milník - zrychlili jsme
+## Technický milník - zrychlili jsme
 
 *10. 3. 2018*
 
@@ -16,7 +16,7 @@ title: "Únava jako"
 perex: |
 ---
 
-# Poznej, kdo ti slouží
+## Poznej, kdo ti slouží
 Budoucnost DrD+ závisí na mnoha faktorech a jeden z nich je *dostupnost* pravidel.
 V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťácké stránce, a to jak je posílá server a jak je čte tvůj prohlížeč, protože i v tom je kus důležité historie a ještě důležitější *budoucnosti* [drdplus.info](https://www.drdplus.info).
 

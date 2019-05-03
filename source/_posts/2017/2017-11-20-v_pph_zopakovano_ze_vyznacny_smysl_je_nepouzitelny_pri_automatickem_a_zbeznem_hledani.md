@@ -4,7 +4,7 @@ title: "V PPH zopakováno, že význačný smysl je nepoužitelný při automati
 perex: |
 ---
 
-# V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání
+## V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání
 
 *20. 11. 2017*
 

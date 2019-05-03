@@ -4,7 +4,7 @@ title: "Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí"
 perex: |
 ---
 
-# Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí
+## Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí
 
 *10. 8. 2017*
 

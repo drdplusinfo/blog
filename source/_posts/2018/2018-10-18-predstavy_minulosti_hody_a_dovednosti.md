@@ -4,7 +4,7 @@ title: "Představy minulosti - *Hody a dovednosti*"
 perex: |
 ---
 
-# Představy minulosti - *Hody a dovednosti*
+## Představy minulosti - *Hody a dovednosti*
 
 *18. 10. 2018*
 

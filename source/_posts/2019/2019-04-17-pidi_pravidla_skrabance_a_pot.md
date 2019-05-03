@@ -4,7 +4,7 @@ title: "Pidi pravidla - *Škrábance a pot*"
 perex: |
 ---
 
-# Pidi pravidla - *Škrábance a pot*
+## Pidi pravidla - *Škrábance a pot*
 
 *17. 4. 2019*
 

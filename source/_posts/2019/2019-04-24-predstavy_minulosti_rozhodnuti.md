@@ -4,14 +4,14 @@ title: "Představy minulosti - *Rozhodnutí*"
 perex: |
     Vzpomínáme na Vánoce roku 2002, kdy bylo vydání pravidel Dračího doupěte plus na spadnutí, ale jeho tvůrci se po debatě s testery rozhodli vydání o půl roku pozdržet a ještě zamakat.
      
-     K tomu přidáváme náš komentář, jak se chceme vyhnout podobně obrovské práci, ze které smrdí vyhoření a přitom jí v podobném rozsahu dokončit.
-     
+     K tomu přidáváme náš komentář, jak se chceme vyhnout podobně obrovské práci, ze které smrdí vyhoření a přitom ji dokončit v podobném rozsahu. 
+ 
      A co vy, kdy vám naposledy něco vyhořelo?
 ---
 
 Tím se rozloučíme s historickými články o *Představách minulosti*, protože více jich ze [stránek Altaru](https://altar.cz/drdplus/index.html) už nevymáčkneme. 
 
-# Úvodem
+## Úvodem
 
 *24. 4. 2019*
 

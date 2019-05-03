@@ -4,7 +4,7 @@ title: "Pidi pravidla - *Úroveň nula*"
 perex: |
 ---
 
-# Pidi pravidla - *Úroveň nula*
+## Pidi pravidla - *Úroveň nula*
 
 *29. 3. 2019*
 

@@ -4,7 +4,7 @@ title: "Kombinace povolání"
 perex: |
 ---
 
-# Kombinace povolání
+## Kombinace povolání
 
 *12. 10. 2018*
 

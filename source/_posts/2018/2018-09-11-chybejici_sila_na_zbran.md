@@ -4,7 +4,7 @@ title: "Chybějící síla na zbraň"
 perex: |
 ---
 
-# Chybějící síla na zbraň
+## Chybějící síla na zbraň
 
 *11. 9. 2018*
 

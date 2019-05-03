@@ -4,7 +4,7 @@ title: "Suchá pravidla, mokrý zátylek a hledání pomoci"
 perex: |
 ---
 
-# Suchá pravidla, mokrý zátylek a hledání pomoci
+## Suchá pravidla, mokrý zátylek a hledání pomoci
 
 *2. 7. 2018*
 

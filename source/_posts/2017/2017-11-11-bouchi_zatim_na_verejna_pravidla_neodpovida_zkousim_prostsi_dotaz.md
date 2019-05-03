@@ -4,7 +4,7 @@ title: "Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší do
 perex: |
 ---
 
-# Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz
+## Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz
 
 *11. 11. 2017*
 

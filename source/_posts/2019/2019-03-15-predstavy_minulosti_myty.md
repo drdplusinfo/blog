@@ -4,7 +4,7 @@ title: "Představy minulosti - *Mýty*"
 perex: |
 ---
 
-# Představy minulosti - *Mýty*
+## Představy minulosti - *Mýty*
 
 *15. 3. 2019*
 

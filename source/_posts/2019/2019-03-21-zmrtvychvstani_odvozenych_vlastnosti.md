@@ -4,7 +4,7 @@ title: "Zmrtvýchvstání odvozených vlastností"
 perex: |
 ---
 
-# Zmrtvýchvstání odvozených vlastností
+## Zmrtvýchvstání odvozených vlastností
 
 *21. 3. 2019*
 

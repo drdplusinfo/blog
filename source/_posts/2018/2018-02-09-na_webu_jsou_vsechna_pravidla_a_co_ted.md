@@ -4,7 +4,7 @@ title: "Na webu jsou všechna pravidla... a co teď? "
 perex: |
 ---
 
-# Na webu jsou všechna pravidla... a co teď? 
+## Na webu jsou všechna pravidla... a co teď? 
 
 *9. 2. 2018*
 

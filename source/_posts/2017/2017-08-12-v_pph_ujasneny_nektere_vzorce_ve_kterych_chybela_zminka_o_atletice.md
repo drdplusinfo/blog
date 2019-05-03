@@ -4,7 +4,7 @@ title: "V PPH ujasněny některé vzorce, ve kterých chyběla zmínka o Atletic
 perex: |
 ---
 
-# V PPH ujasněny některé vzorce, ve kterých chyběla zmínka o Atletice
+## V PPH ujasněny některé vzorce, ve kterých chyběla zmínka o Atletice
 
 *12. 8. 2017*
 

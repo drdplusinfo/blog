@@ -4,7 +4,7 @@ title: "Inteligentní bojovník"
 perex: |
 ---
 
-# Inteligentní bojovník
+## Inteligentní bojovník
 
 *10. 10. 2018*
 

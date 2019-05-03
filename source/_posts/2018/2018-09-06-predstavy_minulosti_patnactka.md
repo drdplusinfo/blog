@@ -4,7 +4,7 @@ title: "Představy minulosti - *Patnáctka*"
 perex: |
 ---
 
-# Představy minulosti - *Patnáctka*
+## Představy minulosti - *Patnáctka*
 
 *6. 9. 2018*
 
