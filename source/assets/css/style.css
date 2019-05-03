@@ -62,7 +62,7 @@ h1 {
     line-height: 1.3em;
     text-align: center;
     padding-bottom: 1em;
-    border-bottom: 1px solid #342E3566;
+    border-bottom: 3px solid #fff8eab3;
 }
 
 h1, h2, h3 {
@@ -106,7 +106,7 @@ h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus {
 hr {
     margin: 1.2em 0;
     border: 0;
-    border-top: 1px solid #b3a892;
+    border-top: 2px solid #fff8eab3;
 }
 
 p {
@@ -157,7 +157,7 @@ nav a, nav a:active, nav a:focus, nav a:visited {
 }
 
 article {
-    border-bottom: 1px solid #b3a892;
+    border-bottom: 4px solid #fff8eab3;
 }
 
 #blog #welcome h1 {
