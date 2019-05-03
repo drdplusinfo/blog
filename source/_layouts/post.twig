@@ -106,18 +106,22 @@
                     {% if previousPost %}
                         <div class="card-body text-left">
                             <a href="/{{ previousPost|link }}/">
-                                &lt;&lt;
-                                {{ previousPost.date|date('j. n. Y') }}
-                                {{ previousPost.title|replace('&nbsp;', ' ')|raw }}
+                                <em>
+                                    &lt;&lt;
+                                    <span class="hidden-sm-down">{{ previousPost.date|date('j. n. Y') }}</span>
+                                    {{ previousPost.title|replace('&nbsp;', ' ')|raw }}
+                                </em>
                             </a>
                         </div>
                     {% endif %}
                     {% if nextPost %}
                         <div class="card-body text-right">
                             <a href="/{{ nextPost|link }}/">
-                                {{ nextPost.date|date('j. n. Y') }}
-                                {{ nextPost.title|replace('&nbsp;', ' ')|raw }}
-                                &gt;&gt;
+                                <em>
+                                    <span class="hidden-sm-down">{{ nextPost.date|date('j. n. Y') }}</span>
+                                    {{ nextPost.title|replace('&nbsp;', ' ')|raw }}
+                                    &gt;&gt;
+                                </em>
                             </a>
                         </div>
                     {% endif %}
