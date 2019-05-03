@@ -1,6 +1,6 @@
 ---
 id: 2017-08-12-1
-title: "Jasnější pravidla"
+title: "V PPH ujasněny některé vzorce, ve kterých chyběla zmínka o Atletice"
 perex: |
 ---
 

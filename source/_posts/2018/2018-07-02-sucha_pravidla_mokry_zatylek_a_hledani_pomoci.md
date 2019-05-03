@@ -1,6 +1,6 @@
 ---
 id: 2018-07-02-1
-title: "Hledáme pomoc"
+title: "Suchá pravidla, mokrý zátylek a hledání pomoci"
 perex: |
 ---
 

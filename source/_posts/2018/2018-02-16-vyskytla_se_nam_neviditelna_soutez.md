@@ -1,6 +1,6 @@
 ---
 id: 2018-02-16-1
-title: "Neviditelná soutěž"
+title: "Vyskytla se nám Neviditelná soutěž"
 perex: |
 ---
 

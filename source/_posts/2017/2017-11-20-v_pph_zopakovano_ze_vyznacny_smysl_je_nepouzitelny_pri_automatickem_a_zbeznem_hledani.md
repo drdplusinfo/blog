@@ -1,6 +1,6 @@
 ---
 id: 2017-11-20-1
-title: "Význačný smysl"
+title: "V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání"
 perex: |
 ---
 

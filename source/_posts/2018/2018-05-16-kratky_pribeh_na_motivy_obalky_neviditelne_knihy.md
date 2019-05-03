@@ -1,6 +1,6 @@
 ---
 id: 2018-05-16-1
-title: "Nevidtelný příběh"
+title: "Krátký příběh na motivy obálky Neviditelné knihy"
 perex: |
 ---
 

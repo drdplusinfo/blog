@@ -1,6 +1,6 @@
 ---
 id: 2017-08-11-1
-title: "Příběh na jednom místě"
+title: "Dokončeno sjednocování příběhu DrD+"
 perex: |
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: 2018-01-02-1
-title: "Bestiář je na webu"
+title: "Na web jsem převedl Bestiář"
 perex: |
 ---
 

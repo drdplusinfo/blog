@@ -1,6 +1,6 @@
 ---
 id: 2017-11-11-1
-title: "Ještě jednou Altar"
+title: "Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz"
 perex: |
 ---
 

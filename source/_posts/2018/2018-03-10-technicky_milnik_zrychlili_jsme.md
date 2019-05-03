@@ -1,6 +1,6 @@
 ---
 id: 2018-03-10-1
-title: "Zrychlili jsme"
+title: "Technický milník - zrychlili jsme"
 perex: |
 ---
 

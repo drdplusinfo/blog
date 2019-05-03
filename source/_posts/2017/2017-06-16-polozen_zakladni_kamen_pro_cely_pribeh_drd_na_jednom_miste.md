@@ -1,6 +1,6 @@
 ---
 id: 2017-06-16-1
-title: "Základní kámen"
+title: "Položen základní kámen pro celý příběh DrD+ na jednom místě"
 perex: |
 ---
 

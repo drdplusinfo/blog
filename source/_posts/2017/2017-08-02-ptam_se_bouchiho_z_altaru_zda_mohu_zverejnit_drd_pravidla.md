@@ -1,6 +1,6 @@
 ---
 id: 2017-08-02-1
-title: "Můžu zveřenit pravidla?"
+title: "Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla"
 perex: |
 ---
 

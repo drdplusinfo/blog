@@ -1,6 +1,6 @@
 ---
 id: 2019-03-15-1
-title: "O mýtech"
+title: "Představy minulosti - *Mýty*"
 perex: |
 ---
 

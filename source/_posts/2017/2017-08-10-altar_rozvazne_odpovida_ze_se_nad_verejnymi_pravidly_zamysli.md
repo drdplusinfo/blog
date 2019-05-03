@@ -1,6 +1,6 @@
 ---
 id: 2017-08-10-1
-title: "Altar odpovídá"
+title: "Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí"
 perex: |
 ---
 

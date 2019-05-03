@@ -1,6 +1,6 @@
 ---
 id: 2018-10-18-1
-title: "O hodech a dovednostech"
+title: "Představy minulosti - *Hody a dovednosti*"
 perex: |
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: 2018-12-07-1
-title: "O poslech"
+title: "Představy minulosti - *Poslové*"
 perex: |
 ---
 

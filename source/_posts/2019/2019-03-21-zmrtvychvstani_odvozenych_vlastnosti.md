@@ -1,6 +1,6 @@
 ---
 id: 2019-03-21-1
-title: "Živé odvozené vlastnosti"
+title: "Zmrtvýchvstání odvozených vlastností"
 perex: |
 ---
 

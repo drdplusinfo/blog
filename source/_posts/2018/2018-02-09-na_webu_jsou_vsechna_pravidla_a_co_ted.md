@@ -1,6 +1,6 @@
 ---
 id: 2018-02-09-1
-title: "Na webu je vše"
+title: "Na webu jsou všechna pravidla... a co teď? "
 perex: |
 ---
 

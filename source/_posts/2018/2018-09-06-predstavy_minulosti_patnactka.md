@@ -1,6 +1,6 @@
 ---
 id: 2018-09-06-1
-title: "Patnáctka"
+title: "Představy minulosti - *Patnáctka*"
 perex: |
 ---
 
