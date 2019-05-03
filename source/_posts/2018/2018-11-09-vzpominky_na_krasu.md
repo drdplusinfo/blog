@@ -77,7 +77,3 @@ Tímto opouštíme nejisté vody *Krásy* a dáváme si za úkol popsat v pravid
 
 *Krásu* jako [Odvozenou vlastnost](https://pph.drdplus.info/?trial=1#odvozene_vlastnosti) se nám nepodařilo oživit, už proto, že většinu situací za ni vyřeší *Charisma*. *Krásu* proto odsouváme na neurčito a je dost možné, že v pravidlech ji pouze popíšeme, přidáme příklady použití a na nějaké číselné vyjádření se vykašleme, protože když může být [číselně nevyjádřená *Moudrost*](2018-10-10-inteligentni_bojovnik.md#S_moudrostí), tak *Krása* taky.
 
----
-
-- *předchozí [<< 31. 10. 2018 Cit pro charisma](2018-10-31-cit_pro_charisma.md)*
-- *následující [>> 19. 11. 2018 Vydrž!](2018-11-19-vydrz.md)*

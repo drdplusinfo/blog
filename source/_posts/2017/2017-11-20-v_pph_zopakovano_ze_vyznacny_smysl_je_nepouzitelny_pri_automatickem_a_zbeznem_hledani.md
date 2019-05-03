@@ -24,7 +24,3 @@ ale chybí tu zopakování informace, že při zběžném hledání se význačn
 Jelikož *Opakování je matka moudrosti* a také pro menší roztříštěnost informací jsem do části Smysly přidal poznámku o nepoužitelném význačném smyslu při zběžném hledání.
  > Při automatickém prohledávání (a zběžném hledání) navíc není možné mimořádný smysl vůbec použít
  
----
-
-- *předchozí [<< 11. 11. 2017 Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*
-- *následující [>> 2. 1. 2018 Na web jsem převedl Bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*

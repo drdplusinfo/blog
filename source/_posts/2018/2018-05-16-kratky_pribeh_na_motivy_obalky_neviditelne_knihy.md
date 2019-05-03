@@ -62,8 +62,3 @@ Napsáno na motivy obálky [Neviditelné knihy](http://neviditelnakniha.cz) a [d
 ![o obálce na RPG fóru](/images/holka_bez_helmy_rpg_forum.png "o obálce na RPG fóru")
 
 ![obálka Neviditelné knihy](https://www.fantasyobchod.cz/image/cache/neviditelna-kniha-neklidny-tauril-33121-0-1000x1000.jpg "obálka Neviditelné knihy")
-
----
-
-- *předchozí [<< 3. 5. 2018 Neviditelná recenze](2018-05-03-neviditelna_recenze.md)*
-- *následující [>> 2. 7. 2018 Suchá pravidla, mokrý zátylek a hledání pomoci](2018-07-02-sucha_pravidla_mokry_zatylek_a_hledani_pomoci.md)*

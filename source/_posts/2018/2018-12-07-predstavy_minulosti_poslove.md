@@ -146,7 +146,3 @@ Pravidla pro jednotlivá povolání tedy chceme postavit na jednotných základe
 
 Jak moc tahle představa ovlivní současná povolání a styl jejich hraní, to zatím ani neodhadujeme, ale až takový odhad vznikne, nenecháme si ho jen pro sebe.
 
----
-
-- *předchozí [<< 30. 11. 2018 Unavený vůl](2018-11-30-unaveny_vul.md)*
-- *následující [>> 12. 3. 2019 Učíme se z chyb](2019-03-12-ucime_se_z_chyb.md)*

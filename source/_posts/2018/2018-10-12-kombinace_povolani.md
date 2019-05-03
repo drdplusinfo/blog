@@ -113,7 +113,3 @@ A dotkli jsme se také jednoho nového návrhu a to na zrušení automatického 
 
 Tož kombinujme. Krleš!
 
----
-
-- *předchozí [<< 10. 10. 2018 Inteligentní bojovník](2018-10-10-inteligentni_bojovnik.md)*
-- *následující [>> 18. 10. 2018 Představy minulosti - Hody a dovednosti](2018-10-18-predstavy_minulosti_hody_a_dovednosti.md)*

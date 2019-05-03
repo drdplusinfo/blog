@@ -49,8 +49,3 @@ I tady jsem atletiku přidal
 ---
 
 [Další drobné opravy jsem přidal *20. 11. 2017* >>](2017-11-20-v_pph_zopakovano_ze_vyznacny_smysl_je_nepouzitelny_pri_automatickem_a_zbeznem_hledani.md)
-
----
-
-- *předchozí [<< 11. 8. 2017 Dokončeno sjednocování příběhu DrD+](2017-08-11-dokonceno_sjednocovani_pribehu_drd.md)*
-- *následující [>> 11. 11. 2017 Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz](2017-11-11-bouchi_zatim_na_verejna_pravidla_neodpovida_zkousim_prostsi_dotaz.md)*

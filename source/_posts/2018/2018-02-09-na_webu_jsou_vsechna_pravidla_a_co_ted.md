@@ -69,8 +69,3 @@ Už teď vím, že změny budeme zavádět dvojího druhu. Samozřejmě přidáv
 Teď už to není na mě, teď je to na nás. Na hráčích DrD+.
 
 Pokud máš nějaké nápady v hlavě, nebo šuplíku, [sem s nimi](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870)!
-
----
-
-- *předchozí [<< 2. 1. 2018 Na web jsem převedl Bestiář](2018-01-02-na_web_jsem_prevedl_bestiar.md)*
-- *následující [>> 16. 2. 2018 Vyskytla se nám Neviditelná soutěž](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md)*

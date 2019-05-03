@@ -17,7 +17,3 @@ jak jsem [kopíroval jednotlivé příručky](https://www.drdplus.info), tak jse
 [zasadil základní kámen DrD+ příběhu v celku](https://github.com/jaroslavtyc/drd-plus-story/commit/a33fe07cb881025d560af507ea0bb02fd144c5c3).
 
 Edit 11.8 2017: [To jsem si dal...](2017-08-11-dokonceno_sjednocovani_pribehu_drd.md)
-
----
-
-- *následující [>> 2. 8. 2017 Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md)*

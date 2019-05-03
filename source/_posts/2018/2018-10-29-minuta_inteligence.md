@@ -53,7 +53,3 @@ A opět jsme narazili na potřebu řešit růst vlastností, protože jejich hrd
 
 Takže vzhůru za dalším přemýšlením, krleš!
 
----
-
-- *předchozí [<< 26. 10. 2018 Neboj](2018-10-26-neboj.md)*
-- *následující [>> 31. 10. 2018 Cit pro charisma](2018-10-31-cit_pro_charisma.md)*

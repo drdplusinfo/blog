@@ -91,7 +91,3 @@ Děkujeme!
 
 *A já jdu balit [Neviditelnou knihu](http://neviditelnakniha.cz)...*
 
----
-
-- *předchozí [<< 9. 2. 2018 Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*
-- *následující [>> 10. 3. 2018 Technický milník - zrychlili jsme](2018-03-10-technicky_milnik_zrychlili_jsme.md)*

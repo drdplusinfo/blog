@@ -147,7 +147,3 @@ Chvilková únava a drobná zranění sice patří do hry, ale nepatří do prav
 
 Ovšem věšme zbraně, nikoli hlavy, protože teď nás čeká oprášení hodu proti pasti, což bude úkol těžší, než se na první pohled může zdát. Krleš!
 
----
-
-- *předchozí [<< 29. 3. 2019 Pidi pravidla - Úroveň nula](2019-03-29-pidi_pravidla_uroven_nula.md)*
-- *následující [>> 24. 4. 2019 Představy minulosti - Rozhodnutí](2019-04-24-predstavy_minulosti_rozhodnuti.md)*

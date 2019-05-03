@@ -135,6 +135,3 @@ Když se ale dokážeme průběžně zastavovat, uklízet po sobě, naslouchat k
 Prostě nesmíme podlehnout pocitu, že úklid není potřeba, nebo že sem tam nějaký ten šmodrch je přece normální, nebo že čtenáři vědí to samé, co my.
 
 Držte palce!
-
----
-- *předchozí [<< 17. 4. 2019 Pidi pravidla - Škrábance a pot](2019-04-17-pidi_pravidla_skrabance_a_pot.md)*

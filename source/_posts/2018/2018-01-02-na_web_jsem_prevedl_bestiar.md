@@ -23,8 +23,3 @@ Když se po tom maratonu ohlédnu, tak si vybavuji:
  - poznatek, že co může dělat stroj, neměl by dělat člověk (ne, nechci vědět, kolik času bych ušetřil, kdybych si [nástoj na automatické formátování](https://github.com/jaroslavtyc/drd-plus-format) zkopírovaného textu napsal dříve)
    
 Dodávám na závěr, že je tam přes **sto** obrázků a každý má kolem 100 KB, takže to nezkoušej zobrazovat v telefonu na zastávce, mohlo by ti to ujet.
-
----
-
-- *předchozí [<< 20. 11. 2017 V PPH zopakováno, že význačný smysl je nepoužitelný při automatickém a zběžném hledání](2017-11-20-v_pph_zopakovano_ze_vyznacny_smysl_je_nepouzitelny_pri_automatickem_a_zbeznem_hledani.md)*
-- *následující [>> 9. 2. 2018 Na webu jsou všechna pravidla... a co teď?](2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md)*

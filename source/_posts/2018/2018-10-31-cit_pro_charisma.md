@@ -90,7 +90,3 @@ Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravi
 
 A ještě prozradíme, že odvozené vlastnosti zřejmě čeká podobný osud [jako počet akcí za kolo](2018-10-29-minuta_inteligence.md#Baba_minuta), kdy výsledné číslo bude shodné s menším z obou zúčastněných vlastností, tedy už žádný průměr. Ale o tom zas až příště.
 
----
-
-- *předchozí [<< 29. 10. 2018 Minuta inteligence](2018-10-29-minuta_inteligence.md)*
-- *následující [>> 9. 11. 2018 Vzpomínky na krásu](2018-11-09-vzpominky_na_krasu.md)*

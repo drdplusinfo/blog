@@ -91,7 +91,3 @@ Nevím, jaká byla nálada **před** vydáním DrD+, troufnu si tvrdit, že pozi
 
 Takže krok-sun-krok, nadechnout-á-ponořit, ticho-á-pranýřování...
 
----
-
-- *předchozí [<< 3. 9. 2018 Velkej fanoušek](2018-09-03-velkej_fanousek.md)*
-- *následující [>> 11. 9. 2018 Chybějící síla na zbraň](2018-09-11-chybejici_sila_na_zbran.md)*

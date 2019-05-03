@@ -241,7 +241,3 @@ Obecně nám totiž vadí, že každá příšera bojuje do posledního dechu a 
 
 Děkujeme Ti za sdílení zkušeností s [Dračím doupětem Plus](https://www.drdplus.info).
 
----
-
-- *předchozí [<< 10. 8. 2018 Boj](2018-08-10-boj.md)*
-- *následující [>> 6. 9. 2018 Představy minulosti - Patnáctka](2018-09-06-predstavy_minulosti_patnactka.md)*

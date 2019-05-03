@@ -127,7 +127,3 @@ Postih za chybějící *Sílu* ke zbrani se nám tak smrsknul na postih -1 k *Ú
 - a zrušili jsme postih ke *Zranění*, protože stejný efekt má nově postih k *Útoku*
     - zmínili jsme, že rozdíl *Útoku* a *Obrany* bude přímo ovlivňovat výsledné *Zranění*, detailněji to ale rozvedeme až příště
 
----
-
-- *předchozí [<< 6. 9. 2018 Představy minulosti - Patnáctka](2018-09-06-predstavy_minulosti_patnactka.md)*
-- *následující [>> 19. 9. 2018 Úhyb](2018-09-19-uhyb.md)*

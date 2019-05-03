@@ -142,7 +142,3 @@ Na závěr si dovolím vypůjčit myšlenku Karla Čapka
 > Kritizovat - to znamená usvědčit autora, že to nedělá tak, jak bych to dělal já, kdybych to uměl.
 
 *A jak vnímáš kritiku ty?*
-
----
-- *předchozí [<< 10. 3. 2018 Technický milník - zrychlili jsme](2018-03-10-technicky_milnik_zrychlili_jsme.md)*
-- *následující [>> 16. 5. 2018 Krátký příběh na motivy obálky Neviditelné knihy](2018-05-16-kratky_pribeh_na_motivy_obalky_neviditelne_knihy.md)*

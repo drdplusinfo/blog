@@ -219,7 +219,3 @@ A teď si shrneme *odolávání postihu* pravidlově:
 
 *Ha! Červené kamaše a bosé nohy, cítím svůj váček, mé úspory! Teď už mi neutečeš, dlouhoprsťáku, krleš!*
 
----
-
-- *předchozí [<< 19. 11. 2018 Vydrž!](2018-11-19-vydrz.md)*
-- *následující [>> 7. 12. 2018 Představy minulosti - Poslové](2018-12-07-predstavy_minulosti_poslove.md)*

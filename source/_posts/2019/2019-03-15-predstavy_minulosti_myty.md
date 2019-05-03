@@ -110,8 +110,3 @@ Každá dovednost má tři stupně. Postava buď danou dovednost vůbec neovlád
 *Martin „Amarth“ Landa (převzato z Dechu draka)*
 
 Převzato ze [stránek Altaru](https://www.altar.cz/drdplus/myty.html)
-
----
-
-- *předchozí [<< 12. 3. 2019 Učíme se z chyb](2019-03-12-ucime_se_z_chyb.md)*
-- *následující [>> 21. 3. 2019 Zmrtvýchvstání odvozených vlastností](2019-03-21-zmrtvychvstani_odvozenych_vlastnosti.md)*

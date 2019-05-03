@@ -220,7 +220,3 @@ Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](2018-11-0
 
 Ještě nás čeká proplesknutí *Nebezpečnosti*, o kterou přijít nechceme, ale zatím musela zůstat na marodce a hlavně pak po vzoru *Charisma* coby duševní zručnosti chceme zamávat se *Zručností* coby tělesným charisma. Ale to zas až příště.
 
----
-
-- *předchozí [<< 15. 3. 2019 Představy minulosti - Mýty](2019-03-15-predstavy_minulosti_myty.md)*
-- *následující [>> 29. 3. 2019 Pidi pravidla - Úroveň nula](2019-03-29-pidi_pravidla_uroven_nula.md)*
