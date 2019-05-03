@@ -654,3 +654,11 @@ th, td {
 th, td {
     padding: 5px 1em;
 }
+
+.licence {
+    text-align: right;
+}
+
+.licence img, #post .licence img {
+    margin: 0;
+}
