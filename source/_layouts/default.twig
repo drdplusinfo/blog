@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-    {% include "_snippets/head.twig" %}
-    <body>
-        {% include "_snippets/menu.twig" %}
+{% include "_snippets/head.twig" %}
+<body>
+<div class="background-image"></div>
+{% include "_snippets/menu.twig" %}
 
-        <div id="content">
-            {% block content %}{% endblock %}
-        </div>
+<div id="content">
+    {% block content %}{% endblock %}
+</div>
 
-        {% include "_snippets/footer.twig" %}
-    </body>
+{% include "_snippets/footer.twig" %}
+</body>
 </html>
