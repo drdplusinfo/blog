@@ -262,7 +262,7 @@ nav ul li a {
 }
 
 nav a:hover, nav ul li.active a, nav a.active, nav a:active {
-    background: #FFF;
+    background: #d5cec266;
     text-decoration: none;
     color: #64163f;
 }
@@ -636,4 +636,17 @@ nobr {
 
 .card {
     background-color: rgba(255, 255, 255, 0.29);
+}
+
+table {
+    margin: 0.5em 0
+}
+
+th, td {
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+th, td {
+    padding: 5px 1em;
 }
