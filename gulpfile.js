@@ -18,6 +18,7 @@ gulp.task('default', function () {
 
     // For the second arg see: https://github.com/floatdrop/gulp-watch/issues/242#issuecomment-230209702
     return watch(['source/**/*', '!**/*___jb_tmp___'], function () {
+        console.log('Generating due to changes... ');
         exec('vendor/bin/statie generate source', function (err, stdout, stderr) {
             console.log(stdout);
             console.error(stderr);
