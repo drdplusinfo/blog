@@ -618,4 +618,5 @@ nobr {
 .inline-image {
     display: inline-block;
     max-height: 1.4em;
+    vertical-align: text-bottom;
 }
