@@ -639,7 +639,10 @@ nobr {
 }
 
 table {
-    margin: 0.5em 0
+    margin: 0.5em 0;
+    overflow-x: auto;
+    display: block;
+    max-width: 100%;
 }
 
 th, td {
@@ -649,4 +652,8 @@ th, td {
 
 th, td {
     padding: 5px 1em;
+}
+
+th {
+    white-space: nowrap;
 }
