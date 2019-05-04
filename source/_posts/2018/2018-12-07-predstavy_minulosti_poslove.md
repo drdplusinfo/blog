@@ -2,6 +2,11 @@
 id: 2018-12-07-1
 title: "Představy minulosti - *Poslové*"
 perex: |
+    Z prvohor Dračího doupěte plus jsme vykopali další článek od Altaru z roku 2002, ve kterém nám původní autoři vysvětlovali, proč bude šest povolání ve třech příručkách a co ony dvojice spojuje.
+    
+    Ten text nám má i po čtrnácti letech co říct, protože se týká nejen minulosti, ale i budoucnosti DrD+. A tak jsme ho i okomentovali.
+    
+    A co vy, máte co říct i po čtrnácti společných letech?
 ---
 
 ## Představy minulosti - *Poslové*
