@@ -2,11 +2,16 @@
 id: 2019-03-12-1
 title: "Učíme se z chyb"
 perex: |
+    Kdo nic nekazí, ten nic nedělá a kdo dělá hodně, podělá hodně.
+    
+    Na blogu jsme se rozepsali, proč jsme na něm celé čtyři měsíce mlčeli a jak bolí duševní dospívání.
+
+    A co vy, kdy jste se naposledy z něčeho podělali?
 ---
 
-## Učíme se z chyb
-
 *12. 3. 2019*
+
+## Učíme se z chyb
 
 *"Můžu dostat nějaký ty zkušenosti?"
 "Zaplať!"
