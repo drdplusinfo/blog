@@ -2,7 +2,16 @@
 id: 2019-04-17-1
 title: "Pidi pravidla - *Škrábance a pot*"
 perex: |
+    *Kapky potu citlivě ošetřete co nejdéle přiloženým kanapem a drobné odřeniny ovažte předžvýkaným konopím.*
+
+    Ponořili jsme se do chvilkové únavy a drobných zranění, k tomu jsme zužitkovali vaše názory a zkušenosti při sprintu a běhu a výsledek je... no... pozitivně negativní.
+
+    A co vy, kdy jste se naposledy zranili?
 ---
+Za spolupráci děkujeme všem, kteří se zapojili, zvláštní dík pak patří:
+- Honzovi Cieslarovi, pánovi koblih a rychlých noh, který neremcal a běžel
+- Lukášovi Králíkovi alias Bunnym, který v práci nelenil a svou očistnou prostotou nám text před vydáním zhodnotil a jeho kvalitu tak zvýšil
+- Alešovi Krejzovi alias Alešovi, nejrychlejšímu obsahovému rejpalovi v této části galaxie, který se taktéž zasloužil o větší čitelnost
 
 ## Pidi pravidla - *Škrábance a pot*
 
