@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ecbf803fb4269273b6deb98b9a269b2",
+    "content-hash": "dd81fabaa596b7da2945764f99a04b25",
     "packages": [
         {
             "name": "composer/xdebug-handler",
@@ -119,11 +119,11 @@
         },
         {
             "name": "drdplusinfo/statie",
-            "version": "v5.5.15",
+            "version": "v5.5.16",
             "source": {
                 "type": "git",
-                "url": "https://github.com/drdplusinfo/statie.git",
-                "reference": "98aaee6b8c9eb581f45ba38de3220aacb293648a"
+                "url": "/home/jaroslav/projects/statie",
+                "reference": "cd3be314d3f2bb3e2d00b6e77e9a743d68987f7e"
             },
             "require": {
                 "composer/xdebug-handler": "^1.3",
@@ -193,7 +193,7 @@
                 "MIT"
             ],
             "description": "Static Site Generator",
-            "time": "2019-05-02T07:37:13+00:00"
+            "time": "2019-05-04T05:58:27+00:00"
         },
         {
             "name": "erusev/parsedown",
