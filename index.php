@@ -8,8 +8,12 @@ echo implode(
     (new Granam\Git\Git())->update(__DIR__)
 );
 
-exec('composer install --optimize-autoloader --no-interaction', $output);
-print_r(array_filter($output));
+passthru('composer install --optimize-autoloader --no-interaction 2>&1', $return);
+if ($return !== 0) {
+    throw new RuntimeException('Can not install libraries via Composer');
+}
 
-exec(__DIR__ . '/vendor/bin/statie generate source', $output);
-print_r(array_filter($output));
+passthru(__DIR__ . '/vendor/bin/statie generate source 2>&1', $return);
+if ($return !== 0) {
+    throw new RuntimeException('Can not generate output by Statie');
+}
