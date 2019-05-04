@@ -2,6 +2,12 @@
 id: 2019-03-29-1
 title: "Pidi pravidla - *Úroveň nula*"
 perex: |
+
+    Naše bouře mozků se pomalu uklidňuje a my v klesajícím prachu vidíme útvar, který vypadá jako... nula.
+    
+    Odhalujeme naše nejbližší plány, které jsou jak pidi, tak i za rohem a ve kterých má nulová úroveň své místo.
+
+    A co vy, znáte svou úroveň?
 ---
 
 ## Pidi pravidla - *Úroveň nula*
