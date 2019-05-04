@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dd81fabaa596b7da2945764f99a04b25",
+    "content-hash": "4ecbf803fb4269273b6deb98b9a269b2",
     "packages": [
         {
             "name": "composer/xdebug-handler",
@@ -122,7 +122,7 @@
             "version": "v5.5.16",
             "source": {
                 "type": "git",
-                "url": "/home/jaroslav/projects/statie",
+                "url": "https://github.com/drdplusinfo/statie.git",
                 "reference": "cd3be314d3f2bb3e2d00b6e77e9a743d68987f7e"
             },
             "require": {
