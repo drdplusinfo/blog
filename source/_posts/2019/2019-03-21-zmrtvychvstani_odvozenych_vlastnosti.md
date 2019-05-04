@@ -2,11 +2,14 @@
 id: 2019-03-21-1
 title: "Zmrtvýchvstání odvozených vlastností"
 perex: |
+    S odvozenými vlastnostmi Dračího doupěte plus jsme se už jednou loučili, ale nedalo nám to, vyčenichali jsme co nám na nich vadilo a teď některé z nich vítáme zpět.
+    
+    A co vy, kdy jste to naposledy vzali z hospody zkratkou přes běžeckou dráhu?
 ---
 
-## Zmrtvýchvstání odvozených vlastností
-
 *21. 3. 2019*
+
+## Zmrtvýchvstání odvozených vlastností
 
 *Poslední lopata se líně zhoupla dolů, prsť a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"*
 
