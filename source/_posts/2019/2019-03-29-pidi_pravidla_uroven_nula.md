@@ -10,9 +10,9 @@ perex: |
     A co vy, znáte svou úroveň?
 ---
 
-## Pidi pravidla - *Úroveň nula*
-
 *29. 3. 2019*
+
+## Pidi pravidla - *Úroveň nula*
 
 *Zvládnout jeden velký začátek znamená zvládnout spoustu malých konců.*
 
