@@ -8,6 +8,7 @@ perex: |
 
     A co vy, kdy jste se naposledy zranili?
 ---
+
 Za spolupráci děkujeme všem, kteří se zapojili, zvláštní dík pak patří:
 - Honzovi Cieslarovi, pánovi koblih a rychlých noh, který neremcal a běžel
 - Lukášovi Králíkovi alias Bunnym, který v práci nelenil a svou očistnou prostotou nám text před vydáním zhodnotil a jeho kvalitu tak zvýšil
