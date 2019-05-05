@@ -122,6 +122,16 @@ ul {
     margin-bottom: .5em;
 }
 
+@media (max-width: 991px) {
+    .no-padding-md-down {
+        padding: 0 !important;
+    }
+
+    .navbar {
+        padding: 0 0.5rem;
+    }
+}
+
 @media (min-width: 768px) {
     .container {
         max-width: 100%;
