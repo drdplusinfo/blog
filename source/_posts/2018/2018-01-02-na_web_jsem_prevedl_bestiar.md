@@ -6,8 +6,6 @@ perex: |
 
 ## Na web jsem převedl Bestiář
 
-*2. 1. 2018*
-
 Uf, Vánoce jsou svátky klidu a míru, ale musíte si to odpracovat. Nebo jít k babičce.
 
 Přes časovou tíseň jsem na Nový rok dokončil a den poté zveřejnil kompletní [Bestiář](https://bestiar.drplus.info).

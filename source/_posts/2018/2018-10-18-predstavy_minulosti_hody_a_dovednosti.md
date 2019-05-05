@@ -6,8 +6,6 @@ perex: |
 
 ## Představy minulosti - *Hody a dovednosti*
 
-*18. 10. 2018*
-
 Historické představy původních autorů DrD+ jsme uvedli [Patnáctkou](2018-09-06-predstavy_minulosti_patnactka.md) a pokračujeme *hody a dovednostmi*. Zvláštní je, že podle data článku byla původní pravidla tou dobou už hotova, přesto jsou v textu zmiňovány situace, které z původních pravidel prostě nevykřešeme.
 
 Hříčkou osudu jest, že historický text připomínáme přesně patnáct let po jeho zveřejnění.

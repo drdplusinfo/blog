@@ -11,8 +11,6 @@ perex: |
 
 Tím se rozloučíme s historickými články o *Představách minulosti*, protože více jich ze [stránek Altaru](https://altar.cz/drdplus/index.html) už nevymáčkneme. 
 
-*24. 4. 2019*
-
 ## Představy minulosti - *Rozhodnutí*
 
 Před šestnácti lety měli původní autoři Dračího doupěte plus hotovo. Ovšem, po vlně testování, načítání zahraniční literatury a dalšího přemýšlení došli k tomu, že to ještě není ono, že to ještě potřebuje poladit.
@@ -24,7 +22,7 @@ Se získáváním nadhledu byli původní autoři v úzkých, protože sami na n
 O tom, jak se chceme my vyvarovat podobného *zahrabání se až po uši*, se zmíním až [Závěrem](#Závěrem), teď se pojďme ponořit do časů, kdy všechno ještě vonělo novotou a netrpělivým očekáváním, do konce roku 2002.
 
 ---
-*16. 12. 2002*
+*(16. 12. 2002)*
 
 ## Rozhodnutí
 

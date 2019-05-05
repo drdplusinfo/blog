@@ -6,8 +6,6 @@ perex: |
 
 ## Kombinace povolání
 
-*12. 10. 2018*
-
 *"A co ty 'seš vlastně zač?"
 "Zámečník, lovec, ranař, stopař po sférách, meteoroděj..."*
 

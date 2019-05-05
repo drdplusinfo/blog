@@ -5,7 +5,6 @@ perex: |
 ---
 
 ## Minuta inteligence
-*29. 10. 2018*
 
 *Uctěme naše drahé zesnulé nápady minutou inteligence, povstaňte prosím.*
 

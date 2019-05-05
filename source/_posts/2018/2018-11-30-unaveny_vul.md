@@ -6,8 +6,6 @@ perex: |
 
 ## Unavený vůl
 
-*30. 11. 2018*
-
 Začalo to nenápadně, nejdříve jsme prohlásili, že [odvozené vlastnosti asi zrušíme](2018-09-03-velkej_fanousek.md#Dovednosti), protože se s nimi nechceme počítat, potom jsme skutečně [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md) a vzápětí [*Výdrž* i s *Odolností*](2018-11-19-vydrz.md#Závěrem). Ovšem zatímco z *Krásy* nezbylo nic a po *Odolnosti* zůstala jen *Síla*, tak *Výdrž* nám narazila hlavou do zdi a my teď budeme studovat statiku, abychom odhalili, zda tu zeď prorazila, nebo se nám to jenom zdálo.
 
 Připomeňme si teď poslední slova *Výdrže*

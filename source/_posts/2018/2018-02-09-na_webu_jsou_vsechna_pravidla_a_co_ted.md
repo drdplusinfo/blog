@@ -6,8 +6,6 @@ perex: |
 
 ## Na webu jsou všechna pravidla... a co teď? 
 
-*9. 2. 2018*
-
 Jak už jsem [psal na rpgforum](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870), převod trval čtyři roky a jeden měsíc.
 Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (přidal do kódu) historicky první obsah v HTML a to [pravidla pro hráče](https://pph.drdplus.info/?trial=1) a 8. února 2018, v devět ráno jsem přidat "poslední" commit a převod tak dokončil (poslední byly [pravidla pro PJ](https://pph.drdplus.info/?trial=1)). 
 

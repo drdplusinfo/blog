@@ -7,8 +7,6 @@ perex: |
     A co vy, jedli jste někdy etalon Ratatouille?
 ---
 
-*15. 3. 2019*
-
 ## Závěrem
 
 > Tak co, jak to dopadlo?

@@ -4,10 +4,6 @@ title: "Neviditelná recenze"
 perex: |
 ---
 
-## Neviditelná recenze
-
-*3. 5. 2018*
-
 ## Určitě nevím
 
 Pokud jsi netrpělivý a chceš rovnou závěr recenze [Neviditelné knihy](http://neviditelnakniha.cz/), tak ten se dá vyjádřit odpovědmi na hru *Určitě nevím*:

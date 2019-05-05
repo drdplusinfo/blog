@@ -6,8 +6,6 @@ perex: |
 
 ## Vzpomínky na krásu
 
-*9. 11. 2018*
-
 *Kdybychom za krásné považovali jen krásné, byl by svět krásnější.*
 
 Původně tento text vznikal jako součást návrhu na **oživení** všech [Odvozených vlastností](https://pph.drdplus.info/?trial=1#odvozene_vlastnosti), které už [měly na kahánku](2018-09-03-velkej_fanousek.md#Dovednosti), ale původní text nám postupně přerostl v tak velkou hromadu myšlenek, až jsme řekli *dost!* a *Krásu* vyčlenili sem. A i tak je toho dost.

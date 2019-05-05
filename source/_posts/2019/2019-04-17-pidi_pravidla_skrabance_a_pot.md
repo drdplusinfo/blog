@@ -13,8 +13,6 @@ Za spolupráci děkujeme všem, kteří se zapojili, zvláštní dík pak patř�
 - Lukášovi Králíkovi alias Bunnym, který v práci nelenil a svou očistnou prostotou nám text před vydáním zhodnotil a jeho kvalitu tak zvýšil
 - Alešovi Krejzovi alias Alešovi, nejrychlejšímu obsahovému rejpalovi v této části galaxie, který se taktéž zasloužil o větší čitelnost
 
-*17. 4. 2019*
-
 ## Pidi pravidla - *Škrábance a pot*
 
 *"Nemohu vám slíbit nic než škrábance, krev, dřinu a pot!"

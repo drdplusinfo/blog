@@ -4,10 +4,6 @@ title: "Krátký příběh na motivy obálky Neviditelné knihy"
 perex: |
 ---
 
-## Krátký příběh na motivy obálky Neviditelné knihy
-
-*16. 5. 2018*
-
 ## Máš nápad? Nech ho žít!
 Tak se mi stalo, že při pročítání [RPG fóra o Neviditelné knize](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812) jsem narazil na hodnocení obalu této knížky, z čehož mi v hlavě naskočil krátký příběh a jelikož vím, že co mě napadne, tak neexistuje, dokud to nenapíšu a co napíšu, to neexistuje, dokud to nezveřejním, tak jsem to udělal.
 

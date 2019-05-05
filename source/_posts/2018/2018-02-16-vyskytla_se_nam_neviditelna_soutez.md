@@ -4,10 +4,6 @@ title: "Vyskytla se nám Neviditelná soutěž"
 perex: |
 ---
 
-## Vyskytla se nám Neviditelná soutěž
-
-*16. 2. 2018*
-
 ## Setkal se pocit s plánem
 
 Vlastně souhrou okolností, kdy jsem ze slušnosti napsal [Neviditelné knize](http://neviditelnakniha.cz), zda mohu nechat odkaz na ní na [drdplus.info](https://www.drdplus.info) jsem ve výsledku objednal tři [Neviditelné knihy](http://neviditelnakniha.cz), protože jsem cítil, že to má hodnotu pro mě i dva další čtenáře, přestože jsem tou dobou o knize věděl jen [drobnosti z RPG fóra](https://rpgforum.cz/forum/viewforum.php?f=310).

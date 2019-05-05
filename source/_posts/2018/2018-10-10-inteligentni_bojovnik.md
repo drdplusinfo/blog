@@ -6,8 +6,6 @@ perex: |
 
 ## Inteligentní bojovník
 
-*10. 10. 2018*
-
 *Inteligence má mnoho podob, pro hlupáky neviditelných.*
 
 Při rozsáhlém [zkoumání, pitvání a nakonec i úpravách *Boje*](2018-08-10-boj.md) jsme mimo jiné došli k tomu, že

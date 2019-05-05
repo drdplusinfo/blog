@@ -4,10 +4,6 @@ title: "Suchá pravidla, mokrý zátylek a hledání pomoci"
 perex: |
 ---
 
-## Suchá pravidla, mokrý zátylek a hledání pomoci
-
-*2. 7. 2018*
-
 ## Pokusní skřeti na Facebooku
 
 *Soukat do sebe suchý text a nepotit se u toho za krkem dokážou vysokoškoláci, Google bot a moje skartovačka. Já ne.*

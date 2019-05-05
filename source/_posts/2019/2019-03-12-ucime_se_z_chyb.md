@@ -7,9 +7,6 @@ perex: |
     Na blogu jsme se rozepsali, proč jsme na něm celé čtyři měsíce mlčeli a jak bolí duševní dospívání.
 
     A co vy, kdy jste se naposledy z něčeho podělali?
----
-
-*12. 3. 2019*
 
 ## Učíme se z chyb
 

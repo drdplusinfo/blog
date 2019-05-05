@@ -9,10 +9,6 @@ perex: |
     A co vy, máte co říct i po čtrnácti společných letech?
 ---
 
-## Představy minulosti - *Poslové*
-
-*7. 12. 2018*
-
 ## Úvodem
 
 Před šestnácti lety byl internet ještě [v plenkách](https://www.computerhope.com/history/2002.htm), stálé připojení si užívali jen vyvolení na velkoměstských sídlištích a já jsem někdy tou dobou prosurfoval na naší vesnici během jediného měsíce celé čtyři tisíce korun s modemem od Sagemu, jehož anténu jsem zarazil mezi střešní tašky kvůli lepšímu signálu a který mě svým tichým blikáním ubezpečoval, že se za minutku dozvím, jestli budu připojen.

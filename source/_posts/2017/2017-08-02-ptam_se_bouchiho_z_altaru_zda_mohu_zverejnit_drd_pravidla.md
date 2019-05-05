@@ -6,10 +6,6 @@ perex: |
 
 ## Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla
 
-*2. 8. 2017*
-
-*4 minuty čtení*
-
 Ahoj či dobrý den, chtěl bych s vámi (autory DrD+, nejenom s Bouchim) navázat spolupráci na dalším vývoji [DrD+](https://www.altar.cz/drdplus/).
 
 Začnu svojí historií a skončím tím, co je napsáno v předmětu tohoto emailu - *s pravidly DrD+ dostupnými jako [webová stránka](https://www.drdplus.info)*.

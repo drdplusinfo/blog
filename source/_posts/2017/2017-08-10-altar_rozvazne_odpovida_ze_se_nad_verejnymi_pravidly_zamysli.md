@@ -6,8 +6,6 @@ perex: |
 
 ## Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí
 
-*10. 8. 2017*
-
 Odpověď Bouchiho na moji [sáhodlouhou vizi DrD+2](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md): 
 
 > Ahoj,
