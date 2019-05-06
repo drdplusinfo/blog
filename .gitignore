@@ -1,5 +1,4 @@
 *.local.yaml
 /node_modules
-/output
 /vendor
 /composer.lock

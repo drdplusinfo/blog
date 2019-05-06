@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Technický milník - zrychlili jsme | DrD+</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="index, follow">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    
+    <link rel="alternate" type="application/rss+xml" title="DrD+ Blog RSS" href="/rss.xml">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+        <link rel="stylesheet" href="/assets/font-awesome.5.0.13/css/fontawesome-all.min.css">
+
+        <link href="/assets/bootstrap-4.0.0/bootstrap.min.css?v=796842287" rel="stylesheet" type="text/css"/>
+
+    <link href="/assets/prism/prism.css?v=393591736" rel="stylesheet" type="text/css"/>
+
+        <link href="/assets/css/style.css?v=214567156" rel="stylesheet" type="text/css"/>
+
+    <link href="/assets/gifplayer/gifplayer.css" rel="stylesheet" type="text/css"/>
+
+        <link href="/assets/css/checklist.css?v=626697395" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="background-image"></div>
+<!-- post_id: 2018-03-10-1 -->
+
+<div class="container-fluid no-padding-md-down">
+    <nav class="navbar">
+        <ul>
+            <li>
+                <a href="https://www.drdplus.info">
+                    <img src="/assets/images/red_dragon_128.png" alt="Red dragon" class="inline-image">
+                    <span class="hidden-sm-down">DrdPlus.info</span>
+                </a>
+            </li>
+            <li class="active">
+                <a href="/">Blog</a>
+            </li>
+            <li class="">
+                <a href="/kontakt/">Kontakty</a>
+            </li>
+            <li id="top-menu-search" class="hidden-xs-down">
+                <form method="get" action="https://www.google.com/search" itemprop="potentialAction" itemscope=""
+                      itemtype="http://schema.org/SearchAction">
+                    <meta itemprop="target" content="https://www.google.com/search?q={q}"/>
+                    <input name="sitesearch" value="blog.drdplus.info" type="hidden"/>
+                    <input itemprop="query-input" type="text" id="search-query" class="form-control" required="required"
+                           name="q" placeholder="Hledej..." autocomplete="off"/>
+                </form>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="mainContent">
+    <div class="container-fluid" id="post">
+        <h1>Technický milník - zrychlili jsme</h1>
+
+        <ul class="list-inline post-metadata">
+    <li class="list-inline-item mr-3">
+        <em class="fas fa-clock fa-fw"></em>
+        <strong>8 min</strong>
+    </li>
+
+    <li class="list-inline-item mr-3">
+        <em class="fas fa-calendar fa-fw"></em>
+        <time datetime="2018-03-Sat">
+                            10. 3. 2018
+                    </time>
+    </li>
+
+    
+            <li class="list-inline-item">
+            <em class="fas fa-fw fa-edit"></em>
+            <a href="https://github.com/drdplusinfo/blog/edit/master/source/_posts/2018/2018-03-10-technicky_milnik_zrychlili_jsme.md">Překlep? Oprav mě, prosím</a>
+        </li>
+    
+    
+    </ul>
+
+        
+        
+        
+        
+        <h2 id="poznej-kdo-ti-slouzi"><a href="#poznej-kdo-ti-slouzi" class="heading-anchor">Poznej, kdo ti slouží</a></h2>
+<p>Budoucnost DrD+ závisí na mnoha faktorech a jeden z nich je <em>dostupnost</em> pravidel.<br />
+V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťácké stránce, a to jak je posílá server a jak je čte tvůj prohlížeč, protože i v tom je kus důležité historie a ještě důležitější <em>budoucnosti</em> <a href="https://www.drdplus.info">drdplus.info</a>.</p>
+<p>Článek jsem psal dost zjednodušeně, takže detaily pochopíš, i když <em>nejsi od fochu</em>.</p>
+<hr />
+<blockquote>
+<p>Na začátku to ucpávalo dráty, na konci to bude jako offline aplikace v telefonu.</p>
+</blockquote>
+<h2 id="pomaly-rozjezd"><a href="#pomaly-rozjezd" class="heading-anchor">Pomalý rozjezd</a></h2>
+<p>2014</p>
+<p><em>To základní bychom měli, stránky se načítaly, aaaleee pooomaaaluuu</em></p>
+<p>Jak už jsem <a href="2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md">psal v dopise Altaru</a>, začátky stránek <a href="https://www.drdplus.info">drdplus.info</a> byly tristní. <a href="https://pph.drdplus.info/?trial=1">PPH</a> se načítaly tak dlouho, že jsem rychleji vyhrabal <a href="https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29">původní PDFko</a> a v něm si našel co jsem hledal.<br />
+No, trochu mě to otrávilo, takže jsem se na pravidla na webu na čas vykvajznul...</p>
+<h2 id="posilame-casti-najednou"><a href="#posilame-casti-najednou" class="heading-anchor">Posíláme části najednou</a></h2>
+<p>2016</p>
+<p><em>Jak dostat stránku rychleji do tvého prohlížeče?</em></p>
+<p>Malá revoluce pro mě nastala objevením <a href="https://caddyserver.com/">webového serveru Caddy</a>, kterému stačilo <a href="https://caddyserver.com/tutorial/caddyfile">nepříliš složitým textovým souborem</a> oznámit, co chci zobrazovat, a najednou jsem měl stránky s <a href="https://www.vzhurudolu.cz/prirucka/https">HTTPS</a> a ještě k tomu se načítaly rychleji, jelikož využívaly <a href="https://www.vzhurudolu.cz/prirucka/http-2">HTTP/2</a>, což je stahování všech částí stránky <em>najednou</em> (třeba taková <a href="https://pph.drdplus.info/?trial=1">Pravidla pro hráče</a> jsou složena z padesáti devíti částí a stahovat je po jedné, nebo všechny najednou, to už je rozdíl).</p>
+<h4 id="samocinne-nacitani-zmen"><a href="#samocinne-nacitani-zmen" class="heading-anchor">Samočinné načítání změn</a></h4>
+<p><em>Co může dělat stroj, nedělej</em></p>
+<p>Navíc už má <a href="https://caddyserver.com/">Caddy</a> spoustu rozšíření a kupříkladu <a href="https://caddyserver.com/docs/http.git">jedno z nich</a> čeká na <a href="https://developer.github.com/webhooks/">pohlavek z internetu</a>, že by mělo stáhnout nové změny, takže když například v <em>16:01:15</em> pošlu změnu na <em>server s kódem</em> (což je <em>jiný</em> server, než ze kterého běží <a href="https://www.drdplus.info">drdplus.info</a>), tak v <em>16:01:25</em>, po deseti sekundách, už je změna veřejná a ty ji uvidíš (protože <em>server s kódem</em> dal pohlavek <em>serveru se stránkami</em> ve smyslu &quot;dávej bacha a stáhni si novou verzi&quot;).<br />
+To hodně pomáhá, protože pak nemám psychický blok nasazovat změny hned, jako kdybych musel ještě někde &quot;mačkat tohleto a potvrzovat támhleto&quot;.</p>
+<h4 id="je-to-o-energii"><a href="#je-to-o-energii" class="heading-anchor">Je to o energii</a></h4>
+<p><em>Život je přelévání energie, tak s ní neplýtvej</em></p>
+<p>Jo, pravdou je, že kdybych se snažil, tak to samé získám s běžným <a href="https://httpd.apache.org/">Apache web serverem</a> a nemusel bych se se systémem prát, který z těch dvou webových programů bude mít exkluzivní právo na <a href="https://cs.wikipedia.org/wiki/Seznam_%C4%8D%C3%ADsel_port%C5%AF_TCP_a_UDP">port 443</a>, přes který to všechno lítá (což nakonec vyústilo ke smazání Apache, což popravdě taky nebylo úplně samozřejmé, jelikož ta potvora se drží zuby nehty).</p>
+<p>Jenže s <a href="https://caddyserver.com/">Caddy</a> jsem to měl hned a bez práce. Ano, dneska už <a href="https://httpd.apache.org/docs/2.4/mod/mod_http2.html">Apache podporuje HTTP/2</a> a získání certifikátu pro HTTPS zadarmo od <a href="https://letsencrypt.org/">Let's Encrypt</a> je <a href="https://www.root.cz/clanky/apache-pridava-podporu-let-s-encrypt-pro-https-staci-jeden-radek-konfigurace/">taky hračka</a>, ale před dvěma lety nebylo, nehledě na to, že to automatické nasazování novinek bych si musel napsat sám.</p>
+<h2 id="co-je-hotove-na-to-nesahame"><a href="#co-je-hotove-na-to-nesahame" class="heading-anchor">Co je hotové, na to nešaháme</a></h2>
+<p><em>Stránka se posílala rychleji, ale než se poskládala, pro každého znova a znova, to byla taky doba</em></p>
+<p>Chtělo to kešovat. Cache (čti <em>keš</em>) je dočasná paměť (někdy jí říkáme taky <em>mezipaměť</em>), která předhodí už známý výsledek, aby se to nepočítalo / nelepilo / nestahovalo znova. A ta má jednu dost ošklivou vlastnost, ať už jde o mezipaměť v hlavě strážníka, který si nepřečetl novou vyhlášku, nebo o chaotickou změť bajtů někde v počítači.<br />
+Těžko se totiž hledá ten <strong>správný</strong> okamžik, kdy se to má všechno zahodit a načíst zase znova.</p>
+<h3 id="slepa-kolej"><a href="#slepa-kolej" class="heading-anchor">Slepá kolej</a></h3>
+<p><em>Když padneš na hubu, zafňukej si, zapamatuj si to a jdi dál, rozumnější než kdy dřív.</em></p>
+<p>Já to asi před rokem zkoušel s tehdy ještě pořád populární, přestože už označenou jako <em>zastaralou</em>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache">aplikační keší</a>, což je technologie prohlížečů, která umožňuje <strong>celou</strong> stránku uložit pěkně na tvé straně a kdykoli se chceš na stránku podívat znovu, použije se ta před-uložená stránka z <strong>tvého</strong> počítače, takže je to pak bleskurychlé, protože už se na nic z internetu nečeká.<br />
+A taky je peklo tu keš zahodit, když se něco v obsahu změní... a právě proto, že si na tom rozbilo hubu už spousta lidí, a já se přidal, tak je už delší dobu tenhle způsob kešování označený jako <em>zastaralý</em>.</p>
+<p>Takže jsem si na tom spálil prsty, vyhodil několik desítek hodin práce a celou tu slavnou <em>aplikační keš</em> zahodil.<br />
+Ale zas jsem se něco přiučil a hlavně jsem při tom zdokonalil kešování na <strong>straně serveru</strong> (to je ta magická krabička někde na druhé straně drátů, která ti to všechno posílá).</p>
+<h2 id="kesovani-na-serveru"><a href="#kesovani-na-serveru" class="heading-anchor">Kešování na serveru</a></h2>
+<p>2017</p>
+<p><em>&quot;Neměl byste náhodou...&quot; &quot;Měl.&quot; &quot;A neměl byste to spíš s takovou tou...&quot; &quot;Měl.&quot; &quot;Pane jo, to asi nejsem první, kdo to chce, co?&quot; &quot;Ne.&quot;</em></p>
+<p>Možná máš pocit, že někde v internetu čeká jedna celá, úplně hotová stránka. Obvykle to tak skutečně je, ale tu celou stránku nedávají dohromady lidé. My vytváříme kousky a necháváme je lepit dohromady, protože upravovat celou tu stránku najednou, z toho bychom se zcvokli.<br />
+Důvody jsou dva:</p>
+<ul>
+<li>většina stránek má něco společného, vzhled, pravidla zobrazení na mobilu, podmínky kešování na straně návštěvníka
+<ul>
+<li>no kdo by se s tímhle psal dvakrát, neřku-li jedenáctkrát jako v případě všech pravidlových a příběhových stránek <a href="https://www.drdplus.info">drdplus.info</a>, to uznej</li>
+</ul></li>
+<li>obsah je opravdu rozsáhlý
+<ul>
+<li>a upravovat něco s 24876 řádky (současná velikost <a href="https://pph.drdplus.info/?trial=1">PPH</a>) v jediném souboru, to se fakt nedá</li>
+</ul></li>
+</ul>
+<p>Proto mám vytvořený <a href="https://github.com/jaroslavtyc/drd-plus-rules-html-skeleton">společný základ pro všechny obsahové stránky</a> (a <a href="https://github.com/jaroslavtyc/drd-plus-calculator-skeleton">další pak pro kalkulátory</a>),<br />
+kde řeším všechno společné. Obsah samotný mám pak rozdělený do souborů podle selského rozumu, u každých pravidel zvlášť, třeba <code>089a Volba zbroje.html</code>, <code>090a2 Tabulka zbrojí a přileb.html</code>, <code>090a Tabulka zbrojí a přileb - popis.html</code>, <code>090b Příprava parametrů.html</code> a tak dále (jo, řadím si to abecedně).<br />
+A tohle se samo poslepuje, vytvoří se z toho výsledná celá stránka a ta se ti pošle.</p>
+<p>A když už se to na serveru lepí všechno dohromady, tak už je jen krůček k tomu, aby se to lepilo jen když je potřeba a jinak to do světa posílalo to, co už má z minula.</p>
+<p>Zahazování keše je v tomhle případě krásně jednoduché - jakmile na server přistanou nové změny (čehokoli), tak se keš smázne (celá).</p>
+<h3 id="jak-odkazy-pomohly-kesovat"><a href="#jak-odkazy-pomohly-kesovat" class="heading-anchor">Jak odkazy pomohly kešovat</a></h3>
+<p><em>Každý krok vpřed otevře dveře po stranách</em></p>
+<p>Stránka se na serveru kešovala, fungovalo to, nebyl důvod k další změně. Respektive nebyl by, kdyby mi nevadila jedna věc.<br />
+Spousta nadpisů a tabulek totiž neměly odkaz. Když jsem chtěl někomu poslat třeba tabulku rychlosti, musel jsem mu říct že <em>&quot;je to někde dole&quot;</em>.</p>
+<p>Takže jsem <a href="https://github.com/PhpGt/Dom">sehnal nástroj</a>, který schroupe připravenou stránku a několika málo příkazy nacpe ke všem nadpisům, ať už kapitol nebo tabulek, automaticky vytvořený odkaz. A hned bylo s <a href="https://pph.drdplus.info/?trial=1#tabulka_rychlosti">odkazováním na Tabulku rychlosti</a> veseleji.</p>
+<p>Když se něco změní, tak se něco pokazí, a protože mi to nedošlo, tak jsem automatickými odkazy sestřelil <a href="https://pph.drdplus.info/?trial=1">Pravidla pro hráče</a>. Ono totiž <em>rozsekat</em> tak velkou HTML stránku, jakou <a href="https://pph.drdplus.info/?trial=1">Pravidla pro hráče</a> jsou, a každý ten kousek popsat objektem v programu, tak to sežere (alespoň v <a href="https://php.net">PHP</a>) dost RAMky a jako každý správně vychovaný program, tak i tenhle má pevně nastavený limit, přes který vlak nejede. V tomhle případě to je <a href="https://php.net/manual/en/ini.core.php">výchozích 128 MB</a>, což už nestačilo, stránka padla a já na to přišel až druhý den.<br />
+Neboj, pro příště už jsem pojištěný, testuji horem dolem funkčnost stránek nejen před tím, než změny zveřejním, ale teď už i <a href="https://uptimerobot.com/">po jejich zveřejnění</a>, právě abych se už takhle nenachytal (ale o testování radši jindy, to je pohádka na další dlouhou dobrou noc).</p>
+<p>Ovšem, když už jsem byl u té automatické změny obsahu (přidávání odkazů k nadpisům), tak už stačilo jen ždibíček, a najednou bylo vyřešeno zahazování keše ve tvém prohlížeči pro každou část, ze které je stránka poskládaná.<br />
+A tak ukládání stránky na tvé straně, ve tvém prohlížeči, aby se to všechno nenačítalo pořád znova, zase dostalo po roce smysl.</p>
+<h2 id="kesovani-v-prohlizeci"><a href="#kesovani-v-prohlizeci" class="heading-anchor">Kešování v prohlížeči</a></h2>
+<p>2018</p>
+<p><em>&quot;Ale to jsem já, Karel přece, co blbneš?&quot; &quot;Karel nosí kulichy bez bambulí, ukažte občanku&quot;</em></p>
+<p>Na serveru už jsem měl kešování vyřešené a mohl jsem se zas věnovat kešování na tvé straně, v prohlížeči. A změny s automatickým přidáváním odkazů mi ukázaly směr.</p>
+<p>Jak jsem psal na začátku, největším problémem u keše je vychytat ten okamžik, kdy se to má zahodit (úplně nový rozměr dal tomuhle problému (hlavně) Intel, který má v současnosti zatraceně velký problém se svými procesory, které vlastně <a href="https://www.root.cz/clanky/jak-funguje-spectre-a-meltdown-linux-na-orange-pi-a-zmena-algoritmu-dnssec/">umožňují číst komukoli cokoli</a> - no, je to složité, ale základní kámen úrazu je právě touha kešovat co nejvíce výsledků a co nejméně je zahazovat).</p>
+<p>Takže kdy se má zahodit keš nějaké části stránky? Například kdy se má načíst nový <a href="https://bestiar.ppj.drdplus.info/images/175.png?version=6434d6bef64654cef24f5529516a16e4">obrázek koně</a>? Když se změní, jasně!<br />
+K tomu se hodí prostý otisk obsahu, pro který kdysi dávno (v roce 1991, což je v IT dávno) vynalezl jeden chytrý pán <a href="https://cs.wikipedia.org/wiki/Message-Digest_algorithm">algoritmus MD5</a>, který byl sice původně určený pro skrytí hesel a dalších důvěrností, ale u kterého už dávno zjistili, že moc bezpečný není, a zároveň že je fajn pro rychlé získání krátkého, unikátního otisku (no dobře, <a href="https://www.root.cz/clanky/hasovaci-funkce-md5-a-dalsi-prolomeny/">pidi šance na kolizi tu je</a>) libovolně dlouhého textu, obrázku a vlastně jakéhokoli obsahu.<br />
+Fajn, tak mám unikátní otisk souboru (třeba ona kresba koně má <code>6434d6bef64654cef24f5529516a16e4</code>), ale co s tím? Někoho by napadlo měnit pokaždé jméno souboru, protože prohlížeč ho pak <strong>musí</strong> načíst, jelikož pod novým názvem nic kešovaného ještě nemá, takže co třeba <code>obrazek_kone_6434d6bef64654cef24f5529516a16e4.png</code>.</p>
+<p>Ano, unikátní název je zaručený způsob, jak donutit prohlížeč načíst soubor znovu, i kdyby se lišil byť jen o jediné písmenko, nebo u obrázku o jediný pixel, naštěstí ale nemusíme skutečně <em>přejmenovávat</em> soubory, protože z toho by byl pěkný bolehlav.<br />
+Stačí totiž k webovému odkazu, který ukazuje na chtěný soubor, něco unikátního <em>přidat</em>. S obrázkem koně to pak vyřeším změnou odkazu na <code>obrazek_kone.png?6434d6bef64654cef24f5529516a16e4</code></p>
+<ul>
+<li>před otazníkem je název souboru, který se <strong>nemění</strong></li>
+<li>za otazníkem je takzvaný <a href="https://en.wikipedia.org/wiki/Query_string">query string (asi <em>řetězec dotazu</em>?)</a>, kde může být vlastně cokoliv a když je to celé <em>dohromady</em> pro tvůj prohlížeč něco nového, tak to považuje za <em>nový</em> odkaz, který <strong>musí</strong> načíst</li>
+</ul>
+<p>a zahazování keše je vyřešeno.</p>
+<p>Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný <code>obrazek_kone.png</code> pořád existuje, ať už má otisk jakýkoli, schválně <a href="https://bestiar.ppj.drdplus.info/images/175.png?version=už_mě_koně_vedou">si to zkus</a>).</p>
+<p>Výsledkem je například u <a href="https://pph.drdplus.info/?trial=1">Pravidel pro hráče</a> namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá, i když už o ní <em>všechno</em> ví).<br />
+A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý <a href="https://pph.drdplus.info/css/generic/anchors.css?version=f430266ecbf9ceaddc17690121fcb2f5">soubor se vzhledem (styly)</a>. A to se počítá!</p>
+<h3 id="vanocni-uklid"><a href="#vanocni-uklid" class="heading-anchor">Vánoční úklid</a></h3>
+<p>Inu, pravdou je, že ti na disku zůstane ta <em>stará verze</em> souboru, protože tvůj prohlížeč vlastně <em>neví</em>, že už to nepotřebuje (nikdo mu to neřekl), ale to už se jaksi moc neřeší, pardon...</p>
+<p>Já to například kešuji na rok, takže &quot;samo&quot; se ti to smaže z disku za 356 dní, nebo když to výslovně prohlížeči přikážeš, ale s mazáním historie buď opatrný, můžeš si omylem smazat třeba hesla, uložená k oblíbeným stránkám.</p>
+<h2 id="hudba-budoucnosti"><a href="#hudba-budoucnosti" class="heading-anchor">Hudba budoucnosti</a></h2>
+<p>2019</p>
+<p>Tohle všechno směřuje, částečně samovolně a podvědomě, částečně řízeně, ke stránkám dostupným i bez internetového připojení. Jak si je jednou načteš, už je budeš mít v prohlížeči uložené a při každé další návštěvě, kdybys třeba jel vlakem přes Pavlov, zasypala tě lavina, zavřeli tě do <a href="https://www.mobilmania.cz/clanky/mobil-v-aute-a-faradayova-klec/sc-3-a-1108499/default.aspx">Faradaiovy klece</a> nebo tě postihla podobná offline katastrofa, tak se ti <a href="https://www.drdplus.info">drdplus.info</a> a všechna jeho pravidla (která už sis někdy načetl) budou pořád načítat.</p>
+<p>Ale k tomu se ještě musím dopracovat, jelikož se budu se muset naučit <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers">javascriptové Web workers</a>.<br />
+Jakmile to ale zvládneme, tak se skokově přiblížíme k dalšímu milníku - mít pravidla v telefonu jako <em>mobilní aplikaci</em>.</p>
+<p>Krleš!</p>
+
+        <br>
+
+        
+        <div class="licence">
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+               title="Toto dílo podléhá licenci Creative Commons, Uveďte původ, 4.0 Mezinárodní Licence">
+                <img alt="Licence Creative Commons" style="border-width:0"
+                     src="/assets/images/CC-BY.png?version=229daa2bfc2444f20a57a2deabf6522d"/>
+            </a>
+        </div>
+
+                                            <div class="card mb-5 mt-4">
+                <div class="card-deck">
+                                            <div class="card-body text-left">
+                            <a href="/blog/2018/02/16/vyskytla_se_nam_neviditelna_soutez/">
+                                <em>
+                                    &lt;&lt;
+                                    <span class="hidden-sm-down">16. 2. 2018</span>
+                                    Vyskytla se nám Neviditelná soutěž
+                                </em>
+                            </a>
+                        </div>
+                                                                <div class="card-body text-right">
+                            <a href="/blog/2018/05/03/neviditelna_recenze/">
+                                <em>
+                                    <span class="hidden-sm-down">3. 5. 2018</span>
+                                    Neviditelná recenze
+                                    &gt;&gt;
+                                </em>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        
+        <div class="mb-5 hidden-sm-down text-center">
+            <a href="https://github.com/drdplusinfo/blog/edit/master/source/_posts/2018/2018-03-10-technicky_milnik_zrychlili_jsme.md" class="btn btn-warning btn-sm">
+                <em class="fas fa-fw fa-edit"></em>
+                Oprav překlep, zachráníš mozkovou buňku
+            </a>
+        </div>
+
+        <a name="comments"></a>
+
+        <div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//' + 'blog-drdplus-info' + '.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+    </div>
+
+    <script id="dsq-count-scr" src="https://blog-drdplus-info.disqus.com/count.js" async defer></script>
+</div>
+
+<script src="/assets/js/jquery-3.3.1.slim.min.js?=904440258"></script>
+<script src="/assets/gifplayer/jquery.gifplayer.js?=951946817"></script>
+<script src="/assets/js/cluster-checklist.js?=1428632665"></script>
+<script src="/assets/js/cluster-expanable.js?=2080148952"></script>
+
+<script>
+    ga=function(){ ga.q.push(arguments) };
+    ga.q=[];
+    ga.l=+new Date;
+    ga('create', 'UA-121206931-1', 'auto');
+    ga('send','pageview');
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+<script src="/assets/prism/prism.js"></script>
+
+<script>
+    $('.gifplayer').gifplayer();
+</script>
+
+<div class="text-center mt-5" id="footer">
+    <p>
+        
+        <span class="hidden-sm-down">
+            <span class="pl-2 pr-2">•</span>
+            Digitální kolečka roztáčí <a href="https://www.statie.org/">Statie</a>
+
+            <span class="pl-2 pr-2">•</span>
+            Kódy skladujeme na <a href="https://github.com/drdplusinfo">GitHubu</a>
+        </span>
+    </p>
+</div>
+</body>
+</html>
+
+        <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Technický milník - zrychlili jsme"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:url" content="https://blog.drdplus.info/blog/2018/03/10/technicky_milnik_zrychlili_jsme"/>
+
+        <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@votrubaT">
+    <meta name="twitter:title" content="Technický milník - zrychlili jsme"/>
+    <meta name="twitter:description" content=""/>

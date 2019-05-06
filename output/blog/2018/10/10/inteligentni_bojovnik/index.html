@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Inteligentní bojovník | DrD+</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="index, follow">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    
+    <link rel="alternate" type="application/rss+xml" title="DrD+ Blog RSS" href="/rss.xml">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+        <link rel="stylesheet" href="/assets/font-awesome.5.0.13/css/fontawesome-all.min.css">
+
+        <link href="/assets/bootstrap-4.0.0/bootstrap.min.css?v=1652636417" rel="stylesheet" type="text/css"/>
+
+    <link href="/assets/prism/prism.css?v=69174020" rel="stylesheet" type="text/css"/>
+
+        <link href="/assets/css/style.css?v=1016917310" rel="stylesheet" type="text/css"/>
+
+    <link href="/assets/gifplayer/gifplayer.css" rel="stylesheet" type="text/css"/>
+
+        <link href="/assets/css/checklist.css?v=1974762938" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="background-image"></div>
+<!-- post_id: 2018-10-10-1 -->
+
+<div class="container-fluid no-padding-md-down">
+    <nav class="navbar">
+        <ul>
+            <li>
+                <a href="https://www.drdplus.info">
+                    <img src="/assets/images/red_dragon_128.png" alt="Red dragon" class="inline-image">
+                    <span class="hidden-sm-down">DrdPlus.info</span>
+                </a>
+            </li>
+            <li class="active">
+                <a href="/">Blog</a>
+            </li>
+            <li class="">
+                <a href="/kontakt/">Kontakty</a>
+            </li>
+            <li id="top-menu-search" class="hidden-xs-down">
+                <form method="get" action="https://www.google.com/search" itemprop="potentialAction" itemscope=""
+                      itemtype="http://schema.org/SearchAction">
+                    <meta itemprop="target" content="https://www.google.com/search?q={q}"/>
+                    <input name="sitesearch" value="blog.drdplus.info" type="hidden"/>
+                    <input itemprop="query-input" type="text" id="search-query" class="form-control" required="required"
+                           name="q" placeholder="Hledej..." autocomplete="off"/>
+                </form>
+            </li>
+        </ul>
+    </nav>
+</div>
+<div class="mainContent">
+    <div class="container-fluid" id="post">
+        <h1>Inteligentní bojovník</h1>
+
+        <ul class="list-inline post-metadata">
+    <li class="list-inline-item mr-3">
+        <em class="fas fa-clock fa-fw"></em>
+        <strong>7 min</strong>
+    </li>
+
+    <li class="list-inline-item mr-3">
+        <em class="fas fa-calendar fa-fw"></em>
+        <time datetime="2018-10-Wed">
+                            10. 10. 2018
+                    </time>
+    </li>
+
+    
+            <li class="list-inline-item">
+            <em class="fas fa-fw fa-edit"></em>
+            <a href="https://github.com/drdplusinfo/blog/edit/master/source/_posts/2018/2018-10-10-inteligentni_bojovnik.md">Překlep? Oprav mě, prosím</a>
+        </li>
+    
+    
+    </ul>
+
+        
+        
+        
+        
+        <h2 id="inteligentni-bojovnik"><a href="#inteligentni-bojovnik" class="heading-anchor">Inteligentní bojovník</a></h2>
+<p><em>Inteligence má mnoho podob, pro hlupáky neviditelných.</em></p>
+<p>Při rozsáhlém <a href="2018-08-10-boj.md">zkoumání, pitvání a nakonec i úpravách <em>Boje</em></a> jsme mimo jiné došli k tomu, že</p>
+<ul>
+<li><em>Boj</em> bude vycházet pouze z <em>Obratnosti</em></li>
+<li>počet možných akcí v jednom kole je ovlivněn pouze <em>Bojem</em></li>
+<li>body <em>Boje</em> lze, v rámci jednoho kola, přelévat mezi akcemi jak je libo (a tím si za body <em>Boje</em> &quot;kupovat&quot; bonusy)</li>
+</ul>
+<p>A trochu se nám to od té doby rozleželo. S tou <em>Obratností</em> se nám to pořád líbí, protože to je jednoduché a dává nám to smysl, ovšem jinak to už vnímáme s počtem akcí a přesouváním bodů <em>Boje</em>. </p>
+<h2 id="zkratka-inteligence"><a href="#zkratka-inteligence" class="heading-anchor">Zkrátka inteligence</a></h2>
+<p>V <a href="2018-08-10-boj.md">návrhu <em>Boje</em></a> jsme chtěli mít počet akcí podle bodů <em>Boje</em>, což zní celkem jednoduše:</p>
+<ul>
+<li>máš tolik akcí, kolik máš bodů <em>Boje</em> vydělených šesti, zaokrouhleno nahoru
+<ul>
+<li>třeba s <em>Bojem</em> 7 bys měl dvě akce, protože 7 / 6 = 1.16..., zaokrouhleno nahoru jsou 2</li>
+</ul></li>
+</ul>
+<p>A chtěli jsme, aby ses mohl na každou akci soustředit tak, jak si zaslouží:</p>
+<ul>
+<li>mezi akcemi můžeš body <em>Boje</em> přesouvat
+<ul>
+<li>za každý bod <em>Boje</em> <strong>navíc</strong>, který jsi na akci použil, máš k akci bonus +1</li>
+<li>za každý <strong>chybějící</strong> bod <em>Boje</em> máš k akci postih -1</li>
+</ul></li>
+</ul>
+<p>To, co nám teď vadí, je závislost počtu akcí <strong>pouze</strong> na <em>Obratnosti</em>. Několikrát jsme byli v životní situaci, kdy jsme zůstali zkoprněle civět, popřípadě jsme se zmohli ledva na opatrný pohyb, zatímco ostatní na nás hulákali <em>ať něco děláme, sakra</em>! Prostě nám to v tu chvíli mozek nepobral, ať už na nohejbale, na křižovatce, nebo v případě mého bratra na štaflích, ale to odbočujeme. Prostě tělo by mohlo, ale hlava ani omylem.</p>
+<p>A obráceně to známe také, kdy víme, jak na to, ale tělo to prostě nezvládne. Třeba když sledujeme fakt pěknou hrušku na vrcholu, kam by naše tělo před deseti lety a dvaceti kily ještě vylezlo, takže víme jak na to, jen to už nejde, nebo při dobíhání vlaku, kdy hlava ví, že podlézt horkovod by bylo rychlejší, ale tělo návrh zamítne.</p>
+<p>Takže nám kapánek schází ten vliv <em>Inteligence</em> na počet akcí.</p>
+<p>A pak je tu ten druhý aspekt - zaokrouhlování. Teď je na čase uronit slzu nostalgie a zavzpomínat na <strong>staré</strong> dobré Dračí doupě, kde se jen sčítalo a odčítalo. Zaokrouhlování tam nemělo místo a v tom byla obrovská síla, protože hlava tak nebyla zatížena ani takovými výpočetními drobotinami a mohla se <strong>naplno</strong> věnovat zážitkům ze hry.</p>
+<h3 id="nemyslis-zaplatis"><a href="#nemyslis-zaplatis" class="heading-anchor">Nemyslíš, zaplatíš</a></h3>
+<p>A tak nás trklo, že by počet akcí mohl být roven <em>Inteligenci</em>. A hotovo.</p>
+<ul>
+<li>a co nulová a záporná <em>Inteligence</em>?
+<ul>
+<li>necháme každého provést alespoň jednu akci, ať už má <em>Inteligenci</em> sebemenší a prohlásíme to za instinkt</li>
+</ul></li>
+<li>takže ducha prostý tvor nemá šanci si zvýšit šance?
+<ul>
+<li>Paul nás v <a href="https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AOfhhadcneHIdLCOjivQRmpbAQ-4WNOSwzOGzSDLguzneiHn">markách</a> inspiroval <em>Taktikem</em>, který používá rozum tam, kde ostatní dají pouze na smysly a z toho bychom chtěli udělat obecnou <em>Dovednost</em>, která přidá <em>bojovou inteligenci</em>, tedy zvýší počet akcí, jako kdyby měl tvor vyšší <em>Inteligenci</em></li>
+</ul></li>
+<li>a co body <em>Boje</em>, ty pořád ovlivňují počet akcí?
+<ul>
+<li>hmm, to budeme muset probrat...</li>
+</ul></li>
+</ul>
+<h4 id="body-boje-a-pocet-akci"><a href="#body-boje-a-pocet-akci" class="heading-anchor">Body boje a počet akcí</a></h4>
+<p>Původně jsme počet akcí přímo podřizovali <strong>celkovým</strong> bodům <em>Boje</em>.</p>
+<ul>
+<li>přestože sis mohl body <em>Boje</em> přesouvat sem a tam, tak od začátku ti diktovaly, kolik různých činností v jednom kole zvládneš</li>
+</ul>
+<p>No, nezní to <em>úplně</em> pitomě, ale je to takové strojové, takové předem naplánované, takové... nepřirozené.</p>
+<p>Teď, když jsme celé to zjišťování, kolik vlastně máme v tomhle kole akcí, zjednodušili na velikost <em>Inteligence</em>, tak bychom vliv <em>Boje</em> mohli zahodit, ne?<br />
+No, <strong>pevný</strong> počet akcí by asi <em>Boj</em> ovlivňovat neměl, protože sám pevný <strong>není</strong>, když můžeme s body <em>Boje</em> čachrovat jak při skořápkách, ale kde není <em>Boj</em>, neměla by být ani akce, jak jsme si ukázali na <em>případech schopnější mysli než těla</em>, takže?</p>
+<p>Takže můžeme oprášit jeden z nápadů v <a href="2018-08-10-boj.md">původním návrhu <em>Boje</em></a> a říct, že:</p>
+<ul>
+<li>akcí můžeš provést kolik chceš, pokud na to máš body <em>Boje</em> a nově také <em>Inteligenci</em>
+<ul>
+<li>s tím, že každá akce stojí šest nebo tři body <em>Boje</em>, podle toho, jestli vyžaduje <em>plné</em> nebo <em>volné</em> soustředění</li>
+</ul></li>
+<li>pokud nemáš <strong>žádné</strong> body <em>Boje</em> (jsou <strong>nula</strong>), tak pořád můžeš udělat tolik <strong>vědomých</strong> akcí, kolik ti <em>Inteligence</em> dovolí (samozřejmě s velkým postihem, viz výše)</li>
+<li>pokud máš body <em>Boje</em> <strong>záporné</strong>, tak už ti nepomůže ani <em>přípravný kurz na univerzitu</em> (můžeme tomu říkat třeba bojová paralýza), tedy nemůžeš provádět žádnou <strong>vědomou</strong> akci</li>
+</ul>
+<p>A co omezení bodů <em>Boje</em>, které lze přesouvat? To necháme prostě na šesti jako předtím? Žádná vlastnost nám to neovlivní?</p>
+<h2 id="zrucny-presun-bodu-boje"><a href="#zrucny-presun-bodu-boje" class="heading-anchor">Zručný přesun bodů Boje</a></h2>
+<p>Vrtá nám hlavou tedy ještě jedna věc, totiž když mi <em>Inteligence</em> ovlivňuje počet akcí, které za kolo duševně zvládnu, tak co ovlivňuje počet bodů <em>Boje</em>, které mohu mezi akcemi přesunout?</p>
+<p>Kdybychom se bavili pouze o těle, tak můžeme říci, že důraz na jednu akci a odfláknutí druhé závisí na naší <em>Obratnosti</em>. Jenže, <em>trochu větší důraz</em> a <em>trochu menší důraz</em>... není to spíš o citu než o mrštnosti? Že by <em>Zručnost</em>? Nebo rovnou <em>Smysly</em>?<br />
+Kdyby to byly <em>Smysly</em>, co nám umožňují citlivě rozprostřít energii mezi jednotlivé akce, tak jak <strong>chceme</strong>, tak bychom museli taky říct, které z mnoha smyslů to jsou. Sluch? Zrak? Hmat? Všechny dohromady? A nejsou náhodou všechny dohromady <em>Zručnost</em>? No, není, všechny dohromady jsou právě <em>Smysly</em>, v nichž například <a href="https://zlodej.drdplus.info/?trial=1#zdokonalene_smysly">některá povolání excelují</a>, zručnost nezručnost...<br />
+Počet bodů <em>Boje</em>, které můžeš přesouvat mezi akcemi, by tedy <strong>mohly</strong> ovlivňovat <em>Smysly</em>.</p>
+<p>Ovšem jen o těle se se nebavíme, když jsme přijali <em>Inteligenci</em> jako ukazatel počtu akcí, které zvládnu provést. Pokud mám dostatek tělesné <em>Zručnosti</em> na jemné nuance mezi akcemi, tak bych měl mít i dostatek duševní <em>Zručnosti</em>, abych ty odlišné důrazy na jednotlivé akce zvládl promyslet, nebo alespoň instinktivně odhadnout.<br />
+Jenže, co je ta duševní zručnost? Že by <em>Inteligence</em>? Nebo je to prostě <em>Zručnost</em>, o které nás jen doteď nenapadlo, že v sobě vlastně skrývá i zručnost duševní, tedy schopnost promýšlet či prociťovat drobné detaily? A co <em>Moudrost</em>?</p>
+<h4 id="s-moudrosti"><a href="#s-moudrosti" class="heading-anchor">S moudrostí</a></h4>
+<p>Už několikrát nás napadlo, že v Dračím doupěti, v žádném z nich, není moudrost. Vlastně v <a href="http://www.drd2.cz/">Dračím doupěti II</a> by být mohla ze všech nejvíc, skryta v <em>Duši</em>.<br />
+Obecně už ale máme několik let za to, že chybějící moudrost jako číslo je velká <strong>výhoda</strong>, protože nás nenutí hrát moudré, či naopak zbrklé jedince, prostě v tom máme volnost. A teď bychom si tu volnost chtěli vzít kvůli boji? Co je to za nerozumný návrh? A co je to vlastně moudrost?</p>
+<p>Když se někdo chová moudře a rozumně, tak jedná s rozvahou, ví, co ho za jeho jednání čeká, dokáže své úmysly často vysvětlit i ostatním, pokud mu na to dají čas, je otevřený myšlenkám druhých a přemýšlí i o jejich názorech, protože mu zpřesňují jeho odhad budoucnosti, toho, jak to nakonec dopadne. Moudrý člověk obvykle ví, co dělá, kam jde a co z toho bude a hlavně vidí <strong>více možností</strong>, než ti méně osvícení.</p>
+<p>Parafrázovat moudrost můžeme i tak, že</p>
+<p><em>Chytří tak dlouho dokazují, že něco nejde, až přijde moudrý a udělá to.</em></p>
+<p>Kdybychom se vrátili k boji a tam hledali, kdo má větší převahu, kdo vidí více možností, kdo se dokáže starat sám o sebe a ještě zvládá radit ostatním, tak nakonec ukážeme prstem na toho, kdo má nejvíc bodů <em>Boje</em>. To nějak nesedí... aha, on by ten moudrý dost možná do boje ani nešel a snažil by se najít méně destruktivní cestu k vítězství. Či možná ještě lépe, ke spolupráci.</p>
+<p>Ona moudrost se totiž do boje moc nehodí a necháme ji proto zatím tam, kde je, tedy skrytou ve zkušenostech a úrovních postavy.</p>
+<h4 id="bez-moudrosti"><a href="#bez-moudrosti" class="heading-anchor">Bez moudrosti</a></h4>
+<p><em>Moudrost</em> nám vypadla, zbývá <em>Síla</em>, <em>Charisma</em> a <em>Vůle</em>.</p>
+<h5 id="sila"><a href="#sila" class="heading-anchor">Síla</a></h5>
+<p><em>Silou</em> se rozumí pevnost svalů, ale také znalost vlastního těla, kdy dokážeš zapojit i exotičtější svalstvo, jež by jiný nechal ladem a také je v <em>Síle</em> skryta odolnost tvého těla, kdy ač v mdlobách, v křečích či po bujarých oslavách stále odolává zranění, únavě a dalším životním zkouškám.</p>
+<p><em>Síla</em> nám pomůže ve větším důrazu při úderu, při skoku a pohybu vůbec, při řevu, ale jak by mohla pomoci s <em>citem</em> pro rozdělení sil mezi jednotlivými akcemi... ne, <em>Síla</em> nebude to pravé ořechové.</p>
+<h5 id="charisma"><a href="#charisma" class="heading-anchor">Charisma</a></h5>
+<p><em>Charisma</em> je zejména schopnost ovlivňovat a působit na ostatní. To se bude hodit při zastrašování, povzbuzování a vyjednávání, ale při drobných úpravách útoků, obran a čarodějných kejklí? Kdepak.</p>
+<h5 id="vule"><a href="#vule" class="heading-anchor">Vůle</a></h5>
+<p>Zbývá <em>Vůle</em>, což je odolnost mysli proti vnějšímu tlaku, proti cizím názorům, zatnutí zubů při bolesti, únavě i stresu, je to posouvání hranic, při kterých jsi schopen ještě jednat při smyslech. Užitečná vlastnost, jen při tahání za tenké nitky boje nemá valného významu. <em>Vůle</em> nám z kandidátky také vypadla.</p>
+<h2 id="smyslny-boj"><a href="#smyslny-boj" class="heading-anchor">Smyslný boj</a></h2>
+<p>Tak jsme si prošli kolečkem námluv a ze všech bratranců a sestřenic <em>Inteligence</em>, coby hlavního generála při spřádání bojových akcí, nám zůstaly jako kandidát na pobočníka jen <em>Smysly</em>.</p>
+<p>Tímto povyšujeme <em>Smysly</em> nejen na cit v prstech, citlivost uší, vnímání chutí a rozeznávání barev, ale také na přesnější rozložení energie mezi akce, jak si to hlava a situace vyžádaly.</p>
+<h2 id="zaverem"><a href="#zaverem" class="heading-anchor">Závěrem</a></h2>
+<ul>
+<li><em>Obratnost</em> ovlivňuje celkové body <em>Boje</em>
+<ul>
+<li>detaily najdeš v <a href="2018-08-10-boj.md#Shrnutí">návrhu boje</a></li>
+</ul></li>
+<li><em>Inteligence</em> přímo udává maximální počet <strong>vědomých</strong> akcí, které dané kolo můžeš provést
+<ul>
+<li>dokud nejsou tvé body <em>Boje</em> záporné, můžeš provést alespoň jednu akci, i kdyby byla tvá <em>Inteligence</em> -6</li>
+<li>zřejmě zavedeme dovednost <em>Taktika</em>, která ti zvýší bojovou inteligenci, tedy přidá akce navzdory tvé zabedněné hlavě</li>
+</ul></li>
+<li><em>Smysly</em> ti umožňují přesouvat body <em>Boje</em> mezi akcemi
+<ul>
+<li>pokud nemáš <em>Smysly</em> kladné, nemůžeš mezi akcemi body <em>Boje</em> přesouvat</li>
+<li>za každý bod <em>Boje</em>, který použiješ pro akci navíc, k ní dostaneš bonus +1 a za každý chybějící bod <em>Boje</em> budeš mít k akci postih -1</li>
+<li>možná zavedeme dovednost <em>Strategie</em>, která ti pomůže se s nedostatkem <em>Smyslů</em> vypořádat a zvýší ti počet bodů <em>Boje</em>, které budeš moci mezi akcemi přesouvat</li>
+<li>zloděj bude mít v přesouvání bodů <em>Boje</em> výhodu díky své dovednosti <a href="https://zlodej.drdplus.info/?trial=1#zdokonalene_smysly"><em>Zdokonalené smysly</em></a>, což zapadá do našeho plánu stvořit z něj oportunistu, tvora, který využije každou maličkost ve svůj prospěch</li>
+</ul></li>
+</ul>
+<p>To by šlo.</p>
+
+        <br>
+
+        
+        <div class="licence">
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
+               title="Toto dílo podléhá licenci Creative Commons, Uveďte původ, 4.0 Mezinárodní Licence">
+                <img alt="Licence Creative Commons" style="border-width:0"
+                     src="/assets/images/CC-BY.png?version=229daa2bfc2444f20a57a2deabf6522d"/>
+            </a>
+        </div>
+
+                                            <div class="card mb-5 mt-4">
+                <div class="card-deck">
+                                            <div class="card-body text-left">
+                            <a href="/blog/2018/10/05/prevaha/">
+                                <em>
+                                    &lt;&lt;
+                                    <span class="hidden-sm-down">5. 10. 2018</span>
+                                    Převaha
+                                </em>
+                            </a>
+                        </div>
+                                                                <div class="card-body text-right">
+                            <a href="/blog/2018/10/12/kombinace_povolani/">
+                                <em>
+                                    <span class="hidden-sm-down">12. 10. 2018</span>
+                                    Kombinace povolání
+                                    &gt;&gt;
+                                </em>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        
+        <div class="mb-5 hidden-sm-down text-center">
+            <a href="https://github.com/drdplusinfo/blog/edit/master/source/_posts/2018/2018-10-10-inteligentni_bojovnik.md" class="btn btn-warning btn-sm">
+                <em class="fas fa-fw fa-edit"></em>
+                Oprav překlep, zachráníš mozkovou buňku
+            </a>
+        </div>
+
+        <a name="comments"></a>
+
+        <div id="disqus_thread"></div>
+
+<script type="text/javascript">
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = '//' + 'blog-drdplus-info' + '.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+    </div>
+
+    <script id="dsq-count-scr" src="https://blog-drdplus-info.disqus.com/count.js" async defer></script>
+</div>
+
+<script src="/assets/js/jquery-3.3.1.slim.min.js?=1483107875"></script>
+<script src="/assets/gifplayer/jquery.gifplayer.js?=196315552"></script>
+<script src="/assets/js/cluster-checklist.js?=380915767"></script>
+<script src="/assets/js/cluster-expanable.js?=1135712951"></script>
+
+<script>
+    ga=function(){ ga.q.push(arguments) };
+    ga.q=[];
+    ga.l=+new Date;
+    ga('create', 'UA-121206931-1', 'auto');
+    ga('send','pageview');
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async defer></script>
+
+<script src="/assets/prism/prism.js"></script>
+
+<script>
+    $('.gifplayer').gifplayer();
+</script>
+
+<div class="text-center mt-5" id="footer">
+    <p>
+        
+        <span class="hidden-sm-down">
+            <span class="pl-2 pr-2">•</span>
+            Digitální kolečka roztáčí <a href="https://www.statie.org/">Statie</a>
+
+            <span class="pl-2 pr-2">•</span>
+            Kódy skladujeme na <a href="https://github.com/drdplusinfo">GitHubu</a>
+        </span>
+    </p>
+</div>
+</body>
+</html>
+
+        <meta property="og:type" content="article"/>
+    <meta property="og:title" content="Inteligentní bojovník"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:url" content="https://blog.drdplus.info/blog/2018/10/10/inteligentni_bojovnik"/>
+
+        <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:site" content="@votrubaT">
+    <meta name="twitter:title" content="Inteligentní bojovník"/>
+    <meta name="twitter:description" content=""/>
