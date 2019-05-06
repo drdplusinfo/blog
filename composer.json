@@ -2,6 +2,7 @@
   "name": "drdplusinfo/blog",
   "require": {
     "php": "^7.2",
+    "ext-json": "*",
     "drdplusinfo/statie": "^5.5",
     "granam/git": "^1.2",
     "nette/finder": "^2.4",
