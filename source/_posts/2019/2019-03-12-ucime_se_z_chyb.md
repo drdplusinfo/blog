@@ -105,7 +105,7 @@ Je až čarovné, že nám ta hromada práce vaz nezlomila a stále máme onen v
 Už delší dobu jsme tušili, že nás větší změny pravidel čekají, jen jsme pořád nevěděli jaké, takže jsme se větších změn vlastně báli. Z jiných oblastí života víme, že *nevíme, dokud **to** nezkusíme*, ovšem těžké je přijít na to, co to je to **to**. Teď už ale víme, že míříme k pidi pravidlům, ve kterých bude jen
 
 - šest základních vlastností
-  - *[krom Charisma](2018-10-31-cit_pro_charisma.md) dostane na frak ještě Zručnost, ale o tom příště*
+  - *[krom Charisma](../2018/2018-10-31-cit_pro_charisma.md) dostane na frak ještě Zručnost, ale o tom příště*
 - jeden jediný řádek *Zranění* a jediný řádek *Únavy*
   - *když se zraníš nebo unavíš za celý řádek, zhroutí se ti Morálka a utečeš (neboj, to bude jen v úvodním příběhu, kde ještě nebudeš hrdinou)*
 - hod kostkou 1k6±

@@ -31,7 +31,7 @@ Od té doby nemyslíme na nic jiného, než na *pidi pravidla*.
 ## Pidi definice
 *Jak velké je ještě malé?*
 
-Otázkou do pranice je, co by v těch pidi pravidlech mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** [šest příruček pro hráče](2018-12-07-predstavy_minulosti_poslove.md#Poslové).
+Otázkou do pranice je, co by v těch pidi pravidlech mělo být, aby **už** k něčemu byla a přitom z toho nebylo **hned** [šest příruček pro hráče](../2018/2018-12-07-predstavy_minulosti_poslove.md#Poslové).
 
 Připomeneme si nejdříve jedno z našich hesel a pak si dáme špetku teorie, která je vlastně v každém z nás, jen máme její jednotlivé části v jiném poměru.
 
@@ -64,9 +64,9 @@ No jo, my ale teď chceme *pidi* mapu a jaká mapa je tak pidi, že se z ní dá
 Za onu startovní pozici, za ten špendlík na mapě, který říká *"už se nehledej, stojíš tady"*, považujeme **nulu** a nula je jedno z našich pravidel, které používáme tam, kde hledáme začátek.
 
 ### Začátek
-Před časem jsme objevili [nulové vlastnosti](2018-10-22-nula.md#Závěrem), stav, kdy nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti **začínajícího** dobrodruha jsme pak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
+Před časem jsme objevili [nulové vlastnosti](../2018/2018-10-22-nula.md#Závěrem), stav, kdy nedokážeme nic udělat, stav, který má novorozeně. Vlastnosti **začínajícího** dobrodruha jsme pak posunuli z [původní nuly](https://pph.drdplus.info/?trial=1#tabulka_ras) na šest, což je stav náctiletého, utíkajícího v rozkvětu puberty od nudného bezpečí svých rodičů za lepším, dobrodružnějším světem.
 
-Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](https://rpgforum.cz/forum/viewtopic.php?p=539160#p539160)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032#p539165)?
+Už tehdy jsme věděli, že šestka je začátek zdravého, mladého, profesí zatím nepokřiveného člověka. Co jsme ale nevěděli, byla odpověď na otázku *"co s těmi profesemi?"*, máme se hned vrhat do bonusů k vlastnostem za povolání, když jsme hlavní a vedlejší vlastnosti [zrušili](../2018/2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost)? Máme hned vyřešit odlišnosti jednotlivých ras, když to někteří považují za [svazující](https://rpgforum.cz/forum/viewtopic.php?p=539160#p539160)? A máme se okamžitě zabývat rozdíly muže a ženy, kolem kterých byl teprve [humbuk](https://rpgforum.cz/forum/viewtopic.php?f=238&t=15032#p539165)?
 
 Nakonec jsme to rozlouskli a shodli jsme se, že když začátek, tak od nuly, a když od nuly, tak všichni.
 
@@ -78,7 +78,7 @@ V pidi pravidlech proto chceme
     - další rasy přibudou, ale na test pidi pravidel nejsou potřeba
         - úpravy vlastností za rasu budeme v budoucnu zřejmě řešit **dobrovolným** přívlastkem typu `Běžný horal, +1 k Síle, +1 k Vůli, -1 k Inteligenci, -1 k Citu`
 - každou vlastnost s počáteční hodnotou *šest*
-    - vlastnost na nule [bude znamenat](2018-10-22-nula.md#Závěrem) *nepoužitelná vlastnost* a ve většině případů i *nepoužitelný hrdina*
+    - vlastnost na nule [bude znamenat](../2018/2018-10-22-nula.md#Závěrem) *nepoužitelná vlastnost* a ve většině případů i *nepoužitelný hrdina*
     - [výjimečné vlastnosti či dobré zázemí](https://pph.drdplus.info/?trial=1#tabulka_rozhodnuti_hrace) zatím neřešíme
     - [vliv rasy](https://pph.drdplus.info/?trial=1#tabulka_ras), [povolání](https://pph.drdplus.info/?trial=1#tabulka_povolani) ani [pohlaví](https://pph.drdplus.info/?trial=1#tabulka_pohlavi) zatím taky není žádný
         - úpravy vlastností podle pohlaví budeme v budoucnu zřejmě řešit podobně, jako u rasy, tedy **dobrovolným** přívlastkem ve smyslu `Běžná žena, -1 k Síle, +1 k Citu`
@@ -90,7 +90,7 @@ Co nám zbývá a co ještě nemáme pořádně rozmyšlené jsou
         - což je pro mnohé z nás ta hranice, kdy už raději couvneme, jelikož pocítíme osten skutečné bolesti
 - hod proti pastem
     - už při hraní podle původních pravidel jsme v naší družině většinu pastí dělili na čtyři stupně s hranicemi `5 ~ 10 ~ 15` po vzoru [postihu za zranění](https://pph.drdplus.info/?trial=1#postih_za_zraneni) a teď plánujeme něco podobného, jen s hranicemi `6 ~ 12 ~ 18` 
-        - ano, má to návaznost na vlastnosti [začínajícími na šestce](2018-10-22-nula.md#Šestka)
+        - ano, má to návaznost na vlastnosti [začínajícími na šestce](../2018/2018-10-22-nula.md#Šestka)
 
 ## Zachovejte paniku
 *Cože? A co kouzla a dovednosti a vybavení a... a zázemí a... a... a vůbec!*

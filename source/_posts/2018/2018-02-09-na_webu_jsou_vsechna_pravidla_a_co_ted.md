@@ -15,7 +15,7 @@ Abych dobře vysvětlil, proč jsem se na to už dávno nevykašlal, proč mám 
 
 ## Bylo nebylo 
 
-To, že jsem začínal s DrD na základní škole, jsem už [zmiňoval v dopise pro Altar](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md). Tam někdy ve mě zakořenila láska k českému stylu RPG her, alias her na hrdiny.
+To, že jsem začínal s DrD na základní škole, jsem už [zmiňoval v dopise pro Altar](../2017/2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md). Tam někdy ve mě zakořenila láska k českému stylu RPG her, alias her na hrdiny.
 Ta láska nejdříve usnula, pak byla bita, škrcena, čtvrcena a vařena, aby po letech, na spáleništi vypáleném vysokou školou, prací a neoduševnělými radovánkami vyčkala na první slzu a opět vyklíčila.
 
 Po letech jsme tak, pouze s mírně obměněnou partou, začali hrát znovu a to tentokráte "zbrusu nové, moderní a dospělejší DrD+".
@@ -49,7 +49,7 @@ Tehdy začal pozvolný přerod od soukromého, obývákového projektu (v Silico
 
 ## Veřejně a pro všechny
 
-Odstartoval jsem to v létě [dopisem pro Altar](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md).
+Odstartoval jsem to v létě [dopisem pro Altar](../2017/2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md).
 Během čekání na odpověď jsem dopřevedl pravidla, hodil řeč s kamarádem o mobilní apce, s dalším s tužkou v ruce rozebíral, co by chtěl v DrD+ jinak a přitom jsem se začal trochu bát.
 Důvodem je Altar, protože všechen ten text, všechny obrázky (až na pět) jsou jeho a když si dupne, tak to všechno pěkně zas sbalím a půjdu si po svých (respektive bych musel pravidla schovat do šedé zóny internetu a přestat o nich šířit informace).
 Po půl roce jsem stále bez odpovědi, bez zákazu i bez povolení. Mají ode mě dvě prosby a Bouchi o mé aktivitě ví na RPG fóru, takže si nemyslím, že na mě zapomněli, jen asi neví, co se mnou.

@@ -11,7 +11,7 @@ perex: |
 
 *Poslední lopata se líně zhoupla dolů, prsť a štěrk naposledy zabubnovaly na dubové víko a byla tma. Klidná, konejšivá, věčná tma. A z té tmy se ozývalo ťukání, tiché, nepravidelné a jakoby nejisté a kdo špicoval uši, mohl zaslechnout tenké hlásky, které se překrývaly navzájem "My už nebudeme složité. My už jsme taky primitivové. Nechybíme vám?"*
 
-Před časem jsme odvozené vlastnosti Dračího doupěte plus [zahodili](2018-09-03-velkej_fanousek.md#Dovednosti), protože v nich něco smrdí, abychom je teď zase oživovali, protože nám ten smrad nedá a my budeme hledat a hledat, až najdeme ty, které pouze načichly smradem ostatních a kterým, po krátké sprše, budeme zase moci potřást pravicí.
+Před časem jsme odvozené vlastnosti Dračího doupěte plus [zahodili](../2018/2018-09-03-velkej_fanousek.md#Dovednosti), protože v nich něco smrdí, abychom je teď zase oživovali, protože nám ten smrad nedá a my budeme hledat a hledat, až najdeme ty, které pouze načichly smradem ostatních a kterým, po krátké sprše, budeme zase moci potřást pravicí.
 
 ## Jiná doba
 *"Čest práci, soudruhu."
@@ -26,9 +26,9 @@ Takže hurá za záchranou vlastností zhola odvozených, převážně smrdutýc
 
 ## Nejmenší má poslední slovo
 
-*Odvozené vlastnosti* jsme začali [pohřbívat ve *Velkém fanouškovi*](2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi **nechceme [počítat](https://pph.drdplus.info/?trial=1#urceni_aspektu_vzhledu)**.
+*Odvozené vlastnosti* jsme začali [pohřbívat ve *Velkém fanouškovi*](../2018/2018-09-03-velkej_fanousek.md#Dovednosti), částečně proto, že některé z nich se pravidlově používají minimálně až vůbec a hlavně proto, že se s nimi **nechceme [počítat](https://pph.drdplus.info/?trial=1#urceni_aspektu_vzhledu)**.
 
-Od té doby jsme toho na blog nasypali dost a dost, až jsme v [Neboji](2018-10-26-neboj.md#Jenom_akce) poprvé použili prosté výpočetní pravidlo
+Od té doby jsme toho na blog nasypali dost a dost, až jsme v [Neboji](../2018/2018-10-26-neboj.md#Jenom_akce) poprvé použili prosté výpočetní pravidlo
 
 > ...(výsledek určíš) podle toho, kterou ze zúčastněných vlastností máš **menší**
 
@@ -38,17 +38,17 @@ Od té doby jsme toho na blog nasypali dost a dost, až jsme v [Neboji](2018-10-
 
 ## Druhá šance
 
-Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se musí počítat a navrch přidáme [znovuobjevené *Charisma*](2018-10-31-cit_pro_charisma.md#Cit_nad_Charisma)
+Vezmeme si k ruce přehled všech odvozených vlastností z DrD+, které se musí počítat a navrch přidáme [znovuobjevené *Charisma*](../2018/2018-10-31-cit_pro_charisma.md#Cit_nad_Charisma)
 
 | Vlastnost | Výpočet | Poznámka |
 |-----|:---:|:---:|
-| ~~*Krása*~~ | (*Obratnost* + *Zručnost*)/2 + *Charisma*/2 | [R.I.P.](2018-11-09-vzpominky_na_krasu.md#Závěrem) |
+| ~~*Krása*~~ | (*Obratnost* + *Zručnost*)/2 + *Charisma*/2 | [R.I.P.](../2018/2018-11-09-vzpominky_na_krasu.md#Závěrem) |
 | *Nebezpečnost* | (*Síla*+*Vůle*)/2 + *Charisma*/2 | |
 | *Důstojnost* | (*Inteligence* + *Vůle*)/2 + *Charisma*/2 | |
-| ~~*Výdrž*~~ | (*Síla* + *Vůle*)/2 | [R.I.P.](2018-11-19-vydrz.md#Závěrem) |
-| ~~*Odolnost*~~ | *Síla + oprava za rasu* | [R.I.P.](2018-11-19-vydrz.md#Závěrem) |
+| ~~*Výdrž*~~ | (*Síla* + *Vůle*)/2 | [R.I.P.](../2018/2018-11-19-vydrz.md#Závěrem) |
+| ~~*Odolnost*~~ | *Síla + oprava za rasu* | [R.I.P.](../2018/2018-11-19-vydrz.md#Závěrem) |
 | *Rychlost* | (*Síla* + *Obratnost*)/2 | |
-| *Charisma* | [(*Cit* + *Inteligence*)/2](2018-10-31-cit_pro_charisma.md#Závěrem) | | |
+| *Charisma* | [(*Cit* + *Inteligence*)/2](../2018/2018-10-31-cit_pro_charisma.md#Závěrem) | | |
 
 *Vypadá to hrozně, co?*
 
@@ -62,9 +62,9 @@ Teď si uděláme malý průzkum do čísel a to rovnou legendárních. Hrdina t
 | *Charisma* | (5 + 5)/2 = **5** | **5** |
 
 U nového návrhu je jasný propad, hlavně tam, kde se kombinují vysoké a nízké vlastnosti, což znamená [hlavní a vedlejší vlastnosti](https://pph.drdplus.info/?trial=1#tabulka_povolani), což dává logiku, když místo průměru použijeme jen mrňouse.
-Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - *aby zvýšil své šance na přežití*. Takže nic, velké rozdíly vlastností zůstanou, jdeme dál.
+Ovšem my jsme rozdělení na hlavní a vedlejší vlastnosti [nedávno zrušili](../2018/2018-10-12-kombinace_povolani.md#Hlavní_a_hlavnější_vlastnost), změní to něco? No, popravdě ani ne, protože **hráč** bojovníka bude beztak klást důraz hlavně na *Sílu* a *Obratnost*, protože základní potřeba zůstává - *aby zvýšil své šance na přežití*. Takže nic, velké rozdíly vlastností zůstanou, jdeme dál.
 
-Další změna, kterou jsme nedávno navrhli, posunuje nulové začátečnické vlastnosti z [nuly na šest](2018-10-22-nula.md#Šestka), změní tohle něco? No, když se posunul začátek, tak se taky posunul konec, ne? Ani ne, už jsme naznačovali, že horní hranice vlastností [bude dvanáct](2018-10-29-minuta_inteligence.md#Baba_minuta). Trochu jsme ale zatajili, že to není absolutní strop, takže pokud teď trochu předběhneme dobu, tak můžeme vyřknout naprosto *nepromyšlený* stav našeho borce, který bude na neuvěřitelné jednadvacáté úrovni mít
+Další změna, kterou jsme nedávno navrhli, posunuje nulové začátečnické vlastnosti z [nuly na šest](../2018/2018-10-22-nula.md#Šestka), změní tohle něco? No, když se posunul začátek, tak se taky posunul konec, ne? Ani ne, už jsme naznačovali, že horní hranice vlastností [bude dvanáct](../2018/2018-10-29-minuta_inteligence.md#Baba_minuta). Trochu jsme ale zatajili, že to není absolutní strop, takže pokud teď trochu předběhneme dobu, tak můžeme vyřknout naprosto *nepromyšlený* stav našeho borce, který bude na neuvěřitelné jednadvacáté úrovni mít
 
 - *Sílu* patnáct
 - *Obratnost* deset
@@ -86,7 +86,7 @@ Zatímco u předchozích hodnot to vypadalo, že *úplně mimo* je náš nový n
 
 Z tohohle souboje vychází vítězně nový návrh, takže zatím je to 1:1 na zápasy.
 
-A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebujeme jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, ~~žádný průměr~~. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
+A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](../2018/2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebujeme jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, ~~žádný průměr~~. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
 
 Ovšem než se k odpovědi dostaneme, budeme si muset nejdříve v odvozených vlastnostech trochu uklidit. 
 
@@ -126,7 +126,7 @@ Klid, rozvaha, sebevědomí a nekončící vzdor i v těžkých chvílích udrž
 
 Že by do důstojnosti zasahovala některá z tělesných vlastností, to se nám nezdá, snad jen lehce *Zručnost*, díky které je snazší nést se vznešeně a klidně, což na mnohé důstojně zapůsobí, ale na stálé ovlivňování *Důstojnosti* to nestačí.
 
-Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností](2018-10-31-cit_pro_charisma.md#Závěrem) a skládat odvozenou vlastnost z odvozené vlastnosti smrdí skrytou chybou, tomu se budeme muset mrknout na zoubek.
+Ovšem v *Důstojnosti* máme *Charisma*, které je [nově odvozenou vlastností](../2018/2018-10-31-cit_pro_charisma.md#Závěrem) a skládat odvozenou vlastnost z odvozené vlastnosti smrdí skrytou chybou, tomu se budeme muset mrknout na zoubek.
 
 #### Zoubek důstojnosti
 *Charisma* je spojení *Citu* a *Inteligence* a protože *Inteligenci* už v *Důstojnosti* máme, tak otázka vlastně je, zda naši *Důstojnost* ovlivní také náš *Cit*.
@@ -154,7 +154,7 @@ Chvíli jsme koketovali s *Inteligencí*, protože chytřejší tvor dokáže l�
 
 Zapůsobit na ostatní, strhnout je na svou stranu, ovlivnit jejich rozhodnutí, vyvolat v nich kýžený pocit a vůbec ovlivňovat emoce ostatních tak, jak my pískáme, to je naše charisma.
 
-Že je *Charisma* složenou, odvozenou vlastností jsme zjistili v [samostatném článku](2018-10-31-cit_pro_charisma.md) a tady pouze připomeneme, že **nově** je *Charisma* použití
+Že je *Charisma* složenou, odvozenou vlastností jsme zjistili v [samostatném článku](../2018/2018-10-31-cit_pro_charisma.md) a tady pouze připomeneme, že **nově** je *Charisma* použití
 
 - *Citu*
     - což je nová základní vlastnost, v níž jsou ženy často ve výhodě
@@ -215,7 +215,7 @@ Pokud špatně nacítíme posluchače, nebo nevystihneme vhodný okamžik, sotva
 I u *Charisma* vidíme přímou závislost *Citu* na *Inteligenci* a *Inteligence* na *Citu*, takže i *Charisma* budeme získávat jako menší z obou základních vlastností.
 
 ## Závěrem
-Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](2018-11-09-vzpominky_na_krasu.md#Závěrem), kdy nám hlavně objevení *Citu* jako základní vlastnosti udělalo radost, pak jsme [zrušili *Krásu*](2018-11-09-vzpominky_na_krasu.md#Závěrem) pro její komplikovaný výpočet a hlavně silnou subjektivitu, kdy i mezi lidmi je vnímání krásy dosti odlišné, chvíli na to [došlo i na *Odolnost* a *Výdrž*](2018-11-19-vydrz.md#Závěrem), kdy *Odolnost* byla jen převlečenou *Silou* a *Výdrž* míchala tělesné a duševní vlastnosti, které jsme ale úplně nezahodili, jen odmítli v současné podobě a předšlapali cestičku jejich nástupcům a nakonec jsme v tomto článku odložili *Nebezpečnost*, opět kvůli míchání tělesných a duševních vlastností a přijali zpět *Důstojnost*, *Rychlost* a zopakovali přijetí *Charisma* mezi odvozené vlastnosti a hlavně jsme u těchto tří vlastností potvrdili, že budou mít výslednou hodnotu podle **nejmenší** z vlastností, ze které se skládají
+Už před časem jsme [rozložili *Charisma* na *Inteligenci* a *Cit*](../2018/2018-11-09-vzpominky_na_krasu.md#Závěrem), kdy nám hlavně objevení *Citu* jako základní vlastnosti udělalo radost, pak jsme [zrušili *Krásu*](../2018/2018-11-09-vzpominky_na_krasu.md#Závěrem) pro její komplikovaný výpočet a hlavně silnou subjektivitu, kdy i mezi lidmi je vnímání krásy dosti odlišné, chvíli na to [došlo i na *Odolnost* a *Výdrž*](../2018/2018-11-19-vydrz.md#Závěrem), kdy *Odolnost* byla jen převlečenou *Silou* a *Výdrž* míchala tělesné a duševní vlastnosti, které jsme ale úplně nezahodili, jen odmítli v současné podobě a předšlapali cestičku jejich nástupcům a nakonec jsme v tomto článku odložili *Nebezpečnost*, opět kvůli míchání tělesných a duševních vlastností a přijali zpět *Důstojnost*, *Rychlost* a zopakovali přijetí *Charisma* mezi odvozené vlastnosti a hlavně jsme u těchto tří vlastností potvrdili, že budou mít výslednou hodnotu podle **nejmenší** z vlastností, ze které se skládají
 
 - například *Rychlost*, složená ze *Síly* sedm a *Obratnosti* dva bude ve výsledku dva
 

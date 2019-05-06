@@ -20,7 +20,7 @@ V tomhle článku ti proto popíšu, jak stránky fungují po technické, ajťá
 
 *To základní bychom měli, stránky se načítaly, aaaleee pooomaaaluuu*
 
-Jak už jsem [psal v dopise Altaru](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), začátky stránek [drdplus.info](https://www.drdplus.info) byly tristní. [PPH](https://pph.drdplus.info/?trial=1) se načítaly tak dlouho, že jsem rychleji vyhrabal [původní PDFko](https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29) a v něm si našel co jsem hledal.
+Jak už jsem [psal v dopise Altaru](../2017/2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), začátky stránek [drdplus.info](https://www.drdplus.info) byly tristní. [PPH](https://pph.drdplus.info/?trial=1) se načítaly tak dlouho, že jsem rychleji vyhrabal [původní PDFko](https://obchod.altar.cz/drd-prirucka-pro-hrace-everze-p-972.html?buy=Koup%C3%ADm+DrD%2B+PPH+%28Pravidla+pro+hr%C3%A1%C4%8De%29) a v něm si našel co jsem hledal.
 No, trochu mě to otrávilo, takže jsem se na pravidla na webu na čas vykvajznul...
 
 ## Posíláme části najednou

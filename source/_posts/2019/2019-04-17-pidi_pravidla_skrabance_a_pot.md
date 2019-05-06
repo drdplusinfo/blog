@@ -75,7 +75,7 @@ Jen si na ten klid najít čas.
 "A kde je ten drak teď?"
 "Chrápe, to se ví, pod horou, líže si rány. To víte, jak se bába lekla, tak vo něj přerazila vrbový koště a to nejni jako ty přespolní smetáky dneska, tehdá ste s nima moh skály lámat!"*
 
-A je to tady, [zase ten čas](2018-11-30-unaveny_vul.md#Čas). Mohli bychom tu plácnout něco jako *jeden bod Únavy či Zranění z prvního řádku ti zmizí za deset minut* a bylo by, jenže to bychom nesměli být takoví šťourové.
+A je to tady, [zase ten čas](../2018/2018-11-30-unaveny_vul.md#Čas). Mohli bychom tu plácnout něco jako *jeden bod Únavy či Zranění z prvního řádku ti zmizí za deset minut* a bylo by, jenže to bychom nesměli být takoví šťourové.
 
 Co když odpočíváš jenom trochu? Co když odpočíváš v mírném nepohodlí? A co když ve velkém? A co postih za hlubší únavu? A co za zranění?
 
