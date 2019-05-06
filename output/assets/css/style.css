@@ -268,7 +268,7 @@ nav ul {
 
 /* https://stackoverflow.com/a/19027954/1348344 */
 nav ul li a, nav a {
-    padding: .81em 1em;
+    padding: .75em 1em;
     color: #FFF;
 }
 
