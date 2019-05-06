@@ -4,7 +4,7 @@ title: "Zmrtvýchvstání odvozených vlastností"
 perex: |
     S odvozenými vlastnostmi Dračího doupěte plus jsme se už jednou loučili, ale nedalo nám to, vyčenichali jsme co nám na nich vadilo a teď některé z nich vítáme zpět.
     
-    A co vy, kdy jste to naposledy vzali z hospody zkratkou přes běžeckou dráhu?
+    *A co vy, kdy jste to naposledy vzali z hospody zkratkou přes běžeckou dráhu?*
 ---
 
 ## Zmrtvýchvstání odvozených vlastností

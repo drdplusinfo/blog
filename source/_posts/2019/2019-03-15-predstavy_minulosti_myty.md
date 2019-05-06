@@ -4,7 +4,7 @@ title: "Představy minulosti - *Mýty*"
 perex: |
     Před šestnácti lety vypustili původní autoři DrD+ do Dechu draka malou ukázku pravidel a naznačili své obavy z jejich přijetí. Na blogu jsme se už jednou nad situací původních autorů zamýšleli, dnes jsme přidali naší situaci.
     
-    A co vy, jedli jste někdy etalon Ratatouille?
+    *A co vy, jedli jste někdy etalon Ratatouille?*
 ---
 
 ## Závěrem

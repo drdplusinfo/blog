@@ -6,7 +6,7 @@ perex: |
 
     Ponořili jsme se do chvilkové únavy a drobných zranění, k tomu jsme zužitkovali vaše názory a zkušenosti při sprintu a běhu a výsledek je... no... pozitivně negativní.
 
-    A co vy, kdy jste se naposledy zranili?
+    *A co vy, kdy vám naposledy tekla krev?*
 ---
 
 Za spolupráci děkujeme všem, kteří se zapojili, zvláštní dík pak patří:

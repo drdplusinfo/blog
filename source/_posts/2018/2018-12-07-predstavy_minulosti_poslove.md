@@ -6,7 +6,7 @@ perex: |
     
     Ten text nám má i po čtrnácti letech co říct, protože se týká nejen minulosti, ale i budoucnosti DrD+. A tak jsme ho i okomentovali.
     
-    A co vy, máte co říct i po čtrnácti společných letech?
+    *A co vy, máte co říct i po čtrnácti společných letech?*
 ---
 
 ## Úvodem

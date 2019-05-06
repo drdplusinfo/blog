@@ -6,7 +6,7 @@ perex: |
      
      K tomu přidáváme náš komentář, jak se chceme vyhnout podobně obrovské práci, ze které smrdí vyhoření a přitom ji dokončit v podobném rozsahu. 
  
-     A co vy, kdy vám naposledy něco vyhořelo?
+     *A co vy, kdy vám naposledy něco vyhořelo?*
 ---
 
 Tím se rozloučíme s historickými články o *Představách minulosti*, protože více jich ze [stránek Altaru](https://altar.cz/drdplus/index.html) už nevymáčkneme. 
