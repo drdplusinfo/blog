@@ -2,6 +2,9 @@
 id: 2018-10-31-1
 title: "Cit pro charisma"
 perex: |
+    Charisma je s námi v Dračím doupěti už nějaký ten pátek, přesto jsme se rozhodli s její zdánlivě neotřesitelnou pozicí zatřást.
+    
+    *A co vy, jste spíše citliví, nebo spíše charismatičtí?*
 ---
 
 ## Cit pro charisma

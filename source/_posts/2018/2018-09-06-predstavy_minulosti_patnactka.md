@@ -2,6 +2,7 @@
 id: 2018-09-06-1
 title: "Představy minulosti - *Patnáctka*"
 perex: |
+    Historická představa o budoucnosti DrD+, jak ji viděli původní autoři.
 ---
 
 ## Představy minulosti - *Patnáctka*

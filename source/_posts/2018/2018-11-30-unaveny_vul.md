@@ -2,6 +2,11 @@
 id: 2018-11-30-1
 title: "Unavený vůl"
 perex: |
+    *I vůl může bejt unavenej, ale musí umět zatnout zuby a táhnout, když pán poručí.*
+    
+    V pravidlech hledáme cestu, jak alespoň na chvíli překonat bolest a únavu.
+
+    *A co vy, máte radši voly, nebo opice?*
 ---
 
 ## Unavený vůl

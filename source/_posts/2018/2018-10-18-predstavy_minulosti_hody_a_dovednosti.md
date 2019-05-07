@@ -2,6 +2,9 @@
 id: 2018-10-18-1
 title: "Představy minulosti - *Hody a dovednosti*"
 perex: |
+    Uzrál nám další příspěvek na blog, opět s historickým článkem z dob, kdy mnozí z vás ještě tahali kačera a k tomu náš komentář.
+    
+    *A co vy, kdy jste si naposledy zabouchli klíče?*
 ---
 
 ## Představy minulosti - *Hody a dovednosti*

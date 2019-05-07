@@ -2,6 +2,9 @@
 id: 2018-10-10-1
 title: "Inteligentní bojovník"
 perex: |
+    Kapánek se nám návrh Boje rozležel v hlavě, zamíchali do něj Inteligenci a Zručnost, zvýhodnili Zloděje a zavrhli Moudrost.
+
+    *A co vy, chybí vám Moudrost v Dračím doupěti? A bojujete radši slovy, nebo mečem?*
 ---
 
 ## Inteligentní bojovník
