@@ -29,7 +29,7 @@ Před dvěma lety to byla volba stejně jasná, jako rozkaz *chceme blog **hned*
 Jenže ze soukromého, garážového projektu se rychle stávala výkladní skříň našeho snažení a už po roce jsem nadskakoval na židli, kdykoliv jsem chtěl na blogu něco vylepšit.
 
 ### Technický dluh
-S [kaskádovými styly](https://www.jakpsatweb.cz/css/css-uvod.html) jsem si ještě pohrál, takže náš všudypřítomný vizuál jsem na starý blog dostal. Javascript jsem taky rozklíčoval, takže jsem mohl opravit otravné poskakování stránky, když jste kliknuli na nadpis.
+S [kaskádovými styly](https://www.jakpsatweb.cz/css/css-uvod.html) jsem si ještě pohrál, takže náš všudypřítomný vizuál jsem na starý blog dostal. Javascript jsem taky rozklíčoval, takže jsem mohl opravit otravné poskakování stránky, když jste klikli na nadpis.
 
 Ale donutit vyhledávače, aby obsah blogu indexovaly ? U něčeho, co se vykresluje ryze javascriptem? Jenom Google to jakžtakž zvládne.
 Nebo čtečky stránek, třeba můj oblíbený [Pocket](https://getpocket.com/explore/trending), pouze poslušně zobrazovaly zdrojový kód.
@@ -38,7 +38,7 @@ A co tolik potřebné komentáře od vás, co úvodní texty (perex), úvodní o
 ## Čas hledání
 Že to stojí za starou belu jsme věděli poslední rok. Pokukovali jsme po ostatních blogách, přemýšleli o hotovém blogu [Blogger](https://www.blogger.com/) od Google, potom od [Wordpressu](https://wordpress.com/), ale věděli jsme, že by nás to chvilkové pohodlí zase dohnalo. A taky mi hodně vadí reklamy, které na blogách zdarma prostě jsou.
 
-Ovšem, kdo hledá, najde a já, jak jsem pořád podvědomě hledal, tak jsem našel blog [Tomáše Votruby](https://www.tomasvotruba.cz/). Tomáš je PHP programátor, který dokázal prorazit z malé české kotliny do okolních zemí, bloguje o tom a hlavně, zatracně hodně své práce dává [zadarmo všem](https://github.com/TomasVotruba). Včetně svého blogu!
+Ovšem, kdo hledá, najde. A já, jak jsem pořád podvědomě hledal, tak jsem našel blog [Tomáše Votruby](https://www.tomasvotruba.cz/). Tomáš je PHP programátor, který dokázal prorazit z malé české kotliny do okolních zemí, bloguje o tom a hlavně, zatraceně hodně své práce dává [zadarmo všem](https://github.com/TomasVotruba). Včetně svého blogu!
 
 Omrknul jsem mu [zdrojové kódy](https://github.com/tomasvotruba/tomasvotruba.cz), vyzkoušel si to u sebe v [Dockeru](https://www.zdrojak.cz/clanky/proc-pouzivat-docker/) a pak už to šlo ráz na ráz.
 
