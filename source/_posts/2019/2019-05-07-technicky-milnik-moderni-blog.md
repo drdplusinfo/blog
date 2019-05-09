@@ -1,6 +1,7 @@
 ---
 id: 2019-05-07-1    
 title: "Technický milník - *Moderní blog*"
+image: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png
 perex: |
     *Šaty dělaj člověka a grafika internet*
     
@@ -36,7 +37,7 @@ Nebo čtečky stránek, třeba můj oblíbený [Pocket](https://getpocket.com/ex
 A co tolik potřebné komentáře od vás, co úvodní texty (perex), úvodní obrázky... Ne, to snadno nešlo. To už bych si to rovnou mohl napsat celé sám.
 
 ## Čas hledání
-Že to stojí za starou belu jsme věděli poslední rok. Pokukovali jsme po ostatních blogách, přemýšleli o hotovém blogu [Blogger](https://www.blogger.com/) od Google, potom od [Wordpressu](https://wordpress.com/), ale věděli jsme, že by nás to chvilkové pohodlí zase dohnalo. A taky mi hodně vadí reklamy, které na blogách zdarma prostě jsou.
+Že to stojí za starou belu jsme věděli poslední rok. Pokukovali jsme po ostatních blogách. Přemýšleli jsme o hotovém blogu od Google, jako to má Paul se svou [Slovanologií](https://slovanologie.blogspot.com/) a Markus se svým [Návratem do dungeonu](https://zpatky.wordpress.com/). Potom o Wordpressu, na kterém má blog dvorní kreslíř Dračí hlídky [Ondřej Hrdina](https://ondrejhrdina.wordpress.com/). A taky o livejournal, na kterém má Bifi své [Hlboké lesy](https://hlbokelesy.livejournal.com/). Ale věděli jsme, že by nás to chvilkové pohodlí, ten *blog hned teď*, zase dohnalo. A taky mi hodně vadí reklamy, které na blogách zdarma prostě jsou.
 
 Ovšem, kdo hledá, najde. A já, jak jsem pořád podvědomě hledal, tak jsem našel blog [Tomáše Votruby](https://www.tomasvotruba.cz/). Tomáš je PHP programátor, který dokázal prorazit z malé české kotliny do okolních zemí, bloguje o tom a hlavně, zatraceně hodně své práce dává [zadarmo všem](https://github.com/TomasVotruba). Včetně svého blogu!
 
@@ -47,7 +48,7 @@ No, ono teda to *ráz na ráz* trvalo asi čtrnáct dní dost intenzivní práce
 
 A tady to je
 
-- nový vzhled,
+- nový vzhled
 - rychlejší načítání
 - zobrazování i ve čtečkách
 - diskuze (konečně!)
