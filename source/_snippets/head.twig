@@ -9,8 +9,24 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
 
-    {% if block('socialTags') is defined %}
-        {{ block('socialTags') }}
+    {% if post is defined %}
+        {# Facebook sharing #}
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
+        <meta property="og:description" content="{{ post.perex|striptags }}"/>
+        <meta property="og:url" content="{{ site_url }}/{{ post|link }}"/>
+        {% if post.image %}
+            <meta property="og:image" content="{{ site_url }}/{{ post.image|trim('/', 'left') }}"/>
+        {% endif %}
+
+        {# Twitter sharing #}
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:site" content="@votrubaT">
+        <meta name="twitter:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
+        <meta name="twitter:description" content="{{ post.perex|striptags }}"/>
+        {% if post.image %}
+            <meta property="twitter:image" content="{{ site_url }}/{{ post.image|trim('/', 'left') }}"/>
+        {% endif %}
     {% endif %}
 
     <link rel="alternate" type="application/rss+xml" title="{{ site_title }} Blog RSS" href="/rss.xml">
