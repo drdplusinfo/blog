@@ -1,7 +1,7 @@
 ---
 id: 2019-05-07-1    
 title: "Technický milník - *Moderní blog*"
-image: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png
+image: /assets/images/posts/blog.png
 perex: |
     *Šaty dělaj člověka a grafika internet*
     

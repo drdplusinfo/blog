@@ -23,7 +23,7 @@ id: blog
 
             {% if loop.first %}
                 <article class="pt-2 pb-4 mb-4 col-md-12">
-                    <h2 class="firstPost text-center">
+                    <h2 class="first-post text-center">
                         <a href="/{{ post|link }}/">
                             {{ post.title|raw }}
                         </a>
@@ -34,7 +34,7 @@ id: blog
                     </div>
 
                     <div class="card">
-                        <div class="card-body">{{ post.perex|raw }}</div>
+                        <div class="card-body perex">{{ post.perex|raw }}</div>
                     </div>
                 </article>
             {% else %}
