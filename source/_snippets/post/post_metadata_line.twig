@@ -1,10 +1,10 @@
 <ul class="list-inline post-metadata">
-    <li class="list-inline-item mr-3">
+    <li class="list-inline-item mr-3" title="Časová náročnost">
         <em class="fas fa-clock fa-fw"></em>
-        <strong>{{ post.getReadingTimeInMinutes() }} min</strong>
+        {{ post.getReadingTimeSmiley() }}
     </li>
 
-    <li class="list-inline-item mr-3">
+    <li class="list-inline-item mr-3" title="Datum">
         <em class="fas fa-calendar fa-fw"></em>
         <time datetime="{{ post.getDateInFormat('Y-m-D') }}">
             {% if post.getDateInFormat('Y') == "now"|date("Y") %}
