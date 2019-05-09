@@ -20,7 +20,7 @@ body {
 
 .background-image {
     background: url(/assets/images/main-background.png?version=5c955ad6290eaa184f6ba756de169796) no-repeat top;
-    background-size: cover;
+    background-size: contain;
     position: fixed;
     top: 0;
     left: 0;
