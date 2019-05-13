@@ -10,7 +10,7 @@ parameters:
     post_template_path: 'templates/new_post.twig'
 
     # global templates variables
-    google_analytics_tracking_id: "UA-121206931-1"
+    google_analytics_tracking_id: " UA-121206931-15"
     site_title: "DrD+"
     site_url: "https://blog.drdplus.info"
     disqus_shortname: "blog-drdplus-info"
