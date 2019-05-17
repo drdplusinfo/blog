@@ -34,7 +34,7 @@ id: blog
                     </div>
 
                     <div class="card">
-                        <div class="card-body perex">{{ post.perex|raw }}</div>
+                        <a class="card-body perex" href="{{ post|link }}">{{ post.perex|raw }}</a>
                     </div>
                 </article>
             {% else %}

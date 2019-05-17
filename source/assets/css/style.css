@@ -677,6 +677,16 @@ th, td {
     margin: 0;
 }
 
+a.perex, a.perex:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+a.perex:hover {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.45);
+}
+
 .perex img {
     max-height: 9em;
     display: block;
