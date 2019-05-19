@@ -4,20 +4,21 @@
         return
     }
 
-    const postMatches = hash.match(/^#[!]clanky[/](?<post>.+)$/)
+    const postMatches = hash.match(/^#[!]clanky[/](.+)$/)
     if (!postMatches) {
         return
     }
-    const post = postMatches.groups.post
+    console.log(postMatches)
+    const post = postMatches[1]
 
-    const partsMatches = post.match(/^(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})-(?<name>.+)[.]md$/)
+    const partsMatches = post.match(/^(\d{4})-(\d{2})-(\d{2})-(.+)[.]md$/)
     if (!partsMatches) {
         return
     }
-    const year = partsMatches.groups.year
-    const month = partsMatches.groups.month
-    const day = partsMatches.groups.day
-    const name = partsMatches.groups.name
+    const year = partsMatches[1]
+    const month = partsMatches[2]
+    const day = partsMatches[3]
+    const name = partsMatches[4]
     const url = `/blog/${year}/${month}/${day}/${name}`
 
     window.location.replace(url)
