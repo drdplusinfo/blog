@@ -9,7 +9,7 @@ header('Cache-Control: no-cache');
 $output = [];
 $exitCode = 0;
 
-$codeUpdate = ['start' => new DateTimeImmutable()];
+/*$codeUpdate = ['start' => new DateTimeImmutable()];
 try {
     $codeUpdate['result'] = (new Granam\Git\Git())->update(__DIR__);
 } catch (Throwable $throwable) {
@@ -24,10 +24,32 @@ $output['code_update'] = $codeUpdate;
 if ($exitCode !== 0) {
     echo json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     exit($exitCode);
+}*/
+
+$composerInstall = ['start' => new DateTimeImmutable()];
+exec('composer install', $composerOutput, $composerCode);
+$composerOutput = array_filter($composerOutput, function (string $row) {
+    return trim($row) !== '';
+});
+$composerOutput = implode("\n", $composerOutput);
+if ($composerCode !== 0) {
+    $composerInstall['error'] = $composerOutput;
+    $exitCode = $composerCode;
+} else {
+    $composerInstall['result'] = $composerOutput;
+}
+$composerInstall['end'] = new DateTimeImmutable();
+$composerInstall['duration'] = $composerInstall['end']->diff($composerInstall['start']);
+$composerInstall['exit_code'] = $exitCode;
+$output['composer_install'] = $composerInstall;
+
+if ($exitCode !== 0) {
+    echo json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    exit($exitCode);
 }
 
 $outputGeneration = ['start' => new DateTimeImmutable()];
-exec('vendor/bin/statie generate source', $generationOutput, $generationCode);
+exec('vendor/bin/statie generate source 2>&1', $generationOutput, $generationCode);
 $generationOutput = array_filter($generationOutput, function (string $row) {
     return trim($row) !== '';
 });
