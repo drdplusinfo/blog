@@ -3,13 +3,15 @@ error_reporting(-1);
 ini_set('display_errors', '1');
 require_once __DIR__ . '/vendor/autoload.php';
 
+set_time_limit(60);
+
 header('Content-Type: application/json');
 header('Cache-Control: no-cache');
 
 $output = [];
 $exitCode = 0;
 
-/*$codeUpdate = ['start' => new DateTimeImmutable()];
+$codeUpdate = ['start' => new DateTimeImmutable()];
 try {
     $codeUpdate['result'] = (new Granam\Git\Git())->update(__DIR__);
 } catch (Throwable $throwable) {
@@ -24,7 +26,7 @@ $output['code_update'] = $codeUpdate;
 if ($exitCode !== 0) {
     echo json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     exit($exitCode);
-}*/
+}
 
 $composerInstall = ['start' => new DateTimeImmutable()];
 exec('composer install', $composerOutput, $composerCode);
