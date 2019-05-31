@@ -1,7 +1,9 @@
 ---
 id: 2018-05-03-1
 title: "Neviditelná recenze"
+image: /assets/images/posts/logo_nevditelne_knihy.png
 perex: |
+    Našlapaná dobrými nápady, kvalitními texty a prošpikovaná jediným poselstvím - *vážně všechno, co děláte, bude bez následků?*
 ---
 
 ## Určitě nevím
@@ -23,18 +25,16 @@ Pokud ti to stačí, gratuluji, ušetříš si spoustu času čtením textu, kte
 
 Pokud ti to nestačí, výborně, nadešel čas obsáhnout pojmy a dojmy z [Neviditelné knihy](http://neviditelnakniha.cz) obšírněji.
 
----
-id: 2019-05-05-1
-title: "Únava jako"
-perex: |
----Recenze neviditelné knihy
+## Pocity
 
 Pamatuji si, že když jsem přelouskal první kapitolu [Neviditelné knihy](http://neviditelnakniha.cz), zůstalo ve mě takové pichlavé nepříjemno, něco mezi zklamáním a bolením hlavy. Asi jako když ti někdo pošle odkaz na *fakt skvělý video* a ono je ve skotské angličtině.
-Nedávno jsem četl tu samou kapitolu znovu, což je asi tak po dvou měsících, a víš ty co? Jo, rád bych někomu poslal odkaz na fakt skvělý video, jen nevím, kdo si troufne na skotskou angličtinu.
+
+Nedávno jsem četl tu samou kapitolu znovu (což je asi tak po dvou měsících) a víš ty co? Jo, rád bych někomu poslal odkaz na fakt skvělý video, jen nevím, kdo si troufne na skotskou angličtinu.
 
 ## Reklama, očekávání a realita
 
-Reklama na [Neviditelnou knihu](http://neviditelnakniha.cz) kolem mě plula už delší dobu, ale dokud jsem neuviděl tu na [dracidoupe.cz](http://www.dracidoupe.cz/), kde se výslovně píše, že 
+Reklama na [Neviditelnou knihu](http://neviditelnakniha.cz) kolem mě plula už delší dobu, ale dokud jsem neuviděl tu na [dracidoupe.cz](http://www.dracidoupe.cz/), kde se výslovně píše, že
+ 
 > Vychází nový modul pro **Dračí doupě** a jiná fantasy RPG
 
 tak to o mě jen tak cinkalo a nic. Samozřejmě to vypovídá něco hlavně o mě, že jsem jednoduchý tvor a chci všechno strkat až pod nos, ale co mám tak vypozorované, tak je na tom stejně spousta dalších lidí.
