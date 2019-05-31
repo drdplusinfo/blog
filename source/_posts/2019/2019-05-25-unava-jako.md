@@ -1,15 +1,25 @@
 ---
 id: 2019-05-05-1
 title: "Únava jako..."
+image: /assets/images/posts/olympiada.png?version=f73c2b6dfef52f43b98aed9b035c6adc
 perex: |
+    *Hrál by Usain Bolt Dračí doupě, kdyby uměl česky? A hrál ho Emil Zátopek? A hraje ho Sáblíková?*
+    
+    Zátěžová zkouška pravidel pro Rychlost a Únavu olympijskými borci. 
 ---
+
+## V jednoduchosti je krása
+
+Už několikrát jsme se v našich článcích opřeli o jednoduché pravidlo pro únavu. Něco unavuje jak chůze, něco jako běh, [a tak dále](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu). Jak nádherně jenoduché!
+
+
 
 Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu)
 
 | Unavuje jako | Bod únavy za |
 |-----|----|
-| odpočinek | - |
-| ploužení | dvě hodiny |
+| sezení | - |
+| postávání | dvě hodiny |
 | chůze | jednu hodinu |
 | spěch | půl hodiny |
 | běh | pět minut |
@@ -79,4 +89,4 @@ K věci, prosím.
 
 > V tom případě byl Feidippes ignorant a na únavu kašlal.
 
-Je to řečeno poněkud expresivně, ale tak by to mohlo být. Jedinci, uvyklí námaze a bolesti, zřejmě dokáží zatnout zuby, odsunout únavu, bolest a postihy a doběhnout až za hranice smrtelníků. Nejde o to, že by na ně pravidla neplatila, jde o to, že platí ještě zákony železné vůle a fanatismu, další pravidla, která v DrD+ nejsou a která jsme se už [pokoušeli objevit](2018-11-30-unaveny_vul.md#Závěrem) (protože tvorbu pravidel vnímáme spíše jako *objevování* přírodních zákonů), ale výsledek nám smrděl a ještě k tomu by podle něj nedoběhl ani Zátopek, ani Feidippes.
+Je to řečeno poněkud expresivně, ale tak by to mohlo být. Jedinci, uvyklí námaze a bolesti, zřejmě dokáží zatnout zuby, odsunout únavu, bolest a postihy a doběhnout až za hranice smrtelníků. Nejde o to, že by na ně pravidla neplatila, jde o to, že platí ještě zákony železné vůle a fanatismu, další pravidla, která v DrD+ nejsou a která jsme se už [pokoušeli objevit](../2018/2018-11-30-unaveny_vul.md#Závěrem) (protože tvorbu pravidel vnímáme spíše jako *objevování* přírodních zákonů), ale výsledek nám smrděl a ještě k tomu by podle něj nedoběhl ani Zátopek, ani Feidippes.
