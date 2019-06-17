@@ -8,7 +8,7 @@ perex: |
     
     Popisujeme, proč kalkulátory patří minulosti, kam jdeme za budoucností Dračího doupěte plus a jak vzácný je čas na práci.
 
-    *A co vy, znáte své démony?*
+    *A co vy, znáte svou budoucnost?*
 ---
 
 *Autorem ilustrace odlétajícího sčotu je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*
