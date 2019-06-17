@@ -101,13 +101,13 @@ A když teď plánujeme ukázkové pidi dobrodružství, do toho vyjednáváme i
 Přesto se kalkulátor démonů propracoval na první místo. Zjistili jsme totiž, že s potřebou nového základu pravidel se nám posouvají hratelná povolání, takže co teď? Makat na nových pravidlech a nechat lidi, ať si se současnými "vysokoškolskými skripty" poradí sami? Když i my jsme si na nich vylámali zuby? To nezní jako dobrý plán.
 Už od začátku jsme věděli, že budou přicházet nové verze pravidel, ale taky jsme už od začátku věděli, že budeme staré verze udržovat. A ať chceme nebo ne, tak theurgovy démoni jsou dokonce verze stále současná.
 
-Proto jsme dokončili ještě jeden kalkulátor, [theurgovi démony](https://demon.theurg.drdplus.info/). Abychom ulevili současným hráčům a zpřístupnili jim tu část hry, která by jim bez kalkulátoru zůstala zapovězena.
+Proto jsme dokončili ještě jeden kalkulátor, [theurgovy démony](https://demon.theurg.drdplus.info/). Abychom ulevili současným hráčům a zpřístupnili jim tu část hry, která by jim bez kalkulátoru zůstala zapovězena.
 
 ## Závěrem
 
 Díky éře kalkulátorů jsme se naučili, že v laboratorních podmínkách se vyvíjí mnohdy stejně tak rychle, jako slepě až zbytečně.
 
-Vypěstovali jsme si v hlavě majáček, který nám spustí alarm, kdykoli někoho dostane chuť na kalkulátor - *Nebezpečí složitosti! Pozor pozor! S tímhle se lidé nechtějí počítat!*
+Vypěstovali jsme si v hlavě majáček, který nám spustí alarm, kdykoli někdo dostane chuť na kalkulátor - *Nebezpečí složitosti! Pozor pozor! S tímhle se lidé nechtějí počítat!*
 
 Potvrdili jsme si, že některá pravidla jsou potřeba méně *("Dveře jsi vypáčil po dvou hodinách." "Ale minule to byla jen hodina? Vždyť je to vlastně jedno.")* a některá více *("Usmíváš se velitelsky na rohatého démona, kterého jsi právě vyvolal z víru sfér. A on se usmívá na tebe, odhalujíc nažloutlé tesáky. Usmívá se jako lovec, který vidí svou první kořist." "Příště už si od tebe kostky nepůjčuju...")*
 
