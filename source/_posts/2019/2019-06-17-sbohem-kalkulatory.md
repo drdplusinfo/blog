@@ -26,7 +26,9 @@ Přišel čas na malé ohlédnutí.
 *Jak to všechno začalo*
 
 Kdysi dávno přišel jeden člen naší družiny s tím, že by si zahrál theurga. Jenže se mu nechce se počítat s formulemi. A tak jsme dali dohromady [počítadlo theurgových formulí](https://formule.theurg.drdplus.info/).
-U toho jsme si pěkně zanadávali, jak jsou ta pravidla pro theurga složitá. Ale abychom jen planě neplkali, tak jsme alespoň přejmenovali ty všudypřítomné zkratky profilů na celá slova *(Mod = Jiskra, Pr = Průraz, Ba = Bariéra a podobně)*.
+
+U toho jsme si pěkně zanadávali, jak jsou ta pravidla pro theurga složitá.
+Ale abychom jen planě neplkali, tak jsme alespoň přejmenovali ty všudypřítomné zkratky profilů na celá slova.
 A taky jsme u každého profilu přidali odkazy na všechny ty formule a modifikátory, které k tomu kterému profilu sedí. Protože bez toho nikdo z nás nedokázal ta pravidla používat, natož podle nich programovat.
 
 *Vážně bylo potřeba vynucovat si v pravidlech onen dojem vysokoškolských skript za každou cenu?*
