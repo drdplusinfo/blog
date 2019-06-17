@@ -75,16 +75,16 @@
         },
         {
             "name": "drdplusinfo/statie",
-            "version": "v5.5.24",
+            "version": "v5.5.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drdplusinfo/statie.git",
-                "reference": "f60dd5361001069a2963f1305561295202d3e49b"
+                "reference": "472ef518e5b432e7133b89997d0c5e264bd01b49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/f60dd5361001069a2963f1305561295202d3e49b",
-                "reference": "f60dd5361001069a2963f1305561295202d3e49b",
+                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/472ef518e5b432e7133b89997d0c5e264bd01b49",
+                "reference": "472ef518e5b432e7133b89997d0c5e264bd01b49",
                 "shasum": ""
             },
             "require": {
@@ -138,7 +138,7 @@
                 "MIT"
             ],
             "description": "Static Site Generator",
-            "time": "2019-05-09T11:43:44+00:00"
+            "time": "2019-06-17T09:38:39+00:00"
         },
         {
             "name": "erusev/parsedown",
