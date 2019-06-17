@@ -1,5 +1,5 @@
 ---
-id: 2019-05-07-1    
+id: 2019-05-07-1
 title: "Technický milník - *Moderní blog*"
 image: /assets/images/posts/blog.png?version=cf08433afddc37c1b15a996477dfd8cb
 perex: |
