@@ -19,8 +19,8 @@ Přišel čas na malé ohlédnutí.
 
 ### Formule 1
 
-Nejdříve jsme na žádost jednoho člena naší družiny dali dohromady [počítadlo theurgových formulí](https://formule.theurg.drdplus.info/). U toho jsme si pěkně zanadávali na složitost pravidla pro theurga. A abychom jen planě neplkali, tak jsme alespoň přejmenovali ty všudypřítomné zkratky profilů na celá slova *(Mod = Jiskra, Pr = Průraz, Ba = Bariéra a podobně)*.
-A taky jsme u každého profilu přidali odkazy na všechny ty formule a modifikátory, které k tomu kterému profilu sedí. Protože bez toho jsme nedokázali ta pravidla používat.
+Nejdříve jsme na žádost jednoho člena naší družiny dali dohromady [počítadlo theurgových formulí](https://formule.theurg.drdplus.info/). U toho jsme si pěkně zanadávali, jak jsou ta pravidla pro theurga složitá. Ale abychom jen planě neplkali, tak jsme alespoň přejmenovali ty všudypřítomné zkratky profilů na celá slova *(Mod = Jiskra, Pr = Průraz, Ba = Bariéra a podobně)*.
+A taky jsme u každého profilu přidali odkazy na všechny ty formule a modifikátory, které k tomu kterému profilu sedí. Protože bez toho jsme nedokázali ta pravidla používat, natož podle nich porgramovat.
 
 *Vážně bylo potřeba vynucovat si v pravidlech onen dojem vysokoškolských skript za každou cenu?*
 
@@ -67,11 +67,11 @@ Poté už přišla éra [probouzení](2019-03-12-ucime_se_z_chyb.md), až jsme n
 Přesto jsme se ještě do jednoho počítadla pustili, ovšem tentokráte po zralé úvaze.
 
 Už z našeho dřívějšího hraní jsme měli nakousnutý kalkulátor démonů, jakéhosi bratrance prvního počítadla formulí.
-My jsme se k vyvolávání démonů nikdy nedostali, takže z naší družiny už potřeba tohohle počítadla nepřicházela, ale z komunity *drdplus.info* ano.
+My jsme se k vyvolávání démonů nikdy nedostali, takže pro nás bylo tohle počítadlo k ničemu, ale komunita *drdplus.info* ho chtěla.
 
-*Vážně to někdo potřebuje? Chce se nám to dělat? Nestačilo to už?*
+Hlodaly v nás ale pochybnosti, *Vážně to někdo potřebuje? Chce se nám to dělat? Nestačilo to už?*
 
-Vyléčeni z bezhlavé tvorby čehokoli, co je zdánlivě nepostradatelné, jsme si dali pěkně na čas a přemýšleli. Je vážně kalkulátor démonů potřeba? Proč je tolik kalkulátorů spíše na výstavu, než pro skutečnou hru? Co nás bude tvorba dalšího počítadla stát?
+Vyléčeni z bezhlavé tvorby čehokoli, co je nepostradatelné jen zdánlivě, jsme si dali pěkně na čas a přemýšleli. Je vážně kalkulátor démonů potřeba? Proč je tolik kalkulátorů spíše na výstavu, než pro skutečnou hru? Bude tenhle taky jenom do vytríny? Co nás bude tvorba dalšího počítadla stát?
 
 #### Laťka náročnosti
 
@@ -85,14 +85,14 @@ Obecně jde o to mít laťku náročnosti tak nízko, aby to ještě nebyla nuda
 
 I když jsme se ubezpečili, že kalkulátor démonů není blbost, měli jsme před sebou ještě jednu otázku: kolik nás ten kalkulátor bude stát?
 
-Ne, neplatíme sami sebe penězi. Platíme se časem. Každý nápad, každou změnu, každý článek na blog, každou představu o ilustracích (u kterých se nám konečně otevřely dveře), to všechno platíme svou pozorností a svou energií. 
+Ne, neplatíme sami sebe penězi. Platíme se časem. Každý nápad, každou změnu, každý článek na blog, každou představu o ilustracích (u kterých se nám konečně [otevřely dveře](https://www.facebook.com/pg/ticho762/photos/?ref=page_internal)), to všechno platíme svou pozorností a svou energií. 
 
-A když teď plánujeme ukázkové pidi dobrodružství, do toho vyjednáváme ilustrace jak pro něj, tak pro novou obálku pravidel, k tomu chceme uvádět v život tvorbu jiných lidí, kteří něco dokončí, ale pak to hodí do šuplíku, do toho potřebujeme dokončit základní kameny pravidel... čas je nám stále vzácnější. Takže už se rozmýšlíme ne dvakrát, ale třikrát, kam svou energii směřujeme.
+A když teď plánujeme ukázkové pidi dobrodružství, do toho vyjednáváme ilustrace jak pro něj, tak pro novou obálku pravidel, k tomu chceme uvádět v život tvorbu jiných lidí, kteří něco dokončí, ale pak to hodí do šuplíku, do toho potřebujeme dokončit základní kameny pravidel... tak je nám čas stále vzácnější. Takže už se rozmýšlíme ne dvakrát, ale hned třikrát, kam svou energii směřujeme.
 
-Přesto se kalkulátor démonů propracoval na první místo. Zjistili jsme totiž, že s potřebou nového základu pravidel se nám posouvají hratelná povolání, takže co teď? Makat na pravidlech a nechat lidi, ať si se současnými "vysokoškolskými skripty" poradí sami? Když i my jsme si na nich vylámali zuby? To nezní jako dobrý plán.
+Přesto se kalkulátor démonů propracoval na první místo. Zjistili jsme totiž, že s potřebou nového základu pravidel se nám posouvají hratelná povolání, takže co teď? Makat na nových pravidlech a nechat lidi, ať si se současnými "vysokoškolskými skripty" poradí sami? Když i my jsme si na nich vylámali zuby? To nezní jako dobrý plán.
 Už od začátku jsme věděli, že budou přicházet nové verze pravidel, ale taky jsme už od začátku věděli, že budeme staré verze udržovat. A ať chceme nebo ne, tak theurgovy démoni jsou dokonce verze stále současná.
 
-Proto jsme dokončili ještě jeden kalkulátor, theurgovi démony. Abychom ulevili současným hráčům a zpřístupnili jim tu část hry, která by jim bez kalkulátoru mohla zůstat zapovězena.
+Proto jsme dokončili ještě jeden kalkulátor, theurgovi démony. Abychom ulevili současným hráčům a zpřístupnili jim tu část hry, která by jim bez kalkulátoru zůstala zapovězena.
 
 ## Závěrem
 
@@ -100,17 +100,17 @@ Díky éře kalkulátorů jsme se naučili, že v laboratorních podmínkách se
 
 Vypěstovali jsme si v hlavě majáček, který nám spustí alarm, kdykoli někoho dostane chuť na kalkulátor - *Nebezpečí složitosti! Pozor pozor! S tímhle se lidé nechtějí počítat!*
 
-Potvrdili jsme si, že některá pravidla jsou potřeba méně *("Dveře ji vypáčil po dvou hodinách." "Ale minule to byla jen hodina? Ale vždyť je to vlastně jedno")* a některé více *("Usmíváš se velitelsky na rohatého démona, kterého jsi právě vyvolal z víru sfér. A on se usmívá na tebe, odhalujíc nažloutlé tesáky. Usmívá se jako lovec, který vidí svou první kořist." "Příště už si od tebe kostky nepůjčuju...")*
+Potvrdili jsme si, že některá pravidla jsou potřeba méně *("Dveře ji vypáčil po dvou hodinách." "Ale minule to byla jen hodina? Vždyť je to vlastně jedno.")* a některá více *("Usmíváš se velitelsky na rohatého démona, kterého jsi právě vyvolal z víru sfér. A on se usmívá na tebe, odhalujíc nažloutlé tesáky. Usmívá se jako lovec, který vidí svou první kořist." "Příště už si od tebe kostky nepůjčuju...")*
 
 Stále se učíme, jakou cenu má pro nás čas. Nebo spíše pozornost a energie, kterou něčemu dáváme. V tuhle chvíli chceme
 
 - udržovat původní, ovšem také stále současná pravidla
-- vytvořit vzorové, úvodní pidi dobrodružství, které bude vhodné pro naprosté začátečníky, na kterém dokážeme komukoli ukázat principy RPG a to jak ze strany hráče, tak i ze strany Pána jeskyně, (Vypravěče, Dějmistra...)
+- vytvořit vzorové, úvodní pidi dobrodružství, které bude vhodné pro naprosté začátečníky, na kterém dokážeme komukoli ukázat principy RPG a to jak ze strany hráče, tak i ze strany Pána jeskyně (Vypravěče, Dějmistra...)
 - dokončit základy pravidel, podle kterých půjde popsat většinu herních situací, bez tabulek, ale s neporušeným odkazem na sérii Dračího doupěte
 - propojit další tvůrce, jejichž práce se s naší v mnohém prolíná
--- ať už Adama Huda a jeho "druhou partu" (která také vyvíjí Dračí doupě plus, jen jde jinou cestou)
--- nebo Mariána Jakubiska, který už několik let tvoří pravidla podle vzoru starého Dračího doupěte pro své potřeby her s dětmi
--- nebo Yorka z RPG fóra, který neúnavně pokračuje ve svém *Dračáku podle staré školy*
+    - ať už Adama Huda a jeho "druhou partu" (která také vyvíjí Dračí doupě plus, jen jde jinou cestou)
+    - nebo Mariána Jakubiska, který už několik let tvoří pravidla podle vzoru starého Dračího doupěte pro své potřeby her s dětmi
+    - nebo Yorka z RPG fóra, který neúnavně pokračuje ve svém *Dračáku podle staré školy*
 
 A je toho mnohem, [mnohem víc](https://trello.com/b/L64FNYj3/drdplusinfo), jen zatím někde v mraku myšlenek, nápadů a pocitů.
 
