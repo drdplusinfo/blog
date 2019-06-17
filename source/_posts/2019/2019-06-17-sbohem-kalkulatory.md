@@ -9,8 +9,10 @@ perex: |
     Popisujeme, proč kalkulátory patří minulosti, kam jdeme za budoucností Dračího doupěte plus a jak vzácný je čas na práci.
 
     *A co vy, znáte své démony?*
-    
-    *(Autorem ilustrace odlétajícího sčotu je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!)*
+---
+
+*Autorem ilustrace odlétajícího sčotu je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*
+
 ---
 
 ## Konec počítadel v Čechách
