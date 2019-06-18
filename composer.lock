@@ -75,16 +75,16 @@
         },
         {
             "name": "drdplusinfo/statie",
-            "version": "v5.5.25",
+            "version": "v5.5.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drdplusinfo/statie.git",
-                "reference": "472ef518e5b432e7133b89997d0c5e264bd01b49"
+                "reference": "1c7f7666187d7cebae6781ec16bc8aa8adc39a63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/472ef518e5b432e7133b89997d0c5e264bd01b49",
-                "reference": "472ef518e5b432e7133b89997d0c5e264bd01b49",
+                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/1c7f7666187d7cebae6781ec16bc8aa8adc39a63",
+                "reference": "1c7f7666187d7cebae6781ec16bc8aa8adc39a63",
                 "shasum": ""
             },
             "require": {
@@ -138,7 +138,7 @@
                 "MIT"
             ],
             "description": "Static Site Generator",
-            "time": "2019-06-17T09:38:39+00:00"
+            "time": "2019-06-18T07:12:33+00:00"
         },
         {
             "name": "erusev/parsedown",
@@ -6800,7 +6800,7 @@
         },
         {
             "name": "tightenco/collect",
-            "version": "v5.8.22",
+            "version": "v5.8.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tightenco/collect.git",

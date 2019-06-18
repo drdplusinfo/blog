@@ -2,17 +2,13 @@
 id: 2019-06-17-1
 title: "Sbohem, kalkulátory"
 image: /assets/images/posts/loucime_se_s_pocitadly.png?version=a084e9e08b0006106ac67928ef6db771
-image_title: "Autor ilustrace je svobodomyslný Ticho 762"
+image_author: "*Autorem ilustrace odlétajícího sčotu je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Čistíme stůl a připravujeme se na druhé dějství.*
     
     Popisujeme, proč kalkulátory patří minulosti, kam jdeme za budoucností Dračího doupěte plus a jak vzácný je čas na práci.
 
     *A co vy, znáte svou budoucnost?*
----
-
-*Autorem ilustrace odlétajícího sčotu je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*
-
 ---
 
 ## Konec počítadel v Čechách
