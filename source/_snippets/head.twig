@@ -21,13 +21,15 @@
 
         {# Twitter sharing #}
         <meta name="twitter:card" content="summary"/>
-        <meta name="twitter:site" content="@votrubaT">
+        <meta name="twitter:site" content="@draciodkaz">
         <meta name="twitter:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
         <meta name="twitter:description" content="{{ post.perex|striptags }}"/>
         {% if post.image %}
             <meta property="twitter:image" content="{{ site_url }}/{{ post.image|trim('/', 'left') }}"/>
         {% endif %}
     {% endif %}
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?version=67a0d47ef871ca28a6eef473e796aef8"/>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site_title }} Blog RSS" href="/rss.xml">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
