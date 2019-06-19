@@ -71,12 +71,12 @@ Poté už přišla éra [probouzení](2019-03-12-ucime_se_z_chyb.md), až jsme n
 
 Přesto jsme se ještě do jednoho počítadla pustili, ovšem tentokráte po zralé úvaze.
 
-Už z našeho dřívějšího hraní jsme měli nakousnutý kalkulátor démonů, jakéhosi bratrance prvního počítadla formulí.
-My jsme se k vyvolávání démonů nikdy nedostali, takže pro nás bylo tohle počítadlo k ničemu, ale komunita *drdplus.info* ho chtěla.
+Už z našeho dřívějšího hraní jsme měli nakousnutý kalkulátor démonů, jakéhosi bratrance prvního počítadla formulí, ale nakonec jsme se k vyvolávání démonů nikdy nedostali, takže pro nás bylo tohle počítadlo k ničemu.
+Ale komunita *drdplus.info* ho chtěla, takže důvod v něm pokračovat nakonec byl.
 
 Hlodaly v nás ale pochybnosti, *Vážně to někdo potřebuje? Chce se nám to dělat? Nestačilo to už?*
 
-Vyléčeni z bezhlavé tvorby čehokoli, co je nepostradatelné jen zdánlivě, jsme si dali pěkně na čas a přemýšleli. Je vážně kalkulátor démonů potřeba? Proč je tolik kalkulátorů spíše na výstavu, než pro skutečnou hru? Bude tenhle taky jenom do vitríny? Co nás bude tvorba dalšího počítadla stát?
+Vyléčeni z bezhlavé tvorby čehokoli, co je nepostradatelné jen zdánlivě, jsme si dali pěkně na čas a přemýšleli. *Je vážně kalkulátor démonů potřeba? Proč je tolik kalkulátorů spíše na výstavu, než pro skutečnou hru? Bude tenhle taky jenom do vitríny? Co nás bude tvorba dalšího počítadla stát?*
 
 #### Laťka náročnosti
 
