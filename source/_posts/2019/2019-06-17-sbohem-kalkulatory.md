@@ -86,6 +86,8 @@ Stejně jako formule, tak ani démony totiž hráči nechtějí používat, poku
 
 Obecně jde o to mít laťku náročnosti tak nízko, aby to ještě nebyla nuda, ale taky tak vysoko, aby to ještě nebyla frustrace.
 
+A to nakonec rozhodlo - když kalkulátor démonů neuděláme, tak ne že budou lidé démony odhadovat, oni je prostě nebudou hrát.
+
 #### Cena za budoucnost
 
 I když jsme se ubezpečili, že kalkulátor démonů není blbost, měli jsme před sebou ještě jednu otázku: kolik nás ten kalkulátor bude stát?
