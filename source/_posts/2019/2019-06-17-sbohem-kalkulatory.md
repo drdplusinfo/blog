@@ -118,7 +118,7 @@ V tuhle chvíli svou energií chceme
 - dokončit základy pravidel, podle kterých půjde popsat většinu herních situací, bez tabulek, ale s neporušeným odkazem na sérii Dračího doupěte, zejména pak Dračího doupěte plus (ne, není to přehršel tabulek)
 - propojit další tvůrce, jejichž práce se s naší v mnohém prolíná
     - ať už Adama Huda a jeho "druhou partu" (která také vyvíjí Dračí doupě plus, jen jde jinou cestou)
-    - nebo Mariána Jakubiska, který už několik let tvoří pravidla podle vzoru starého Dračího doupěte pro své potřeby her s dětmi
+    - nebo Mariána Kubiska, který už několik let tvoří pravidla podle vzoru starého Dračího doupěte pro své potřeby her s dětmi
     - nebo Yorka z RPG fóra, který neúnavně pokračuje ve svém *Dračáku podle staré školy*
     - a dalších borců
 
