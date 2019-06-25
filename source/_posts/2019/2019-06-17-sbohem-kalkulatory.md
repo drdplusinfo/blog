@@ -120,7 +120,7 @@ V tuhle chvíli svou energií chceme
     - ať už Adama Huda a jeho "druhou partu" (která také vyvíjí Dračí doupě plus, jen jde jinou cestou)
     - nebo Mariána Kubiska, který už několik let tvoří pravidla podle vzoru starého Dračího doupěte pro své potřeby her s dětmi
     - nebo Yorka z RPG fóra, který neúnavně pokračuje ve svém *Dračáku podle staré školy*
-    - a dalších borců
+    - a další borce
 
 A je toho mnohem, [mnohem víc](https://trello.com/b/L64FNYj3/drdplusinfo), jen zatím někde v mraku myšlenek, nápadů a pocitů.
 
