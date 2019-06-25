@@ -46,7 +46,7 @@ Počítadlo boje jsme využívali hojně, ale téměř vždy jen v rámci příp
 Třetí počítadlo vycházelo z neblahé zkušenosti, že vypočíst zranění z pádu, ať už z koně nebo ze sedmého schodu, byla malá matematická olympiáda.
 Tvorba tohohle počítadla byla celkem přímočará. Zasekli jsme se jen u váhy věcí, které nám při pádu spadly na hřbet a u váhy našeho nebohého těla. S tím jsme si však poradili a světlo světa spatřil [kalkulátor zranění z pádu](https://pad.drdplus.info/).
 
-Tohle počítadlo dalo už jasně najevo, že je něco špatně, protože jsme ho v praxi použili jen **jednou** a to ještě zpětně. Teprve poté, co se hlavní padoušice rozplácna v plném trysku půlnočním lesem o vzrostlou borovici - teprve poté co jsme herně *odhadli*, jak moc jí to vyrazilo vědomí z hlavy - teprve poté, a to až druhý den, jsme si přes počítadlo zranění ověřili, že naše odhady nebyly úplně mimo.
+Tohle počítadlo dalo už jasně najevo, že je něco špatně, protože jsme ho v praxi použili jen **jednou** a to ještě zpětně. Teprve poté, co se hlavní padoušice rozplácna v plném trysku půlnočním lesem o vzrostlou borovici - teprve poté co jsme herně *odhadli*, jak moc jí to vyrazilo vědomí z hlavy - tak teprve poté, a to až druhý den, jsme si přes počítadlo zranění ověřili, že naše včerejší odhady nebyly úplně mimo.
 
 *Proč nám počítadla nevytrhla trn z paty? Proč zrovna počítadlo zranění z pádu bylo tak málo používané?*
 
