@@ -1,18 +1,33 @@
 ---
-id: 2019-05-05-1
+id: 2019-06-30-1
 title: "Únava jako..."
 image: /assets/images/posts/olympiada.png?version=f73c2b6dfef52f43b98aed9b035c6adc
+image_author: "*Autorem ilustrace paralympijského dobrodruha je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Hrál by Usain Bolt Dračí doupě, kdyby uměl česky? A hrál ho Emil Zátopek? A hraje ho Sáblíková?*
     
-    Zátěžová zkouška pravidel pro Rychlost a Únavu olympijskými borci. 
+    Nastal čas pro zátěžovou zkoušku pravidel Rychlosti a Únavy skutečnými olympijskými borci.
+    
+    A co vy? Kdy jste naposledy prošli nějakou zkouškou? 
 ---
 
 ## V jednoduchosti je krása
 
-Už několikrát jsme se v našich článcích opřeli o jednoduché pravidlo pro únavu. Něco unavuje jak chůze, něco jako běh, [a tak dále](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu). Jak nádherně jenoduché!
+*Srážka s realitou bývá bolestivější, než srážka s blbcem*
 
+Jelikož jsme se už několikrát v našich článcích opřeli o jednoduché pravidlo pro únavu, tak jsme si řekli, že by to chtělo trochu ho provětrat. *Nespoléháme se na shnilé základy? Není to na povrchu líbivé, ale v jádru shnilé ovoce?*
 
+Tím lákadlem, které nás stále znovu a znovu vábí zpět k původní [stupnici únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) Dračího doupěte plus je její prostota - něco unavuje jako chůze, něco jako běh, něco jako sprint. Jak nádherně jenoduché! Jak snadno představitelné!
+
+Stupně únavy původního Dračího doupětě plus jsou pro nás vzorem, jak jednoduše a funkčně se dá nějaké pravidlo zapsat.
+
+Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připitomněle se usmívat, jak lehko jsme přišli k dobrému kusu. Mnout ruce spokojeností, jak přirozeně tahle přirovnání podporují atmosféru hry. Vrnět blahem, s jakou samozřejmostí a elegancí vynechávají čísla, dokud nejsou skutečně potřeba.
+
+Ovšem pocit je dobrý sluha a zlý pán. Je osovobzující mu naslouchat, ale svazující ho poslouchat.
+
+Zkusme se teď do původních stupňů únavy trochu opřít. Schválně, jestli naše hrubé zacházení vydrží.
+
+## Stačí?
 
 Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu)
 
