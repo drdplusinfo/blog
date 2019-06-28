@@ -1,17 +1,19 @@
 <div class="container-fluid no-padding-md-down">
     <nav class="navbar">
         <ul>
-            <li>
-                <a href="https://www.drdplus.info">
-                    <img src="/assets/images/red_dragon_128.png" alt="Red dragon" class="inline-image">
-                    <span class="hidden-sm-down">DrdPlus.info</span>
-                </a>
-            </li>
             <li class="{% if (id is defined and id == 'blog') or post is defined %}active{% endif %}">
                 <a href="/">Blog</a>
             </li>
             <li class="{% if id is defined and id == 'kontakt' %}active{% endif %}">
                 <a href="/kontakt/">Kontakty</a>
+            </li>
+            <li>
+                <a href="https://www.drdplus.info" class="hidden-red-dragon">
+                    <span class="hidden-sm-down">DrdPlus.info</span>
+                </a>
+            </li>
+            <li>
+                <a href="/rss.xml"><img src="/assets/images/Rss-feed.svg" alt="RSS feed" class="inline-image"></a>
             </li>
             <li id="top-menu-search" class="hidden-xs-down">
                 <form method="get" action="https://www.google.com/search" itemprop="potentialAction" itemscope=""

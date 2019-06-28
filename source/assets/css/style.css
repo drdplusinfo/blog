@@ -702,3 +702,10 @@ a.perex:hover {
         display: none !important;
     }
 }
+
+.hidden-red-dragon:hover, .hidden-red-dragon:active {
+    background-image: url("/assets/images/red_dragon_128.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
