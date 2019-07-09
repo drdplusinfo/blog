@@ -19,7 +19,7 @@ try {
     $exitCode = 1;
 }
 $codeUpdate['end'] = new DateTimeImmutable();
-$codeUpdate['duration'] = $codeUpdate['end']->diff($codeUpdate['start']);
+$codeUpdate['duration'] = $codeUpdate['end']->diff($codeUpdate['start'])->format('%s.%f s');
 $codeUpdate['exit_code'] = $exitCode;
 $output['code_update'] = $codeUpdate;
 
@@ -29,7 +29,7 @@ if ($exitCode !== 0) {
 }
 
 $composerInstall = ['start' => new DateTimeImmutable()];
-exec('composer install', $composerOutput, $composerCode);
+exec('composer install 2>&1', $composerOutput, $composerCode);
 $composerOutput = array_filter($composerOutput, function (string $row) {
     return trim($row) !== '';
 });
@@ -41,7 +41,7 @@ if ($composerCode !== 0) {
     $composerInstall['result'] = $composerOutput;
 }
 $composerInstall['end'] = new DateTimeImmutable();
-$composerInstall['duration'] = $composerInstall['end']->diff($composerInstall['start']);
+$composerInstall['duration'] = $composerInstall['end']->diff($composerInstall['start'])->format('%s.%f s');
 $composerInstall['exit_code'] = $exitCode;
 $output['composer_install'] = $composerInstall;
 
@@ -63,7 +63,7 @@ if ($generationCode !== 0) {
     $outputGeneration['result'] = $generationOutput;
 }
 $outputGeneration['end'] = new DateTimeImmutable();
-$outputGeneration['duration'] = $outputGeneration['end']->diff($outputGeneration['start']);
+$outputGeneration['duration'] = $outputGeneration['end']->diff($outputGeneration['start'])->format('%s.%f s');
 $outputGeneration['exit_code'] = $exitCode;
 $output['output_generation'] = $outputGeneration;
 
