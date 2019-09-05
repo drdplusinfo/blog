@@ -232,16 +232,16 @@
         },
         {
             "name": "granam/git",
-            "version": "1.2.5",
+            "version": "1.2.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/granam/git.git",
-                "reference": "4ab6eb312a0b7cb4ac1c414ccc84f1f80341d796"
+                "reference": "d01c93b17c15996dd7f96092e06b64739a3606bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/granam/git/zipball/4ab6eb312a0b7cb4ac1c414ccc84f1f80341d796",
-                "reference": "4ab6eb312a0b7cb4ac1c414ccc84f1f80341d796",
+                "url": "https://api.github.com/repos/granam/git/zipball/d01c93b17c15996dd7f96092e06b64739a3606bc",
+                "reference": "d01c93b17c15996dd7f96092e06b64739a3606bc",
                 "shasum": ""
             },
             "require": {
@@ -271,7 +271,7 @@
                 "tag",
                 "versions"
             ],
-            "time": "2019-08-26T13:33:59+00:00"
+            "time": "2019-09-04T11:51:57+00:00"
         },
         {
             "name": "granam/scalar",
