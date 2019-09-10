@@ -63,16 +63,23 @@ A tohle je výtah těch nejdůležitějších, které chrání každého čtená
 
 A spousta spousta dalších, více technických.
 
-Pokud najdete jakoukoli nesrovnalost, ať už grafický úlet, překlep nebo krkolomné ovládání, prosíme, [nahlašte nám to](mailto:info@drdplus.info). Děkujeme!
+**Pokud najdete jakoukoli nesrovnalost, ať už grafický úlet, překlep nebo krkolomné ovládání, prosíme, [nahlašte nám to](mailto:info@drdplus.info). Děkujeme!**
 
-TODO známe nedodělky - hraničář a odkazy na kapitoly
+Doznáváme, že některé části našich představ jsme prostě vynechali.
+
+- Hraničář nemá prolinkované nástiny svých schopností s jejich detailním popisem (původní autoři chtěli udržet hráče v co největší nevědomosti, aby si užil krásu neznáma a objeování, což dost znesnadňuje orientaci v pravidlech).
+- Nelze skrývat příběh a úvodní texty, které jsou krásné, ale při častém používání, kdy se z pravidel stává manuál, už začínají překážet.
+
+Víme jak oboje doknčit, ale dokud nám neřeknete, že by vám tyhle úpravy zjednodušily život, tak na ně teď kašleme. Je to na vás.
 
 ## Závěrem
 
-Na převodu pravidel Dračího doupěte plus z PDF na web jsme nechali kus duše. Vyžaduje to totiž technické myšlení, keré jde na úkor tvurčímu.
+Na převodu pravidel Dračího doupěte plus z PDF na web jsme nechali kus duše. Vyžaduje to totiž technické myšlení, keré jde na úkor tomu tvůrčímu.
 
-Během převodu jsme zjistili, jak komplexní a složitá tato pravidla jsou, protože zatímco při hře jsme byli zvyklí si ledaco zjednodušit nebo domyslet, tak při převodu jsme si museli projít vším. Bez příkras a bez vynechávání.
+Během převodu jsme zjistili, jak komplexní a složitá tato pravidla jsou. Zatímco při hře jsme byli zvyklí si ledaco zjednodušit nebo domyslet, tak při převodu jsme si museli projít vším. Bez příkras a bez vynechávání.
 
-Původní cíl, tedy mít pravidla na webu pro snazší orientaci, jsme úspěšně dotáhli do konce po dvou letech práce, kdy končíme díky testům s čistým štítem a díky ukončené práci s čistou hlavou.
+Původní cíl, tedy mít pravidla na webu pro snazší orientaci, jsme úspěšně dotáhli do konce po [čtyřech letech převádění](/blog/2018/02/09/na_webu_jsou_vsechna_pravidla_a_co_ted) a dvou letech lazení, kdy končíme díky testům s čistým štítem a díky ukončené práci s čistou hlavou.
 
-Nyní se už konečně můžeme plně zaměřit na to,  
+Nyní se už konečně můžeme plně zaměřit na krystalizování toho, co jsme se během těch dlouhých dnů tvrdé práce naučili. Jak o pravidlech, tak o nás a naší touze po změně. Na to, co je v Dračím doupěti plus skryto pod vrstvou tabulek a vzorců a na co se budeme ještě dlouho odkazovat. Ale o tom až příště.
+
+Krleš!
