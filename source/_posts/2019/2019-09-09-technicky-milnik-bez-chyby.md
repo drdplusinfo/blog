@@ -1,5 +1,5 @@
 ---
-id: 2019-09-09
+id: 2019-09-09-1
 title: "Technický milník - Bez chyby"
 image: /assets/images/posts/loucime_se_s_pocitadly.png?version=a084e9e08b0006106ac67928ef6db771
 image_author: "*Autorem ilustrace fešáka bez chybičky je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
