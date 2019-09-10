@@ -59,3 +59,9 @@ A tohle je výtah těch nejdůležitějších, které chrání každého čtená
     - takže se už nemusíte prohrabovat tunou textu, abyste vyhrabali těch pár tabulek, co zrovna potřebujete
 - všechny externí odkazy (na [altar.cz](https://altar.cz), [Vukogvazdskou družinu](https://www.vukogvazd.cz/), [nemoce na Wikipedii](https://cs.wikipedia.org/wiki/Cholera) jsou kontrolované a platné a to prosím včetně #kotev oddkazujících na konkrétní sekci
     - takže vám den nezkazí slepý odkaz vedoucí do nikam
+
+A spousta spousta dalších, více technických.
+
+Pokud najdete jakoukoli nesrovnalost, ať už grafický úlet, překlep nebo krkolomné ovládání, prosíme, [nahlašte nám to](mailto:info@drdplus.info). Děkujeme!
+
+## Závěrem
