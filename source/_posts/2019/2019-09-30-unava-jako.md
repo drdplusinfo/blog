@@ -21,9 +21,11 @@ Tím lákadlem, které nás stále znovu a znovu vábí zpět k původní [stupn
 
 Stupně únavy původního Dračího doupětě plus jsou pro nás vzorem, jak jednoduše a funkčně se dá nějaké pravidlo zapsat.
 
-Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připitomněle se usmívat, jak lehko jsme přišli k dobrému kusu. Mnout ruce spokojeností, jak přirozeně tahle přirovnání podporují atmosféru hry. Vrnět blahem, s jakou samozřejmostí a elegancí vynechávají čísla, dokud nejsou skutečně potřeba.
+## Důvěřuj, ale prověřuj
 
-Ovšem pocit je dobrý sluha a zlý pán. Je osovobzující mu naslouchat, ale svazující ho poslouchat.
+Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připitomněle se usmívat, jak lehko jsme přišli k dobrému kusu. Mnout ruce spokojeností, jak přirozeně tahle přirovnání podporují atmosféru hry. Vrnět blahem, s jakou samozřejmostí a elegancí jsou vynechána čísla, dokud nejsou skutečně potřeba.
+
+Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale svazující ho poslouchat.
 
 Zkusme se teď do původních stupňů únavy trochu opřít. Schválně, jestli naše hrubé zacházení vydrží.
 
@@ -44,7 +46,7 @@ Odrazíme se od toho, co už máme, od [Únavy jako...](https://pph.drdplus.info
 
 Vypůjčíme si teď jamajskou střelu Usaina Bolta a jeho [osobní rekordy](https://cs.wikipedia.org/wiki/Usain_Bolt#Osobn%C3%AD_rekordy)
 
-| Běh na 👟| Za ⏱️ |
+| 👟 Běh na | Za ⏱️ |
 |--------|--------|
 | 100 metrů | 9,58 sekund |
 | 150 metrů | 14,35 sekund |
@@ -56,7 +58,7 @@ Až do tři sta metrů to s ním ani nehlo, prostě sto metrů za deset sekund a
 
 S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a její [osobní rekordy](https://cs.wikipedia.org/wiki/Martina_S%C3%A1bl%C3%ADkov%C3%A1#Osobn%C3%AD_rekordy)
 
-| Bruslení na ⛸️| Za ⏱️ |
+| ⛸ Bruslení na ️| Za ⏱️ |
 |--------|--------|
 | 500 metrů | 39,23 sekund |
 | 1000 metrů | 75,86 sekund, 1:15,86 |
@@ -67,13 +69,13 @@ S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a jej�
 
 Půl kilometru zvládla za čtyřicet sekund, dvojnásobnou vzdálenost o něco rychleji než za dvojnásobek, trojnásobnou vzdálenost o něco rychleji než za trojnásobek, šestinásobnou vzdálenost za šestinásobek, desetinásobnou vzdálenost za desetinásobek a dvacetinásobnou vzdálenost za dvacetinásobek času.
 
-> To u toho běhání chrápe, ne?
+*To u toho běhání chrápe, ne?*
 
 To sotva, narkolepsie bychom si všimli, ale v jednom máš pravdu, Martina nesprintuje, ale běží, protože si to její sport vyžaduje. Pokud někdy hrála Dračí doupě plus a řídí se pravidly pro únavu, tak za deset kilometrů jízdy získá po dvanácti minutách pouhé dva body únavy, což zní poněkud nereálně, ale celý řádek to nebude, protože postih ji evidentně nezpomaluje.
 
 S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje, ale otevřela nám další druh pohybu, běh, takže se teď podíváme na zoubek běžci na slovo vzatému, [Emilu Zátopkovi](https://cs.wikipedia.org/wiki/Emil_Z%C3%A1topek#P%C5%99ehled_%C3%BAsp%C4%9Bch%C5%AF).
 
-| Běh na 👟| Za ⏱️ |
+| 👟 Běh na| Za ⏱️ |
 |---|---|
 | 5 kilometrů | 13:57,2 |
 | 10 kilometrů | 29:02,6 |
@@ -82,17 +84,17 @@ S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychr
 | 30 kilometrů | 1:35:23,8 |
 | 42.195 kilometrů | 2:23:03,2 |
 
-*Jak vidno, bruslení bylo přibližně dvakrát rychlejší, než běh.*
+*Hmm, bruslení je zjevně dvakrát rychlejší než běh.*
 
 Za čtrnáct minut by Emil měl mít teprve tři body únavy a být tak bez postihu, dvojnásobnou vzdálenost zvládl za dvojnásobek času, kdy už by měl mít plný řádek únavy, ale až v cíli, takže během závodu opět bez postihu. Ovšem se stejnou pravidelností hltal i další kilometry, šestinásobnou vzdálenost za šestinásobek času, i když měl mít už po hodině a půl běhu osmnáct bodů únavy, což jsou tři řádky a do cíle měl tedy dobíhat s postihem mínus tři a při maratonu, po bezmála dvou a půl hodině běhu, by měl mít v cíli dokonce třicet bodů únavy, tedy pět řádků, tedy postih mínus pět. Jenže... nic, Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
 
-> Běžel na půl plynu, to je jasný
+*Běžel na půl plynu, to je jasný*
 
 Emil Zátopek? Ať už bylo jeho hnací silou cokoli, tak ji využíval naplno.
 
-> Takže jsou pravidla na prd, já to věděl
+*Takže jsou pravidla na prd, já to věděl*
 
-I tak by to mohlo být, ovšem těžko se nám věří, že by původní autoři DrD+ stvořili pravidla pro *Únavu jako...* během alkoholového dýchánku metodou *cucprst*. Vlastně narazili na stejný problém, jako my s Emilem Zátopkem a to s Feidippidem, který za položení základů maratónu položil vlastní život:
+I tak by to mohlo být, ovšem těžko se nám věří, že by původní autoři DrD+ stvořili pravidla pro *Únavu jako...* během nedatovaného alkoholového dýchánku metodou *cucprst*. Vlastně narazili na stejný problém, jako my s Emilem Zátopkem a to s Feidippidem, který za položení základů maratónu položil vlastní život:
 
 > Příklad ([z pravidel PPH](http://pph.drdplus.loc/#vypocet_rychlosti_z_bonusu_vzdalenosti_a_casu)): Skončila bitva u Marathónu, Peršané jsou poraženi a řecký velitel vybírá dobrovolníka, aby to doběhl oznámit do Athén. Nešťastný dobrovolník Feidippides má Rychlost +6 a Výdrž +4, z čehož vyplývá, že jeho Mez únavy je 16. Má však již 5 bodů únavy z předcházejících vyčerpávajících bojů. Před sebou má trasu dlouhou 42 kilometrů, zčásti vedoucí poměrně náročným horským terénem, a tak průměrnou Neschůdnost stanovíme na −5. Jak je známo, Feidippides použil běh. Bonus za vzdálenost je tedy přibližně +92, Pohybová rychlost při běhu +35, ale s opravou za terén je to ve výsledku +30, i když Feidippides běží jen nalehko. Čas je +92 − 30 = +62, to je 3.6 hodiny. Poté, co běží dvě a čtvrt hodiny, se však stane vyčerpaným a podle pravidel pro únavu by se měl zhroutit, nehledě na to, že již hodinu po vyběhnutí by nejspíš získal nějaké postihy a byl by nucen zvolnit. On však pravidla neznal (roku 490 př. n. l. byl Altar ještě v plenkách) a ani ty je dosud neznáš (protože se o nich dočteš až v další sekci), a tak jich nedbal, zatnul zuby a běžel dále. Po další hodině a půl se dostal do cíle a umřel. Tady vidíš, že neznalost zákona neomlouvá a kam až vede nedodržování pravidel.
 
