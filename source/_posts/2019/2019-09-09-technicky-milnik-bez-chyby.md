@@ -6,7 +6,7 @@ image_author: "*Autorem ilustrace fešáka bez chybičky je [Ticho 762](https://
 perex: |
     *Konzervujeme pravidla DrD+ a čistíme hlavu.*
     
-    Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se to hodí vám.
+    Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se výsledek hodí.
     
     *A co vy, kdy vás naposledy zradila navigace?*
 ---
@@ -15,7 +15,7 @@ perex: |
 
 Testování je zlaté pravidlo jakékoli tvorby pro ostatní. Je jasné, prosté a těžké na dodržování.
 
-Když jsme převáděli PDF do HTML, tak jsme obsah zkopírovali, opravili co se zkopírováním rozbilo a přeleštili trochu vzhled. A když už jsme sem tam našli a opravili nějaký ten překlep původních autorů, tak nás z toho zaplavil povznášející pocit dobře odvedené práce.
+Když jsme převáděli PDF na web, tak jsme obsah zkopírovali, opravili co se zkopírováním rozbilo a přeleštili trochu vzhled. A když už jsme sem tam našli a opravili nějaký ten překlep původních autorů, tak nás z toho zaplavil povznášející pocit dobře odvedené práce.
 
 Ale žádná idylka netrvá věčně.
 
@@ -39,14 +39,14 @@ Prvotní úspěch nám dodal sil, takže jsme si mohli dovolit v testech utahova
 
 ### Z nevýhody výhodu
 Podobně jako hovnivál dokáže v odpadu, který by jiní obloukem obešli, najít další účel, tak i my jsme našli v chybách novou hodnotu. Jakmile jsme nějaký technický nedostatek objevili, tak jsme nejdříve napsali test, který počítal s opravenou verzí. A když jsme si ověřili, že nový test "padá" kvůli staré chybě, tak jsme mohli problém opravit a to rovnou na všech místech, které test vyšťoural. Pak už jsme se kochali pohledem na zelený výsledek.
-Tím jsme si zajistili, že nový test opravdu testuje nalezený problém a že jsme omylem nenapsali nějakou stálezelenou blbost.
+Tím jsme si zajistili, že nový test opravdu testoval nalezený problém a že jsme omylem nenapsali nějakou stálezelenou blbost.
 
-Mít zadek krytý testy byla velká úleva. Hlavně proto, že s pravidly Dračího doupěte plus už se spíše vláčíme, než že bychom je tlačili. A my je nechtěli zanechat nedotažené. Ale o tom až příště.
+Mít zadek krytý testy byla velká úleva. Hlavně proto, že s pravidly Dračího doupěte plus se už spíše vláčíme, než že bychom je tlačili. A my je nechtěli zanechat nedotažené. Ale o tom až příště.
 
 Teď je důležité, že pravidla DrD+ necháváme v nejlepším možném technickém stavu.
 
-### Naše testy a co z toho máte
-Během roka a půl jsme sepsali 313 hlubinných testů, které běží téměř tři minuty (na každých pravidlech zvlášť) a provedou celkem 11516 kontrol.
+### Naše testy, vaše radost
+Během roka a půl jsme sepsali tři sta třináct hlubinných testů, které běží téměř tři minuty (na každých pravidlech zvlášť) a provedou celkem jednáct tisíc pět set šestnáct kontrol (na *Pravidlech pro hráče*, u ostatních je to spíše méně).
 
 A tohle je výtah těch nejdůležitějších, které chrání každého čtenáře [drdplus.info](https://www.drdplus.info)
 
@@ -63,7 +63,7 @@ A tohle je výtah těch nejdůležitějších, které chrání každého čtená
     - takže se vám nestane, že byste marně klikali na název, který slibuje to, co zrovna teď nutně potřebujete - odkaz bude prostě fungovat
 - všechny tabulky si můžete zobrazit na jednom místě, třeba všechny [tabulky z *Pravidel pro hráče*](https://pph.drdplus.info/?tabulky)
     - takže se už nemusíte prohrabovat tunou textu, abyste vyhrabali těch pár tabulek, co zrovna potřebujete
-- všechny externí odkazy (na [altar.cz](https://altar.cz), [Vukogvazdskou družinu](https://www.vukogvazd.cz/), [nemoci na Wikipedii](https://cs.wikipedia.org/wiki/Cholera) a další jsou kontrolované a platné a to včetně #kotev odkazujících na konkrétní sekci
+- všechny externí odkazy (na [altar.cz](https://altar.cz), [Vukogvazdskou družinu](https://www.vukogvazd.cz/), [nemoci na Wikipedii](https://cs.wikipedia.org/wiki/Cholera) a další jsou kontrolované a platné a to včetně #kotev odkazujících na konkrétní sekci cílové stránky
     - takže vám den nezkazí slepý odkaz vedoucí do nikam
 
 A spousta spousta dalších, více technických kontrol.
@@ -74,8 +74,8 @@ A spousta spousta dalších, více technických kontrol.
 
 Doznáváme, že některé části našich představ o dokonalosti jsme prostě vynechali.
 
-- Hraničář nemá prolinkované všechny nástiny svých schopností s jejich detailním popisem (původní autoři chtěli udržet hráče v co největší nevědomosti, aby si užil krásu neznáma a objevování, což dost znesnadňuje orientaci v pravidlech).
-- Nelze skrývat příběh a úvodní texty, které jsou sice čtivé, ale při častém používání, kdy se z pravidel stává manuál, už začínají překážet.
+- Hraničář nemá prolinkované všechny nástiny svých schopností s jejich detailním popisem (původní autoři totiž chtěli udržet hráče v co největší nevědomosti, aby si užil krásu neznáma a objevování, což dost znesnadňuje orientaci v pravidlech).
+- Nelze skrývat příběh a úvodní texty, které jsou sice čtivé, ale při častém používání pravidel, kdy se z nich stává manuál, už začínají překážet.
 
 Víme jak oboje dokončit, ale dokud nám neřeknete, že by vám tyhle úpravy zjednodušily život, tak na ně teď kašleme. Je to na vás.
 
@@ -85,8 +85,8 @@ Na převodu pravidel Dračího doupěte plus z PDF na web jsme nechali kus duše
 
 Během převodu jsme zjistili, jak komplexní a složitá tato pravidla jsou. Zatímco při hře jsme byli zvyklí si ledaco zjednodušit nebo domyslet, tak při převodu jsme si museli projít vším. Bez příkras a bez vynechávání.
 
-Původní cíl, tedy mít pravidla na webu pro snazší orientaci, jsme úspěšně dotáhli do konce po [čtyřech letech převádění](../2018/2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md) a dvou letech ladění. Tedy dlouhých šesti letech, které zakončujeme díky testům s čistým štítem a díky dotažené práci s čistou hlavou.
+Původní cíl, tedy mít pravidla na webu pro snazší orientaci, jsme úspěšně dotáhli do konce po [čtyřech letech převádění](../2018/2018-02-09-na_webu_jsou_vsechna_pravidla_a_co_ted.md) a dalších dvou letech ladění. Tedy dlouhých šesti letech, které zakončujeme díky testům s čistým štítem a díky dotažené práci s čistou hlavou.
 
-Nyní se už konečně můžeme plně zaměřit na krystalizování toho, co jsme se během těch dlouhých dnů tvrdé práce naučili. Jak o pravidlech, tak o nás a naší touze po změně. Na to, co je v Dračím doupěti plus skryto pod vrstvou tabulek a vzorců a na co se budeme ještě dlouho odkazovat. Ale o tom až příště.
+Nyní se už konečně můžeme plně zaměřit na krystalizování toho, co jsme se během těch dlouhých let tvrdé práce naučili. Jak o pravidlech, tak o nás a naší touze po změně. Na to, co je v Dračím doupěti plus skryto pod vrstvou tabulek a vzorců a na co se budeme ještě dlouho odkazovat. Ale o tom až příště.
 
 Krleš!
