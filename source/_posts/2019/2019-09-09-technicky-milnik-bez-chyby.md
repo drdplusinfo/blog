@@ -51,8 +51,9 @@ A tohle je výtah těch nejdůležitějších, které chrání každého čtená
     - takže komukoli můžete poslat odkaz na kapitolu, o které se právě bavíte, třeba [Další bojové akce](https://pph.drdplus.info/#dalsi_bojove_akce)
 - úplně každý výpočet má v sobě také kotvu (odkaz)
     - takže i na konkrétní výpočet můžete komukoli poslat odkaz, třeba [Hod na zpracování úlovku](https://pph.drdplus.info/#hod_na_zpracovani_ulovku)
-- každý výpočet má popisný název
+- většina výpočtů má popisný název
     - takže si nebudete drbat hlavu, čeho že to je *"neúspěch"* a nebudete bloumat očima po okolním textu
+    - přiznáváme, že tady máme ještě rezervy
 - každá položka v rejstříku odkazuje na existující kapitolu
     - takže se vám nestane, že byste marně klikali na název, který slibuje to co zrovna teď nutně potřebujete
 - všechny tabulky si můžete zobrazit na jednom místě, třeba všechny [tabulky z Pravidel pro hráče](https://pph.drdplus.info/?tabulky)
@@ -64,4 +65,14 @@ A spousta spousta dalších, více technických.
 
 Pokud najdete jakoukoli nesrovnalost, ať už grafický úlet, překlep nebo krkolomné ovládání, prosíme, [nahlašte nám to](mailto:info@drdplus.info). Děkujeme!
 
+TODO známe nedodělky - hraničář a odkazy na kapitoly
+
 ## Závěrem
+
+Na převodu pravidel Dračího doupěte plus z PDF na web jsme nechali kus duše. Vyžaduje to totiž technické myšlení, keré jde na úkor tvurčímu.
+
+Během převodu jsme zjistili, jak komplexní a složitá tato pravidla jsou, protože zatímco při hře jsme byli zvyklí si ledaco zjednodušit nebo domyslet, tak při převodu jsme si museli projít vším. Bez příkras a bez vynechávání.
+
+Původní cíl, tedy mít pravidla na webu pro snazší orientaci, jsme úspěšně dotáhli do konce po dvou letech práce, kdy končíme díky testům s čistým štítem a díky ukončené práci s čistou hlavou.
+
+Nyní se už konečně můžeme plně zaměřit na to,  
