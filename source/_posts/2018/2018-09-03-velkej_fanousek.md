@@ -4,8 +4,6 @@ title: "Velkej fanoušek"
 perex: |
 ---
 
-## Velkej fanoušek
-
 [Paul](https://rpgforum.cz/forum/memberlist.php?mode=viewprofile&u=26586) si dal u práci a sestavil [dotazník pro hráče i nehráče DrD Plus](https://huskarlar.blogspot.com/2018/08/dotazniky-pro-ne-hrace-drd.html), za což mu děkuji.
 
 A krom odpovědí na dotazník se nám urodil ještě bonus, sáhodlouhý Cyrilův popis toho, co ho na [Dračím doupěti plus](https://www.drdplus.info) pálí.

@@ -4,8 +4,6 @@ title: "Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla"
 perex: |
 ---
 
-## Ptám se Bouchiho z Altaru, zda mohu zveřejnit DrD+ pravidla
-
 Ahoj či dobrý den, chtěl bych s vámi (autory DrD+, nejenom s Bouchim) navázat spolupráci na dalším vývoji [DrD+](https://www.altar.cz/drdplus/).
 
 Začnu svojí historií a skončím tím, co je napsáno v předmětu tohoto emailu - *s pravidly DrD+ dostupnými jako [webová stránka](https://www.drdplus.info)*.
