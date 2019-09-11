@@ -6,7 +6,7 @@ image_author: "*Autorem ilustrace paralympijského dobrodruha je [Ticho 762](htt
 perex: |
     *Hrál by Usain Bolt Dračí doupě, kdyby uměl česky? A hrál ho Emil Zátopek? A hraje ho Sáblíková?*
     
-    Nastal čas pro zátěžovou zkoušku pravidel Rychlosti a Únavy skutečnými olympijskými borci.
+    Nastal čas pro zátěžovou zkoušku pravidel pro Únavu skutečnými olympijskými borci.
     
     *A co vy? Kdy jste naposledy prošli nějakou zkouškou?* 
 ---
@@ -23,7 +23,7 @@ Stupně únavy původního Dračího doupětě plus jsou pro nás vzorem, jak je
 
 ### Důvěřuj, ale prověřuj
 
-Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připitomněle se usmívat, jak lehko jsme přišli k dobrému kusu. Mnout ruce spokojeností, jak přirozeně tahle přirovnání podporují atmosféru hry. Vrnět blahem, s jakou samozřejmostí a elegancí jsou vynechána čísla, dokud nejsou skutečně potřeba.
+Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připitomněle se usmívat, jak lehko jsme přišli k dobrému kusu; mnout si ruce spokojeností, jak přirozeně tahle přirovnání podporují atmosféru hry; vrnět blahem, s jakou samozřejmostí a elegancí jsou vynechána čísla, dokud nejsou skutečně potřeba.
 
 Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale svazující ho poslouchat.
 
@@ -37,6 +37,8 @@ Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=
 | sprint | za dvě kola (asi 20 sekund) |
 
  Schválně, jestli tahle stupnice vydrží naše hrubé zacházení.
+ 
+ *Připomínáme, že podle našich úprav se do jednoho řádku vejde pouhých šest bodů Únavy, než automaticky přijde první postih. V původních pravidlech je na jednom řádku hned deset bodů Únavy a postih automatický není.*
 
 ### Sprint
 
@@ -54,11 +56,11 @@ Až do tři sta metrů to s ním ani nehlo. Prostě co sto metrů to deset sekun
 
 Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body únavy, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a Usainovi mírně ztěžkly nohy s postihem -1.
 
-Usain nám tedy současný stav trochu naboural, protože podle něj by měla únava za sprint příbývat čtyřikrát rychleji. Namísto jeden bod únavy za dvě kola, tak dva body únavy za jedno kolo.
+Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint příbývat čtyřikrát rychleji. Namísto jednoho bodu únavy za dvě kola hned dva body únavy za jedno kolo.
 
 #### Brusle
 
-Usain nám otestoval běh na krátkou trať. S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a její [osobní rekordy](https://cs.wikipedia.org/wiki/Martina_S%C3%A1bl%C3%ADkov%C3%A1#Osobn%C3%AD_rekordy)
+Usain nám otestoval sprint na krátkou trať. S delšími trasami nám pomůže o polovinu lehčí Martina Sáblíková a její [osobní rekordy](https://cs.wikipedia.org/wiki/Martina_S%C3%A1bl%C3%ADkov%C3%A1#Osobn%C3%AD_rekordy)
 
 | ⛸ Bruslení Martiny Sáblíkové na ️| ⏱️  Za |
 |--------|--------|
