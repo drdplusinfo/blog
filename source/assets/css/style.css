@@ -709,3 +709,15 @@ a.perex:hover {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+blockquote {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: larger;
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    border-left: 5px solid rgb(203, 189, 170);
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
