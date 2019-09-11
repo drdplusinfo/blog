@@ -31,14 +31,13 @@ Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=
 
 | Unavuje jako | Bod únavy |
 |-----|----|
-| chůze | za jednu hodinu |
-| spěch | za půl hodiny |
-| běh | za pět minut |
 | sprint | za dvě kola (asi 20 sekund) |
+| běh | za pět minut |
 
- Schválně, jestli tahle stupnice vydrží naše hrubé zacházení.
+ Schválně, jestli tahle stupnice vydrží naše zdejší hrubé zacházení.
  
- *Připomínáme, že podle našich úprav se do jednoho řádku vejde pouhých šest bodů Únavy, než automaticky přijde první postih. V původních pravidlech je na jednom řádku hned deset bodů Únavy a postih automatický není.*
+ *Připomínáme, že podle našich úprav se do jednoho řádku Únavy vejde pouhých šest bodů, než automaticky přijde první postih.
+ Kdežto v původních pravidlech je na jednom řádku Únavy hned deset bodů Únavy a postih automatický není.*
 
 ### Sprint
 
@@ -52,12 +51,12 @@ K prvnímu zátěžovému testu pravidel si vypůjčíme jamajskou střelu Usain
 | 300 metrů | 30,97 sekund |
 | 400 metrů | 45,28 sekund |
 
-Až do tři sta metrů to s ním ani nehlo. Prostě co sto metrů to deset sekund. Teprve po tři sta metrech (a třiceti sekundách, tedy třech kolech) můžeme říct, že mu nastupující únava začala brát rychlost.
+Až do tři sta metrů s ním únava ani nehla. Prostě co sto metrů to deset sekund. Teprve po tři sta metrech (a třiceti sekundách, tedy třech kolech) můžeme říct, že mu nastupující únava začala brát rychlost.
 
-Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body únavy, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a Usainovi mírně ztěžkly nohy s postihem -1.
+Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body únavy, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a aby Usainovi mírně ztěžkly nohy s postihem -1.
 
 Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint přibývat čtyřikrát rychleji. Namísto jednoho bodu únavy za dvě kola hned dva body únavy za jedno kolo.
-A oproti původním pravidlům mu únava přibývá dokonce osmkrát rychleji.
+A oproti původním pravidlům by mu měla únava přibývat dokonce osmkrát rychleji.
 
 #### Brusle
 
@@ -72,16 +71,17 @@ Usain nám otestoval sprint na krátkou trať. S delšími trasami nám pomůže
 | 5000 metrů | 402,013 sekund, 6:42,013 |
 | 10000 metrů | 828,334 sekund, 13:48,334 |
 
-Půl kilometru Martina zvládla za čtyřicet sekund, dvojnásobnou vzdálenost o něco rychleji než za dvojnásobek, trojnásobnou vzdálenost o něco rychleji než za trojnásobek, šestinásobnou vzdálenost za šestinásobek, desetinásobnou vzdálenost za desetinásobek a dvacetinásobnou vzdálenost za dvacetinásobek času.
+Půl kilometru Martina zvládla za čtyřicet sekund, dvojnásobnou vzdálenost přibližně za dvojnásobek času, trojnásobnou vzdálenost přibližně za trojnásobek času, šestinásobnou vzdálenost za šestinásobek času, desetinásobnou vzdálenost za desetinásobek času a dvacetinásobnou vzdálenost za dvacetinásobek času.
 Vypadá to, že na Martinu je únava krátká.
 
-*To u toho běhání chrápe, ne?*
+*To u toho šmrdlání nohama chrápe, ne?*
 
-To sotva, narkolepsie bychom si všimli. Bude to tím, že Martina nesprintuje, ale běží, protože si to její sport vyžaduje.
+To sotva, narkolepsie bychom si všimli. Bude to tím, že Martina nesprintuje, ale běží, protože si takový pohyb její sport vyžaduje.
 
-Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, získala pouhé dva body únavy. To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek únavy a začal by ji zpomalovat postih.
+Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, be měla získat pouhé dva body únavy.
+To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek únavy a začal by ji zpomalovat postih.
 
-S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje a my vlastně nevíme, kam rychlobruslení zařadit. Ale otevřela nám další druh pohybu, běh.
+S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje. A my teď vlastně nevíme, do jakého pohybu máme rychlobruslení zařadit. Ale alespoň nám otevřela další druh pohybu.
 
 ### Běh
 
