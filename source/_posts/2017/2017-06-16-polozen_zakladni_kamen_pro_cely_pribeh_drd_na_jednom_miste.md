@@ -4,8 +4,6 @@ title: "Položen základní kámen pro celý příběh DrD+ na jednom místě"
 perex: |
 ---
 
-## Položen základní kámen pro celý příběh DrD+ na jednom místě
-
 Při brouzdání [RPG fóra](https://rpgforum.cz/forum/viewtopic.php?f=238&t=13307)
 (kde je pro mě materiálu ke čtení a přemýšlení na dlouhá léta) jsem narazil na přání Snílka, že by chtěl celý DrD+ příběh,
 který se vine celými pravidly, pěkně po kupě, s kapitolami za sebou tak, jak se udály.

@@ -4,8 +4,6 @@ title: "V PPH ujasněny některé vzorce, ve kterých chyběla zmínka o Atletic
 perex: |
 ---
 
-## V PPH ujasněny některé vzorce, ve kterých chyběla zmínka o Atletice
-
 V [PPH, Pravidlech pro hráče](https://pph.drdplus.info/?trial=1) jsem našel několik nesrovnalostí a chybějících údajů, které jsem v průběhu opravil:
 
 *Všechny změny se týkají PPH verze 1.0, edice B*

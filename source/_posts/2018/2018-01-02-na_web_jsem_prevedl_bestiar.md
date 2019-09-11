@@ -4,8 +4,6 @@ title: "Na web jsem převedl Bestiář"
 perex: |
 ---
 
-## Na web jsem převedl Bestiář
-
 Uf, Vánoce jsou svátky klidu a míru, ale musíte si to odpracovat. Nebo jít k babičce.
 
 Přes časovou tíseň jsem na Nový rok dokončil a den poté zveřejnil kompletní [Bestiář](https://bestiar.drplus.info).

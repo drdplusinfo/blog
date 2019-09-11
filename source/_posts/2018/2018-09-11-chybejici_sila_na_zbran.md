@@ -4,8 +4,6 @@ title: "Chybějící síla na zbraň"
 perex: |
 ---
 
-## Chybějící síla na zbraň
-
 V původních pravidlech je u každé zbraně uvedena [potřebná Síla](https://pph.drdplus.info/?trial=1#potrebna_sila_zbrane_pro_boj_zblizka) a za každý chybějící bod *Síly* přichází [postih](https://pph.drdplus.info/?trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu).
 
 ## K čemu to je

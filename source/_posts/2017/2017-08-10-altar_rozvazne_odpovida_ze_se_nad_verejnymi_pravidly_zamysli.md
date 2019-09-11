@@ -4,8 +4,6 @@ title: "Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí"
 perex: |
 ---
 
-## Altar rozvážně odpovídá, že se nad veřejnými pravidly zamyslí
-
 Odpověď Bouchiho na moji [sáhodlouhou vizi DrD+2](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md): 
 
 > Ahoj,

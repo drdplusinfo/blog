@@ -4,8 +4,6 @@ title: "Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší do
 perex: |
 ---
 
-## Bouchi zatím na veřejná pravidla neodpovídá, zkouším prostší dotaz
-
 Bouchi [slíbil odpovědět do konce srpna](2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md), v listopadu zatím nic, tak se ozývám zas:
 
 > Ahoj, vím že u volnočasového projektu, jakým je DrD+, je obtížné sehnat zodpovědné lidi dohromady a dojít k nějakému závěru. Proto Vás poprosím alespoň o vyjádření, zda mohu zveřejnit pravidla v [HTML podobě](https://www.drdplus.info/), abychom snížili vstupní bariéru pro nové hráče a DrD+ se hrálo zas o něco víc.

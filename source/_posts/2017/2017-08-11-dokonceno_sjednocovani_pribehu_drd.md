@@ -4,8 +4,6 @@ title: "Dokončeno sjednocování příběhu DrD+"
 perex: |
 ---
 
-## Dokončeno sjednocování příběhu DrD+
-
 Když jsem před téměř dvěma měsíci začínal lepit dohromady příběh DrD+, mě jsem pocit, že je dávno vyhráno.
 
 Jenže mít texty pohromadě je jedna věc, ale druhá pak rozmotat jejich časovou linku, která přeskakuje mezi příručkami podle toho, v jaké fázi výcviku ten který hrdina zrovna je,

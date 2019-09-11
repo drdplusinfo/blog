@@ -4,8 +4,6 @@ title: "Kombinace povolání"
 perex: |
 ---
 
-## Kombinace povolání
-
 *"A co ty 'seš vlastně zač?"
 "Zámečník, lovec, ranař, stopař po sférách, meteoroděj..."*
 
