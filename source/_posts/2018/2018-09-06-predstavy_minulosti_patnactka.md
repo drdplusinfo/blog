@@ -77,7 +77,7 @@ Ani my se zatím nepouštíme do nových povolání, protože i tak prostá věc
 
 > O co budou čarodějové, theurgové a kněží méně úspěšní v boji, o to lépe se mohou naučit vnímat svět stínový, svět duší, odrazů a tajemných vazeb mezi nimi.
 
-V tomhle vidíme pořád velký potenciál, ale v původních pravidlech se nám nezdá to odtržení světa duší a stínů od světa živých, to že je to izolovaný píseček kouzelných povolání, do kterého ostatní nejen že nevidí, ale nemohou ani zasáhnout. Ale dřív, než začneme písek prosévat, budeme ho muset, zdánlivě paradoxně, izolovat. Vysekáme mentální souboj, čtení ve sférách i práci s magií z pravidel, zavřeme to všechno to klece a budeme na ty zákonitosti civět tak dlouho, až nás napadne, co nají společného, čím jsou provázány s živým světem a k čemu nám to vlastně je.
+V tomhle vidíme pořád velký potenciál, ale v původních pravidlech se nám nezdá to odtržení světa duší a stínů od světa živých, to že je to izolovaný píseček kouzelných povolání, do kterého ostatní nejen že nevidí, ale nemohou ani zasáhnout. Ale dřív, než začneme písek prosévat, budeme ho muset, zdánlivě paradoxně, izolovat. Vysekáme mentální souboj, čtení ve sférách i práci s magií z pravidel, zavřeme to všechno to klece a budeme na ty zákonitosti civět tak dlouho, až nás napadne, co mají společného, čím jsou provázány s živým světem a k čemu nám to vlastně je.
 
 ### Zraněná veřejnost
 
