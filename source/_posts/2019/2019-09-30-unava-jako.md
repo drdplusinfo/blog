@@ -17,9 +17,9 @@ perex: |
 
 Jelikož jsme se už několikrát v našich článcích opřeli o jednoduché pravidlo pro únavu, tak jsme si řekli, že by to chtělo trochu ho provětrat. *Nespoléháme se na shnilé základy? Není to na povrchu líbivé, ale v jádru shnilé ovoce?*
 
-Tím lákadlem, které nás stále znovu a znovu vábí zpět k původní [stupnici únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) Dračího doupěte plus je její prostota - něco unavuje jako chůze, něco jako běh, něco jako sprint. Jak nádherně jenoduché! Jak snadno představitelné!
+Tím lákadlem, které nás stále znovu a znovu vábí zpět k původní [stupnici únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) Dračího doupěte plus je její prostota - něco unavuje jako chůze, něco jako běh, něco jako sprint. Jak nádherně jednoduché! Jak snadno představitelné!
 
-Stupně únavy původního Dračího doupětě plus jsou pro nás vzorem, jak jednoduše a funkčně se dá nějaké pravidlo zapsat.
+Stupně únavy původního Dračího doupěte plus jsou pro nás vzorem, jak jednoduše a funkčně se dá nějaké pravidlo zapsat.
 
 ### Důvěřuj, ale prověřuj
 
@@ -56,7 +56,8 @@ Až do tři sta metrů to s ním ani nehlo. Prostě co sto metrů to deset sekun
 
 Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body únavy, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a Usainovi mírně ztěžkly nohy s postihem -1.
 
-Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint příbývat čtyřikrát rychleji. Namísto jednoho bodu únavy za dvě kola hned dva body únavy za jedno kolo.
+Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint přibývat čtyřikrát rychleji. Namísto jednoho bodu únavy za dvě kola hned dva body únavy za jedno kolo.
+A oproti původním pravidlům mu únava přibývá dokonce osmkrát rychleji.
 
 #### Brusle
 
@@ -97,13 +98,13 @@ Podíváme se teď na zoubek běžci na slovo vzatému, [Emilu Zátopkovi](https
 
 *Hmm, bruslení je zjevně dvakrát rychlejší než běh.*
 
-Po pěti kolimetrech a čtrnácti minutách běhu by Emil měl mít teprve dva body únavy a být tak bez postihu.
+Po pěti kilometrech a čtrnácti minutách běhu by Emil měl mít teprve dva body únavy a být tak bez postihu.
 
-Dvojnásobnou vzdálenost zvládl za téměř půl hodiny, kdy už by měl mít téměř plný řádek únavy, ale to už byl v cíli, takže během závodu opět bez postihu.
+Dvojnásobnou vzdálenost zvládl za téměř půl hodiny, kdy už by měl mít téměř plný řádek únavy, ale to už byl v cíli, takže byl opět bez postihu.
 
 Ovšem se stejnou pravidelností hltal i další kilometry, třicet kilometrů za jeden a půl hodiny, i když měl mít už po hodině a půl běhu osmnáct bodů únavy, což jsou tři řádky a do cíle měl tedy dobíhat s postihem mínus tři.
  
-A při maratonu, po bezmála dvou a půl hodině běhu, by měl mít v cíli dokonce dvacet osm bodů únavy, tedy plné čtyři řádky (po šesti) a tím postih mínus čtyři. Jenže... nic, Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
+A při maratonu, po bezmála dvou a půl hodině běhu, by měl mít v cíli dokonce dvacet osm bodů únavy, tedy plné čtyři řádky a tím postih mínus čtyři. Jenže... nic. Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
 
 *Běžel na půl plynu, to je jasný*
 
@@ -113,13 +114,13 @@ Emil Zátopek? Ať už bylo jeho hnací silou cokoli, tak ji využíval naplno.
 
 I tak by to mohlo být, ovšem těžko se nám věří, že by původní autoři DrD+ stvořili pravidla pro *Únavu jako...* během nedatovaného alkoholového dýchánku metodou *cucprst*.
 
-Emil Zátopek nám už zatopil pořádně, pravidla únavy podle DrD+ na něj zjevně neplatila.
+Emil Zátopek nám už zatopil pořádně, pravidla únavy podle DrD+ na něj, zdá se, neplatila.
 
 ### První maratonec
 
-Vlastně už původní autoři DrD+ narazili na stejný problém s ignorováním pravidel pro únavu, jako my s Emilem Zátopkem. A to s Feidippidem, který za položení základů maratónu položil vlastní život:
+Vlastně už i původní autoři DrD+ narazili na stejný problém s ignorováním pravidel pro únavu, jako my s Emilem Zátopkem. A to s Feidippidem, který za položení základů maratónu položil vlastní život:
 
-> Příklad ([z pravidel PPH](http://pph.drdplus.loc/#vypocet_rychlosti_z_bonusu_vzdalenosti_a_casu)): Skončila bitva u Marathónu, Peršané jsou poraženi a řecký velitel vybírá dobrovolníka, aby to doběhl oznámit do Athén. Nešťastný dobrovolník Feidippides má Rychlost +6 a Výdrž +4, z čehož vyplývá, že jeho Mez únavy je 16. Má však již 5 bodů únavy z předcházejících vyčerpávajících bojů. Před sebou má trasu dlouhou 42 kilometrů, zčásti vedoucí poměrně náročným horským terénem, a tak průměrnou Neschůdnost stanovíme na −5. Jak je známo, Feidippides použil běh. Bonus za vzdálenost je tedy přibližně +92, Pohybová rychlost při běhu +35, ale s opravou za terén je to ve výsledku +30, i když Feidippides běží jen nalehko. Čas je +92 − 30 = +62, to je 3.6 hodiny. Poté, co běží dvě a čtvrt hodiny, se však stane vyčerpaným a podle pravidel pro únavu by se měl zhroutit, nehledě na to, že již hodinu po vyběhnutí by nejspíš získal nějaké postihy a byl by nucen zvolnit. On však pravidla neznal (roku 490 př. n. l. byl Altar ještě v plenkách) a ani ty je dosud neznáš (protože se o nich dočteš až v další sekci), a tak jich nedbal, zatnul zuby a běžel dále. Po další hodině a půl se dostal do cíle a umřel. Tady vidíš, že neznalost zákona neomlouvá a kam až vede nedodržování pravidel.
+> Příklad ([z pravidel PPH](https://pph.drdplus.info/?trial=1#vypocet_rychlosti_z_bonusu_vzdalenosti_a_casu)): Skončila bitva u Marathónu, Peršané jsou poraženi a řecký velitel vybírá dobrovolníka, aby to doběhl oznámit do Athén. Nešťastný dobrovolník Feidippides má Rychlost +6 a Výdrž +4, z čehož vyplývá, že jeho Mez únavy je 16. Má však již 5 bodů únavy z předcházejících vyčerpávajících bojů. Před sebou má trasu dlouhou 42 kilometrů, zčásti vedoucí poměrně náročným horským terénem, a tak průměrnou Neschůdnost stanovíme na −5. Jak je známo, Feidippides použil běh. Bonus za vzdálenost je tedy přibližně +92, Pohybová rychlost při běhu +35, ale s opravou za terén je to ve výsledku +30, i když Feidippides běží jen nalehko. Čas je +92 − 30 = +62, to je 3.6 hodiny. Poté, co běží dvě a čtvrt hodiny, se však stane vyčerpaným a podle pravidel pro únavu by se měl zhroutit, nehledě na to, že již hodinu po vyběhnutí by nejspíš získal nějaké postihy a byl by nucen zvolnit. On však pravidla neznal (roku 490 př. n. l. byl Altar ještě v plenkách) a ani ty je dosud neznáš (protože se o nich dočteš až v další sekci), a tak jich nedbal, zatnul zuby a běžel dále. Po další hodině a půl se dostal do cíle a umřel. Tady vidíš, že neznalost zákona neomlouvá a kam až vede nedodržování pravidel.
 
 Z problému se vymluvili vtipně, ale tím problém nezmizel. Jak to, že se obětavý běžec neplazil poslední kilometry po břiše? Copak neznalost gravitačního zákona zpomalí dítě při pádu ze stromu?
 
@@ -129,17 +130,21 @@ K věci, prosím.
 
 > V tom případě byl Feidippes ignorant a na únavu kašlal.
 
-Je to řečeno poněkud expresivně, ale tak by to mohlo být. Jedinci, uvyklí námaze a bolesti, zřejmě dokáží zatnout zuby, odsunout únavu, bolest i postihy a doběhnout až za hranice smrtelníků.
+Je to řečeno poněkud expresivně, ale tak by to mohlo být. Jedinci, uvyklí námaze a bolesti, zřejmě dokáží zatnout zuby, odsunout únavu, bolest i postihy a doběhnout až na hranice smrtelníků.
 
 Nejde zřejmě o to, že by na ně pravidla neplatila. Jde o to, že platí ještě zákony železné vůle a fanatismu, další pravidla, která v DrD+ nejsou a která jsme se už [pokoušeli objevit](../2018/2018-11-30-unaveny_vul.md#Závěrem) (protože tvorbu pravidel vnímáme spíše jako *objevování* přírodních zákonů). Jenže tehdejší výsledek pátrání nám smrděl a ještě k tomu by podle něj nedoběhl ani Zátopek, ani Feidippes.
+
+Budeme na to muset jít jinak. Ale to zas až jindy.
 
 ## Závěrem
 Soudě podle tohoto malého vzorku vrcholových sportovců můžeme říct, že
 
-- sprint unavuje čtiřikrát více, než udávají pravidla
+- sprint unavuje čtyřikrát více, než udávají pravidla po našem zkrácení řádků únavy a dokonce osmkrát více, než udávají původní pravidla
 - únavu ze sprintu nelze ani po důkladném tréninku potlačit vůlí
-- únava za běh odpovídá (soudě dle toho, že maraton je na hranici pěti bodů únavy, kdy při šestém bodu jedinec padá do mldob)
-- únava za běh se dá po důkladném tréninku úplně potlačit (alespoň co se rychlosti týče, protože Emil Zátopek se při běhu netvářil zrovna uvolněně)
+- únava za běh pravidlům, po našem zkrácení řádků únavy, odpovídá
+    - soudě dle toho, že maraton je na hranici pěti řádků únavy, kdy při šestém řádku jedinec padá do mdlob
+- únava za běh se dá po důkladném tréninku potlačit a to zřejmě i úplně
+    - alespoň co se rychlosti týče, protože jinak se Emil Zátopek při běhu netvářil zrovna uvolněně
 - rychlobruslení je dvakrát rychlejší než běh, unavuje méně než sprint, ale netušíme, zda unavuje jako běh
 
 Je dost možné, že tyhle poznatky zužitkujeme při úpravách *Dovedností*.
