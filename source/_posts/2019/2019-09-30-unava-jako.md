@@ -137,12 +137,12 @@ Budeme na to muset jít jinak. Ale to zas až jindy.
 ## Závěrem
 Soudě podle tohoto malého vzorku vrcholových sportovců můžeme říct, že
 
-- sprint unavuje čtyřikrát více, než udávají pravidla po našem zkrácení řádků únavy a dokonce osmkrát více, než udávají původní pravidla
+- sprint unavuje čtyřikrát více, než udávají pravidla po našem [zkrácení](../2018/2018-10-22-nula.md#Nekonečný_začátek) řádků Únavy a dokonce osmkrát více, než udávají původní pravidla
 - únavu ze sprintu nelze ani po důkladném tréninku potlačit vůlí
-- únava za běh pravidlům, po našem zkrácení řádků únavy, odpovídá
+- únava za běh pravidlům odpovídá, po našem zkrácení řádků Únavy
     - soudě dle toho, že maraton je na hranici pěti řádků únavy, kdy při šestém řádku jedinec padá do mdlob
 - únava za běh se dá po důkladném tréninku potlačit a to zřejmě i úplně
-    - alespoň co se rychlosti týče, protože jinak se Emil Zátopek při běhu netvářil zrovna uvolněně
+    - alespoň co se rychlosti týče, protože ve tváři Emil Zátopek neměl zrovna uvolněný výraz
 - rychlobruslení je dvakrát rychlejší než běh, unavuje méně než sprint, ale netušíme, zda unavuje jako běh
 
 Je dost možné, že tyhle poznatky zužitkujeme při úpravách *Dovedností*.
