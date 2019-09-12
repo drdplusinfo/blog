@@ -27,17 +27,15 @@ Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připito
 
 Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale svazující ho poslouchat.
 
-Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) trochu opřít
+Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) trochu opřít. Schválně, jestli tahle stupnice vydrží naše zdejší hrubé zacházení.
 
-| Unavuje jako | Bod únavy |
-|-----|----|
-| sprint | za dvě kola (asi 20 sekund) |
-| běh | za pět minut |
+| Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy | 
+|-----|-----|-----|
+| sprint | za dvě kola (asi dvacet sekund) | za dvacek kol (přes tři minuty) | za dvanáct kol (dvě minuty) |
+| běh | za pět minut | za padesát minut | za třicet minut |
 
- Schválně, jestli tahle stupnice vydrží naše zdejší hrubé zacházení.
- 
- *Připomínáme, že podle našich úprav se do jednoho řádku Únavy vejde pouhých šest bodů, než automaticky přijde první postih.
- Kdežto v původních pravidlech je na jednom řádku Únavy hned deset bodů Únavy a postih automatický není.*
+ *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný začátek) se do jednoho řádku Únavy vejde pouhých šest bodů, než automaticky přijde první postih. Ale řádků je obvykle šest, než přijdou mdloby.
+ Kdežto v původních pravidlech je na jednom řádku Únavy hned deset bodů Únavy a postih automatický není. Ale řádky jsou jen tři, než přijde smrt.*
 
 ### Sprint
 
