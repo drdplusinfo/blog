@@ -35,7 +35,7 @@ Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=
 | běh | za pět minut | za padesát minut | za třicet minut |
 
  *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný_začátek) se do jednoho řádku Únavy vejde pouhých šest bodů, než se automaticky projeví první postih. Řádků je obvykle šest, později i více, než přijdou mdloby.*
- *Kdežto v původních pravidlech je na jednom řádku Únavy hned deset bodů Únavy a postih automatický není. Ale řádky jsou jen tři, než přijde smrt.*
+ *V původních pravidlech se vešlo na jeden řádek hned deset bodů Únavy a postih automatický nebyl. Řádky byly jen tři, než přišla smrt.*
 
 ### Sprint
 
