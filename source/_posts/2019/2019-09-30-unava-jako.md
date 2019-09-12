@@ -27,7 +27,7 @@ Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připito
 
 Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale svazující ho poslouchat.
 
-Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží naše zdejší hrubé zacházení.
+Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží zdejší hrubé zacházení.
 
 | Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy | 
 |-----|-----|-----|
