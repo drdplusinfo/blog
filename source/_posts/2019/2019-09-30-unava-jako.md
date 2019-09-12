@@ -11,7 +11,7 @@ perex: |
     *A co vy? Kdy jste naposledy prošli nějakou zkouškou?* 
 ---
 
-## Jednoduchost vs realita
+## Jednoduchost versus realita
 
 > Srážka s realitou bývá bolestivější, než srážka s blbcem
 
@@ -27,15 +27,15 @@ Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připito
 
 Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale svazující ho poslouchat.
 
-Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) trochu opřít. Schválně, jestli tahle stupnice vydrží naše zdejší hrubé zacházení.
+Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží naše zdejší hrubé zacházení.
 
 | Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy | 
 |-----|-----|-----|
 | sprint | za dvě kola (asi dvacet sekund) | za dvacek kol (přes tři minuty) | za dvanáct kol (dvě minuty) |
 | běh | za pět minut | za padesát minut | za třicet minut |
 
- *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný začátek) se do jednoho řádku Únavy vejde pouhých šest bodů, než automaticky přijde první postih. Ale řádků je obvykle šest, než přijdou mdloby.
- Kdežto v původních pravidlech je na jednom řádku Únavy hned deset bodů Únavy a postih automatický není. Ale řádky jsou jen tři, než přijde smrt.*
+ *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný_začátek) se do jednoho řádku Únavy vejde pouhých šest bodů, než se automaticky projeví první postih. Řádků je obvykle šest, později i více, než přijdou mdloby.*
+ *Kdežto v původních pravidlech je na jednom řádku Únavy hned deset bodů Únavy a postih automatický není. Ale řádky jsou jen tři, než přijde smrt.*
 
 ### Sprint
 
@@ -74,9 +74,9 @@ Vypadá to, že na Martinu je únava krátká.
 
 *To u toho šmrdlání nohama chrápe, ne?*
 
-To sotva, narkolepsie bychom si všimli. Bude to tím, že Martina nesprintuje, ale běží, protože si takový pohyb její sport vyžaduje.
+To sotva, narkolepsie bychom si všimli. Bude to tím, že Martina nesprintuje, ale běží, protože takový pohyb si její sport vyžaduje.
 
-Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, be měla získat pouhé dva body únavy.
+Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, by měla získat pouhé dva body únavy.
 To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek únavy a začal by ji zpomalovat postih.
 
 S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje. A my teď vlastně nevíme, do jakého pohybu máme rychlobruslení zařadit. Ale alespoň nám otevřela další druh pohybu.
