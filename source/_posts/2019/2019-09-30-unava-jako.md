@@ -30,7 +30,7 @@ Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale s
 Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží zdejší hrubé zacházení.
 
 | Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy | 
-|-----|-----|-----|
+|-----|-----|-----|-----|
 | sprint | za dvě kola (asi dvacet sekund) | za dvacek kol (přes tři minuty) | za dvanáct kol (dvě minuty) |
 | běh | za pět minut | za padesát minut | za třicet minut |
 
