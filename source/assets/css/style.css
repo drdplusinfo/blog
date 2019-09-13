@@ -657,29 +657,6 @@ th, td {
     margin: 0;
 }
 
-a.perex, a.perex:hover {
-    color: #333;
-    text-decoration: none;
-}
-
-a.perex:hover {
-    color: black;
-    background-color: rgba(255, 255, 255, 0.45);
-}
-
-.perex img {
-    max-height: 260px;
-    min-height: 220px;
-    display: block;
-    float: left;
-    padding: 0 1em 0 0;
-    height: 30vw;
-}
-
-#post .perex img {
-    margin: 0;
-}
-
 /* show/hidden menu; ref https://stackoverflow.com/a/35362821/1348344 */
 @media (max-width: 768px) {
     .hidden-sm-down {
@@ -690,10 +667,6 @@ a.perex:hover {
 @media (max-width: 540px) {
     .hidden-xs-down {
         display: none !important;
-    }
-
-    .perex img {
-        display: none;
     }
 }
 

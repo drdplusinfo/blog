@@ -1,53 +1,53 @@
 {
-  "name": "drdplusinfo/blog",
-  "require": {
-    "php": "^7.2",
-    "ext-json": "*",
-    "drdplusinfo/statie": "^5.5",
-    "granam/git": "^1.2",
-    "nette/finder": "^2.4",
-    "nette/utils": "^2.5",
-    "nikic/php-parser": "^4.1",
-    "symfony/console": "^4.2",
-    "symfony/http-kernel": "^4.2",
-    "symplify/package-builder": "^5.4"
-  },
-  "require-dev": {
-    "roave/security-advisories": "dev-master",
-    "dg/bypass-finals": "^1.1",
-    "nette/neon": "^2.4",
-    "phpstan/phpstan": "^0.11",
-    "phpunit/phpunit": "^7.5",
-    "spatie/http-status-check": "^2.5",
-    "symfony/console": "^4.2",
-    "symfony/process": "^4.2",
-    "symfony/stopwatch": "^4.2",
-    "symfony/yaml": "^4.2",
-    "symplify/autodiscovery": "^5.4",
-    "symplify/easy-coding-standard": "^5.4",
-    "symplify/latte-to-twig-converter": "^5.4",
-    "symplify/phpstan-extensions": "^5.4"
-  },
-  "autoload": {
-    "psr-4": {
-      "DrdPlus\\Blog\\": "src"
+    "name": "drdplusinfo/blog",
+    "require": {
+        "php": "^7.2",
+        "ext-json": "*",
+        "drdplusinfo/statie": "^5.6",
+        "granam/git": "^1.2",
+        "nette/finder": "^2.4",
+        "nette/utils": "^2.5",
+        "nikic/php-parser": "^4.1",
+        "symfony/console": "^4.2",
+        "symfony/http-kernel": "^4.2",
+        "symplify/package-builder": "^5.4"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master",
+        "dg/bypass-finals": "^1.1",
+        "nette/neon": "^2.4",
+        "phpstan/phpstan": "^0.11",
+        "phpunit/phpunit": "^7.5",
+        "spatie/http-status-check": "^2.5",
+        "symfony/console": "^4.2",
+        "symfony/process": "^4.2",
+        "symfony/stopwatch": "^4.2",
+        "symfony/yaml": "^4.2",
+        "symplify/autodiscovery": "^5.4",
+        "symplify/easy-coding-standard": "^5.4",
+        "symplify/latte-to-twig-converter": "^5.4",
+        "symplify/phpstan-extensions": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "DrdPlus\\Blog\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DrdPlus\\Blog\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "phpstan": "vendor/bin/phpstan analyse bin src tests --error-format symplify --ansi",
+        "check-cs": "vendor/bin/ecs check bin src tests --ansi",
+        "fix-cs": [
+            "vendor/bin/ecs check bin src tests --fix --ansi",
+            "bin/clear_posts_trailing_whitespaces.sh"
+        ],
+        "check-status": "vendor/bin/http-status-check scan https://tomasvotruba.cz --output invalid-links.txt --ansi"
+    },
+    "config": {
+        "sort-packages": true
     }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "DrdPlus\\Blog\\Tests\\": "tests"
-    }
-  },
-  "scripts": {
-    "phpstan": "vendor/bin/phpstan analyse bin src tests --error-format symplify --ansi",
-    "check-cs": "vendor/bin/ecs check bin src tests --ansi",
-    "fix-cs": [
-      "vendor/bin/ecs check bin src tests --fix --ansi",
-      "bin/clear_posts_trailing_whitespaces.sh"
-    ],
-    "check-status": "vendor/bin/http-status-check scan https://tomasvotruba.cz --output invalid-links.txt --ansi"
-  },
-  "config": {
-    "sort-packages": true
-  }
 }
