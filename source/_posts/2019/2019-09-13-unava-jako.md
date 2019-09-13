@@ -122,11 +122,11 @@ Vlastně už i původní autoři DrD+ narazili na stejný problém s ignorován�
 
 Z problému se vymluvili vtipně, ale tím problém nezmizel. Jak to, že se obětavý běžec neplazil poslední kilometry po břiše? Copak neznalost gravitačního zákona zpomalí dítě při pádu ze stromu?
 
-> No, znám jednoho...
+*No, znám jednoho...*
 
 K věci, prosím.
 
-> V tom případě byl Feidippes ignorant a na únavu kašlal.
+*V tom případě byl Feidippes ignorant a na únavu kašlal.*
 
 Je to řečeno poněkud expresivně, ale tak by to mohlo být. Jedinci, uvyklí námaze a bolesti, zřejmě dokáží zatnout zuby, odsunout únavu, bolest i postihy a doběhnout až na hranice smrtelníků.
 
