@@ -1,0 +1,36 @@
+a.perex, a.perex:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+a.perex:hover {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.45);
+}
+
+.perex img {
+    min-width: 220px;
+    display: block;
+    float: left;
+    padding: 0 1em 0 0;
+}
+
+#post .perex img {
+    margin: 0;
+}
+
+
+@media (max-width: 540px) {
+    .perex img {
+        display: none;
+    }
+}
+
+.perex table {
+    margin: 0;
+}
+
+.perex td {
+    padding: 0;
+    border: none;
+}
