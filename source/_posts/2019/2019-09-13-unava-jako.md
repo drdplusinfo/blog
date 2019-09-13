@@ -79,7 +79,7 @@ To sotva, narkolepsie bychom si všimli. Bude to tím, že Martina nesprintuje, 
 Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, by měla získat pouhé dva body únavy.
 To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek únavy a začal by ji zpomalovat postih.
 
-S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychrobruslení se sprintuje. A my teď vlastně nevíme, do jakého pohybu máme rychlobruslení zařadit. Ale alespoň nám otevřela další druh pohybu.
+S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychlobruslení se sprintuje. A my teď vlastně nevíme, do jakého pohybu máme rychlobruslení zařadit. Ale alespoň nám otevřela další druh pohybu.
 
 ### Běh
 
