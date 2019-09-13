@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ee9c21ac0103110d138e4af685d991c8",
+    "content-hash": "d98bfb2052aa0a4355ad8b2d119a5ff5",
     "packages": [
         {
             "name": "doctrine/inflector",
@@ -78,8 +78,14 @@
             "version": "v5.6.0",
             "source": {
                 "type": "git",
-                "url": "/home/jaroslav/projects/statie",
+                "url": "https://github.com/drdplusinfo/statie.git",
                 "reference": "d54c709b939514325cabfcaac10a5435d9be0d96"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/d54c709b939514325cabfcaac10a5435d9be0d96",
+                "reference": "d54c709b939514325cabfcaac10a5435d9be0d96",
+                "shasum": ""
             },
             "require": {
                 "erusev/parsedown": "^1.7",
