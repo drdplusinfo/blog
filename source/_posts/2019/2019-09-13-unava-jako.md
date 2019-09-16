@@ -35,7 +35,7 @@ Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=
 | běh | za pět minut | za padesát minut | za třicet minut |
 
  *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný_začátek) se do jednoho řádku Únavy vejde pouhých šest bodů, než se automaticky projeví první postih. Řádků je obvykle šest, později i více, než přijdou mdloby.*
- *V původních pravidlech se vešlo na jeden řádek hned deset bodů Únavy a postih automatický nebyl. Řádky byly jen tři, než přišla smrt.*
+ *V původních pravidlech se vejde na jeden řádek hned deset bodů Únavy, později i více. Postih automatický není a nejvyšší možný postih by mohl být -3. Řádky jsou jen tři, než přijde smrt.*
 
 ### Sprint
 
@@ -54,7 +54,18 @@ Až do tři sta metrů s ním únava ani nehla. Prostě co sto metrů to deset s
 Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body únavy, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a aby Usainovi mírně ztěžkly nohy s postihem -1.
 
 Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint přibývat čtyřikrát rychleji. Namísto jednoho bodu únavy za dvě kola hned dva body únavy za jedno kolo.
-A oproti původním pravidlům by mu měla únava přibývat dokonce šestkrát rychleji.
+A oproti původním pravidlům by mu měla únava přibývat dokonce šestkrát rychleji, tedy přibližně tři body Únavy za kolo.
+
+##### Usain a původní pravidla
+
+*Jako že Usain byl ve své vrcholné formě na první úrovni?*
+
+Prosím?! Aha, pravda. Řádek Únavy se v původních pravidlech prodlužuje, jak hrdina sílí. Na to jsme zapomněli.
+
+Pokud tedy budeme brát Usaina jakožto, hmm, [bojovníka](https://pph.drdplus.info/?trial=1#tabulka_povolani) na, hmm, desáté úrovni a on se snažil zvyšovat si Sílu a Obratnost co to šlo, tak na desáté úrovni měl Sílu osm, což je [Mez Únavy](https://pph.drdplus.info/?trial=1#vypocet_meze_unavy) 25.
+Takže aby Usaina pokoušel postih za Únavu dle původních pravidel už po třech kolech, tak by musela únava přibývat rychlostí osmi bodů Únavy za kolo, což je šestnáctkrát rychleji, než jak udávají pravidla. Uf. A to jsme ještě možná Usaina podcenili a měli jsme mu přiznat vyšší úroveň.
+
+No nic, jedeme dál.
 
 #### Brusle
 
@@ -137,7 +148,7 @@ Budeme na to muset jít jinak. Ale to zas až jindy.
 ## Závěrem
 Soudě podle tohoto malého vzorku vrcholových sportovců můžeme říct, že
 
-- sprint unavuje čtyřikrát více, než udávají pravidla po našem [zkrácení](../2018/2018-10-22-nula.md#Nekonečný_začátek) řádků Únavy a dokonce šestkrát více, než udávají původní pravidla
+- sprint unavuje čtyřikrát více, než udávají pravidla po našem [zkrácení](../2018/2018-10-22-nula.md#Nekonečný_začátek) řádků Únavy a nejméně šestkrát více, než udávají původní pravidla
 - únavu ze sprintu nelze ani po důkladném tréninku potlačit vůlí
 - únava za běh pravidlům odpovídá (po našem zkrácení řádků Únavy)
     - soudě dle toho, že maraton je na hranici pěti řádků Únavy, kdy při šestém řádku jedinec padá do mdlob
