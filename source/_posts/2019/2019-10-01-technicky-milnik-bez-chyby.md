@@ -6,7 +6,7 @@ image_author: "*Autorem ilustrace fešáka bez chybičky je [Ticho 762](https://
 perex: |
     *Konzervujeme pravidla DrD+ a čistíme hlavu.*
     
-    Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se vvám ýsledek může hodit.
+    Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se vám výsledek může hodit.
     
     *A co vy, kdy vás naposledy zradila navigace?*
 ---
