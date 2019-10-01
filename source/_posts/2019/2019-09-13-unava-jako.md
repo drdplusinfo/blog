@@ -85,7 +85,7 @@ Vypadá to, že na Martinu je únava krátká.
 
 *To u toho šmrdlání nohama chrápe, ne?*
 
-To sotva, narkolepsie bychom si všimli. Bude to tím, že Martina nesprintuje, ale běží, protože takový pohyb si její sport vyžaduje.
+To sotva, narkolepsie bychom si všimli. Bude to zřejmě tím, že Martina nesprintuje, protože si její sport vyžaduje jiný pohyb. Že by běh?
 
 Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, by měla získat pouhé dva body únavy.
 To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek únavy a začal by ji zpomalovat postih.
