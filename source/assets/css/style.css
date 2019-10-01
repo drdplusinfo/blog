@@ -387,11 +387,6 @@ nav a:hover, nav ul li.active a, nav a.active, nav a:active {
     margin-bottom: 1em;
 }
 
-#post img {
-    text-align: center;
-    margin: .5em auto 1.5em auto;
-}
-
 #post h1 {
     font-size: 3.3em;
     font-weight: 300;
@@ -655,6 +650,26 @@ th, td {
 
 .licence img, #post .licence img {
     margin: 0;
+}
+
+a.perex, a.perex:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+a.perex:hover {
+    color: black;
+    background-color: rgba(255, 255, 255, 0.45);
+}
+
+.perex td {
+    padding: 0;
+    border: none;
+}
+
+.perex img {
+    margin: 0 1em 0 0;
+    max-width: initial;
 }
 
 /* show/hidden menu; ref https://stackoverflow.com/a/35362821/1348344 */

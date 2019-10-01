@@ -6,7 +6,7 @@ image_author: "*Autorem ilustrace fešáka bez chybičky je [Ticho 762](https://
 perex: |
     *Konzervujeme pravidla DrD+ a čistíme hlavu.*
     
-    Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se výsledek hodí.
+    Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se vvám ýsledek může hodit.
     
     *A co vy, kdy vás naposledy zradila navigace?*
 ---
@@ -15,12 +15,12 @@ perex: |
 
 Testování je zlaté pravidlo jakékoli tvorby pro ostatní. Je jasné, prosté a těžké na dodržování.
 
-Když jsme převáděli PDF na web, tak jsme obsah zkopírovali, opravili co se zkopírováním rozbilo a přeleštili trochu vzhled. A když už jsme sem tam našli a opravili nějaký ten překlep původních autorů, tak nás z toho zaplavil povznášející pocit dobře odvedené práce.
+Když jsme před časem převáděli pravidla DrD+ z PDF na web, tak jsme obsah zkopírovali, opravili co se zkopírováním rozbilo a přeleštili trochu vzhled. A když už jsme sem tam našli a opravili nějaký ten překlep původních autorů, tak nás z toho zaplavil povznášející pocit dobře odvedené práce.
 
 Ale žádná idylka netrvá věčně.
 
 ### Kulička trusu
-Po čase jsme zjistili, že některé externí odkazy prostě přestaly fungovat. A že stránka s licencí, kde můžete podle své zvědavosti nebo osobní cti pokračovat k pravidlům, má sklony k sebepoškozování. A že  odkazování z rejstříku na některé kapitoly je sice fajn, ale my chceme mít možnost odkazovat na úplně každou kapitolu.
+Po nějaké době jsme totiž zjistili, že některé externí odkazy prostě přestaly fungovat. A že stránka s licencí, kde můžete podle své zvědavosti nebo osobní cti pokračovat k pravidlům, má sklony k sebepoškozování. A že  odkazování z rejstříku na hlavní kapitoly je sice fajn, ale my chceme mít možnost odkazovat na úplně každou kapitolu.
 A tohle všechno se uplácalo v takovou malou, nenápadnou kuličku trusu, která se pořád nabalovala a zvětšovala a těžkla.
 
 Až přišel čas na hovnivála.
@@ -51,19 +51,16 @@ Během roka a půl jsme sepsali tři sta třináct hlubinných testů, které b�
 A tohle je výtah těch nejdůležitějších, které chrání každého čtenáře [drdplus.info](https://www.drdplus.info)
 
 - úplně každý nadpis je unikátní
-    - takže když někomu řeknete, že má něco hledat v kapitole *Body zkušenosti*, tak se vás nebude ptát "ve které z nich"
+    - takže když někomu řeknete, že má něco hledat v kapitole [*Body zkušenosti*](https://pph.drdplus.info/?trial=1#body_zkusenosti), tak se vás nebude ptát "ve které z nich"
 - úplně každý nadpis má v sobě kotvu (odkaz)
     - takže komukoli můžete poslat odkaz na kapitolu, o které se právě bavíte, třeba [Další bojové akce](https://pph.drdplus.info/#dalsi_bojove_akce)
 - úplně každý výpočet má v sobě také kotvu (odkaz)
     - takže i na konkrétní výpočet můžete komukoli poslat odkaz, třeba [Hod na zpracování úlovku](https://pph.drdplus.info/#hod_na_zpracovani_ulovku)
-- většina výpočtů má popisný název
-    - takže si nebudete drbat hlavu, čeho že to je *"neúspěch"* a nebudete bloumat očima po okolním textu
-    - přiznáváme, že tady máme ještě rezervy
 - každá položka v rejstříku odkazuje na existující kapitolu
     - takže se vám nestane, že byste marně klikali na název, který slibuje to, co zrovna teď nutně potřebujete - odkaz bude prostě fungovat
 - všechny tabulky si můžete zobrazit na jednom místě, třeba všechny [tabulky z *Pravidel pro hráče*](https://pph.drdplus.info/?tabulky)
     - takže se už nemusíte prohrabovat tunou textu, abyste vyhrabali těch pár tabulek, co zrovna potřebujete
-- všechny externí odkazy (na [altar.cz](https://altar.cz), [Vukogvazdskou družinu](https://www.vukogvazd.cz/), [nemoci na Wikipedii](https://cs.wikipedia.org/wiki/Cholera) a další jsou kontrolované a platné a to včetně #kotev odkazujících na konkrétní sekci cílové stránky
+- všechny externí odkazy (na [altar.cz](https://altar.cz), [Vukogvazdskou družinu](https://www.vukogvazd.cz/), [nemoci na Wikipedii](https://cs.wikipedia.org/wiki/Cholera)) a další jsou kontrolované a platné a to včetně #kotev odkazujících na konkrétní sekci cílové stránky
     - takže vám den nezkazí slepý odkaz vedoucí do nikam
 
 A spousta spousta dalších, více technických kontrol.
