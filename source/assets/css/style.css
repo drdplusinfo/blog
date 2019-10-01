@@ -652,26 +652,6 @@ th, td {
     margin: 0;
 }
 
-a.perex, a.perex:hover {
-    color: #333;
-    text-decoration: none;
-}
-
-a.perex:hover {
-    color: black;
-    background-color: rgba(255, 255, 255, 0.45);
-}
-
-.perex td {
-    padding: 0;
-    border: none;
-}
-
-.perex img {
-    margin: 0 1em 0 0;
-    max-width: initial;
-}
-
 /* show/hidden menu; ref https://stackoverflow.com/a/35362821/1348344 */
 @media (max-width: 768px) {
     .hidden-sm-down {

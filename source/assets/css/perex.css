@@ -19,7 +19,6 @@ a.perex:hover {
     margin: 0;
 }
 
-
 @media (max-width: 540px) {
     .perex img {
         display: none;
