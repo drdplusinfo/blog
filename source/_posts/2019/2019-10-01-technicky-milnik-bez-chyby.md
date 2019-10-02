@@ -15,7 +15,7 @@ perex: |
 
 Testování je zlaté pravidlo jakékoli tvorby pro ostatní. Je jasné, prosté a těžké na dodržování.
 
-Když jsme před časem převáděli pravidla DrD+ z PDF na web, tak jsme obsah zkopírovali, opravili co se zkopírováním rozbilo a přeleštili trochu vzhled. A když už jsme sem tam našli a opravili nějaký ten překlep původních autorů, tak nás z toho zaplavil povznášející pocit dobře odvedené práce.
+Když jsme před časem převáděli pravidla Dračího doupěte plus z PDF na [web](https://www.drdplus.info), tak jsme obsah zkopírovali, opravili co se zkopírováním rozbilo a přeleštili trochu vzhled. A když už jsme sem tam našli a opravili nějaký ten překlep původních autorů, tak nás z toho zaplavil povznášející pocit dobře odvedené práce.
 
 Ale žádná idylka netrvá věčně.
 
@@ -43,7 +43,7 @@ Tím jsme si zajistili, že nový test opravdu testoval nalezený problém a že
 
 Mít zadek krytý testy byla velká úleva. Hlavně proto, že s pravidly Dračího doupěte plus se už spíše vláčíme, než že bychom je tlačili. A my je nechtěli zanechat nedotažené. Ale o tom až příště.
 
-Teď je důležité, že pravidla DrD+ necháváme v nejlepším možném technickém stavu.
+Teď je důležité, že pravidla Dračího doupěte plus necháváme v nejlepším možném technickém stavu.
 
 ### Naše testy, vaše radost
 Během roka a půl jsme sepsali tři sta třináct hlubinných testů, které běží téměř tři minuty (na každých pravidlech zvlášť) a provedou celkem jednáct tisíc pět set šestnáct kontrol (na *Pravidlech pro hráče*, u ostatních je to spíše méně).
