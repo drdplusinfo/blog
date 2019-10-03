@@ -46,7 +46,7 @@ Mít zadek krytý testy byla velká úleva. Hlavně proto, že s pravidly Drač�
 Teď je důležité, že pravidla Dračího doupěte plus necháváme v nejlepším možném technickém stavu.
 
 ### Naše testy, vaše radost
-Během roka a půl jsme sepsali tři sta třináct hlubinných testů, které běží téměř tři minuty (na každých pravidlech zvlášť) a provedou celkem jednáct tisíc pět set šestnáct kontrol (na *Pravidlech pro hráče*, u ostatních je to spíše méně).
+Během roka a půl jsme sepsali tři sta třináct hlubinných testů, které běží téměř tři minuty (na každých pravidlech zvlášť) a provedou celkem jedenáct tisíc pět set šestnáct kontrol (na *Pravidlech pro hráče*, u ostatních je to spíše méně).
 
 A tohle je výtah těch nejdůležitějších, které chrání každého čtenáře [drdplus.info](https://www.drdplus.info)
 
