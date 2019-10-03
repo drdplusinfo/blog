@@ -78,18 +78,10 @@ a, a:active {
     text-decoration: none;
 }
 
-a .drdplus-info-square::before, a:active .drdplus-info-square::before {
-    content: url("/assets/images/red_dragon_square_A30444.png?version=b8b2b97aaf28f00234838ad0ef5a3f84");
-}
-
 a:hover, a:focus {
     color: #C60E58;
     text-decoration: underline;
     transition: 0.3s;
-}
-
-a:hover .drdplus-info-square::before, a:focus .drdplus-info-square::before {
-    content: url("/assets/images/red_dragon_square_C60E58.png?version=90510aa78c5a2b3828be31f6dbec2e9f");
 }
 
 #content a:visited:not(.btn):not(.badge) {
