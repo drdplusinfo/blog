@@ -58,7 +58,7 @@ A tohle je výtah těch nejdůležitějších, které chrání každého čtená
     - takže i na konkrétní výpočet můžete komukoli poslat odkaz, třeba [Hod na zpracování úlovku](https://pph.drdplus.info/#hod_na_zpracovani_ulovku)
 - každá položka v rejstříku odkazuje na existující kapitolu
     - takže se vám nestane, že byste marně klikali na název, který slibuje to, co zrovna teď nutně potřebujete - odkaz bude prostě fungovat
-- všechny tabulky si můžete zobrazit na jednom místě, třeba všechny [tabulky z *Pravidel pro hráče*](https://pph.drdplus.info/?tabulky)
+- všechny tabulky si můžete zobrazit na jednom místě, třeba všechny [tabulky z *Pravidel pro hráče*](https://pph.drdplus.info/tabulky)
     - takže se už nemusíte prohrabovat tunou textu, abyste vyhrabali těch pár tabulek, co zrovna potřebujete
 - všechny externí odkazy (na [altar.cz](https://altar.cz), [Vukogvazdskou družinu](https://www.vukogvazd.cz/), [nemoci na Wikipedii](https://cs.wikipedia.org/wiki/Cholera)) a další jsou kontrolované a platné a to včetně #kotev odkazujících na konkrétní sekci cílové stránky
     - takže vám den nezkazí slepý odkaz vedoucí do nikam
