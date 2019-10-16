@@ -27,15 +27,15 @@ Kdybychom zůstali jen u pocitu, tak se můžeme poplácat po zádech a připito
 
 Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale svazující ho poslouchat.
 
-Zkusme se teď do [původních stupňů únavy](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží zdejší hrubé zacházení.
+Zkusme se teď do [původních stupňů *Únavy*](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží zdejší hrubé zacházení.
 
 | Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy | 
 |-----|-----|-----|-----|
 | sprint | za dvě kola (asi dvacet sekund) | za dvacek kol (přes tři minuty) | za dvanáct kol (dvě minuty) |
 | běh | za pět minut | za padesát minut | za třicet minut |
 
- *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný_začátek) se do jednoho řádku Únavy vejde pouhých šest bodů, než se automaticky projeví první postih. Řádků je obvykle šest, později i více, než přijdou mdloby.*
- *V původních pravidlech se vejde na jeden řádek hned deset bodů Únavy, později i více. Postih automatický není a nejvyšší možný postih by mohl být -3. Řádky jsou jen tři, než přijde smrt.*
+ *Připomínáme, že podle našich [úprav](../2018/2018-10-22-nula.md#Nekonečný_začátek) se do jednoho řádku *Únavy* vejde pouhých šest bodů, než se automaticky projeví první postih. Řádků je obvykle šest, později i více, než přijdou mdloby.*
+ *V původních pravidlech se vejde na jeden řádek hned deset bodů *Únavy*, později i více. Postih automatický není a nejvyšší možný postih by mohl být -3. Řádky jsou jen tři, než přijde smrt.*
 
 ### Sprint
 
@@ -51,19 +51,19 @@ K prvnímu zátěžovému testu pravidel si vypůjčíme jamajskou střelu Usain
 
 Až do tři sta metrů s ním únava ani nehla. Prostě co sto metrů to deset sekund. Teprve po tři sta metrech (a třiceti sekundách, tedy třech kolech) můžeme říct, že mu nastupující únava začala brát rychlost.
 
-Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body únavy, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a aby Usainovi mírně ztěžkly nohy s postihem -1.
+Kdybychom brali Usaina pro naši *Únavu jako...* jako vzor, tak by sprint měl unavovat už po pěti sekundách. [Tedy](https://pph.drdplus.info/?trial=1#tabulka_casu) každé kolo by mu měly přibýt dva body *Únavy*, aby se mu po třech kolech zaplnil celý řádek (se šesti body) a aby Usainovi mírně ztěžkly nohy s postihem -1.
 
-Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint přibývat čtyřikrát rychleji. Namísto jednoho bodu únavy za dvě kola hned dva body únavy za jedno kolo.
-A oproti původním pravidlům by mu měla únava přibývat dokonce šestkrát rychleji, tedy přibližně tři body Únavy za kolo.
+Usain nám tedy současná pravidla trochu naboural, protože podle něj by měla únava za sprint přibývat čtyřikrát rychleji. Namísto jednoho bodu *Únavy* za dvě kola hned dva body *Únavy* za jedno kolo.
+A oproti původním pravidlům by mu měla únava přibývat dokonce šestkrát rychleji, tedy přibližně tři body *Únavy* za kolo.
 
 ##### Usain a původní pravidla
 
 *Jako že Usain byl ve své vrcholné formě na první úrovni?*
 
-Prosím?! Aha, pravda. Řádek Únavy se v původních pravidlech prodlužuje, jak hrdina sílí. Na to jsme zapomněli.
+Prosím?! Aha, pravda. Řádek *Únavy* se v původních pravidlech prodlužuje, jak hrdina sílí. Na to jsme zapomněli.
 
 Pokud tedy budeme brát Usaina jakožto, hmm, [bojovníka](https://pph.drdplus.info/?trial=1#tabulka_povolani) na, hmm, desáté úrovni a on se snažil zvyšovat si Sílu a Obratnost co to šlo, tak na desáté úrovni měl Sílu osm, což je [Mez Únavy](https://pph.drdplus.info/?trial=1#vypocet_meze_unavy) 25.
-Takže aby Usaina pokoušel postih za Únavu dle původních pravidel už po třech kolech, tak by musela únava přibývat rychlostí osmi bodů Únavy za kolo, což je šestnáctkrát rychleji, než jak udávají pravidla. Uf. A to jsme ještě možná Usaina podcenili a měli jsme mu přiznat vyšší úroveň.
+Takže aby Usaina pokoušel postih za únavu dle původních pravidel už po třech kolech, tak by musela únava přibývat rychlostí osmi bodů *Únavy* za kolo, což je šestnáctkrát rychleji, než jak udávají pravidla. Uf. A to jsme ještě možná Usaina podcenili a měli jsme mu přiznat vyšší úroveň.
 
 No nic, jedeme dál.
 
@@ -87,8 +87,8 @@ Vypadá to, že na Martinu je únava krátká.
 
 To sotva, narkolepsie bychom si všimli. Bude to zřejmě tím, že Martina nesprintuje, protože si její sport vyžaduje jiný pohyb. Že by běh?
 
-Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, by měla získat pouhé dva body únavy.
-To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek únavy a začal by ji zpomalovat postih.
+Když spočítáme její únavu podle *Únavy jako běh*, tak za deset kilometrů jízdy, tedy za necelých čtrnáct minut, by měla získat pouhé dva body *Únavy*.
+To zní poněkud nereálně, protože v takovém případě by mohla ujet dalších dvacek kilometrů stejným tempem, než by si zaplnila první řádek *Únavy* a začal by ji zpomalovat postih.
 
 S Martinou jsme se moc neposunuli, protože jsme předpokládali, že při rychlobruslení se sprintuje. A my teď vlastně nevíme, do jakého pohybu máme rychlobruslení zařadit. Ale alespoň nám otevřela další druh pohybu.
 
@@ -107,13 +107,13 @@ Podíváme se teď na zoubek běžci na slovo vzatému, [Emilu Zátopkovi](https
 
 *Hmm, bruslení je zjevně dvakrát rychlejší než běh.*
 
-Po pěti kilometrech a čtrnácti minutách běhu by Emil měl mít teprve dva body únavy a být tak bez postihu.
+Po pěti kilometrech a čtrnácti minutách běhu by Emil měl mít teprve dva body *Únavy* a být tak bez postihu.
 
-Dvojnásobnou vzdálenost zvládl za téměř půl hodiny, kdy už by měl mít téměř plný řádek únavy, ale to už byl v cíli, takže byl opět bez postihu.
+Dvojnásobnou vzdálenost zvládl za téměř půl hodiny, kdy už by měl mít téměř plný řádek *Únavy*, ale to už byl v cíli, takže byl opět bez postihu.
 
-Ovšem se stejnou pravidelností hltal i další kilometry, třicet kilometrů za jeden a půl hodiny, i když měl mít už po hodině a půl běhu osmnáct bodů únavy, což jsou tři řádky a do cíle měl tedy dobíhat s postihem mínus tři.
+Ovšem se stejnou pravidelností hltal i další kilometry, třicet kilometrů za jeden a půl hodiny, i když měl mít už po hodině a půl běhu osmnáct bodů *Únavy*, což jsou tři řádky a do cíle měl tedy dobíhat s postihem mínus tři.
  
-A při maratonu, po bezmála dvou a půl hodině běhu, by měl mít v cíli dokonce dvacet osm bodů únavy, tedy plné čtyři řádky a tím postih mínus čtyři. Jenže... nic. Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
+A při maratonu, po bezmála dvou a půl hodině běhu, by měl mít v cíli dokonce dvacet osm bodů *Únavy*, tedy plné čtyři řádky a tím postih mínus čtyři. Jenže... nic. Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
 
 *Běžel na půl plynu, to je jasný*
 
@@ -148,10 +148,10 @@ Budeme na to muset jít jinak. Ale to zas až jindy.
 ## Závěrem
 Soudě podle tohoto malého vzorku vrcholových sportovců můžeme říct, že
 
-- sprint unavuje čtyřikrát více, než udávají pravidla po našem [zkrácení](../2018/2018-10-22-nula.md#Nekonečný_začátek) řádků Únavy a nejméně šestkrát více, než udávají původní pravidla
+- sprint unavuje čtyřikrát více, než udávají pravidla po našem [zkrácení](../2018/2018-10-22-nula.md#Nekonečný_začátek) řádků *Únavy* a nejméně šestkrát více, než udávají původní pravidla
 - únavu ze sprintu nelze ani po důkladném tréninku potlačit vůlí
-- únava za běh pravidlům odpovídá (po našem zkrácení řádků Únavy)
-    - soudě dle toho, že maraton je na hranici pěti řádků Únavy, kdy při šestém řádku jedinec padá do mdlob
+- únava za běh pravidlům odpovídá (po našem zkrácení řádků *Únavy*)
+    - soudě dle toho, že maraton je na hranici pěti řádků *Únavy*, kdy při šestém řádku jedinec padá do mdlob
 - únava za běh se dá po důkladném tréninku potlačit a to zřejmě i úplně
     - alespoň co se rychlosti týče, protože ve tváři Emil Zátopek neměl zrovna uvolněný výraz
 - rychlobruslení je dvakrát rychlejší než běh, unavuje méně než sprint, ale netušíme, zda unavuje jako běh
