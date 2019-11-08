@@ -93,7 +93,7 @@ O jednotlivých systémech by se toho dalo napsat ještě mnohem více (ostatně
 
 Jednotlivé systémy vývoje postavy ve skutečnosti stojí na stejných základech – vždy je tu určitý systém profesních schopností, liší se jen způsobem, jakým si je hráč vybírá. Proto nic nebrání hráči, kterému se líbí systém založený na hraní postavy, aby si podle hry společně s PJ vybíral i archetyp bojovníka nebo schopnosti zloděje, anebo aby váš PJ vytvořil zlodějské cechy, ke kterým pak budete přistupovat podobně jako k bojovnickým školám – Dračí doupě se vždy snažilo být raději inspirujícím systémem než svazujícím. Věříme tedy, že si mezi postavami a způsoby hraní každý najde takový, který se mu bude zamlouvat.
 
-24.6.2002 n.l., Oltář
+24. 6. 2002 n.l., Oltář
 
 AD 2002-06-24, Altar
 

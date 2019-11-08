@@ -19,7 +19,7 @@ V hlavě se mi totiž spojilo několik věcí:
 
 A tím se dostáváme k soutěži. Vypsal jsem ji tedy částečně z okamžitého pocitu a částečně z dlouhodobého rozmýšlení, jak pohnout s pravidly zas o kousek blíže k dokonalosti (jakkoli je daleko).
 
-## Soutěž (od 13.2. do *28. 2. 2018*)
+## Soutěž (od 13. 2. do *28. 2. 2018*)
 
 Před chvílí jsem si objednal jednu [Neviditelnou knihu](http://neviditelnakniha.cz) pro sebe, jednu pro našeho současného *Pýǧeje* a jednu... pro tebe. Tedy pokud se zapojíš do soutěže a vyhraješ, což nebude zas tak těžké, protože účast očekávám minimální, místy mizivou.
 
