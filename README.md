@@ -1,4 +1,4 @@
-# [blog.drdplus.info](https://blog.drdplus.info)
+# [blog.DračíOdkaz.cz](https://blog.draciodkaz.cz)
 
 **Powered by [Statie](https://github.com/Symplify/Statie)**
 
