@@ -5,13 +5,13 @@ perex: |
 ---
 
 Jak už jsem [psal na rpgforum](https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870), převod trval čtyři roky a jeden měsíc.
-Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (přidal do kódu) historicky první obsah v HTML a to [pravidla pro hráče](https://pph.drdplus.info/?trial=1) a 8. února 2018, v devět ráno jsem přidat "poslední" commit a převod tak dokončil (poslední byly [pravidla pro PJ](https://pph.drdplus.info/?trial=1)). 
+Konkrétně jsem v neděli 26. ledna 2014 v půl jedenácté ráno commitnul (přidal do kódu) historicky první obsah v HTML a to [pravidla pro hráče](https://pph.drdplus.info/?trial=1) a 8. února 2018, v devět ráno jsem přidat "poslední" commit a převod tak dokončil (poslední byly [pravidla pro PJ](https://pph.drdplus.info/?trial=1)).
 
 ## No, a co jako?
 
 Abych dobře vysvětlil, proč jsem se na to už dávno nevykašlal, proč mám pocit, že po čtyřech letech práce jsem na začátku a jaktože na [stránkách o DrD+](https://www.drdplus.info) jsou odkazy na [DrD II](http://www.drd2.cz/) a [Dračí hlídku](https://www.dracihlidka.cz/), vezmu to od začátku.
 
-## Bylo nebylo 
+## Bylo nebylo
 
 To, že jsem začínal s DrD na základní škole, jsem už [zmiňoval v dopise pro Altar](../2017/2017-08-02-ptam_se_bouchiho_z_altaru_zda_mohu_zverejnit_drd_pravidla.md). Tam někdy ve mě zakořenila láska k českému stylu RPG her, alias her na hrdiny.
 Ta láska nejdříve usnula, pak byla bita, škrcena, čtvrcena a vařena, aby po letech, na spáleništi vypáleném vysokou školou, prací a neoduševnělými radovánkami vyčkala na první slzu a opět vyklíčila.

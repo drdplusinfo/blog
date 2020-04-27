@@ -41,7 +41,7 @@ Podle těchto původních pravidel se magická energie vezme ze sfér, na něž 
 Tam, kde se magie získává i používá, máme vyhráno
 
 - čaroděj ji dostane o půlnoci (astrální, hodinky si podle ní neřiď)
-- theurg si pro ni musí dojít a vlastně dostane už hotový "produkt", jakousi kapsli, kterou někdy později v pravou chvíli otevře 
+- theurg si pro ni musí dojít a vlastně dostane už hotový "produkt", jakousi kapsli, kterou někdy později v pravou chvíli otevře
 - kněz obdobně taky vlastně nekouzlí, "pouze" žádá o pomoc vyšší mocnosti, které kouzlo zařídí za něj
 - nemagická povolání, tedy bojovník, zloděj a hraničář, popravdě také vládnou magií, ovšem naprosto intuitivně, nevědomky a astrální půlnoc jim do jejich schopností nezasahuje
 

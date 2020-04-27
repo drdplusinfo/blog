@@ -4,7 +4,7 @@ title: "Pidi pravidla - *Úroveň nula*"
 perex: |
 
     *Naše bouře mozků se pomalu uklidňuje a my v klesajícím prachu vidíme útvar, který vypadá jako... nula.*
-    
+
     Odhalujeme naše nejbližší plány, které jsou jak pidi, tak i za rohem a ve kterých má nulová úroveň své místo.
 
     *A co vy, znáte svou úroveň?*
@@ -89,14 +89,14 @@ Co nám zbývá a co ještě nemáme pořádně rozmyšlené jsou
     - první řádek [zranění](https://pph.drdplus.info/?trial=1#zapis_bodu_zraneni_mrizka_zraneni) a první řádek [únavy](https://pph.drdplus.info/?trial=1#body_unavy_a_mrizka_unavy) chceme změnit na "spotřební", kdy se budou obnovovat mnohem rychleji, než další řádky
         - což je pro mnohé z nás ta hranice, kdy už raději couvneme, jelikož pocítíme osten skutečné bolesti
 - hod proti pastem
-    - už při hraní podle původních pravidel jsme v naší družině většinu pastí dělili na čtyři stupně s hranicemi `5 ~ 10 ~ 15` po vzoru [postihu za zranění](https://pph.drdplus.info/?trial=1#postih_za_zraneni) a teď plánujeme něco podobného, jen s hranicemi `6 ~ 12 ~ 18` 
+    - už při hraní podle původních pravidel jsme v naší družině většinu pastí dělili na čtyři stupně s hranicemi `5 ~ 10 ~ 15` po vzoru [postihu za zranění](https://pph.drdplus.info/?trial=1#postih_za_zraneni) a teď plánujeme něco podobného, jen s hranicemi `6 ~ 12 ~ 18`
         - ano, má to návaznost na vlastnosti [začínajícími na šestce](../2018/2018-10-22-nula.md#Šestka)
 
 ## Zachovejte paniku
 *Cože? A co kouzla a dovednosti a vybavení a... a zázemí a... a... a vůbec!*
 
 Zatím ne, zatím to nejde. Zkoušeli jsme to, hledali jsme cestu, jak současná pravidla zjednodušovat a zpřehledňovat postupně, ale to se nám nepodařilo, takže teď hledáme **novou** cestu, na které budeme **části** původních pravidel oprašovat a jednu po druhé zkoušet zasazovat na tvrdé, nové jádro pidi pravidel. Všeho do času.
-Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už s ním dokážeme při skutečném hraní pokrýt. 
+Nejdříve se musíme ujistit, že pidi jádro nových pravidel drží a taky chceme zjistit, co všechno už s ním dokážeme při skutečném hraní pokrýt.
 
 ## Závěrem
 Když je cíl moc velký, je potřeba dělat ústupky a kompromisy, aby byl vůbec dosažitelný. Jenže my kompromisy neradi.

@@ -3,9 +3,9 @@ id: 2018-11-09-1
 title: "Vzpomínky na krásu"
 perex: |
     *To je krása, když se nemusí řešit Krása.*
-    
+
     Zjišťujeme, že krása je příliš subjektivní a komplexní na to, aby se dala vyjádřit jedním číslem.
-    
+
     *A co vy, řešíte krásu?*
 ---
 

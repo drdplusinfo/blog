@@ -3,7 +3,7 @@ id: 2019-03-12-1
 title: "Učíme se z chyb"
 perex: |
     *Kdo nic nekazí, ten nic nedělá a kdo dělá hodně, podělá hodně.*
-    
+
     Na blogu jsme se rozepsali, proč jsme na něm celé čtyři měsíce mlčeli a jak bolí duševní dospívání.
 
     *A co vy, kdy jste se naposledy z něčeho podělali?*
@@ -93,7 +93,7 @@ Mimochodem, už samotná existence kalkulátorů je důkazem, že jsme neposlouc
 kdežto my se místo toho pustili do takových časožroutů, jakými počítadla jsou, v bláhovém přesvědčení, že tím zmizí bolehlavy z příliš složitých pravidel.
 
 ## Jak dál
- 
+
 *"Skákej!"
 "Cccooo?! Vždyť tam nic nevidím!"
 "Než tam doletíš, tak uvidíš."*
@@ -109,23 +109,23 @@ Už delší dobu jsme tušili, že nás větší změny pravidel čekají, jen j
 - jeden jediný řádek *Zranění* a jediný řádek *Únavy*
   - *když se zraníš nebo unavíš za celý řádek, zhroutí se ti Morálka a utečeš (neboj, to bude jen v úvodním příběhu, kde ještě nebudeš hrdinou)*
 - hod kostkou 1k6±
-  - *když ti padne šestka, hurá, házíš dál, ale každým hodem už to bude přibývat nanejvýš o +1, a naopak když ti padne jednička, tak tvůj pokus bude klesat, ale nanejvýš s každým hodem o -1* 
+  - *když ti padne šestka, hurá, házíš dál, ale každým hodem už to bude přibývat nanejvýš o +1, a naopak když ti padne jednička, tak tvůj pokus bude klesat, ale nanejvýš s každým hodem o -1*
 - Velká snaha
   - *a s ní volba, jak velkou chybu jsi ochoten ze zoufalství nebo čiré frajeřiny riskovat*
 - příběh
   - *bez něj to prostě nejde, můžeme si nová pravidla třeba vyřezat laserem do [diamantu slisovaného z našich předků](https://www.denik.cz/z_domova/kam-s-lidskym-popelem-do-hodin-ci-diamantu-20130502.html), ale pokud s nimi nepůjdou pokrýt situace v příběhu, tak by beztak byly jenom na... no... na hnojení*
-  
+
 ## Závěrem
 *Selhávejte. Selhávejte rychle.*
-  
+
 Tohle motto se dá přeložit i jako *Abys co nejdřív zjistil kudy jo, musíš co nejdřív zjistit kudy ne*. V tom nás může blokovat
-  
+
 * **strach**
 * **vláda intuice**
   * to je ten dětský přístup, který je krásný, mnohdy funkční, ale nedovolí překonat velké problémy, protože plyne pokud možno nejsnazší cestou
 * **vláda vědomí**
   * takový ten stav, kdy dokážeme všechno domyslet do nejmenších detailů, pokud máme dost informací, nebo to radši ignorujeme, pokud o tom víme málo
- 
+
 Strach už nemáme, absolutní vládu intuice i vědomí jsme si už zkusili a dopracovali jsme se k jejich spolupráci, takže to bychom měli. Narovnák na vohejbák v podobě kalkulátorů jsme přeleštili, zakonzervovali a teď můžeme zase s klidem na srdci pokračovat v plánu, který začal zrát na podzim a to sestavit **nejmenší možná pravidla** a už podle nich začít opravdu hrát, kurňa. Cokoli, hlavně abychom zjistili, zda pravidla příběhu pomáhají nebo ho dusí.
 
 Krleš!

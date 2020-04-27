@@ -3,9 +3,9 @@ id: 2018-12-07-1
 title: "Představy minulosti - *Poslové*"
 perex: |
     Z prvohor Dračího doupěte plus jsme vykopali další článek od Altaru z roku 2002, ve kterém nám původní autoři vysvětlovali, proč bude šest povolání ve třech příručkách a co ony dvojice spojuje.
-    
+
     Ten text nám má i po čtrnácti letech co říct, protože se týká nejen minulosti, ale i budoucnosti DrD+. A tak jsme ho i okomentovali.
-    
+
     *A co vy, máte co říct i po čtrnácti společných letech?*
 ---
 
@@ -44,13 +44,13 @@ Cože je to za podivnou volbu? Proč dáváme k sobě dvě tak různá povolán�
 
 ---
 
-*Do sálu vplula dlouhá řada tichých, skoro nepostřehnutelných bytostí, spíše nejasných stínů než skutečných tvorů. Neslyšně se zastavily tam, kde se zář Oltáře mísila s temnotou. 
- „Hleďte, Poslové se vrátili!“ zvolal Devátý. Patnáctka povstala od Oltáře, tváře skryté ve stínu kapucí se tázavě obrátily k postavám, které nehybně vyčkávaly na hranici světla a tmy. Pak sál naplnil tichý šepot: 
- „Udělali jsme vše, oč jsme byli žádáni, a možná i více,“ řekl ten tichý hlas, „naslouchali jsme hovorům lidí, byli jsme přítomni jejich sezením, pozorovali jsme jejich hru. Vysávali jsme jejich názory na Světové Síti, a nebylo-li zbytí, četli jsme jejich myšlenky. Sledovali jsme bedlivě vše, co dělají, co říkají i co si myslí.“ 
+*Do sálu vplula dlouhá řada tichých, skoro nepostřehnutelných bytostí, spíše nejasných stínů než skutečných tvorů. Neslyšně se zastavily tam, kde se zář Oltáře mísila s temnotou.
+ „Hleďte, Poslové se vrátili!“ zvolal Devátý. Patnáctka povstala od Oltáře, tváře skryté ve stínu kapucí se tázavě obrátily k postavám, které nehybně vyčkávaly na hranici světla a tmy. Pak sál naplnil tichý šepot:
+ „Udělali jsme vše, oč jsme byli žádáni, a možná i více,“ řekl ten tichý hlas, „naslouchali jsme hovorům lidí, byli jsme přítomni jejich sezením, pozorovali jsme jejich hru. Vysávali jsme jejich názory na Světové Síti, a nebylo-li zbytí, četli jsme jejich myšlenky. Sledovali jsme bedlivě vše, co dělají, co říkají i co si myslí.“
  „A odpověď?“
  „Odpověď, ctihodní, neexistuje,“ zašeptal hlas a sál naplnilo tíživé ticho.
- „Což žádná z Možností se jim nelíbí, což žádná nevyhovuje formuli lidských přání?“ zeptal se nakonec Čtvrtý. 
- „Lidé jsou zvláštní tvorové, jejich činy nemají řád, natož pak jejich přání,“ odpověděl . „To, co jeden přivítá, druhý odmítne, to, co se jednomu líbí, druhému bude proti mysli. Nebylo Možnosti, která by se zalíbila všem, nebylo však Možnosti, která by si nezískala přízeň mnohých. Byli tací, kterým se líbily všechny Možnosti, byli i tací, kterým se nikdy žádná líbit nebude. Vaše otázka tedy nemá odpověď.“ 
+ „Což žádná z Možností se jim nelíbí, což žádná nevyhovuje formuli lidských přání?“ zeptal se nakonec Čtvrtý.
+ „Lidé jsou zvláštní tvorové, jejich činy nemají řád, natož pak jejich přání,“ odpověděl . „To, co jeden přivítá, druhý odmítne, to, co se jednomu líbí, druhému bude proti mysli. Nebylo Možnosti, která by se zalíbila všem, nebylo však Možnosti, která by si nezískala přízeň mnohých. Byli tací, kterým se líbily všechny Možnosti, byli i tací, kterým se nikdy žádná líbit nebude. Vaše otázka tedy nemá odpověď.“
  „I neexistence odpovědi je jistou odpovědí,“ pravil První a pokynem ruky Posly propustil.*
 
 ---

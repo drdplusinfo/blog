@@ -12,10 +12,10 @@ Někdy začátkem června jsem [plácnul na Facebook](https://www.facebook.com/d
 Protože jsem ho sám nečekal, tak mě překvapil a pobavil a když zvedl náladu mě, tak jsem ho zveřejnil, ať se nad neštěstím jiného pobaví i jiní (ano, takový jsme národ).
 > Ze života theurga:
   "Řekli mi, že bude poslouchat na slovo. Ale neřekli na které..."
-  
+
 Tím se moje hlava naladila na *hledání vtipů* a skoro měsíc jsem plácal na Facebook vtipy v kolísavé kvalitě, nejdřív obden, ke konci června už skoro každý den.
 
-- to *naladění* je mocná věc; když se naladíš na problémy, uvidíš problémy, když na peníze, uvidíš cesty jak získat peníze, když na Dračí doupě plus, uvidíš spoustu světýlek na konci tunelu 
+- to *naladění* je mocná věc; když se naladíš na problémy, uvidíš problémy, když na peníze, uvidíš cesty jak získat peníze, když na Dračí doupě plus, uvidíš spoustu světýlek na konci tunelu
 
 Zajímavé bylo sledovat, jak vtipy vznikaly a co to se mnou dělá:
 
@@ -51,7 +51,7 @@ Už delší dobu hledám cestu, jak spolupracovat s ostatními na změnách v Dr
 Vlastně se divím, že na [RPG fóru](https://rpgforum.cz/forum/index.php) něco takového už dávno není(?), totiž odchylky charakterů od šedého průměru, zvláštní poznávací znamení, kvůli kterým hlavní postava vyčuhuje z davu a přitom jí to příliš nepřekáží v dráze dobrodruha.
 
 Tyhle rysy, kterým já říkám **marky**, poznávací znamení, [schraňuji na Dropbox Paperu](https://paper.dropbox.com/doc/Marky-hrdinu-i-padouchu--AGnaQE~RAjhaasR4jR3VRwyoAQ-4WNOSwzOGzSDLguzneiHn) a píši je stylem
- 
+
  - **příklad** se zážitkem osoby, kterou si osud označil onou markou a *kam se dá nejsnáze propašovat humorný styl*
  - zevrubný **popis**, co taková vlastnost znamená pro poznamenanou osobu v běžném životě
  - **čísla**, která přímo upravují pravidla hry a po kterých jsou mnozí hráči tak lační
@@ -73,7 +73,7 @@ Vlastně když jsem nedávno přidal k jednotlivým webovým příručkám *sled
 
 - částečným lékem na vyhoření je dělit úkoly na menší části, častěji si říkat *"a je to"* a další část si vzít jako zbrusu **nový** úkol (programátoři to takhle dělají často, *"Co? změna zadání? Nešahej na to! Původní úkol je hotový a teď založ nový. Výsledek bude pro tebe stejný a já nebudu mít pocit, že jsem se nikam nepohnul."*)
 
-Ale nestačí to, chce to komunitu, partu magorů, co občas přihodí názor, jiný úhel pohledu, zkušenosti z oblastí, o kterých nemám ani potuchy.  
+Ale nestačí to, chce to komunitu, partu magorů, co občas přihodí názor, jiný úhel pohledu, zkušenosti z oblastí, o kterých nemám ani potuchy.
 
 První pokus o spolupráci jsem si vyzkoušel [vypsáním soutěže o Neviditelnou knihu](2018-02-16-vyskytla_se_nam_neviditelna_soutez.md), kdy se až v jejím samotném závěru ozval Honza V., že by něco zkusil napsat (ale nezkusil) a teprve ve finiši se zjevila [Maky-Orel](http://makyorel.blog.cz/) s [kresbami](https://www.facebook.com/pg/drdplus.info/photos/?tab=album&album_id=339898449855265) a *"s přáním větší účasti..."*.
 Ono je totiž zatraceně lehké si říct "něco udělám" a pak **čekat**, kdy mě to chytne tolik abych to měl **najednou** hotové

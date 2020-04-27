@@ -5,7 +5,7 @@ perex: |
     *Máte minutu? A inteligenci?*
 
     Na blogu jsme oprášili více akcí za kolo, totiž za minutu, a posadili je na chvost změn nedávných, kdy hrdina začíná nikoli s nulovými vlastnostmi, ale se šestkami.
-    
+
     *A co vy, co zvládnete vymyslet za minutu?*
 ---
 

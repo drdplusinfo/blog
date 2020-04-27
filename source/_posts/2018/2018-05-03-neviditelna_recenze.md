@@ -34,7 +34,7 @@ Nedávno jsem četl tu samou kapitolu znovu (což je asi tak po dvou měsících
 ## Reklama, očekávání a realita
 
 Reklama na [Neviditelnou knihu](http://neviditelnakniha.cz) kolem mě plula už delší dobu, ale dokud jsem neuviděl tu na [dracidoupe.cz](http://www.dracidoupe.cz/), kde se výslovně píše, že
- 
+
 > Vychází nový modul pro **Dračí doupě** a jiná fantasy RPG
 
 tak to o mě jen tak cinkalo a nic. Samozřejmě to vypovídá něco hlavně o mě, že jsem jednoduchý tvor a chci všechno strkat až pod nos, ale co mám tak vypozorované, tak je na tom stejně spousta dalších lidí.
@@ -108,7 +108,7 @@ I z toho důvodu je možné [Neviditelnou knihu](http://neviditelnakniha.cz) ote
 Samotné zápletky mají ale jedno společné, co mi není úplně komfortní a to je jejich vážnost a dospělost. Zatímco já mám raději hravé [Baldur's gate](https://www.youtube.com/watch?v=DjWWuUDtSaEgate), kde se můžu kochat přátelským vztahem bojovníka s křečkem, koláči květin na loukách či skutečným strachem obyčejných lidí, tak Tauril jsou spíše [Pillar's of Eternity](https://www.youtube.com/watch?v=KZM2wWTvWwM), kde vtip umřel společně s dušemi dětí, což atmosféru neničí, jen ji to dělá jinou, než má vlastní dětská duše potřebuje.
 Navíc se většina zápletek zakládá na konfliktu mezi politickými názory, kulturními rozdíly nebo prostě odlišným pohledem na svět, takže i kvůli tomu si téměř žádnou zápletku nedokážu představit pro postavy na nižší než šesté úrovni (z hlediska [DrD+](https://drdplus.info)).
 
-*[Neviditelnou knihu](http://neviditelnakniha.cz) bych nedoporučil jako základní kámen začínajícím hráčům, ale zato bych ji předepisoval všem, kteří hrají léta a přitom ještě nedokážou pustit z ruky kostky a meč.* 
+*[Neviditelnou knihu](http://neviditelnakniha.cz) bych nedoporučil jako základní kámen začínajícím hráčům, ale zato bych ji předepisoval všem, kteří hrají léta a přitom ještě nedokážou pustit z ruky kostky a meč.*
 
 ## Stojí to za to
 Během psaní recenze jsem se neubránil vzpomínkám na rozčarování z méně stravitelného stylu, do jakého je [Neviditelná kniha](http://neviditelnakniha.cz) slisovaná a myslím si, že jí to uškodí při rozšiřování se mezi *hrdiny tužky, papíru a kostek*, ale je to jeden z těch výtvorů, co ve mě zanechal stopu a za který jsem rád, že vznikl a že jsem ho vstřebal.
@@ -125,7 +125,7 @@ Těším se na přídavky.
     - druhé větší a vážnější [dobrodružství *Válka neskončila*](http://neviditelnakniha.cz/ke-stazeni/dobrodruzstvi/)
     - [mapy](http://neviditelnakniha.cz/ke-stazeni/mapy-a-planky/)
     - [náhodné tabulky Chaosu](http://neviditelnakniha.cz/ke-stazeni/ostatni/)
-    - [náhodné tabulky pro tvorbu hrdinů i cizích postav](http://neviditelnakniha.cz/ke-stazeni/ostatni/) 
+    - [náhodné tabulky pro tvorbu hrdinů i cizích postav](http://neviditelnakniha.cz/ke-stazeni/ostatni/)
 - [pravidla pro *Dračí doupě 1.6* a *Dračí doupě II*](http://neviditelnakniha.cz/ke-stazeni/pravidla/)
   - na pravidlech pro [*Dračí doupě Plus*](https://drdplus.info) budeme teprve pracovat, o pravidlech pro [*Dračí hlídku*](https://www.dracihlidka.cz/#top) zatím zprávy nemáme
 - [komunita kolem Neviditelné knihy na RPG fóru](https://rpgforum.cz/forum/viewforum.php?f=310)

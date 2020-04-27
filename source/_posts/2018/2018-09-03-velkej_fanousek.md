@@ -26,7 +26,7 @@ jsem velkej fanoušek, ale mám ke hře pár připomínek.
 Nahradit kompletně povolání pouze dovednostmi, ze kterých by si hráč mohl dle libosti vybírat a kombinovat ostrostřelce s čarodějem, to si nedovolíme. I tak by tam musela být nějaká omezení, aby hráči nevyzobávali jen ty nejvražednější a nepříliš uvěřitelné kombinace
 
  - někdo by si mohl říct, *tak ať zobou, když je Pán jeskyně nechá*, jenže jak víme, tak mnozí hráči jsou nenasytní a nějaký roleplaying je moc nevzrušuje, jak i ty uvádíš na tak prosté věci jako je *Dovednost se zbraní* [níže](#Dovednosti)
- 
+
 Řešením by byl třeba strom dovedností, které by tak navazovaly jedna na druhou, potom mi ale mizí ta volnost výběru a už od začátku musím pečlivě zvažovat, ve kterých dovednostech se budu zlepšovat, abych se dostal k těm dalším, co chci. I teď to tak sice je, třeba u zloděje, ale ta provázanost je tam popravdě malá, než jak by to musely řešit *"dovednosti všeho pro všechny"*.
 
 Na druhou stranu, plánujeme kombinace povolání, takže co se schopností různých povolání týče, tak na ty základní může dosáhnout každá postava.
@@ -74,7 +74,7 @@ Osobně bych úrovně úplně zrušil, ale měly by se nějak shodovat s věkem 
 Nám zas přijde rozdělování zkušeností nepříliš šťastné, protože pak mezi (nevyzrálými) hráči vzniká rivalita, *"jak to že ten druhý dostal víc"?* Plánujeme současný systém sice zachovat, ale přidat ještě další možnosti ve smyslu *"Pán jeskyně bude dávat všem stejně"* a *"Pán jeskyně po čase rozhodne, že jste uzráli na další úroveň"* (a zkušenosti jako číslo se pak neřeší).
 
 S těmi základními vlastnostmi to bude ještě trochu oříšek, ale měnit jejich zvyšování po úrovních budeme, jak už jsme naznačovali výše.
- 
+
 > Hraní postavy- pokud si hráči mohou sami vybrat, mají tendenci vytvářet dost nezajímavé stereotypy, bojovník, co rád bojuje a měl by zato dostávat Zk, je podle mě nic moc.
 
 To je zas k systému rozdělování zkušeností, který nám nepřijde moc rozumný a chceme proto přidat další styly a současný upozadit.
@@ -189,7 +189,7 @@ Ale když na to použiju současný [návrh boje](2018-08-10-boj.md) (no, návrh
 ## Pohyb a únava
 > Pohyb a únava- celkem fajn jenom čísla jsou občas zvláštní a bodů únavy je hrozně málo. Postavy mají obrovskou nosnost, měly by se počítat zbraně a zbroj a vždy by měl být alespoň nějaký postih.
 
-Souhlasíme, o zbroji jsme se zmiňovali už výše, postihy za nosnost pak chceme zjednodušovat, protože není až takový odpor hráčů k tomu být naložený, jako spíš postihy počítat. 
+Souhlasíme, o zbroji jsme se zmiňovali už výše, postihy za nosnost pak chceme zjednodušovat, protože není až takový odpor hráčů k tomu být naložený, jako spíš postihy počítat.
 
 ## Osvětlení a další obskurní pravidla
 > Světlo, počasí...- Pravidla jsou tak složitá, že je nejspíš málokdo používá. Opět zde není jasné jak by měli fungovat různé předměty (oblečení a vůbec, jak by někdo měl chytit nějakou nemoc, nebo dostat prostě nějakej postih.
@@ -201,7 +201,7 @@ Vidíme to stejně a taky jsme pravidla nepoužívali, přestože byly situace, 
 
 V tomhle se názorově (nebo herními zážitky) rozcházíme. Jídlo v divočině sháníme pravidelně a jelikož Pán jeskyně je pes, tak byla zvířata často vyplašená, nebo se jim na poušti prostě nechtělo být, nebo se jim nechtělo lézt za námi na horské štíty a podobně (úpravy [Předpokladů lovu](https://pph.drdplus.info/?trial=1#priprava_na_lov)), takže jsme mnohdy po hodinách stopování skončili s krysou, kterou jsme před slabšími členy vydávali za sysla.
 
-- ikdyž asi zrovna tohle v pravidlech chybí, přehled situací, kdy *lov nepůjde podle představ*. 
+- ikdyž asi zrovna tohle v pravidlech chybí, přehled situací, kdy *lov nepůjde podle představ*.
 
 Plánujeme mírné zjednodušení a více příkladů, například co s tím, když hrdina vyrazí lovit jelena a nezdaří se, ale číselně by mohl donést alespoň hrst žížal a dva křeny.
 

@@ -5,10 +5,10 @@ image: /assets/images/posts/olympiada.png?version=f73c2b6dfef52f43b98aed9b035c6a
 image_author: "*Autorem ilustrace paralympijského dobrodruha je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Hrál by Usain Bolt Dračí doupě, kdyby uměl česky? A hrál ho Emil Zátopek? A hraje ho Sáblíková?*
-    
+
     Nastal čas pro zátěžovou zkoušku pravidel pro Únavu skutečnými olympijskými borci.
-    
-    *A co vy? Kdy jste naposledy prošli nějakou zkouškou?* 
+
+    *A co vy? Kdy jste naposledy prošli nějakou zkouškou?*
 ---
 
 ## Jednoduchost versus realita
@@ -29,7 +29,7 @@ Ovšem pocit je dobrý sluha a zlý pán. Je osvobozující mu naslouchat, ale s
 
 Zkusme se teď do [původních stupňů *Únavy*](https://pph.drdplus.info/?trial=1#tabulka_unavy_z_pohybu) a hlavně jejich číselného vyjádření trochu opřít. Schválně, jestli tahle stupnice vydrží zdejší hrubé zacházení.
 
-| Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy | 
+| Unavuje jako | Bod únavy | Postih -1 dle původních pravidel | Postih -1 dle úpravy |
 |-----|-----|-----|-----|
 | sprint | za dvě kola (asi dvacet sekund) | za dvacek kol (přes tři minuty) | za dvanáct kol (dvě minuty) |
 | běh | za pět minut | za padesát minut | za třicet minut |
@@ -112,7 +112,7 @@ Po pěti kilometrech a čtrnácti minutách běhu by Emil měl mít teprve dva b
 Dvojnásobnou vzdálenost zvládl za téměř půl hodiny, kdy už by měl mít téměř plný řádek *Únavy*, ale to už byl v cíli, takže byl opět bez postihu.
 
 Ovšem se stejnou pravidelností hltal i další kilometry, třicet kilometrů za jeden a půl hodiny, i když měl mít už po hodině a půl běhu osmnáct bodů *Únavy*, což jsou tři řádky a do cíle měl tedy dobíhat s postihem mínus tři.
- 
+
 A při maratonu, po bezmála dvou a půl hodině běhu, by měl mít v cíli dokonce dvacet osm bodů *Únavy*, tedy plné čtyři řádky a tím postih mínus čtyři. Jenže... nic. Emil se pokaždé vřítil do cíle stejnou rychlostí, postih nepostih. Někde nám něco uniká.
 
 *Běžel na půl plynu, to je jasný*

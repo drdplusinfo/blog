@@ -3,7 +3,7 @@ id: 2019-03-21-1
 title: "Zmrtvýchvstání odvozených vlastností"
 perex: |
     S odvozenými vlastnostmi Dračího doupěte plus jsme se už jednou loučili, ale nedalo nám to, vyčenichali jsme co nám na nich vadilo a teď některé z nich vítáme zpět.
-    
+
     *A co vy, kdy jste to naposledy vzali z hospody zkratkou přes běžeckou dráhu?*
 ---
 
@@ -88,7 +88,7 @@ Z tohohle souboje vychází vítězně nový návrh, takže zatím je to 1:1 na 
 
 A co dál? Dál si připomeneme, na co jsme přišli v [Inteligentním bojovníkovi](../2018/2018-10-10-inteligentni_bojovnik.md#Zkrátka_inteligence) a to, že pro počet akcí potřebujeme jak *Obratnost*, tak i *Inteligenci*, přičemž značná *Obratnost* s nízkou *Inteligencí* je tělo bez vlády a vysoká *Inteligence* s neohrabanou *Obratností* je vláda bez těla. Prostě výsledkem je **nižší** z obou vlastností, ~~žádný průměr~~. Neplatí tohle náhodou pro každou kombinaci vlastností? Nebo alespoň pro některé?
 
-Ovšem než se k odpovědi dostaneme, budeme si muset nejdříve v odvozených vlastnostech trochu uklidit. 
+Ovšem než se k odpovědi dostaneme, budeme si muset nejdříve v odvozených vlastnostech trochu uklidit.
 
 ## Úklid
 
@@ -109,7 +109,7 @@ Původní *Nebezpečnost* se [zjišťovala](https://pph.drdplus.info/?trial=1#vy
 
 A *Inteligence* ne? Nikdy nás nemrazilo z génia, který živé tvory považuje za omyl přírody? Snad jen *Zručnost* a možná *Obratnost* nezasahují do prvotního pocitu nebezpečí, ale jen do doby, než si uvědomíme, že protivník nás v obou vlastnostech převyšuje a že proti němu nemáme moc šancí.
 
-Vypadá to, že do *Nebezpečnosti* se nám hodí **každá** základní vlastnost, zvláštní. Je to právě jeden z těch zdrojů smradu, které pod odvozenými vlastnostmi podřízly větev a větrání smradu máme v plánu až příště, takže *Nebezpečnost* zatím opatrně odkládáme. 
+Vypadá to, že do *Nebezpečnosti* se nám hodí **každá** základní vlastnost, zvláštní. Je to právě jeden z těch zdrojů smradu, které pod odvozenými vlastnostmi podřízly větev a větrání smradu máme v plánu až příště, takže *Nebezpečnost* zatím opatrně odkládáme.
 
 ### Důstojnost
 
@@ -141,7 +141,7 @@ Přeskočit, vyhnout se, kmitat nohama v přesném sledu, využívat podloží, 
 
 V původních pravidlech tyto drobnosti [vyjadřuje](https://pph.drdplus.info/?trial=1#vypocet_rychlosti)
 
-- *Síla* 
+- *Síla*
     - chvíli nám trvalo, než jsme *Sílu* bez podmínek přijali do *Rychlosti*, protože jsme si představovali, jak [Zetor](https://www.zetor.cz/zetor-by-pininfarina-se-predstavila-v-nizozemi) dostane o motor navíc a byť mu to umožní utáhnout větší valník, tak jeho rychlost bez naložení to nezmění, pak nám ale došlo, že *Síla* není jen o koňských silách, ale také o znalosti těla a o schopnosti ho **efektivně** používat, včetně hopsání po krokodýlech a sprintu mezi explodujícími dlaždicemi, takže ano, *Síla* do *Rychlosti* patří
 - *Obratnost*
     - jestli něco vyjadřuje rychlost pohybů, mrštnost a hbitost, tak je to *Obratnost*, takže ano, *Obratnost* je také právoplatným členem *Rychlosti*

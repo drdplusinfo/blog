@@ -72,7 +72,7 @@ Plánované změny plánuji dělat tak jako tak, ale pokud od vás nedostanu svo
 
 Nechte si to prosím projít hlavou.
 
-Děkuji, Jaroslav "Kostřivec" Týc 
+Děkuji, Jaroslav "Kostřivec" Týc
 
 PS: všechny zdrojové kódy jsou vám k dispozici a pokud se rozhodnete, že je použijete po svém, protože jejich obsah je vaším vlastnictvím, nebudu se bránit
 

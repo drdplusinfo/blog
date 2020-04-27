@@ -17,7 +17,7 @@ Při rozsáhlém [zkoumání, pitvání a nakonec i úpravách *Boje*](2018-08-1
 - počet možných akcí v jednom kole je ovlivněn pouze *Bojem*
 - body *Boje* lze, v rámci jednoho kola, přelévat mezi akcemi jak je libo (a tím si za body *Boje* "kupovat" bonusy)
 
-A trochu se nám to od té doby rozleželo. S tou *Obratností* se nám to pořád líbí, protože to je jednoduché a dává nám to smysl, ovšem jinak to už vnímáme s počtem akcí a přesouváním bodů *Boje*. 
+A trochu se nám to od té doby rozleželo. S tou *Obratností* se nám to pořád líbí, protože to je jednoduché a dává nám to smysl, ovšem jinak to už vnímáme s počtem akcí a přesouváním bodů *Boje*.
 
 ## Zkrátka inteligence
 
@@ -25,9 +25,9 @@ V [návrhu *Boje*](2018-08-10-boj.md) jsme chtěli mít počet akcí podle bodů
 
 - máš tolik akcí, kolik máš bodů *Boje* vydělených šesti, zaokrouhleno nahoru
     - třeba s *Bojem* 7 bys měl dvě akce, protože 7 / 6 = 1.16..., zaokrouhleno nahoru jsou 2
- 
+
 A chtěli jsme, aby ses mohl na každou akci soustředit tak, jak si zaslouží:
- 
+
 - mezi akcemi můžeš body *Boje* přesouvat
     - za každý bod *Boje* **navíc**, který jsi na akci použil, máš k akci bonus +1
     - za každý **chybějící** bod *Boje* máš k akci postih -1

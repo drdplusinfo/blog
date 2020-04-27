@@ -3,7 +3,7 @@ id: 2018-10-31-1
 title: "Cit pro charisma"
 perex: |
     Charisma je s námi v Dračím doupěti už nějaký ten pátek, přesto jsme se rozhodli s její zdánlivě neotřesitelnou pozicí zatřást.
-    
+
     *A co vy, jste spíše citliví, nebo spíše charismatičtí?*
 ---
 
@@ -27,7 +27,7 @@ Hledali jsme *duchovní zručnost*, tedy jakýsi cit pro vlastní jednání, pro
 
 - *Síla* a *Vůle*
     - síla těla je nejen síla svalů, ale také pevnost těla, tedy jak schopnost *udržet* více (v ruce), tak i *vydržet* více (tělesné námahy)
-    - vůle mysli je schopnost vytrvat ve svém konání a udržet si vlastní názor i příčetnost, tedy je to jak schopnost *udržet* více (své osobnosti), tak i *vydržet* více (duševního náporu) 
+    - vůle mysli je schopnost vytrvat ve svém konání a udržet si vlastní názor i příčetnost, tedy je to jak schopnost *udržet* více (své osobnosti), tak i *vydržet* více (duševního náporu)
 - *Obratnost* a *Inteligence*
     - obratnost těla je hbitost a mrštnost, s jakými dokáže tělo zareagovat, rychlost s jakou dokáže změnit pozici a pružnost, se kterou využije *možnosti* prostoru
     - inteligence mysli je bystrost a důvtip, s jakými dokáže mysl najít další cestu v myšlenkách a nápadech, rychlost s jakou se dokáže rozhodnout a hloubavost, se kterou využije *možnosti* mysli
@@ -83,7 +83,7 @@ U konkrétních povolání nás teď napadá, že
 - kněz vycítí kratší cestu do srdcí posluchačů
 - bard rychleji rozpozná náladu publika a... kuš! to sem teď nepatří
 
-Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*. Popravdě už teď nám krapet vadí, že třeba [Etiketa podsvětí](https://pph.drdplus.info/?trial=1#etiketa_podsveti) dává bonus pouze k *Charisma*, více by nám tam sedl bonus ke **všem** duševním vlastnostem, což se snadno kritizuje, ale ještě jednodušší je spadnout do stejné situace s novým, dosud nevyzkoušeným *Citem*. 
+Nebezpečí je jasné a záludné zároveň - **nepřehnat to**, netlačit pravidla do *Citu*, když tam jiní mohou vidět užitečnější třeba právě *Charisma*, nebo *Inteligenci*. Popravdě už teď nám krapet vadí, že třeba [Etiketa podsvětí](https://pph.drdplus.info/?trial=1#etiketa_podsveti) dává bonus pouze k *Charisma*, více by nám tam sedl bonus ke **všem** duševním vlastnostem, což se snadno kritizuje, ale ještě jednodušší je spadnout do stejné situace s novým, dosud nevyzkoušeným *Citem*.
 
 ## Závěrem
 

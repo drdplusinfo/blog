@@ -5,9 +5,9 @@ image: /assets/images/posts/technicky_milnik_bez_chyby.png?version=c3e3e46d53d24
 image_author: "*Autorem ilustrace fešáka bez chybičky je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Konzervujeme pravidla DrD+ a čistíme hlavu.*
-    
+
     Popisujeme, jak těžké bylo dokončit navigaci v pravidlech a jak se vám výsledek může hodit.
-    
+
     *A co vy, kdy vás naposledy zradila navigace?*
 ---
 

@@ -3,7 +3,7 @@ id: 2019-03-15-1
 title: "Představy minulosti - *Mýty*"
 perex: |
     Před šestnácti lety vypustili původní autoři DrD+ do Dechu draka malou ukázku pravidel a naznačili své obavy z jejich přijetí. Na blogu jsme se už jednou nad situací původních autorů zamýšleli, dnes jsme přidali naší situaci.
-    
+
     *A co vy, jedli jste někdy etalon Ratatouille?*
 ---
 
@@ -38,7 +38,7 @@ Poznámky k historickému textu:
 
 - Jeho autor by hledal *průměrného hráče* leda v [Mezinárodním ústavu standardů v Ženevě](https://cs.wikipedia.org/wiki/Mezinárodní_organizace_pro_normalizaci), který zodpovídá za známé ISO standardy, ovšem na stejném místě by hledal i etalon jednoho metru, který ale bude spíše v domovském Sèvres u Paříže, jak napovídá [jeho historie](https://cs.wikipedia.org/wiki/Metr#Historie).
 - Pokud vám nebude jasné ono tvrzení *pravidel pro každého*, mrkněte na [vysvětlení Ega z animáku Ratatouille](https://www.youtube.com/watch?v=tNpGFaoYWVA) (anglicky, o českou verzi jsme nezakopli).
-- Uniká nám, proč by průměrný hráč měl být *mlhavou nemesis*, jelikož Nemesis má obvykle [význam spravedlivé pomsty](https://www.irozhlas.cz/veda-technologie/historie/rceni-pod-rentgenem-milana-slezaka-nemesis_1802250708_mls), popřípadě nepřítele, kterému je těžké uniknout. 
+- Uniká nám, proč by průměrný hráč měl být *mlhavou nemesis*, jelikož Nemesis má obvykle [význam spravedlivé pomsty](https://www.irozhlas.cz/veda-technologie/historie/rceni-pod-rentgenem-milana-slezaka-nemesis_1802250708_mls), popřípadě nepřítele, kterému je těžké uniknout.
 
 A teď hurá na první kapitolu! Masochisti a nehráči si mohou smlsnout i na těch dalších.
 

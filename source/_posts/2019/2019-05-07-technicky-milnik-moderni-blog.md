@@ -4,9 +4,9 @@ title: "Technický milník - *Moderní blog*"
 image: /assets/images/posts/blog.png?version=cf08433afddc37c1b15a996477dfd8cb
 perex: |
     *Šaty dělaj člověka a grafika internet.*
-    
+
     Starý blog už byl delší dobu dýchavičný a my jsme se konečně dostali k jeho přepracování. A vylepšili jsme mu jak vzhled, tak i užitek.
-    
+
     *A co vy, kdy jste se naposledy převlékli k nepoznání?*
 ---
 

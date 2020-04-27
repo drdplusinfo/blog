@@ -5,7 +5,7 @@ image: /assets/images/posts/loucime_se_s_pocitadly.png?version=a084e9e08b0006106
 image_author: "*Autorem ilustrace odlétajícího sčotu je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Čistíme stůl a připravujeme se na druhé dějství.*
-    
+
     Popisujeme, proč kalkulátory patří minulosti, kam jdeme za budoucností Dračího doupěte plus a jak vzácný je čas na práci.
 
     *A co vy, znáte svou budoucnost?*
@@ -56,7 +56,7 @@ Něco začínalo smrdět, ale ještě to chtělo čas, abychom si uvědomili, co
 
 Na dlouhou dobu posledním počítadlem bylo [počítadlo ničení](https://niceni.drdplus.info/) - naklikáš si překážku, své parametry a šup! Víš kolik let musíš do metr tlustých žulových vrat pižlat nebozízkem, aby ti skulinka prozradila, že jsi ve slepé uličce.
 
-Tenhle kalkulátor jsme v naší družině nepoužili **vůbec**. Jak to? Proč tolik práce, když jsme její výsledek zřejmě ani nechtěli? 
+Tenhle kalkulátor jsme v naší družině nepoužili **vůbec**. Jak to? Proč tolik práce, když jsme její výsledek zřejmě ani nechtěli?
 
 Popravdě, dokončení tohohle kalkulátoru byla ryzí *setrvačnost*. Prostě jsme v laboratorních podmínkách stvořili kód, který automagicky počítal všechna ta čísílka, se kterými se podle pravidel nikdo počítat nechtěl a když už jsme ten kód měli, tak jsme ho uvedli v život. To je logické ne?
 Logické ano, ale taky k ničemu.
@@ -92,7 +92,7 @@ A to nakonec rozhodlo - když kalkulátor démonů neuděláme, tak ne že budou
 
 I když jsme se ubezpečili, že kalkulátor démonů není blbost, měli jsme před sebou ještě jednu otázku: kolik nás ten kalkulátor bude stát?
 
-Ne, neplatíme sami sebe penězi. Platíme se časem. Každý nápad, každou úpravu, každý článek na blog, každou představu o ilustracích (u kterých se nám konečně [otevřely dveře](https://www.facebook.com/pg/ticho762/photos/?ref=page_internal)), to všechno platíme svou pozorností a svou energií. 
+Ne, neplatíme sami sebe penězi. Platíme se časem. Každý nápad, každou úpravu, každý článek na blog, každou představu o ilustracích (u kterých se nám konečně [otevřely dveře](https://www.facebook.com/pg/ticho762/photos/?ref=page_internal)), to všechno platíme svou pozorností a svou energií.
 
 A když teď plánujeme ukázkové pidi dobrodružství, do toho vyjednáváme ilustrace jak pro něj, tak pro novou obálku pravidel, k tomu chceme uvádět v život tvorbu jiných lidí, kteří něco dokončí, ale pak to hodí do šuplíku, do toho potřebujeme dokončit základní kameny pravidel... tak je nám čas stále vzácnější. Takže už se rozmýšlíme ne dvakrát, ale hned třikrát, kam svou energii směřujeme.
 
