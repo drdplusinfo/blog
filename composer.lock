@@ -75,16 +75,16 @@
         },
         {
             "name": "drdplusinfo/statie",
-            "version": "v5.6.0",
+            "version": "v5.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drdplusinfo/statie.git",
-                "reference": "d54c709b939514325cabfcaac10a5435d9be0d96"
+                "reference": "edef325b8513844866fbbc4f39db4b99b21f4cb5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/d54c709b939514325cabfcaac10a5435d9be0d96",
-                "reference": "d54c709b939514325cabfcaac10a5435d9be0d96",
+                "url": "https://api.github.com/repos/drdplusinfo/statie/zipball/edef325b8513844866fbbc4f39db4b99b21f4cb5",
+                "reference": "edef325b8513844866fbbc4f39db4b99b21f4cb5",
                 "shasum": ""
             },
             "require": {
@@ -138,7 +138,7 @@
                 "MIT"
             ],
             "description": "Static Site Generator",
-            "time": "2019-09-13T06:34:35+00:00"
+            "time": "2020-04-27T15:08:49+00:00"
         },
         {
             "name": "erusev/parsedown",
@@ -6652,12 +6652,12 @@
             "version": "v5.4.16",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Symplify/Autodiscovery.git",
+                "url": "https://github.com/symplify/autodiscovery.git",
                 "reference": "618dc604048add57b71dc15ed098bb9b526a8a05"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/Autodiscovery/zipball/618dc604048add57b71dc15ed098bb9b526a8a05",
+                "url": "https://api.github.com/repos/symplify/autodiscovery/zipball/618dc604048add57b71dc15ed098bb9b526a8a05",
                 "reference": "618dc604048add57b71dc15ed098bb9b526a8a05",
                 "shasum": ""
             },
@@ -6749,12 +6749,12 @@
             "version": "v5.4.16",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Symplify/CodingStandard.git",
+                "url": "https://github.com/symplify/coding-standard.git",
                 "reference": "72a3b03f21be6c978a90ad567a29bd9261df0dfa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/CodingStandard/zipball/72a3b03f21be6c978a90ad567a29bd9261df0dfa",
+                "url": "https://api.github.com/repos/symplify/coding-standard/zipball/72a3b03f21be6c978a90ad567a29bd9261df0dfa",
                 "reference": "72a3b03f21be6c978a90ad567a29bd9261df0dfa",
                 "shasum": ""
             },
@@ -6798,12 +6798,12 @@
             "version": "v5.4.16",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Symplify/EasyCodingStandard.git",
+                "url": "https://github.com/symplify/easy-coding-standard.git",
                 "reference": "66ed360e0b81881336c7339989dce3b0c14509e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/EasyCodingStandard/zipball/66ed360e0b81881336c7339989dce3b0c14509e9",
+                "url": "https://api.github.com/repos/symplify/easy-coding-standard/zipball/66ed360e0b81881336c7339989dce3b0c14509e9",
                 "reference": "66ed360e0b81881336c7339989dce3b0c14509e9",
                 "shasum": ""
             },
@@ -6901,6 +6901,7 @@
                 "MIT"
             ],
             "description": "Latte to Twig converter converts Latte to Twig",
+            "abandoned": "migrify/latte-to-twig",
             "time": "2019-03-05T23:15:04+00:00"
         },
         {
@@ -6908,12 +6909,12 @@
             "version": "v5.4.16",
             "source": {
                 "type": "git",
-                "url": "https://github.com/Symplify/PHPStanExtensions.git",
+                "url": "https://github.com/symplify/phpstan-extensions.git",
                 "reference": "edbd436a0a7be1e3cdee8bd722f9439fec7da28f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Symplify/PHPStanExtensions/zipball/edbd436a0a7be1e3cdee8bd722f9439fec7da28f",
+                "url": "https://api.github.com/repos/symplify/phpstan-extensions/zipball/edbd436a0a7be1e3cdee8bd722f9439fec7da28f",
                 "reference": "edbd436a0a7be1e3cdee8bd722f9439fec7da28f",
                 "shasum": ""
             },
