@@ -1,0 +1,27 @@
+version: "3"
+services:
+  draciodkaz.loc:
+    build: .
+    environment:
+      PHP_IDE_CONFIG: "serverName=draciodkaz.loc"
+    volumes:
+      - ./blog:/var/www/blog:delegated
+      - ./_docker/etc/caddy:/etc/caddy
+      - ./_docker/var:/var
+    entrypoint:
+      - sh
+      - -c
+      - set -x && cd /var/www/blog && sudo -u www-data npm install --no-audit --loglevel verbose && docker-php-ext-enable xdebug && touch /tmp/xdebug.log && chmod 0777 /tmp/xdebug.log && /bin/bash /var/docker.sh
+    labels:
+      - "traefik.backend=draciodkaz.loc"
+      - "traefik.frontend.rule=HostRegexp: draciodkaz.loc,{subdomain:(.+[.])+}draciodkaz.loc"
+      - "traefik.docker.network=docker-www"
+      - "traefik.port=80"
+    networks:
+      - default
+      - proxy
+
+networks:
+  proxy:
+    external:
+      name: docker-www

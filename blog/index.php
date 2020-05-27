@@ -1,6 +1,36 @@
 <?php
 error_reporting(-1);
 ini_set('display_errors', '1');
+
+$composerInstall = static function() {
+    $composerInstall = ['start' => new DateTimeImmutable()];
+    exec('composer install 2>&1', $composerOutput, $composerExitCode);
+    $composerOutput = array_filter($composerOutput, static function (string $row) {
+        return trim($row) !== '';
+    });
+    $composerOutput = implode("\n", $composerOutput);
+    if ($composerExitCode !== 0) {
+        $composerInstall['error'] = $composerOutput;
+    } else {
+        $composerInstall['result'] = $composerOutput;
+    }
+    $composerInstall['end'] = new DateTimeImmutable();
+    $composerInstall['duration'] = $composerInstall['end']->diff($composerInstall['start'])->format('%s.%f s');
+    $composerInstall['exit_code'] = $composerExitCode;
+
+    if ($composerExitCode !== 0) {
+        echo json_encode($composerInstall, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+        exit($composerExitCode);
+    }
+
+    return $composerInstall;
+};
+
+$output = [];
+if (!file_exists(__DIR__ . '/vendor')) {
+    $output['composer_initial_install'] = $composerInstall();
+}
+
 require_once __DIR__ . '/vendor/autoload.php';
 
 set_time_limit(60);
@@ -8,7 +38,6 @@ set_time_limit(60);
 header('Content-Type: application/json');
 header('Cache-Control: no-cache');
 
-$output = [];
 $exitCode = 0;
 
 $codeUpdate = ['start' => new DateTimeImmutable()];
@@ -28,31 +57,11 @@ if ($exitCode !== 0) {
     exit($exitCode);
 }
 
-$composerInstall = ['start' => new DateTimeImmutable()];
-exec('composer install 2>&1', $composerOutput, $composerCode);
-$composerOutput = array_filter($composerOutput, function (string $row) {
-    return trim($row) !== '';
-});
-$composerOutput = implode("\n", $composerOutput);
-if ($composerCode !== 0) {
-    $composerInstall['error'] = $composerOutput;
-    $exitCode = $composerCode;
-} else {
-    $composerInstall['result'] = $composerOutput;
-}
-$composerInstall['end'] = new DateTimeImmutable();
-$composerInstall['duration'] = $composerInstall['end']->diff($composerInstall['start'])->format('%s.%f s');
-$composerInstall['exit_code'] = $exitCode;
-$output['composer_install'] = $composerInstall;
-
-if ($exitCode !== 0) {
-    echo json_encode($output, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
-    exit($exitCode);
-}
+$output['composer_install'] = $composerInstall();
 
 $outputGeneration = ['start' => new DateTimeImmutable()];
 exec('vendor/bin/statie generate source 2>&1', $generationOutput, $generationCode);
-$generationOutput = array_filter($generationOutput, function (string $row) {
+$generationOutput = array_filter($generationOutput, static function (string $row) {
     return trim($row) !== '';
 });
 $generationOutput = implode("\n", $generationOutput);
