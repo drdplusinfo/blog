@@ -1,0 +1,12 @@
+    tls mail@jaroslavtyc.com
+    gzip
+    fastcgi / 127.0.0.1:9000 php {
+        ext   .php
+        split .php
+        index index.php
+    }
+    rewrite {
+    		if {file} not favicon.ico
+    		to {path} {path}/ /maintenance.html /index.php
+    }
+    log /var/log/caddy

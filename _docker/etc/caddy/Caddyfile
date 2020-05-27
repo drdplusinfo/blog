@@ -1,0 +1,12 @@
+http://blog.draciodkaz.loc {
+    root /var/www/blog/output
+    import CaddyfileLocalPhpProject
+    errors {
+        404 404.html
+    }
+}
+
+http://update.blog.draciodkaz.loc {
+    root /var/www/blog
+    import CaddyfileLocalPhpProject
+}
