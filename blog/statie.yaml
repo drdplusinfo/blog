@@ -11,7 +11,7 @@ parameters:
 
     # global templates variables
     google_analytics_tracking_id: " UA-121206931-15"
-    site_title: "DrD+"
+    site_title: "Dračí odkaz"
     site_url: "https://blog.drdplus.info"
     disqus_shortname: "blog-drdplus-info"
     github_repository_tests_directory: "https://github.com/drdplusinfo/blog/tree/master/tests"
