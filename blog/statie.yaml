@@ -14,7 +14,7 @@ parameters:
     site_title: "Dračí odkaz"
     site_url: "https://blog.draciodkaz.cz"
     disqus_shortname: "blog-drdplus-info"
-    github_repository_tests_directory: "https://github.com/drdplusinfo/blog/tree/master/tests"
+    github_repository_tests_directory: "https://github.com/drdplusinfo/blog/tree/master/blog/tests"
 
     thanker_repository_name: 'drdplusinfo/blog'
     thanker_author_name: 'DrdPlusInfo'
@@ -22,7 +22,7 @@ parameters:
     avatar_url: '/assets/images/red_dragon_128.png'
 
     # Statie settings
-    github_repository_source_directory: "https://github.com/drdplusinfo/blog/tree/master/source"
+    github_repository_source_directory: "https://github.com/drdplusinfo/blog/blog/tree/master/blog/source"
 
     redirects:
         # old url → new url
