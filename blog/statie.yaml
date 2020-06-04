@@ -22,7 +22,7 @@ parameters:
     avatar_url: '/assets/images/red_dragon_128.png'
 
     # Statie settings
-    github_repository_source_directory: "https://github.com/drdplusinfo/blog/blog/tree/master/blog/source"
+    github_repository_source_directory: "https://github.com/drdplusinfo/blog/tree/master/blog/source"
 
     redirects:
         # old url → new url
