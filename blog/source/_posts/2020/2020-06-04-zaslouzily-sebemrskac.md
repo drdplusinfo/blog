@@ -36,7 +36,7 @@ Výsledkem toho bylo, že jsem několikrát doslova fyzicky cítil, jak moje tě
 
 A přitom jsem byl mnohokrát varován. Jak moje tělo, tak moje duše hulákaly, nadávaly mi, ale já je tišil s tím, že dělám přece "správnou věc". Během těch týdnů jsem několikrát narazil na svoje limity. Na závoru, kterou v pevném sevření drželo mé Já a odmítalo mě pustit dál. A já ji vždycky prorazil. Ty závory byly vrstvy mojí osobnosti, vrstvy toho, co mě dělá mnou. A já je prorážel, rozkousával, uplétal z nich bič, abych ještě dalším kouskem své energie mohl ještě o kousek vylepšit pohodlí ostatních při přípravě Gameconu a abych dokončil v práci další z úkolů, na jejichž výsledky čekali ve frontě ostatní.
 
-Trvalo to těch několik měsíců, než ze mě na jejich konci vydpadl hotový import pro Gamecon a opakovaná platba kartou pro zaměstnavatele. Gamecon jsem začal mírně ignorovat, v práci jsem si vzal neplacený týden volna a odpadnul jsem. Prázdný a... žádný.
+Trvalo to těch několik měsíců, než ze mě na jejich konci vypadl hotový import pro Gamecon a opakovaná platba kartou pro zaměstnavatele. Gamecon jsem začal mírně ignorovat, v práci jsem si vzal neplacený týden volna a odpadnul jsem. Prázdný a... žádný.
 Nebyly ve mě emoce, nebyla ve mě síla cokoli chtít nebo odmítat. Tak dlouho jsem rozžvýkával vrstvy svého Já, pletl z nich bič a mrskal se s ním, až jsem zjistil, že už žádné vrstvy nezbyly. A že pod nimi není žádné jádro. Že to jádro bylo složené z vrstev a tu poslední jsem právě dožvýkal.
 
 A ani si nepamatuju její chuť.
@@ -62,7 +62,7 @@ Do toho mám v hlavě soustu nápadů, které potřebuju říct nahlas, abych je
 
 *Kecy. Čas máme na to, na co si ho uděláme.*
 
-Právě. Nebo jinak, čas vlastně neexistuje, existuje jen energiie. Nebo jinak, energie vlastně neexistuje, existuje jenom změna. A buďto je změna skutečná a celé mé Já ji cítí, nebo je ta změna jenom vysněná a já se snažím pít z řeky, která není.
+Právě. Nebo jinak, čas vlastně neexistuje, existuje jen energie. Nebo jinak, energie vlastně neexistuje, existuje jenom změna. A buďto je změna skutečná a celé mé Já ji cítí, nebo je ta změna jenom vysněná a já se snažím pít z řeky, která není.
 
 Na podzim jsem totiž skočil v myšlenkách do budoucnosti, namaloval jsem si "budoucí skutečnost" a choval jsem se sám k sobě, jako že piluju už jenom drobnosti.
 Prostě a jednoduše jsem uvěřil, že moje pocity už přeskočily z podvědomí do vědomí a stačí jejich dokonalou formu už jenom plácnout na papír. Teda na internet. Chyba lávky.
