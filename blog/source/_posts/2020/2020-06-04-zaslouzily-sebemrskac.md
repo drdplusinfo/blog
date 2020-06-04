@@ -1,12 +1,12 @@
 ---
-id: 2020-05-19-1
+id: 2020-06-04-1
 title: "Zasloužilý sebemrskač"
 image: /assets/images/posts/zaslouzily_sebemrskac.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d
 image_author: "*Autorem ilustrace sebemrskače s nuceným úsměvem je [Ticho 762](https://www.facebook.com/ticho762). Děkuju!*"
 perex: |
     *Práce šlechtí! A šlechtění pohřbívá přirozenost.*
 
-    Sobecký článek o mě. O tom, kterak jsem po hlavě vletěl do náročné práce, která zasypala mé Já. A bylo z toho půl roku ticha.
+    Sobecký článek o mě a o tom, jak jsem po hlavě vletěl do náročné práce, která nemá s DrdPlus.info nic společného a která zasypala mé Já. A tady z toho bylo půl roku ticha.
 
     *A co vy, kdy jste naposledy ztratili sami sebe?*
 ---
@@ -31,21 +31,22 @@ Jo, kdybych to programoval o rok dýl, v klídku a s nohama na stole, nic by se 
 
 Ten marathon práce, ten obrovský koláč věčných nedokonalostí, které bylo "nutné" vyřešit, byl dost vysilující. Neumím dělat věci napůl, respektive buďto je naplno odfláknu, nebo je naplno dokončím. U *hromadného importu aktivit pro Gamecon 2020* jsem sám sebe přesvědčil, že tím zachráním ostatní dobrovolníky od stovky hodin otrocké práce, stovky hodin nudy a prudy, kdy organizátoři jednotlivých aktivit tupě opisují názvy, naklikávají časy, potvrzují místnosti, kopírují vybavení... A s tímhle "zachranitelským" pocitem jsem makal a prskal a bičoval se...
  
- Když se k tomu připočte moje zaměstnání, ve kterém piluju e-shop (to si přeložte jako "vánoční šílenství", následované "povánočními výprodeji" vystřídané "strachem z koronaviru a vše online"), k tomu moje rodina, která prostě potřebuje víc, než jenom výplatu (přinejmenším fungujícího člena domácnosti), tak z toho vznikne taková hromádka popela s dohasínající poslední jiskrou. 
+ Když se k tomu připočte moje zaměstnání, ve kterém piluju e-shop (to si přeložte jako "vánoční šílenství", následované "povánočními výprodeji" vystřídané "strachem z koronaviru a vše online"), k tomu moje rodina, která prostě potřebuje víc, než jenom výplatu (přinejmenším fungujícího člena domácnosti), tak z toho vyjde taková neúhledná hromádka popela s dohasínající poslední jiskrou. 
 Výsledkem toho bylo, že jsem několikrát doslova fyzicky cítil, jak moje tělo už nemůže. Hlava mě mnohokrát pálila zevnitř a pomáhala na to chvilkově jen čokoláda. V hrudníku jako by mi někdo vylil louh a mě něco vyžíralo zevnitř. Dvakrát jsem měl i pocit, že to se mnou prostě švihne, že se mi zastaví srdce, mozek si poklepe sám na sebe a čau.
 
-A přitom jsem byl mnohokrát varován. Jak moje tělo, tak moje duše hulákaly, nadávaly mi, ale já je tišil s tím, že dělám přece "správnou věc". Během těch týdnů jsem několikrát narazil na svoje limity. Na závoru, kterou v pevném sevření drželo mé Já a odmítalo mě pustit dál. A já ji vždycky prorazil. Ty závory byly vrstvy mojí osobnosti, toho, co mě dělá mnou. A já je prorážel, zašlapával, zahazoval, abych ještě dalším kouskem své energie mohl ještě o kousek vylepšit pohodlí ostatních při přípravě Gameconu a abych dokončil v práci další z úkolů, na jejichž výsledky čekali ve frontě ostatní.
+A přitom jsem byl mnohokrát varován. Jak moje tělo, tak moje duše hulákaly, nadávaly mi, ale já je tišil s tím, že dělám přece "správnou věc". Během těch týdnů jsem několikrát narazil na svoje limity. Na závoru, kterou v pevném sevření drželo mé Já a odmítalo mě pustit dál. A já ji vždycky prorazil. Ty závory byly vrstvy mojí osobnosti, vrstvy toho, co mě dělá mnou. A já je prorážel, rozkousával, uplétal z nich bič, abych ještě dalším kouskem své energie mohl ještě o kousek vylepšit pohodlí ostatních při přípravě Gameconu a abych dokončil v práci další z úkolů, na jejichž výsledky čekali ve frontě ostatní.
+
 Trvalo to těch několik měsíců, než ze mě na jejich konci vydpadl hotový import pro Gamecon a opakovaná platba kartou pro zaměstnavatele. Gamecon jsem začal mírně ignorovat, v práci jsem si vzal neplacený týden volna a odpadnul jsem. Prázdný a... žádný.
 Nebyly ve mě emoce, nebyla ve mě síla cokoli chtít nebo odmítat. Tak dlouho jsem rozžvýkával vrstvy svého Já, pletl z nich bič a mrskal se s ním, až jsem zjistil, že už žádné vrstvy nezbyly. A že pod nimi není žádné jádro. Že to jádro bylo složené z vrstev a tu poslední jsem právě dožvýkal.
 
-A ani si nepamatuju jejich chuť.
+A ani si nepamatuju její chuť.
 
 Takhle zpětně mi na tom přijde zvláštních několik detailů
 - Že jsem to tušil už delší dobu, ale nedokázal jsem si dát pauzu. S pocitem "už to bude, ještě chvíli", který tak často vyčítám kolegům v práci pod heslem "oslík a mrkvička", jsem dřel až na dřeň.
 - Že jsem v práci ohnul hřbet a místo toho, abych je poslal do háje, protože tempo jejich požadavků bylo už prostě přes čáru, tak jsem ukecal sám sebe, že to dělám pro rodinu a že není nejlepší doba na hledání jiného kšeftu.
 - Že z dlouhodobé únavy se nevyhrabu jedním, ani dvěma spánky, ale že nejspíš budu muset sám sebe léčit stejnou dobu, jakou jsem na sebe kašlal. Čas potřebný na rozžvýkání jedné vrstvy je přímo úměrný času, potřebnému k její obnově.
 
-Gamecon 2020 je fuč, výpověď jsem už taky dal, přesto mi zabralo několik dalších dní, než jsem si uvědomil ještě jeden detail. Svou energii nemůžu zastavit a prostě nedávat nikam. Nemůžu si jí syslit na potom. Ale můžu ji směřovat.
+Gamecon 2020 je fuč, výpověď jsem už dal (hned po týdnu volna, kdy jsem zase dokázal trochu vnímat, co potřebuju k životu), přesto mi zabralo několik dalších dní, než jsem si uvědomil ještě jeden detail. Svou energii nemůžu zastavit a prostě nedávat nikam. Nemůžu si jí syslit na potom. Ale můžu ji směřovat.
 Když svou energii směřuju na činnosti, které mi nedávají valný smysl, nebo které nezapojují celé mé Já, tak mě to vysává. Ale když tu samou energii směřuju na to, co mi smysl dává, tak se mi vrací tělesná i duševní síla. Jako kdyby energie ve mě byla jen v jakési surové formě, kterou musím nejdříve rafinovat svými činy a teprve poté mi opravdu dá sílu.
 
 ## Skoky do budoucnosti
@@ -61,22 +62,22 @@ Do toho mám v hlavě soustu nápadů, které potřebuju říct nahlas, abych je
 
 *Kecy. Čas máme na to, na co si ho uděláme.*
 
-Právě. Nebo jinak, čas vlastně neexistuje, existuje jen energiie. Nebo jinak, energie vlastně neexistuje, existuje jenom změna. A buďto je změna skutečná a celé mé Já ten tok cítí, nebo je ta změna jenom vysněná a já se snažím pít z řeky, která existuje jenom na mapě.
+Právě. Nebo jinak, čas vlastně neexistuje, existuje jen energiie. Nebo jinak, energie vlastně neexistuje, existuje jenom změna. A buďto je změna skutečná a celé mé Já ji cítí, nebo je ta změna jenom vysněná a já se snažím pít z řeky, která není.
 
 Na podzim jsem totiž skočil v myšlenkách do budoucnosti, namaloval jsem si "budoucí skutečnost" a choval jsem se sám k sobě, jako že piluju už jenom drobnosti.
-Prostě a jednoduše jsem uvěřil, že moje pocity už přeskočily z podvědomí do vědomí a stačí je jenom plácnout na papír. Teda na internet. Chyba lávky.
+Prostě a jednoduše jsem uvěřil, že moje pocity už přeskočily z podvědomí do vědomí a stačí jejich dokonalou formu už jenom plácnout na papír. Teda na internet. Chyba lávky.
 
 Doteď před sebou hrnu úkoly, u kterých mě každý další odklad drásá, protože už dva kreslíři do nich vložili kýble své energie, kterou jsem ale já zastavil. Kostřivec, žába na prameni.
 
-Takže zase musím pěkně na začátek a poctivě, krůček po krůčku začít makat. Na trojici príšer, na úvodním pidi dobrodružství, na dalších krůčcích k Dračímu odkazu.
+Takže zase musím pěkně na začátek a poctivě, krůček po krůčku začít makat. Na trojici příšer, na úvodním pidi dobrodružství, na dalších krůčcích k Dračímu odkazu.
 
 Potřebuju se z pouště s fata morgánou vrátit k řece, která teče. Byť je zatím jen horským potůčkem.
 
 ## Závěrem
 
-Přestože jsem loni psal o tom, jak se [učím z chyb](../2019/2019-03-12-ucime_se_z_chyb.md), tak jsem se letos ocitnul v podobné díře. Jen jsem do ní tentokrát nespadnul, ale poctivě si jí vykopal.
+Přestože jsem loni psal o tom, jak se [učím z chyb](../2019/2019-03-12-ucime_se_z_chyb.md), tak jsem se letos ocitnul v podobné díře. Jen jsem si jí tentokrát poctivě vykopal sám a vlezl do ní s křečovitým úsměvem.
 
-Hrabu se z toho ven zvolna a s obtížemi, protože ta vnitřní, tajemná nádoba, do které mi nakapává energie ze smysluplných činností, popraskala. Zranil jsem jí svým hrubým zacházením, svým bičováním sebe sama pro cíle převážně vyšší a cizí. A svá zranění a s nimi svou schopnost dávat sílu, si ona nádoba, ten výběžek vesmíru ve mě, léčí pomalu.
+Hrabu se z toho ven zvolna a s obtížemi, protože ta vnitřní, tajemná nádoba, do které mi nakapává energie ze smysluplných činností, popraskala. Zranil jsem jí svým hrubým zacházením, svým bičováním sebe sama pro cíle převážně vyšší a cizí. A svá zranění a s nimi svou schopnost dávat sílu si ona nádoba, ten výběžek vesmíru ve mě, léčí pomalu.
 
 Budu jí pomáhat tím, že budu častěji dávat svůj čas a svou energii zase do toho, co mě baví a co mi dává smysl.
 
