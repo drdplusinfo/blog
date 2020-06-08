@@ -1,6 +1,8 @@
 ---
 id: 2020-06-08-1
 title: "Kouzelník Philip Ward"
+image: /assets/images/posts/kouzelnik_philip_ward.png?version=99ab45e2d04d23ac8d7dc292891cdf7a
+image_author: "*Autorem lidského mláděte na prahu hrdinství je Philip Ward. Díky Ti.*"
 perex: |
     *Tvořme a sdílejme. Co jiného by lépe dokázalo, že jsme naživu?*
     
@@ -43,9 +45,9 @@ Philip mi poděkoval a popřál hezé svátky. Takže na živu byl, aspoň jedna
 
 #### Tak asi ahoj?
 
-Uplynuly Vánoce, dovál leden, odkutálel se únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
+Uplynuly Vánoce, odvál leden, odkutálel se únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
 
-Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil dva neznámé hrdiny, jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas naší ne-spolupráci řádně ukončit. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu a pustil jsem ho z hlavy.
+Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas naší ne-spolupráci řádně ukončit. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilusrátorské budoucno a pustil jsem ho z hlavy.
 
-Odpověděl ještě týž den, poprvé svým zdrcnutě šroubovaným slohem, který je mu tak vlastní, že už něco nakreslil. Překvapil chlapec.
+Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil. Překvapil chlapec.
 
