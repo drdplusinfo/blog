@@ -47,7 +47,12 @@ Philip mi poděkoval a popřál hezé svátky. Takže na živu byl, aspoň jedna
 
 Uplynuly Vánoce, odvál leden, odkutálel se únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
 
-Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas naší ne-spolupráci řádně ukončit. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilusrátorské budoucno a pustil jsem ho z hlavy.
+Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas naší ne-spolupráci řádně ukončit. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilusrátorské budoucno a pustil jsem ho z hlavy.
 
 Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil. Překvapil chlapec.
 
+### Philipův nástřel
+
+Philip poslal jednoduchou skicu
+
+![Philipova prvni skica](/assets/images/posts/kouzelnik_philip_ward/philip_ward_navrhy_drd.jpg?version=b508485d505a31bf68df5eb2d78eb090)
