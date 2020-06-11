@@ -51,8 +51,39 @@ Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho
 
 Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil. Překvapil chlapec.
 
-### Philipův nástřel
+#### Philipův první nástřel
 
 Philip poslal jednoduchou skicu
 
-![Philipova prvni skica](/assets/images/posts/kouzelnik_philip_ward/philip_ward_navrhy_drd.jpg?version=b508485d505a31bf68df5eb2d78eb090)
+![Philipova prvni skica](/assets/images/posts/kouzelnik_philip_ward/philip_ward_navrhy_drd.png?version=bd3d8ab55bb436b272d67753ec1a222b)
+
+a ať si prý vyberu styl.
+
+*Na první pokus to není špatné*, říkal jsem si.
+
+Philip chtěl v práci pokračovat, ale vymínil si důraznější zadání s jasným datem, do kdy má práci odevzdat. Že by se mu lépe pracovalo pod tlakem?
+
+#### Důraznější zadání
+> Dodej nám do 31. července tři obrázky
+
+- *dítě co šlo do sklepa*
+- *služebnou Annu, která se starala o hosty v šenku*
+- *hostinského, který vyjednával svatbu (věk kolem čtyřiceti, zbytek necháme na tobě - pokud bys chtěl nějaké tipy, tak trochu při těle, v kazajce s velkými knoflíky, v kratších kalhotách, ve dřevácích)*
+
+Philip dostal dva měsíce na to, aby nakreslil třikrát tolik obsahu, než kolik stvořil dosud za půl roku. No, uvidíme.
+
+#### Vidíme důraznější výsledky
+
+A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty poslal, co jsme chtěli a ještě přidal návdavek.
+
+![Šenkýř přijímá zálohu za veselku](/assets/images/posts/kouzelnik_philip_ward/senkyr_prijima_zalohu_za_veselku.png?version=cd870f51783cc1682b9e1ddd4c9b39f3)
+- Šenkýř přijímá zálohu za veselku
+
+![Šenkýř spěchá na schůzku se starostou](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_se_starostou.png?version=369d93240818df60efaf73a2e54208d1)
+- Šenkýř spěchá na schůzku se starostou
+
+![Služebná Anna nasupeně obsluhuje žíznivé hosty](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nasupene_obsluhuje_ziznive_hosty.png?version=b908397c39a5a49ae3f37cd2ff38b516)
+- Služebná Anna nasupeně obsluhuje žíznivé hosty
+
+![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png?version=5b60658e1dc612fe5666a3aaa1a5d9c3)
+- Služebná Anna nestíhá kuchyň a hosty dohromady
