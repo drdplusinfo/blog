@@ -87,3 +87,9 @@ A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty poslal,
 
 ![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png?version=5b60658e1dc612fe5666a3aaa1a5d9c3)
 - Služebná Anna nestíhá kuchyň a hosty dohromady
+
+![Prcek se dívá do hlubin sklepení](/assets/images/posts/kouzelnik_philip_ward/prcek_se_diva_do_hlubin_sklepeni.png?version=37a41b4e7e029c308e53532a9468f51b)
+- Prcek se dívá do hlubin sklepení
+
+![Prcek se odhodlává vstoupit do sklepa](/assets/images/posts/kouzelnik_philip_ward/prcek_se_odhodlava_vstoupit_do_sklepa.png?version=9b0f978292d34604752d97448b3c17e6)
+- Prcek se odhodlává vstoupit do sklepa
