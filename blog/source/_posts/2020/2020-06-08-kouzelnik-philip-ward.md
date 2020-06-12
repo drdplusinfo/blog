@@ -168,3 +168,31 @@ Philipovi se první nástřel těchto příšer trochu protáhl, nakonec ho posl
 *10. 10. 2019*
 
 ![První skica brutopýra, želvorce a houbelesu](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_houbeles_1.0.png?version=51809e19e9b8c9be464378e2f5caa953)
+
+Celkově se mi hodně zamlouval dokumentární styl kreseb - jako kdyby si je do notýsku zakreslil badatel na svých objevitelských cestách.
+
+Naprosto bezchybný mi přišel chorošovitý Houbeles (jo, jsem ulítlej na obyčejnosti).
+
+Želvorec byl pro mě zajímavý, ale silně mimo mo představy. Poprosil jsem proto Philipa o další úpravy, po kterých bude více želvovitý a s ocasem zakončeným takřka povinným kostěným palcátem.
+- O výrůstku ve tvaru "palcátu" jsem Philipovi popravdě zapomněl říct. Moje blbost.
+
+Brutopýr byl krásně rozkreslený do detailu, ale s hlavou tak velkou a zubatou, že že bych ho spíše považoval za příbuzného piraně, než jediného létajícího savce. I tady jsem Philipa poprosil, zda by utáhl kohouty komiksovosti a přiklonil se více k obyčejnosti.
+
+Philip slíbil, že oba tvory učeše.
+
+### Učesané stvůry a nestvůry
+
+Jak Philip slíbil, tak udělal. Už po dvou týdnech poslal upravené kresby Želvorce i Brutopýra.
+
+*23. 10. 2019*
+
+![První úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_2.0.png)
+
+Nemůžu si pomoct, ale tohle byl obrovský skok dopředu. Jako kdyby to Philip nakreslil až po dalších třech letech zkušeností.
+
+Želvorec v pohybu byl úchvatný a prasečí rypák Brutopýra, včetně těch jeho jehel v hubě, byl nezapomenutelný. Nádhera!
+
+Přesto, jaksi, to pořád nebylo ono. Byly to kresby vhodné na **pokračování** bestiáře. Pro jeho pokročilejší, monstróznější verzi.
+Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátekčníky, kterým je zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět zanikne.
+
+Poprosil jsem Philipa o další kolečko úprav. Jak u Želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u Brutopýra, který
