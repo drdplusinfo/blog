@@ -91,7 +91,7 @@ A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty poslal,
     - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Narváno v šenku
-![Narváno v šenku](/source/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku.png?version=b908397c39a5a49ae3f37cd2ff38b516)
+![Narváno v šenku](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku.png?version=b908397c39a5a49ae3f37cd2ff38b516)
 - Narváno v šenku
     - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
@@ -118,19 +118,19 @@ A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty poslal,
 *Musím uznat, že ty černobílé kresby, Philipův cit pro detail i schopnost zjednodušovat na mě působí silně a rezonují s mým cítěním.*
 
 Ze všech těchto kreseb jsem nakonec vybral *Narváno v šenku*, *Šenkýř spěchá na schůzku* a *Služka nestíhá dohromady hosty a kuchyň*.
-Tyto kresby jsem od Philipa odkoupil a můžete je kdokoli použít na cokoli v rámci licence [Creative commons 4.0 - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs) (napište, odkud to máte, jinak si s tím delějte, co uznáte za vhodné, klidně to hoďte na tričko a prodávejte se ziskem - ale cokoliv se stane, jde to na vaše triko).
+Tyto kresby jsem od Philipa odkoupil a můžete je kdykoli použít na cokoli v rámci licence [Creative commons 4.0 - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs) (napište, odkud to máte, jinak si s tím delějte, co uznáte za vhodné, klidně to hoďte na tričko a prodávejte se ziskem - ale cokoliv se stane, jde to na vaše triko).
 
 ##### Dobrodružství ve sklepě - originály ke stažení
 
-- [Narváno v šenku 4961 x 3508 px, 7.0 MB](/source/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.png?version=b908397c39a5a49ae3f37cd2ff38b516)
+- [Narváno v šenku 4961 x 3508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
 
-- [Šenkýř spěchá na schůzku 4961 x 3508 px, 2.9 MB](/source/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.png?version=b908397c39a5a49ae3f37cd2ff38b516)
+- [Šenkýř spěchá na schůzku 4961 x 3508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
 
-- [Služka nestíhá dohromady hosty a kuchyň 4961 x 3508 px, 4.1 MB](/source/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.png?version=b908397c39a5a49ae3f37cd2ff38b516)
+- [Služka nestíhá dohromady hosty a kuchyň 4961 x 3508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/sluzka_nestiha_kuchyn_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
 
 Dalším, pro mě přirozeným krokem, bylo nabídnout Philipovi práci na bestiáři. Konkrétně na třech tvorech, kteří si již delší dobu žijí svým životem v mé hlavě.
 
-Možná to bylo proti Philipově prosbě, ať se snažím úkolovovat ho kresbami pro děti. Už tehdy mi naznačoval, že má velmi citlivou duši a některé scény prostě tvořit odmítá.
+Možná to bylo proti Philipově prosbě, ať se ho snažím úkolovovat kresbami obsahově spíše pro děti. Už tehdy mi naznačoval, že má velmi citlivou duši a některé scény prostě tvořit odmítá.
 Přijde mi, že Philip kreslí jako já píšu (když se daří) - že si nesedne k papíru a nezačne intelektem sestavovat díly, ale že vstoupí do scény, prožije ji a až potom nechá své tělo, aby zachytilo vzpomínku kresbou.
 
 ### Zadání druhé: Bestiář
@@ -161,4 +161,10 @@ Se směsicí obav a odporu okopával prošlapanou botou zdatnou sosnu, která mu
 
 Philip odpověděl, že představu má a že se do práce pustí. Paráda!
 
-### První stvůry a nestvůry
+### Puštěné stvůry a nestvůry
+
+Philipovi se první nástřel těchto příšer trochu protáhl, nakonec ho poslal až po dvou měsících. 
+
+*10. 10. 2019*
+
+![První skica brutopýra, želvorce a houbelesu](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_houbeles_1.0.png?version=51809e19e9b8c9be464378e2f5caa953)
