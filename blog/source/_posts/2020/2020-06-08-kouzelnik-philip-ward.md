@@ -53,7 +53,7 @@ Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným s
 
 #### Philipův první nástřel
 
-Philip poslal jednoduchou skicu
+Philip poslal jednoduchou skicu čtyř návrhů v jednom
 
 ![Philipova prvni skica](/assets/images/posts/kouzelnik_philip_ward/philip_ward_navrhy_drd.png?version=bd3d8ab55bb436b272d67753ec1a222b)
 
