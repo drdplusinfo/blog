@@ -15,25 +15,25 @@ perex: |
 
 > Všechno je jednou poprvé.
 
-Kdykoliv jsem četl nějaká pravidla, dobrodružství, či příšery, tak jsem plesal nad snahou autorů, kteří mi obrázky zjednodušovali život a usnadňovali představy.
+Kdykoliv jsem četl nějaká pravidla, dobrodružství, příšery, tak jsem plesal nad doprovodnými obrázky, které mi usnadňovali představy.
 
 Holt obrázek vidá za tisíc slov.
 
 A proto jsem nejenom cítil (jak je u mě časté), ale i věděl (a to už je vzácnější), že ke své tvorbě taky potřebuju doprovodné ilustrace.
-Jak pro čtenáře, tak i pro autora, protože když můžu sledovat kresbu očima, tak ji můžu pustit z hlavy, kochat se a hlavu použít na další práci.
+Jak pro čtenáře, tak i pro sebe jako autora, protože když můžu sledovat scénu očima, tak ji můžu pustit z hlavy, kochat se a hlavu použít na další práci.
 
 O nápady jsem neměl nouzi, protože ať už jsem přemýšlel nad pravidly, nad dobrodružstvím, či nad příšerami, vždycky mi v hlavě tanuly obrazy.
 Jen sehnat ilustrátora, který by je zvěčnil.
 
-Jenomže... jak s takovým ilustrátorem mluvit? Přeci jenom má každá profese svá specifika a stejný mateřský jazyk nebývá dostačující.
+Jenomže... jak s takovým ilustrátorem mluvit? Přeci jenom má každá profese svá specifika a stejný mateřský jazyk neznamená automaticky pochopení.
 
-A kde takového ilustrátora vzít?
+A hlavně, kde takového ilustrátora vzít?
 
 ## Zjevení Philipa
 
 > Mluviti stříbro, mlčeti zlato, kresliti cokoli.
 
-Ke konci roku 2018 jsem proto na naší Facebookové stránce zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dve stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
+Ke konci roku 2018 jsem proto na naší Facebookové stránce zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dvě stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
 
 A pak přišel email. Že prý nějaký Philip Ward a že ilustrace studuje a že mi posílá ukázky své práce.
 
@@ -41,7 +41,7 @@ Tak Philip, hmm? A Ward? Jméno jak pro strážce zákona, řekl jsem si. A to b
 
 Philip poslal krezby převážně tuší, některé neumělé až dětské, jiné střapatě komiksové a promyšleně prosté, jiné vyzrálé a přitom steampunkové... byla to pestrá směsice stylů, jenom si vybrat!
 
-Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé jeho ilustraci rozepsal tak, že by to vydalo za článek do učitelských novin. A rovnou jsem mu přidal i první zadání. Opět mým upovídaným stylem.
+Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé ilustraci rozepsal tak, že by to vydalo za článek do učitelských novin. A rovnou jsem mu přidal i první zadání. Opět mým upovídaným stylem.
 
 *(nebojte, čím dál budete číst, tím bude ubývat textu a přibývat obrázků)*
 
@@ -63,15 +63,17 @@ Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé jeho
 
 A zase bylo ticho. Napsal jsem mu ve čtvrtek třináctého prosince 2018. Nastal pátek, přešel víkend, přešel další týden, Vánoce byly za dveřmi a Philip nic. Tak jsem ho opatrně pošťouchnul s odkazem na Michaela Petruse a jeho rady, [jak si najít svůj kreslířský styl](http://www.michaelpetrus.com/6-tipu-jak-najit-svou-specializaci/).
 
-Philip mi poděkoval a popřál hezé svátky. Takže na živu byl, aspoň jedna pozitivní zpráva. Ale o kresbách nenapsal ani písmenko.
+Philip mi poděkoval a popřál hezké svátky. Takže na živu byl, aspoň jedna pozitivní zpráva. Ale o kresbách ani ň.
 
 #### Tak asi ahoj?
 
-Uplynuly Vánoce, odvál leden, odkutálel se únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
+Uplynuly Vánoce, odvál leden, odtál únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
 
-Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas naší ne-spolupráci řádně ukončit. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilusrátorské budoucno a pustil jsem ho z hlavy.
+Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilusrátorské budoucno a pustil jsem ho z hlavy.
 
-Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil. Překvapil chlapec.
+Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil.
+
+Překvapil chlapec.
 
 #### Philipův první nástřel
 
@@ -94,62 +96,61 @@ Philip chtěl v práci pokračovat, ale vymínil si důraznější zadání s ja
 
 Philip dostal dva měsíce na to, aby nakreslil třikrát tolik obsahu, než kolik stvořil dosud za půl roku. No, uvidíme.
 
-#### Vidíme důraznější výsledky
+#### Vidíme
 
 A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty, poslal, co jsme chtěli a ještě přidal návdavek.
 
 ##### Šenkýř přijímá zálohu za veselku
-![Šenkýř přijímá zálohu za veselku](/assets/images/posts/kouzelnik_philip_ward/senkyr_prijima_zalohu_za_veselku.png?version=cd870f51783cc1682b9e1ddd4c9b39f3)
-- Šenkýř přijímá zálohu za veselku
+![Šenkýř přijímá zálohu za veselku](/assets/images/posts/kouzelnik_philip_ward/senkyr_prijima_zalohu_za_veselku.png?version=9e1984021aed1a1d9143b7882db8c840)
+- *šenkýř přijímá zálohu za veselku*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
 ##### Šenkýř spěchá na schůzku se starostou
 ![Šenkýř spěchá na schůzku se starostou](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_se_starostou.png?version=369d93240818df60efaf73a2e54208d1)
-- Šenkýř spěchá na schůzku se starostou
+- *šenkýř spěchá na schůzku se starostou*
     - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+    - [orignál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4961 x 3508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
 
 ##### Narváno v šenku
 ![Narváno v šenku](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku.png?version=b908397c39a5a49ae3f37cd2ff38b516)
-- Narváno v šenku
+- *narváno v šenku*
     - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+    - [originál ke stažení - *narváno v šenku* - 4961 x 3508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
 
 ##### Služebná Anna nestíhá kuchyň a hosty dohromady
 ![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png?version=5b60658e1dc612fe5666a3aaa1a5d9c3)
-- Služebná Anna nestíhá kuchyň a hosty dohromady
+- *služebná Anna nestíhá kuchyň a hosty dohromady*
     - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4961 x 3508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/sluzka_nestiha_kuchyn_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
 
 ##### Prcek se dívá do hlubin sklepení
 ![Prcek se dívá do hlubin sklepení](/assets/images/posts/kouzelnik_philip_ward/prcek_se_diva_do_hlubin_sklepeni.png?version=37a41b4e7e029c308e53532a9468f51b)
-- Prcek se dívá do hlubin sklepení
+- *prcek se dívá do hlubin sklepení*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
 ##### Prcek se odhodlává vstoupit do sklepa
 ![Prcek se odhodlává vstoupit do sklepa](/assets/images/posts/kouzelnik_philip_ward/prcek_se_odhodlava_vstoupit_do_sklepa.png?version=9b0f978292d34604752d97448b3c17e6)
-- Prcek se odhodlává vstoupit do sklepa
+- *prcek se odhodlává vstoupit do sklepa*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
 ##### Strach má velké oči
 ![Strach má velké oči](/assets/images/posts/kouzelnik_philip_ward/strach_ma_velke_oci.png?version=fa1dd27de48dc32f164c6f1588e2b559)
-- Strach má velké oči
+- *strach má velké oči*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
+
+---
 
 *Musím uznat, že ty černobílé kresby, Philipův cit pro detail i schopnost zjednodušovat na mě působí silně a rezonují s mým cítěním.*
 
-Ze všech těchto kreseb jsem nakonec vybral *Narváno v šenku*, *Šenkýř spěchá na schůzku* a *Služka nestíhá dohromady hosty a kuchyň*.
-Tyto kresby jsem od Philipa odkoupil a můžete je kdykoli použít na cokoli v rámci licence [Creative commons 4.0 - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs) (*napište, odkud to máte, jinak si s tím delějte, co uznáte za vhodné, klidně to hoďte na tričko a prodávejte se ziskem - ale cokoliv se stane, jde to na vaše triko*).
-
-##### Dobrodružství ve sklepě - originály ke stažení
-
-- [Narváno v šenku 4961 x 3508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
-
-- [Šenkýř spěchá na schůzku 4961 x 3508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
-
-- [Služka nestíhá dohromady hosty a kuchyň 4961 x 3508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/sluzka_nestiha_kuchyn_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
+Ze všech těchto kreseb jsem nakonec vybral *Šenkýř spěchá na schůzku*, *Narváno v šenku* a *Služka nestíhá dohromady hosty a kuchyň*.
+Tyto kresby jsem od Philipa odkoupil a můžete je kdykoli použít na cokoli v rámci licence [Creative commons 4.0 - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs) (*napište, odkud to máte, jinak si s tím dělejte, co uznáte za vhodné, klidně to hoďte na tričko a prodávejte se ziskem - ale cokoliv se stane, jde to na vaše triko*).
 
 Dalším, pro mě přirozeným krokem, bylo nabídnout Philipovi práci na bestiáři. Konkrétně na třech tvorech, kteří si již delší dobu žijí svým životem v mé hlavě.
 
 Možná to bylo proti Philipově prosbě, ať se ho snažím úkolovovat kresbami obsahově spíše pro děti. Už tehdy mi naznačoval, že má velmi citlivou duši a některé scény prostě tvořit odmítá.
 Přijde mi, že Philip kreslí jako já píšu (když se daří) - že si nesedne k papíru a nezačne intelektem sestavovat jednotlivé díly, ale že vstoupí do scény, prožije ji a až potom nechá své tělo, aby zachytilo vzpomínku kresbou.
+
+No, stalo se. Philipovi jsem nabídl práci na bestiáři.
 
 ### Zadání druhé: Bestiář
 
@@ -191,7 +192,7 @@ Celkově se mi hodně zamlouval dokumentární styl kreseb - jako kdyby si je do
 
 Naprosto bezchybný mi přišel chorošovitý Houbeles (jo, jsem ulítlej na obyčejnosti).
 
-Želvorec byl pro mě zajímavý, ale silně mimo mé představy. Poprosil jsem proto Philipa o další úpravy, po kterých bude více želvovitý a s ocasem zakončeným takřka povinným kostěným palcátem (*o výrůstku ve tvaru "palcátu" jsem Philipovi popravdě zapomněl říct, moje blbost*)
+Želvorec byl pro mě zajímavý, ale silně mimo mé představy. Poprosil jsem proto Philipa o další úpravy, po kterých bude více želvovitý a s ocasem zakončeným takřka povinným kostěným palcátem (*o výrůstku ve tvaru "palcátu" jsem Philipovi popravdě zapomněl říct, moje blbost*).
 
 Brutopýr byl krásně rozkreslený do detailu, ale s hlavou tak velkou a zubatou, že bych ho spíše považoval za příbuzného piraně, než jediného létajícího savce. I tady jsem Philipa poprosil, zda by utáhl kohouty komiksovosti a přiklonil se více k obyčejnosti.
 
@@ -199,7 +200,7 @@ Philip slíbil, že oba tvory učeše.
 
 ### Učesané stvůry a nestvůry
 
-Jak Philip slíbil, tak udělal. Už po dvou týdnech poslal upravené kresby Želvorce i Brutopýra.
+A Philip slib splnil. Už po dvou týdnech poslal upravené kresby želvorce i brutopýra.
 
 *23. 10. 2019*
 
@@ -207,14 +208,15 @@ Jak Philip slíbil, tak udělal. Už po dvou týdnech poslal upravené kresby Ž
 
 Nemůžu si pomoct, ale tohle byl obrovský skok dopředu. Jako kdyby to Philip nakreslil až po dalších třech letech zkušeností.
 
-Želvorec v pohybu byl úchvatný a prasečí rypák Brutopýra, včetně těch jeho jehel v hubě, byl nezapomenutelný. Nádhera!
+Želvorec v pohybu byl úchvatný a prasečí rypák brutopýra, včetně těch jeho jehel v hubě, byl nezapomenutelný. Nádhera!
 
 Přesto, jaksi, to pořád nebylo ono. Byly to kresby vhodné na **pokračování** bestiáře. Pro jeho pokročilejší, monstróznější verzi.
-Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátečníky, kterým je zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět, ten jediný vesmír, ve kterém můžou vyprávěcí hry existovat, zanikne.
+Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátečníky, kterým je zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět, ten jediný vesmír, ve kterém můžou vyprávěcí hry existovat, se uzamkne.
 
-Poprosil jsem Philipa o další kolečko úprav. Jak u Želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u Brutopýra, který vypadal více bruto, než pýr.
+Poprosil jsem Philipa o další kolečko úprav. Jak u želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u brutopýra, který vypadal příliš bruto.
 
 Popravdě jsem už začínal obávat, že tím Philipa zapudím, protože sám mám potíže zkousnout, když je velký kus mé práce odmítnut a musím to samé dělat znovu.
+
 Mé obavy byly liché.
 
 ### Od čumáku po ocas
@@ -225,11 +227,11 @@ Pouhý týden uplynul a Philip poslal další várku úprav. Ta tam byla rozmác
 
 ![Druhá úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_3.0.png?version=79425398d43bd3541822438c36c46a4d)
 
-Pořád ještě jsem nebyl spokojený. Tím, jak se Philip snažil zavděčit mým představám, tak se vzdaloval od lehkosti přirozené tvorby.
-Nepozdával sse mi až příliš okatě palcátovitý ocas, kterému nyní chyběla samozřejmost. A podobně se mi nezdál ten nosní štít, ta plachta, kterou před sebou Brutopýr rozvinul.
+Ale pořád ještě jsem nebyl spokojený.
+Zřejmě tím, jak se Philip snažil zavděčit mým představám, tak se vzdaloval od lehkosti přirozené tvorby. Nepozdával se mi až příliš okatě palcátovitý ocas, kterému nyní chyběla samozřejmost. A podobně se mi u brutopýra nezdál ten nosní štít, ta plachta, kterou před sebou rozvinul.
 Oboje jako by bylo těm tvorům vnuceno. Asi už jsem bral Philipovy představy příliš zkrátka.
 
-Přesto jsem ho poprosil o další kolečko úprav. Brutopýrova nosu a Želvorcova ocasu.
+Přesto jsem ho poprosil o další kolečko úprav. Tentokráte cílěně brutopýrova nosu a želvorcova ocasu.
 
 A Philip to nevzdal.
 
@@ -241,12 +243,12 @@ Na další úpravy jsem si musel počkat měsíc. A tentokrát Philip stvořil n
 
 ![Třetí úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_4.0.png?version=98fa35140d9e0f59a42098a555fa46ec)
 
-Základní vzhled příšer byl daný, mohli jsme přejít ke konkrétním výjevům z jejich života
+Základní vzhled příšer byl daný, mohli jsme přejít ke konkrétním výjevům z jejich života.
 
 Nastal čas na bestiální finále.
 
-### Pozor, Želvorec!
+### Pozor, želvorec!
 
-Philip jako prvního zasadil do živého světa želvorce, který ztrestal narušitele svého hnízdiště.
+Philip jako prvního zasadil do výjevu želvorce, který ztrestal narušitele svého hnízdiště.
 
 ![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png?version=98fa35140d9e0f59a42098a555fa46ec)
