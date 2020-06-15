@@ -231,7 +231,7 @@ pre[class*="language-"] {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
 }
 
@@ -650,6 +650,7 @@ th, td {
 }
 
 .licence img, #post .licence img {
+    width: initial;
     margin: 0;
 }
 

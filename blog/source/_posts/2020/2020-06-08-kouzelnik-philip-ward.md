@@ -203,7 +203,7 @@ Jak Philip slíbil, tak udělal. Už po dvou týdnech poslal upravené kresby Ž
 
 *23. 10. 2019*
 
-![První úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_2.0.png)
+![První úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_2.0.png?version=246aca6d37b5a7574c8f67d723446ea1)
 
 Nemůžu si pomoct, ale tohle byl obrovský skok dopředu. Jako kdyby to Philip nakreslil až po dalších třech letech zkušeností.
 
@@ -214,4 +214,39 @@ Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek.
 
 Poprosil jsem Philipa o další kolečko úprav. Jak u Želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u Brutopýra, který vypadal více bruto, než pýr.
 
-Popravdě jsem už začínal obávat, že tím Philipa naštvu, protože sám mám potíže zkousnout, když je velký kus mé práce odmítnut a musím to samé dělat znovu.
+Popravdě jsem už začínal obávat, že tím Philipa zapudím, protože sám mám potíže zkousnout, když je velký kus mé práce odmítnut a musím to samé dělat znovu.
+Mé obavy byly liché.
+
+### Od čumáku po ocas
+
+Pouhý týden uplynul a Philip poslal další várku úprav. Ta tam byla rozmáchlá dynamičnost a na místo ní jsem uviděl tvory, které bych klidně čekal na Galapágách. Až mi té rázné změny bylo trochu líto. Ale co jsem chtěl, to jsem začínal dostávat.
+
+*29. 10. 2019*
+
+![Druhá úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_3.0.png?version=79425398d43bd3541822438c36c46a4d)
+
+Pořád ještě jsem nebyl spokojený. Tím, jak se Philip snažil zavděčit mým představám, tak se vzdaloval od lehkosti přirozené tvorby.
+Nepozdával sse mi až příliš okatě palcátovitý ocas, kterému nyní chyběla samozřejmost. A podobně se mi nezdál ten nosní štít, ta plachta, kterou před sebou Brutopýr rozvinul.
+Oboje jako by bylo těm tvorům vnuceno. Asi už jsem bral Philipovy představy příliš zkrátka.
+
+Přesto jsem ho poprosil o další kolečko úprav. Brutopýrova nosu a Želvorcova ocasu.
+
+A Philip to nevzdal.
+
+### Od ocas po čumák
+
+Na další úpravy jsem si musel počkat měsíc. A tentokrát Philip stvořil něco na půl cesty. Kompromis, se kterým už jsem dokázal být spokojený.
+
+*25. 11. 2019*
+
+![Třetí úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_4.0.png?version=98fa35140d9e0f59a42098a555fa46ec)
+
+Základní vzhled příšer byl daný, mohli jsme přejít ke konkrétním výjevům z jejich života
+
+Nastal čas na bestiální finále.
+
+### Pozor, Želvorec!
+
+Philip jako prvního zasadil do živého světa želvorce, který ztrestal narušitele svého hnízdiště.
+
+![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png?version=98fa35140d9e0f59a42098a555fa46ec)
