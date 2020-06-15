@@ -1,6 +1,6 @@
 ---
 id: 2020-06-08-1
-title: "Kouzelník Philip Ward"
+title: "Ilustrátoři: Kouzelník Philip Ward"
 image: /assets/images/posts/kouzelnik_philip_ward.png?version=99ab45e2d04d23ac8d7dc292891cdf7a
 image_author: "*Autorem lidského mláděte na prahu hrdinství je Philip Ward. Díky Ti.*"
 perex: |
@@ -11,11 +11,29 @@ perex: |
     *A co vy, cítíte se být naživu?*
 ---
 
+## Do neznáma
+
+> Všechno je jednou poprvé.
+
+Kdykoliv jsem četl nějaká pravidla, dobrodružství, či příšery, tak jsem plesal nad snahou autorů, kteří mi obrázky zjednodušovali život a usnadňovali představy.
+
+Holt obrázek vidá za tisíc slov.
+
+A proto jsem nejenom cítil (jak je u mě časté), ale i věděl (a to už je vzácnější), že ke své tvorbě taky potřebuju doprovodné ilustrace.
+Jak pro čtenáře, tak i pro autora, protože když můžu sledovat kresbu očima, tak ji můžu pustit z hlavy, kochat se a hlavu použít na další práci.
+
+O nápady jsem neměl nouzi, protože ať už jsem přemýšlel nad pravidly, nad dobrodružstvím, či nad příšerami, vždycky mi v hlavě tanuly obrazy.
+Jen sehnat ilustrátora, který by je zvěčnil.
+
+Jenomže... jak s takovým ilustrátorem mluvit? Přeci jenom má každá profese svá specifika a stejný mateřský jazyk nebývá dostačující.
+
+A kde takového ilustrátora vzít?
+
 ## Zjevení Philipa
 
 > Mluviti stříbro, mlčeti zlato, kresliti cokoli.
 
-Ke konci roku 2018 jsem na naší Facebookové stránce zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dve stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
+Ke konci roku 2018 jsem proto na naší Facebookové stránce zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dve stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
 
 A pak přišel email. Že prý nějaký Philip Ward a že ilustrace studuje a že mi posílá ukázky své práce.
 
@@ -23,7 +41,7 @@ Tak Philip, hmm? A Ward? Jméno jak pro strážce zákona, řekl jsem si. A to b
 
 Philip poslal krezby převážně tuší, některé neumělé až dětské, jiné střapatě komiksové a promyšleně prosté, jiné vyzrálé a přitom steampunkové... byla to pestrá směsice stylů, jenom si vybrat!
 
-Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé ilustraci rozepsal tak, že by to vydalo za článek do učitelských novin. A rovnou jsem mu přidal i první zadání. Opět mým upovídaným stylem.
+Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé jeho ilustraci rozepsal tak, že by to vydalo za článek do učitelských novin. A rovnou jsem mu přidal i první zadání. Opět mým upovídaným stylem.
 
 *(nebojte, čím dál budete číst, tím bude ubývat textu a přibývat obrázků)*
 
@@ -37,7 +55,7 @@ Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé ilus
 
 *A tak se stane, že hostinský jde ke starostovi vyřizovat detaily ohledně veselky starostova jediného syna a Anna dostane za úkol starat se o těch pár hostí, co je k poledni vítr přivane, když v kuchyni dojdou brambory, nejspíš. Nevíš, jak se to Anna dozvěděla, možná to jen tuší, možná je to náhoda, ale poslala tě do sklepa. Do té černé díry, kde ve svitu skomírajícího knotu tvé oči tvrdí, že vidíš podlahu, ale tvá hlava vidí bezednou propast, kde tvé uši tvrdí, že slyšíš pískot myší, tvá hlava ale slyší pískání používaného skřipce, kde tvůj nos tvrdí, že cítí plíseň a hlínu, ale tvá hlava cítí hnilobu a strach. Tvůj strach.*
 
-*Stojíš na schodech, ve zpocené ruce žmouláš ucho kahanu a přemáháš třas svého těla, aby si snad Anna tvého děsu nevšimla a nezařadila sklep do svého seznamu mučících nástrojů. Je čas udělat krok do tmy. Za sebou máš historii, kterou zná jen málokdo, ne však ty, v sobě máš strach, o němž víš jen ty a nikdo jiný a před sebou budoucnost, kterou nezná nikdo.*
+*Stojíš na schodech, ve zpocené ruce žmouláš ucho kahanu a přemáháš třas vlastního těla, aby si snad Anna tvého děsu nevšimla a nezařadila sklep do svého seznamu mučících nástrojů. Je čas udělat krok do tmy. Za sebou máš historii, kterou zná jen málokdo, ne však ty, v sobě máš strach, o němž víš jen ty a nikdo jiný a před sebou budoucnost, kterou nezná nikdo.*
 
 *Jen jedno je jisté, že člověk, který právě vchází do útrob sklepa, nebude ten samý, který z něj vyjde ven. Ať už s bramborami, nebo bez nich.*
 
@@ -78,7 +96,7 @@ Philip dostal dva měsíce na to, aby nakreslil třikrát tolik obsahu, než kol
 
 #### Vidíme důraznější výsledky
 
-A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty poslal, co jsme chtěli a ještě přidal návdavek.
+A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty, poslal, co jsme chtěli a ještě přidal návdavek.
 
 ##### Šenkýř přijímá zálohu za veselku
 ![Šenkýř přijímá zálohu za veselku](/assets/images/posts/kouzelnik_philip_ward/senkyr_prijima_zalohu_za_veselku.png?version=cd870f51783cc1682b9e1ddd4c9b39f3)
@@ -118,7 +136,7 @@ A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty poslal,
 *Musím uznat, že ty černobílé kresby, Philipův cit pro detail i schopnost zjednodušovat na mě působí silně a rezonují s mým cítěním.*
 
 Ze všech těchto kreseb jsem nakonec vybral *Narváno v šenku*, *Šenkýř spěchá na schůzku* a *Služka nestíhá dohromady hosty a kuchyň*.
-Tyto kresby jsem od Philipa odkoupil a můžete je kdykoli použít na cokoli v rámci licence [Creative commons 4.0 - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs) (napište, odkud to máte, jinak si s tím delějte, co uznáte za vhodné, klidně to hoďte na tričko a prodávejte se ziskem - ale cokoliv se stane, jde to na vaše triko).
+Tyto kresby jsem od Philipa odkoupil a můžete je kdykoli použít na cokoli v rámci licence [Creative commons 4.0 - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs) (*napište, odkud to máte, jinak si s tím delějte, co uznáte za vhodné, klidně to hoďte na tričko a prodávejte se ziskem - ale cokoliv se stane, jde to na vaše triko*).
 
 ##### Dobrodružství ve sklepě - originály ke stažení
 
@@ -131,7 +149,7 @@ Tyto kresby jsem od Philipa odkoupil a můžete je kdykoli použít na cokoli v 
 Dalším, pro mě přirozeným krokem, bylo nabídnout Philipovi práci na bestiáři. Konkrétně na třech tvorech, kteří si již delší dobu žijí svým životem v mé hlavě.
 
 Možná to bylo proti Philipově prosbě, ať se ho snažím úkolovovat kresbami obsahově spíše pro děti. Už tehdy mi naznačoval, že má velmi citlivou duši a některé scény prostě tvořit odmítá.
-Přijde mi, že Philip kreslí jako já píšu (když se daří) - že si nesedne k papíru a nezačne intelektem sestavovat díly, ale že vstoupí do scény, prožije ji a až potom nechá své tělo, aby zachytilo vzpomínku kresbou.
+Přijde mi, že Philip kreslí jako já píšu (když se daří) - že si nesedne k papíru a nezačne intelektem sestavovat jednotlivé díly, ale že vstoupí do scény, prožije ji a až potom nechá své tělo, aby zachytilo vzpomínku kresbou.
 
 ### Zadání druhé: Bestiář
 
@@ -173,10 +191,9 @@ Celkově se mi hodně zamlouval dokumentární styl kreseb - jako kdyby si je do
 
 Naprosto bezchybný mi přišel chorošovitý Houbeles (jo, jsem ulítlej na obyčejnosti).
 
-Želvorec byl pro mě zajímavý, ale silně mimo mo představy. Poprosil jsem proto Philipa o další úpravy, po kterých bude více želvovitý a s ocasem zakončeným takřka povinným kostěným palcátem.
-- O výrůstku ve tvaru "palcátu" jsem Philipovi popravdě zapomněl říct. Moje blbost.
+Želvorec byl pro mě zajímavý, ale silně mimo mé představy. Poprosil jsem proto Philipa o další úpravy, po kterých bude více želvovitý a s ocasem zakončeným takřka povinným kostěným palcátem (*o výrůstku ve tvaru "palcátu" jsem Philipovi popravdě zapomněl říct, moje blbost*)
 
-Brutopýr byl krásně rozkreslený do detailu, ale s hlavou tak velkou a zubatou, že že bych ho spíše považoval za příbuzného piraně, než jediného létajícího savce. I tady jsem Philipa poprosil, zda by utáhl kohouty komiksovosti a přiklonil se více k obyčejnosti.
+Brutopýr byl krásně rozkreslený do detailu, ale s hlavou tak velkou a zubatou, že bych ho spíše považoval za příbuzného piraně, než jediného létajícího savce. I tady jsem Philipa poprosil, zda by utáhl kohouty komiksovosti a přiklonil se více k obyčejnosti.
 
 Philip slíbil, že oba tvory učeše.
 
@@ -193,6 +210,8 @@ Nemůžu si pomoct, ale tohle byl obrovský skok dopředu. Jako kdyby to Philip 
 Želvorec v pohybu byl úchvatný a prasečí rypák Brutopýra, včetně těch jeho jehel v hubě, byl nezapomenutelný. Nádhera!
 
 Přesto, jaksi, to pořád nebylo ono. Byly to kresby vhodné na **pokračování** bestiáře. Pro jeho pokročilejší, monstróznější verzi.
-Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátekčníky, kterým je zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět zanikne.
+Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátečníky, kterým je zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět, ten jediný vesmír, ve kterém můžou vyprávěcí hry existovat, zanikne.
 
-Poprosil jsem Philipa o další kolečko úprav. Jak u Želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u Brutopýra, který
+Poprosil jsem Philipa o další kolečko úprav. Jak u Želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u Brutopýra, který vypadal více bruto, než pýr.
+
+Popravdě jsem už začínal obávat, že tím Philipa naštvu, protože sám mám potíže zkousnout, když je velký kus mé práce odmítnut a musím to samé dělat znovu.
