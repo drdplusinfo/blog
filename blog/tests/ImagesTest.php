@@ -14,28 +14,21 @@ class ImagesTest extends AbstractBlogTest
         $allPostImages = self::getAllPostsImages();
         self::assertNotEmpty($allPostImages);
         foreach (self::getAllPostsImages() as $image) {
-            $questionMarkPosition = strpos($image, '?');
-            $version = '';
-            $imageWithoutVersion = $image;
-            if ($questionMarkPosition !== false) {
-                $version = substr($image, $questionMarkPosition + strlen('?version='));
-                $imageWithoutVersion = substr($image, 0, $questionMarkPosition);
-            }
+            ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $image;
             self::assertNotEmpty(
                 $version,
-                sprintf("Missing version for image %s, expected\n%s", $image, $version ? '' : $this->getExpectedVersionHint($image))
+                sprintf("Missing version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath))
             );
             self::assertSame(
-                md5_file($imageWithoutVersion),
+                md5_file($imageFullPath),
                 $version,
-                sprintf("Invalid version for image %s, expected\n%s", $image, $version ? '' : $this->getExpectedVersionHint($image))
+                sprintf("Invalid version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath))
             );
         }
-        // TODO detect unused images
     }
 
-    private function getExpectedVersionHint(string $image): string
+    private function getExpectedVersionHint(string $path): string
     {
-        return sprintf('?version=%s', $image);
+        return sprintf('?version=%s', md5_file($path));
     }
 }

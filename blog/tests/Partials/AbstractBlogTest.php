@@ -66,31 +66,42 @@ abstract class AbstractBlogTest extends TestCase
     }
 
     /**
-     * @return array|string[]
+     * @return array|string[][]
      */
     protected static function getAllPostsImages(): array
     {
-        $imageFiles = [];
+        $imageLinks = [];
         foreach (static::getGeneratedPosts() as $generatedPost) {
             $dom = new HTMLDocument($generatedPost);
             foreach ($dom->body->getElementsByTagName('img') as $image) {
                 $src = $image->getAttribute('src');
                 if ($src && strpos($src, 'images/') !== false && strpos($src, 'http') !== 0) {
-                    $imageFiles[] = $src;
+                    $imageLinks[] = $src;
                 }
             }
             foreach ($dom->body->getElementsByTagName('a') as $anchor) {
                 $href = $anchor->getAttribute('href');
                 if ($href && strpos($href, 'images/') !== false && strpos($href, 'http') !== 0) {
-                    $imageFiles[] = $href;
+                    $imageLinks[] = $href;
                 }
             }
         }
-        $uniqueImageFiles = array_unique($imageFiles);
+        $uniqueImageLinks = array_unique($imageLinks);
+        $images = [];
         $imagesDir = __DIR__ . '/../../source/assets/images';
-        return array_map(static function (string $imageFile) use ($imagesDir) {
-            $relativeImageFile = preg_replace('~^/?(assets)?(/images)?/?~', '', $imageFile);
-            return $imagesDir . '/' . $relativeImageFile;
-        }, $uniqueImageFiles);
+        foreach ($uniqueImageLinks as $imageLink) {
+            $questionMarkPosition = strpos($imageLink, '?');
+            $version = '';
+            $imageLinkWithoutVersion = $imageLink;
+            if ($questionMarkPosition !== false) {
+                $version = substr($imageLink, $questionMarkPosition + strlen('?version='));
+                $imageLinkWithoutVersion = substr($imageLink, 0, $questionMarkPosition);
+            }
+            $relativeImageFile = preg_replace('~^/?(assets)?(/images)?/?~', '', $imageLinkWithoutVersion);
+            $imageFullPath = $imagesDir . '/' . $relativeImageFile;
+            self::assertFileExists($imageFullPath);
+            $images[] = ['link' => $imageLink, 'fullPath' => $imageFullPath, 'version' => $version];
+        }
+        return $images;
     }
 }
