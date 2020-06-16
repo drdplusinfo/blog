@@ -11,6 +11,6 @@ class JustSomeTest extends AbstractBlogTest
      */
     public function I_can_use_all_posts()
     {
-        self::assertNotEmpty(self::getPosts());
+        self::assertNotEmpty(self::getGeneratedPosts(), 'Some posts expected');
     }
 }

@@ -2,13 +2,14 @@
 
 namespace DrdPlus\Blog\Tests\Partials;
 
+use Gt\Dom\HTMLDocument;
 use PHPUnit\Framework\TestCase;
 
 abstract class AbstractBlogTest extends TestCase
 {
     protected function getPost(string $postFileName): string
     {
-        $post = self::getPosts()[$postFileName] ?? null;
+        $post = self::getGeneratedPosts()[$postFileName] ?? null;
         if ($post === null) {
             throw new \LogicException("No post found under name '$postFileName'");
         }
@@ -18,10 +19,11 @@ abstract class AbstractBlogTest extends TestCase
     /**
      * @return array|string[]
      */
-    protected static function getPosts(): array
+    protected static function getGeneratedPosts(): array
     {
-        static $posts = [];
-        if (!$posts) {
+        static $postsByFullPath = [];
+        if (!$postsByFullPath) {
+            $postNames = [];
             exec(__DIR__ . '/../../vendor/bin/statie generate source');
             $blogDir = __DIR__ . '/../../output/blog';
             foreach (scandir($blogDir, SCANDIR_SORT_ASCENDING) as $folder) {
@@ -48,17 +50,47 @@ abstract class AbstractBlogTest extends TestCase
                             if (!is_file($blockPostFile)) {
                                 continue;
                             }
-                            if (!empty($posts[$blogPostName])) {
+                            if (in_array($blogPostName, $postNames, true)) {
                                 throw new \LogicException(
                                     "Post file name '$blogPostName' is already used, check it by\nfind -type d -name '$blogPostName'"
                                 );
                             }
-                            $posts[$blogPostName] = file_get_contents($blockPostFile);
+                            $postNames[] = $blogPostName;
+                            $postsByFullPath[$blockPostFile] = file_get_contents($blockPostFile);
                         }
                     }
                 }
             }
         }
-        return $posts;
+        return $postsByFullPath;
+    }
+
+    /**
+     * @return array|string[]
+     */
+    protected static function getAllPostsImages(): array
+    {
+        $imageFiles = [];
+        foreach (static::getGeneratedPosts() as $generatedPost) {
+            $dom = new HTMLDocument($generatedPost);
+            foreach ($dom->body->getElementsByTagName('img') as $image) {
+                $src = $image->getAttribute('src');
+                if ($src && strpos($src, 'images/post') !== false) {
+                    $imageFiles[] = $src;
+                }
+            }
+            foreach ($dom->body->getElementsByTagName('a') as $anchor) {
+                $href = $anchor->getAttribute('href');
+                if ($href && strpos($href, 'images/post') !== false) {
+                    $imageFiles[] = $href;
+                }
+            }
+        }
+        $uniqueImageFiles = array_unique($imageFiles);
+        $postImagesDir = __DIR__ . '/../../source/assets/images/posts';
+        return array_map(static function (string $imageFile) use ($postImagesDir) {
+            $relativeImageFile = preg_replace('~^/?(assets)?(/images)?(/posts)/?~', '', $imageFile);
+            return $postImagesDir . '/' . $relativeImageFile;
+        }, $imageFiles);
     }
 }

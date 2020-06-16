@@ -13,6 +13,7 @@
         "symplify/package-builder": "^5.4"
     },
     "require-dev": {
+        "ext-dom": "*",
         "dg/bypass-finals": "^1.1",
         "nette/neon": "^2.4",
         "phpstan/phpstan": "^0.11",
