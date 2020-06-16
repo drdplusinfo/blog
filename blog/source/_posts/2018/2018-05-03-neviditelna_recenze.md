@@ -1,7 +1,7 @@
 ---
 id: 2018-05-03-1
 title: "Neviditelná recenze"
-image: /assets/images/posts/logo_nevditelne_knihy.png
+image: /assets/images/posts/logo_nevditelne_knihy.png?version=1c28b0f33c65f3a5de719e1947f9297c
 perex: |
     Našlapaná dobrými nápady, kvalitními texty a prošpikovaná jediným poselstvím - *vážně všechno, co děláte, bude bez následků?*
 ---

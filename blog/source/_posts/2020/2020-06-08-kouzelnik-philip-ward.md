@@ -251,4 +251,4 @@ Nastal čas na bestiální finále.
 
 Philip jako prvního zasadil do výjevu želvorce, který ztrestal narušitele svého hnízdiště.
 
-![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png?version=98fa35140d9e0f59a42098a555fa46ec)
+![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png?version=1428827aa22b051df6575727d6f2f38d)

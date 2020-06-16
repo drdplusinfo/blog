@@ -75,22 +75,22 @@ abstract class AbstractBlogTest extends TestCase
             $dom = new HTMLDocument($generatedPost);
             foreach ($dom->body->getElementsByTagName('img') as $image) {
                 $src = $image->getAttribute('src');
-                if ($src && strpos($src, 'images/post') !== false) {
+                if ($src && strpos($src, 'images/') !== false && strpos($src, 'http') !== 0) {
                     $imageFiles[] = $src;
                 }
             }
             foreach ($dom->body->getElementsByTagName('a') as $anchor) {
                 $href = $anchor->getAttribute('href');
-                if ($href && strpos($href, 'images/post') !== false) {
+                if ($href && strpos($href, 'images/') !== false && strpos($href, 'http') !== 0) {
                     $imageFiles[] = $href;
                 }
             }
         }
         $uniqueImageFiles = array_unique($imageFiles);
-        $postImagesDir = __DIR__ . '/../../source/assets/images/posts';
-        return array_map(static function (string $imageFile) use ($postImagesDir) {
-            $relativeImageFile = preg_replace('~^/?(assets)?(/images)?(/posts)/?~', '', $imageFile);
-            return $postImagesDir . '/' . $relativeImageFile;
-        }, $imageFiles);
+        $imagesDir = __DIR__ . '/../../source/assets/images';
+        return array_map(static function (string $imageFile) use ($imagesDir) {
+            $relativeImageFile = preg_replace('~^/?(assets)?(/images)?/?~', '', $imageFile);
+            return $imagesDir . '/' . $relativeImageFile;
+        }, $uniqueImageFiles);
     }
 }
