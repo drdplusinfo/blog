@@ -249,6 +249,37 @@ Nastal čas na bestiální finále.
 
 ### Pozor, želvorec!
 
-Philip jako prvního zasadil do výjevu želvorce, který ztrestal narušitele svého hnízdiště.
+Philip jako prvního zasadil do výjevu želvorce.
 
 ![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png?version=1428827aa22b051df6575727d6f2f38d)
+
+Celou scénu vymyslel Philip a já si tak mohl užít ryzí divácké opojení.
+
+Jsem rád, že Philip to nepilovat hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
+Uspořádáním byla kresba velmi dobrá, líbilo se mi, že želvorec je tam jako hlavní aktér ve svém živlu. Nepozdávala se mi celková ponurost ilustrace, trochu jsem si kroutil krk, jak jsem se snažil nastavit hlavu podle úhlu tonoucího nešťastníka a nezúčastněné rybičky mě rušili tím, že se vůbec nevzrušovaly.
+
+Opět jsem se začínal bát, že mě Philip pošle do háje, protože to byla další "skartovaná" práce.
+
+To jsem ještě netušil, že je to běžná praxe.
+
+Philip se však odradit nenechal.
+
+### Dokonalý želvorec
+
+Druhé Vánoce s Philipem propluly okolo, Philip se omluvil, že trpí pod náporem zkoušek a ať počkám.
+
+V pohodě, počkám.
+
+A pak to přišlo.
+
+*27. 2. 2020*
+
+![Dokonalý želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_6.0.png?version=3940abf424142e4f827092af637af75f)
+
+Omlouvám se za výrazivo, ale já si z toho kecnul na prdel. Philip opět nastartoval svůj talent se zapnutým sytičem a podobně jako to dokázal u druhého návrhu želvorce a brutopýra, tak i v poslední fázi samotného želvorce vyšvihl nádhernou kresbu.
+
+Želvorec je opět středem dění, mohutný a živý, podrážděný a plavý. A detaily okolo jsou bohaté a přitom neruší. Nádhera.
+
+Tak co, troufnete si přes jezero bez průvodce?
+
+### 
