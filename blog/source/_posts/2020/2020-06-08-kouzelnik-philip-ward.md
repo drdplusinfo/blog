@@ -295,7 +295,7 @@ A pro houbeles našel místo, ze kterého mě mrazí.
 A ta nejistota je na tom úžasná.
 
 Poprosil jsem Philipa jenom o detaily, protože, inu, miluju detaily.
-Hlavní poselství bylo v ilustraci skvěle zachyceno, ale po čase se okouká. Ale kdyby tam sem tam byl lístek, cosi na kameni, něco v dálce, tak by obrázek dráždil fantazii a lákal do čtenářovy hlavy další nápady.
+Hlavní poselství bylo v ilustraci skvěle zachyceno, ale po čase se okouká. Ale kdyby tam sem tam byl zvláštní lístek, cosi na kameni, něco v dálce, tak by obrázek dráždil fantazii a lákal do čtenářovy hlavy další nápady.
 
 Philip přislíbil, že něco detailů přidá.
 
@@ -307,13 +307,27 @@ A Philip detaily přidal.
 
 ![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png)
 
-Všimli jse si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
+Všimli jse si? Koně mají různou barvu, vozka zhoubeles_2.1.1.pngestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
 A dost možná je tam něco, co jsem dosud neobjevil.
 
 Je to paráda!
+
+Philip navíc celou scénu vymyslel tak, že houbeles si neroste ve špatně namořeném dřevu jen tak, ale že tam byl cíleně nasazen aktivisty, kterým není po chuti bytelná konstrukce mostu.
+To by mě po pravdě nenapadlo, ale přesně o tom to je. Nastínil jsem tvora, Philip se ho ujal po svém a přidal vlastní nápad.
+Jen tak dál. 
 
 Přeto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár kroků o koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvěřitelnosti.
 
 ### Dokonalý houbeles
 
-Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho vygumoval. Taky řešení. Při pohledu na šmouhu, kde ještě před nedávnem postával huňatý pán lesů, jsem si znovu uvědomil, že Philip to všechno kreslí poctivě v ruce. Žádná technologická udělátka.
+Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho vygumoval. Taky řešení. Při pohledu na šmouhu, kde ještě před nedávnem postával huňatý pán lesů, jsem si znovu uvědomil, že Philip to všechno kreslí poctivě v ruce. Žádná technologická udělátka. Klobouk dolů.
+
+*5. 3. 2020*
+
+![Dokonalý houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.1.png)
+
+Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, polévající statiky ledovým potem.
+Dobrá práce.
+
+Chyběl už jenom brutopýr.
+
