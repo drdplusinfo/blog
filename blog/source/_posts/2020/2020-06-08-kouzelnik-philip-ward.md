@@ -253,14 +253,14 @@ Philip jako prvního zasadil do výjevu želvorce.
 
 ![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png?version=1428827aa22b051df6575727d6f2f38d)
 
-Celou scénu vymyslel Philip a já si tak mohl užít ryzí divácké opojení.
+Celou scénu vymyslel Philip a já si tak mohl užít ryzí divácké opojení. Pěkné!
 
-Jsem rád, že Philip to nepilovat hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
-Uspořádáním byla kresba velmi dobrá, líbilo se mi, že želvorec je tam jako hlavní aktér ve svém živlu. Nepozdávala se mi celková ponurost ilustrace, trochu jsem si kroutil krk, jak jsem se snažil nastavit hlavu podle úhlu tonoucího nešťastníka a nezúčastněné rybičky mě rušili tím, že se vůbec nevzrušovaly.
+ALe jsem rád, že Philip to nepilovat hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
+Uspořádáním byla kresba velmi dobrá, líbilo se mi, že želvorec je tam jako hlavní aktér ve svém živlu. Nepozdávala se mi však celková ponurost ilustrace, trochu jsem si kroutil krk, jak jsem se snažil nastavit hlavu podle úhlu tonoucího nešťastníka a nezúčastněné rybičky mě rušili tím, že se vůbec nevzrušovaly.
 
 Opět jsem se začínal bát, že mě Philip pošle do háje, protože to byla další "skartovaná" práce.
 
-To jsem ještě netušil, že je to běžná praxe.
+To jsem ještě netušil, že je to běžná praxe. Prostě návrh, návrh, návrh a až potom finále.
 
 Philip se však odradit nenechal.
 
@@ -278,8 +278,42 @@ A pak to přišlo.
 
 Omlouvám se za výrazivo, ale já si z toho kecnul na prdel. Philip opět nastartoval svůj talent se zapnutým sytičem a podobně jako to dokázal u druhého návrhu želvorce a brutopýra, tak i v poslední fázi samotného želvorce vyšvihl nádhernou kresbu.
 
-Želvorec je opět středem dění, mohutný a živý, podrážděný a plavý. A detaily okolo jsou bohaté a přitom neruší. Nádhera.
+Želvorec je opět středem dění, mohutný a živý, podrážděný a plavý. A detaily okolo jsou bohaté a přitom neruší. Skvělé!
 
-Tak co, troufnete si přes jezero bez průvodce?
+*Tak co, troufnete si přes jezero bez průvodce?*
 
-### 
+### Ale houbeles
+
+Během práce na finálí verzi želvorce, kterým jste se mohli pokochat výše, pracoval Philip i na zbývajících dvou příšerách.
+A pro houbeles našel místo, ze kterého mě mrazí.
+
+*1. 7. 2020*
+
+![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png)
+
+Čekal jsem něco zničeného, přepůleného, rozdrceného, ale ne. Philip zvolil cestu napětí. Padne most? Nepadne? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou se rozebíhá dramatický příběh, který tiše vyčkává. Možná se stane teď, možná později.
+A ta nejistota je na tom úžasná.
+
+Poprosil jsem Philipa jenom o detaily, protože, inu, miluju detaily.
+Hlavní poselství bylo v ilustraci skvěle zachyceno, ale po čase se okouká. Ale kdyby tam sem tam byl lístek, cosi na kameni, něco v dálce, tak by obrázek dráždil fantazii a lákal do čtenářovy hlavy další nápady.
+
+Philip přislíbil, že něco detailů přidá.
+
+### Ale ale, houbeles
+
+A Philip detaily přidal.
+
+*27. 2. 2020*
+
+![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png)
+
+Všimli jse si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
+A dost možná je tam něco, co jsem dosud neobjevil.
+
+Je to paráda!
+
+Přeto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár kroků o koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvěřitelnosti.
+
+### Dokonalý houbeles
+
+Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho vygumoval. Taky řešení. Při pohledu na šmouhu, kde ještě před nedávnem postával huňatý pán lesů, jsem si znovu uvědomil, že Philip to všechno kreslí poctivě v ruce. Žádná technologická udělátka.
