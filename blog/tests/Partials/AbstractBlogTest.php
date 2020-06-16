@@ -70,6 +70,10 @@ abstract class AbstractBlogTest extends TestCase
      */
     protected static function getAllPostsImages(): array
     {
+        static $images = [];
+        if (count($images) > 0) {
+            return $images;
+        }
         $imageLinks = [];
         foreach (static::getGeneratedPosts() as $generatedPost) {
             $dom = new HTMLDocument($generatedPost);
@@ -87,8 +91,7 @@ abstract class AbstractBlogTest extends TestCase
             }
         }
         $uniqueImageLinks = array_unique($imageLinks);
-        $images = [];
-        $imagesDir = __DIR__ . '/../../source/assets/images';
+        $imagesDir = self::getImagesBaseDir();
         foreach ($uniqueImageLinks as $imageLink) {
             $questionMarkPosition = strpos($imageLink, '?');
             $version = '';
@@ -102,6 +105,17 @@ abstract class AbstractBlogTest extends TestCase
             self::assertFileExists($imageFullPath);
             $images[] = ['link' => $imageLink, 'fullPath' => $imageFullPath, 'version' => $version];
         }
+        self::assertNotEmpty($images);
         return $images;
+    }
+
+    protected static function getImagesBaseDir(): string
+    {
+        return __DIR__ . '/../../source/assets/images';
+    }
+
+    protected static function getPostImagesBaseDir(): string
+    {
+        return __DIR__ . '/../../source/assets/images/posts';
     }
 }

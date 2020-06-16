@@ -9,10 +9,8 @@ class ImagesTest extends AbstractBlogTest
     /**
      * @test
      */
-    public function Every_post_image_is_used()
+    public function Images_are_linked_with_their_md5_versions()
     {
-        $allPostImages = self::getAllPostsImages();
-        self::assertNotEmpty($allPostImages);
         foreach (self::getAllPostsImages() as $image) {
             ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $image;
             self::assertNotEmpty(
@@ -25,6 +23,38 @@ class ImagesTest extends AbstractBlogTest
                 sprintf("Invalid version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath))
             );
         }
+    }
+
+    /**
+     * @test
+     */
+    public function Every_post_image_is_used()
+    {
+        $possiblePostImagePaths = $this->getPossiblePostImagePaths();
+        $existingPostImagePaths = [];
+        foreach (self::getAllPostsImages() as $image) {
+            ['fullPath' => $imageFullPath] = $image;
+            $existingPostImagePaths[] = realpath($imageFullPath);
+        }
+        $unusedPostImagePaths = array_diff($possiblePostImagePaths, $existingPostImagePaths);
+        self::assertSame([], $unusedPostImagePaths, 'There are some unused post image files');
+    }
+
+    /**
+     * @return array|string[]
+     */
+    private function getPossiblePostImagePaths(): array
+    {
+        $postImagesRealPaths = [];
+        $postImagesIterator = new \RecursiveDirectoryIterator(self::getPostImagesBaseDir());
+        foreach (new \RecursiveIteratorIterator($postImagesIterator) as $file) {
+            /** @var \SplFileInfo $file */
+            if ($file->isDir()) {
+                continue;
+            }
+            $postImagesRealPaths[] = $file->getRealPath();
+        }
+        return $postImagesRealPaths;
     }
 
     private function getExpectedVersionHint(string $path): string
