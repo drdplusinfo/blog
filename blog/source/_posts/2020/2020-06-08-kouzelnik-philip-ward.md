@@ -6,7 +6,7 @@ image_author: "*Autorem lidského mláděte na prahu hrdinství je Philip Ward. 
 perex: |
     *Tvořme a sdílejme. Co jiného by lépe dokázalo, že jsme naživu?*
     
-    Philip mlčel na začátku a mlčel na konci. A mezitím kreslil, krásně kreslil. A tenhle článek je o něm.
+    Philip mlčel na začátku a mlčel na konci. A mezitím kreslil, krásně kreslil. A tenhle článek je hlavně o něm.
 
     *A co vy, cítíte se být naživu?*
 ---
@@ -287,7 +287,7 @@ Omlouvám se za výrazivo, ale já si z toho kecnul na prdel. Philip opět nasta
 Během práce na finálí verzi želvorce, kterým jste se mohli pokochat výše, pracoval Philip i na zbývajících dvou příšerách.
 A pro houbeles našel místo, ze kterého mě mrazí.
 
-*1. 7. 2020*
+*7. 1. 2020*
 
 ![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png)
 
@@ -316,7 +316,8 @@ Philip navíc celou scénu vymyslel tak, že houbeles si neroste ve špatně nam
 To by mě po pravdě nenapadlo, ale přesně o tom to je. Nastínil jsem tvora, Philip se ho ujal po svém a přidal vlastní nápad.
 Jen tak dál. 
 
-Přeto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár kroků o koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvěřitelnosti.
+Přeto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár kroků o koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvě
+řitelnosti.
 
 ### Dokonalý houbeles
 
@@ -329,5 +330,58 @@ Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho v
 Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, polévající statiky ledovým potem.
 Dobrá práce.
 
-Chyběl už jenom brutopýr.
+*A co vy, jezdíte často kočárem? A cítíte se v něm pohodlně? A bezpečně?*
 
+Z příšer chyběl už jenom brutopýr.
+
+### Brutopýří hejno
+
+Philip první návrh brutopýrů ve svém prostředí poslal zároveň s prvním návrhem houbelesu na mostě. Technika kresby byla podobná, ale pocity z obrazu sálaly úplně jiné.
+
+*7. 1. 2020*
+
+![Brutopýří hejno](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.0.png)
+
+*Fuj! Nechtěl bych dostat takovejma potvorama do ksichtu.*
+
+Philipovi se povedlo v obrazu zachytit primární, syrové, zvířecí nebezpečí.
+Žádné přemýšlení co by kdyby. Žádné následky ož udeznělé situace. Ale intenzivní, ohrožující **teď**.
+
+Krom intentzivního okamžiku jsem také ocenil prostotu louče a jejího plamene. Je to přesně ten komiksový prvek, ta vyjadřovací schopnost jednoduchosti, kterou Philip tak dobře umí.
+Podobně i zdánlivě prázdné oči nejvíce dotírajícího létavce, jejichž zornice zmizely v lesku plamenů. Nebo že by je vážně neměl?
+
+Méně se mi už pozdávaly úhly ostatních brutopýrů, kterří vypadaly trochu jako přes kopírák. Inu, zase ty detaily.
+
+Poprosil jsem Philipa o úpravu brutopýrů v pozadí, o přidání dalších detailů v jeskynní prostoře. Ba i o úpravu opěvovaného plamene louče, který byl komiksový na můj vkus přeci jen moc a ve kterém mi scházely jiskry a pohyb.
+
+### Všude brutopýři
+
+Philip opět překreslil celou ilustraci a já opět viděl, kolik práce ho mé požadavky stojí.
+
+*27. 2. 2020*
+
+![Všude brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.png)
+
+Povedlo se mu navodit silný pocit hloubky, kdy jeskyní chodba pokračuje kamsi do temné dály. Netopýří hejno slutečně působí jako hejno s jednotlivci míhajícími se prostorem. Do skrytu stalagmitu skryl příběh života dávno minulého. A menších detailů, které nelze objevit hned na poprvé, je tam více. Přesně to potřebuju.
+
+Trochu se z toho, pravda, ztratila ta animální dravost, ale to je holt cena za to, že se Philip snažil uspokojit moje potřeby a musel tak potlačit svou uměleckou stránku.
+
+Jedna věc mě ale na upravené verzi rušila a to zvláštní poměr velikostí jednotlivých brutopýrů. Zejména ten přeseknutý byl tam titěrný, že dvounohý opovážlivec měl buďto teleskopickou ruku, nebo byl brutopýr obzvláště malý.
+
+Optal jsem se Philipa, zda to byl záměr.
+
+O pár dní pozdějí zaslal lehce upravenou verzi.
+
+### Dokonalí brutopýři
+
+*5. 3. 2020*
+
+![Dokonalí brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.1.png)
+
+Rušivě malého brutopýřího nešťastníka Philip zvětšil jen lehce. Skoro bych si tipnul, že poprvé použil nějakou digitální techniku.
+
+Ještě chvíli jsem se pral se svým pocitem, že je útočná scéna stále příliš daleko, ale pak se mi v hlavě ozvalo "cvak!" a já najednou viděl dominantu celé ilustrace, brutopýra, který ve své zoufalé povinnosti bránit hnízdiště pronikl kolem ledové čepele i horoucích plamenů a sápe se na narušitele. Vše ostatní se krčilo v dáli stejně tak, jak to dobrodruh dozajista vnímal.
+
+Vdechování života brutopýrům bylo dokonáno.
+
+### Závěrem
