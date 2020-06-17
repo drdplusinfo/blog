@@ -380,8 +380,45 @@ O pár dní pozdějí zaslal lehce upravenou verzi.
 
 Rušivě malého brutopýřího nešťastníka Philip zvětšil jen lehce. Skoro bych si tipnul, že poprvé použil nějakou digitální techniku.
 
-Ještě chvíli jsem se pral se svým pocitem, že je útočná scéna stále příliš daleko, ale pak se mi v hlavě ozvalo "cvak!" a já najednou viděl dominantu celé ilustrace, brutopýra, který ve své zoufalé povinnosti bránit hnízdiště pronikl kolem ledové čepele i horoucích plamenů a sápe se na narušitele. Vše ostatní se krčilo v dáli stejně tak, jak to dobrodruh dozajista vnímal.
+Ještě chvíli jsem se pral se svým pocitem, že je útočná scéna stále příliš daleko, ale pak se mi v hlavě ozvalo "cvak!" a já najednou viděl dominantu celé ilustrace, brutopýra, který ve své zoufalé povinnosti bránit hnízdiště pronikl kolem ledové čepele i horoucích plamenů a sápe se na narušitele. Vše ostatní se krčilo v dáli stejně tak, jak to nešťastný dobrodruh dozajista vnímal.
+
+*Tak co, najdete zrnko pravdy v povídačkách, že jeskynní komplex je prokletý a že jím projde jenom slepý?*
 
 Vdechování života brutopýrům bylo dokonáno.
 
+### Zmizení Philipa
+
+Tak jak se Philip zjevil, zdvořilým emailem s nabídkou svých dovedností, tak i zmizel. Jednoho dne mi napsal, tím nejupřímnějším a nejzdrcnutějším způsobem, jaký jsem kdy viděl, že už nemůže být součástí "dračáku". Ani ho hrát, ani ho kreslit.
+Jeho důvod je velmi osobní a já ho ctím. A jsem rád, že jsem mohl s Philipem sdílet po ty dva roky naše představy o světech v našich fantaziích.
+
+Díky, Philipe!
+
 ### Závěrem
+
+Dva roky. Tak dlouho nám s Philipem vydržela spolupráce, během které Philip stvořil dvacet dva ilustrací, z nichž tři obohatí malé dobrodružství a další tři bestiář.
+
+Během té dlouhé doby jsem se učil, jak vyjádřit své myšlenky a pocity tak, aby je pochopil někdo z emailu a dokázal přetavit ve vlastní pocity a nakonec ve společnou ilustraci.
+U Philipa jsem si všiml zlepšujícího se plánování v čase a velkého skoku od jednoduchých kreseb ke komplexním scénám.
+
+Osobně si z toho odnáším, že kresby jsou jako jakákoliv jiná činnost. Aby vznikly ty dobré, tak je potřeba talent a spousta, spousta práce. A že je dobré nejdříve vytyčit cíl jednoduchými návrhy, než se pustíme do velkých výsledků.
+
+[Philipovi Wardovi](https://www.facebook.com/media/set/?set=a.198351584467453&type=3) děkuju za trpělivost, kterou s mými nekonečnými připomínkami měl a za úžasné kresby, které pro nás stvořil.
+
+### Epilog
+
+*Mozolnatými prsty svíral džbánek a lemtal jako ohař po honitbě. Vůkol postávali ostatní hosti, dychtiví senzace.*
+
+*Dopil, bouchnul džbánkem o fortelný stůl, až šenkýřka nadskočila a pravil: "C...co jsem proved?"*
+
+*Dav otočil hlavy, sledujíc z nenadání vykulený pohled vozky. Ve dveřích stál zárubněmi orámovaný strážce zákona, knír až k uším a mračivě zaduněl: "Vůz zabavujeme, to svinstvo je všude. Musíme to spálit." A na patě se otočil, ukazujíc do šenku kabátec ošoupaný od opěradla služební sesle.
+Vozka zkoprněl a jen polohlasně hlesl "A náhlad?" Strážný se ani neotočil, jen houkl přes rameno "Dřevo jako uhlí." A zmizel ve večerním šeru.*
+
+*"Dřevo jako uhlí" špitl si jako ve snách vozka, "jsem žebrák", došlo mu. Pak se rozjasnil. Je živ? Je! Má kobylu v celku? Má! Tak půjde zas vartovat, jako zamlada. "Juch!" vískl náhle do šenku a s úsměvem se rozpovídal o svém dnešním dobrodružství. Tahle noc patřila jemu.*
+
+---
+
+*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Od spodu byl plamen živen kvalitním uhlím, z vrchu popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
+
+*K nebi se líně vznášel dým, to magické spojení drobnounkých zbytků páleného. Tak malých a lehkých, že některé zvedl horký vzduch dříve, než stihly shořet.*
+
+*Byl to krásný, klidný večer. Jeden z těch, za kterých se život probouzí.*
