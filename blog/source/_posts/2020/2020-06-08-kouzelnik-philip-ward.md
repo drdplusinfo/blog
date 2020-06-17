@@ -289,7 +289,7 @@ A pro houbeles našel místo, ze kterého mě mrazí.
 
 *7. 1. 2020*
 
-![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png)
+![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png?version=d2f6e9c3754cf920c79b2c9eec832cc9)
 
 Čekal jsem něco zničeného, přepůleného, rozdrceného, ale ne. Philip zvolil cestu napětí. Padne most? Nepadne? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou se rozebíhá dramatický příběh, který tiše vyčkává. Možná se stane teď, možná později.
 A ta nejistota je na tom úžasná.
@@ -305,9 +305,9 @@ A Philip detaily přidal.
 
 *27. 2. 2020*
 
-![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png)
+![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png?version=7a2053490cc9028bd992a0677b0e08ca)
 
-Všimli jse si? Koně mají různou barvu, vozka zhoubeles_2.1.1.pngestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
+Všimli jse si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
 A dost možná je tam něco, co jsem dosud neobjevil.
 
 Je to paráda!
@@ -325,7 +325,7 @@ Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho v
 
 *5. 3. 2020*
 
-![Dokonalý houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.1.png)
+![Dokonalý houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.1.png?version=a237df69ad4a471dc0d153d2ae793ccf)
 
 Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, polévající statiky ledovým potem.
 Dobrá práce.
@@ -340,7 +340,7 @@ Philip první návrh brutopýrů ve svém prostředí poslal zároveň s prvním
 
 *7. 1. 2020*
 
-![Brutopýří hejno](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.0.png)
+![Brutopýří hejno](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.0.png?version=8c9d8e745a36e992a6b0fd43041d093e)
 
 *Fuj! Nechtěl bych dostat takovejma potvorama do ksichtu.*
 
@@ -360,7 +360,7 @@ Philip opět překreslil celou ilustraci a já opět viděl, kolik práce ho mé
 
 *27. 2. 2020*
 
-![Všude brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.png)
+![Všude brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.png?version=abe8d1e305b5b25166176499d2af8dfc)
 
 Povedlo se mu navodit silný pocit hloubky, kdy jeskyní chodba pokračuje kamsi do temné dály. Netopýří hejno slutečně působí jako hejno s jednotlivci míhajícími se prostorem. Do skrytu stalagmitu skryl příběh života dávno minulého. A menších detailů, které nelze objevit hned na poprvé, je tam více. Přesně to potřebuju.
 
@@ -376,7 +376,7 @@ O pár dní pozdějí zaslal lehce upravenou verzi.
 
 *5. 3. 2020*
 
-![Dokonalí brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.1.png)
+![Dokonalí brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.1.png?version=00283caf22c5a34c69bb401f117e461e)
 
 Rušivě malého brutopýřího nešťastníka Philip zvětšil jen lehce. Skoro bych si tipnul, že poprvé použil nějakou digitální techniku.
 
