@@ -108,20 +108,20 @@ A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty, poslal
 ##### Šenkýř spěchá na schůzku se starostou
 ![Šenkýř spěchá na schůzku se starostou](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_se_starostou.png?version=369d93240818df60efaf73a2e54208d1)
 - *šenkýř spěchá na schůzku se starostou*
-    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
-    - [orignál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4961 x 3508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
+    - [originál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4961 x 3508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
+        - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Narváno v šenku
 ![Narváno v šenku](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku.png?version=b908397c39a5a49ae3f37cd2ff38b516)
 - *narváno v šenku*
-    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
-    - [originál ke stažení - *narváno v šenku* - 4961 x 3508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
+    - [originál ke stažení - *narváno v šenku* - 4961 x 3508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
+       - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Služebná Anna nestíhá kuchyň a hosty dohromady
 ![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png?version=5b60658e1dc612fe5666a3aaa1a5d9c3)
 - *služebná Anna nestíhá kuchyň a hosty dohromady*
-    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
-    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4961 x 3508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/sluzka_nestiha_kuchyn_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
+    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4961 x 3508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
+        - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Prcek se dívá do hlubin sklepení
 ![Prcek se dívá do hlubin sklepení](/assets/images/posts/kouzelnik_philip_ward/prcek_se_diva_do_hlubin_sklepeni.png?version=37a41b4e7e029c308e53532a9468f51b)
@@ -255,8 +255,8 @@ Philip jako prvního zasadil do výjevu želvorce.
 
 Celou scénu vymyslel Philip a já si tak mohl užít ryzí divácké opojení. Pěkné!
 
-ALe jsem rád, že Philip to nepilovat hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
-Uspořádáním byla kresba velmi dobrá, líbilo se mi, že želvorec je tam jako hlavní aktér ve svém živlu. Nepozdávala se mi však celková ponurost ilustrace, trochu jsem si kroutil krk, jak jsem se snažil nastavit hlavu podle úhlu tonoucího nešťastníka a nezúčastněné rybičky mě rušili tím, že se vůbec nevzrušovaly.
+Ale jsem rád, že Philip to nepilovat hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
+Uspořádáním byla kresba velmi dobrá, líbilo se mi, že želvorec je tam jako hlavní aktér ve svém živlu. Nepozdávala se mi však celková ponurost ilustrace. K tomu jsem si kroutil krk, jak jsem se snažil nastavit hlavu podle úhlu tonoucího nešťastníka. A nezúčastněné rybičky mě rušili tím, že se vůbec nevzrušovaly.
 
 Opět jsem se začínal bát, že mě Philip pošle do háje, protože to byla další "skartovaná" práce.
 
@@ -276,11 +276,16 @@ A pak to přišlo.
 
 ![Dokonalý želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_6.0.png?version=3940abf424142e4f827092af637af75f)
 
+- [originál ke stažení - *želvorec chrání své teritorium* - 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
+    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+
 Omlouvám se za výrazivo, ale já si z toho kecnul na prdel. Philip opět nastartoval svůj talent se zapnutým sytičem a podobně jako to dokázal u druhého návrhu želvorce a brutopýra, tak i v poslední fázi samotného želvorce vyšvihl nádhernou kresbu.
 
 Želvorec je opět středem dění, mohutný a živý, podrážděný a plavý. A detaily okolo jsou bohaté a přitom neruší. Skvělé!
 
 *Tak co, troufnete si přes jezero bez průvodce?*
+
+Následoval houbeles.
 
 ### Ale houbeles
 
@@ -291,7 +296,7 @@ A pro houbeles našel místo, ze kterého mě mrazí.
 
 ![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png?version=d2f6e9c3754cf920c79b2c9eec832cc9)
 
-Čekal jsem něco zničeného, přepůleného, rozdrceného, ale ne. Philip zvolil cestu napětí. Padne most? Nepadne? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou se rozebíhá dramatický příběh, který tiše vyčkává. Možná se stane teď, možná později.
+Čekal jsem něco zničeného, přepůleného, rozdrceného. Philip mi však vytřel zrak a zvolil cestu napětí. Padne most? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou se rozebíhá dramatický příběh, který tiše vyčkává. Možná se stane teď, možná později.
 A ta nejistota je na tom úžasná.
 
 Poprosil jsem Philipa jenom o detaily, protože, inu, miluju detaily.
@@ -307,7 +312,7 @@ A Philip detaily přidal.
 
 ![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png?version=7a2053490cc9028bd992a0677b0e08ca)
 
-Všimli jse si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
+Všimli jse si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd, nad ním se nese hejno čehosi a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
 A dost možná je tam něco, co jsem dosud neobjevil.
 
 Je to paráda!
@@ -316,8 +321,7 @@ Philip navíc celou scénu vymyslel tak, že houbeles si neroste ve špatně nam
 To by mě po pravdě nenapadlo, ale přesně o tom to je. Nastínil jsem tvora, Philip se ho ujal po svém a přidal vlastní nápad.
 Jen tak dál. 
 
-Přeto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár kroků o koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvě
-řitelnosti.
+Přesto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár koňských délek od koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvěřitelnosti.
 
 ### Dokonalý houbeles
 
@@ -327,7 +331,10 @@ Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho v
 
 ![Dokonalý houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.1.png?version=a237df69ad4a471dc0d153d2ae793ccf)
 
-Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, polévající statiky ledovým potem.
+- [originál ke stažení - *houbeles v mostě* - 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
+    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+
+Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, ze které kdejakého statika poleje ledový pot.
 Dobrá práce.
 
 *A co vy, jezdíte často kočárem? A cítíte se v něm pohodlně? A bezpečně?*
@@ -336,7 +343,7 @@ Z příšer chyběl už jenom brutopýr.
 
 ### Brutopýří hejno
 
-Philip první návrh brutopýrů ve svém prostředí poslal zároveň s prvním návrhem houbelesu na mostě. Technika kresby byla podobná, ale pocity z obrazu sálaly úplně jiné.
+Philip první návrh brutopýrů v jejich prostředí poslal zároveň s prvním návrhem houbelesu na mostě. Technika kresby byla podobná, ale pocity z obrazu sálaly úplně jiné.
 
 *7. 1. 2020*
 
@@ -344,15 +351,14 @@ Philip první návrh brutopýrů ve svém prostředí poslal zároveň s prvním
 
 *Fuj! Nechtěl bych dostat takovejma potvorama do ksichtu.*
 
-Philipovi se povedlo v obrazu zachytit primární, syrové, zvířecí nebezpečí.
-Žádné přemýšlení co by kdyby. Žádné následky ož udeznělé situace. Ale intenzivní, ohrožující **teď**.
+Philipovi se povedlo v obrazu zachytit primární, syrové, zvířecí nebezpečí. Žádné přemýšlení co by kdyby. Žádné následky už udeznělé situace. Ale intenzivní, ohrožující **teď**.
 
-Krom intentzivního okamžiku jsem také ocenil prostotu louče a jejího plamene. Je to přesně ten komiksový prvek, ta vyjadřovací schopnost jednoduchosti, kterou Philip tak dobře umí.
-Podobně i zdánlivě prázdné oči nejvíce dotírajícího létavce, jejichž zornice zmizely v lesku plamenů. Nebo že by je vážně neměl?
+Krom intenzivního okamžiku jsem také ocenil prostotu louče a jejího plamene. Je to přesně ten komiksový prvek, ta vyjadřovací schopnost jednoduchosti, kterou Philip tak dobře umí.
+Podobně se mu zdařily i zdánlivě prázdné oči nejvíce dotírajícího létavce, jejichž zornice zmizely v lesku plamenů. Nebo že by je vážně neměl?
 
-Méně se mi už pozdávaly úhly ostatních brutopýrů, kterří vypadaly trochu jako přes kopírák. Inu, zase ty detaily.
+Méně se mi už pozdávaly úhly ostatních brutopýrů, kteří vypadali trochu jako přes kopírák, rozesetí v nepřirozené vodorovnosti. Inu, zase ty detaily.
 
-Poprosil jsem Philipa o úpravu brutopýrů v pozadí, o přidání dalších detailů v jeskynní prostoře. Ba i o úpravu opěvovaného plamene louče, který byl komiksový na můj vkus přeci jen moc a ve kterém mi scházely jiskry a pohyb.
+Poprosil jsem Philipa o úpravu brutopýrů v pozadí a o přidání dalších detailů v jeskynní prostoře. Ba i o úpravu opěvovaného plamene louče, který byl komiksový na můj vkus přeci jen moc a ve kterém mi scházely jiskry a pohyb.
 
 ### Všude brutopýři
 
@@ -362,7 +368,7 @@ Philip opět překreslil celou ilustraci a já opět viděl, kolik práce ho mé
 
 ![Všude brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.png?version=abe8d1e305b5b25166176499d2af8dfc)
 
-Povedlo se mu navodit silný pocit hloubky, kdy jeskyní chodba pokračuje kamsi do temné dály. Netopýří hejno slutečně působí jako hejno s jednotlivci míhajícími se prostorem. Do skrytu stalagmitu skryl příběh života dávno minulého. A menších detailů, které nelze objevit hned na poprvé, je tam více. Přesně to potřebuju.
+Povedlo se mu navodit silný pocit hloubky, kdy jeskyní chodba pokračuje kamsi do temné dály. Netopýří hejno skutečně působí jako hejno s jednotlivci míhajícími se prostorem. Do skrytu stalagmitu skryl příběh života dávno minulého. A menších detailů, které nelze objevit hned na poprvé, je tam více. Přesně to v ilustracích potřebuju.
 
 Trochu se z toho, pravda, ztratila ta animální dravost, ale to je holt cena za to, že se Philip snažil uspokojit moje potřeby a musel tak potlačit svou uměleckou stránku.
 
@@ -378,9 +384,12 @@ O pár dní pozdějí zaslal lehce upravenou verzi.
 
 ![Dokonalí brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.1.png?version=00283caf22c5a34c69bb401f117e461e)
 
+- [originál ke stažení - *brutopýři brání rodnou jeskyni* - 5.7 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
+    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+
 Rušivě malého brutopýřího nešťastníka Philip zvětšil jen lehce. Skoro bych si tipnul, že poprvé použil nějakou digitální techniku.
 
-Ještě chvíli jsem se pral se svým pocitem, že je útočná scéna stále příliš daleko, ale pak se mi v hlavě ozvalo "cvak!" a já najednou viděl dominantu celé ilustrace, brutopýra, který ve své zoufalé povinnosti bránit hnízdiště pronikl kolem ledové čepele i horoucích plamenů a sápe se na narušitele. Vše ostatní se krčilo v dáli stejně tak, jak to nešťastný dobrodruh dozajista vnímal.
+Ještě chvíli jsem se pral se svým pocitem, že je útočná scéna stále příliš daleko, ale pak se mi v hlavě ozvalo "cvak!" a já najednou viděl dominantu celé ilustrace, brutopýra, který ve své zoufalé povinnosti bránit hnízdiště pronikl kolem ledové čepele i horoucích plamenů a sápe se na narušitele. Vše ostatní se krčilo v nezřetelné dáli stejně tak, jak to nešťastný dobrodruh dozajista vnímal.
 
 *Tak co, najdete zrnko pravdy v povídačkách, že jeskynní komplex je prokletý a že jím projde jenom slepý?*
 
@@ -389,16 +398,16 @@ Vdechování života brutopýrům bylo dokonáno.
 ### Zmizení Philipa
 
 Tak jak se Philip zjevil, zdvořilým emailem s nabídkou svých dovedností, tak i zmizel. Jednoho dne mi napsal, tím nejupřímnějším a nejzdrcnutějším způsobem, jaký jsem kdy viděl, že už nemůže být součástí "dračáku". Ani ho hrát, ani ho kreslit.
-Jeho důvod je velmi osobní a já ho ctím. A jsem rád, že jsem mohl s Philipem sdílet po ty dva roky naše představy o světech v našich fantaziích.
+Jeho důvod je velmi osobní a já ho ctím. A jsem rád, že jsem mohl s Philipem sdílet po ty dva roky naše představy o fantaskních světech.
 
 Díky, Philipe!
 
 ### Závěrem
 
-Dva roky. Tak dlouho nám s Philipem vydržela spolupráce, během které Philip stvořil dvacet dva ilustrací, z nichž tři obohatí malé dobrodružství a další tři bestiář.
+Dva roky. Tak dlouho nám s Philipem vydržela spolupráce, během které Philip stvořil dvacet dva krásných ilustrací, z nichž tři obohatí malé dobrodružství a další tři bestiář.
 
-Během té dlouhé doby jsem se učil, jak vyjádřit své myšlenky a pocity tak, aby je pochopil někdo z emailu a dokázal přetavit ve vlastní pocity a nakonec ve společnou ilustraci.
-U Philipa jsem si všiml zlepšujícího se plánování v čase a velkého skoku od jednoduchých kreseb ke komplexním scénám.
+Během té dlouhé doby jsem se učil, jak vyjádřit své myšlenky a pocity tak, aby je pochopil někdo z emailu a dokázal je přetavit ve vlastní pocity a nakonec i ve společnou ilustraci.
+U Philipa jsem si všiml zlepšujícího se plánování času a velkého skoku od jednoduchých kreseb ke komplexním scénám.
 
 Osobně si z toho odnáším, že kresby jsou jako jakákoliv jiná činnost. Aby vznikly ty dobré, tak je potřeba talent a spousta, spousta práce. A že je dobré nejdříve vytyčit cíl jednoduchými návrhy, než se pustíme do velkých výsledků.
 
@@ -417,8 +426,8 @@ Vozka zkoprněl a jen polohlasně hlesl "A náhlad?" Strážný se ani neotočil
 
 ---
 
-*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Od spodu byl plamen živen kvalitním uhlím, z vrchu popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
+*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Od spodu byl plamen živen antracitem, z vrchu popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
 
 *K nebi se líně vznášel dým, to magické spojení drobnounkých zbytků páleného. Tak malých a lehkých, že některé zvedl horký vzduch dříve, než stihly shořet.*
 
-*Byl to krásný, klidný večer. Jeden z těch, za kterých se život probouzí.*
+*Byl to krásný, klidný večer. Jeden z těch, za kterých se život budí z dětských snů.*
