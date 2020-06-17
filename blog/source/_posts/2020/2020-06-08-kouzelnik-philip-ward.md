@@ -25,7 +25,7 @@ Jak pro čtenáře, tak i pro sebe jako autora, protože když můžu sledovat s
 O nápady jsem neměl nouzi, protože ať už jsem přemýšlel nad pravidly, nad dobrodružstvím, či nad příšerami, vždycky mi v hlavě tanuly obrazy.
 Jen sehnat ilustrátora, který by je zvěčnil.
 
-Jenomže... jak s takovým ilustrátorem mluvit? Přeci jenom má každá profese svá specifika a stejný mateřský jazyk neznamená automaticky pochopení.
+Jenomže... jak s takovým ilustrátorem mluvit? Přeci jenom každá profese má svá specifika a stejný mateřský jazyk neznamená automaticky pochopení.
 
 A hlavně, kde takového ilustrátora vzít?
 
@@ -35,7 +35,7 @@ A hlavně, kde takového ilustrátora vzít?
 
 Ke konci roku 2018 jsem proto na naší Facebookové stránce zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dvě stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
 
-A pak přišel email. Že prý nějaký Philip Ward a že ilustrace studuje a že mi posílá ukázky své práce.
+A pak přišel email. Že prý nějaký Philip Ward a že ilustrace studuje a že mi posílá [ukázky své práce](https://www.facebook.com/media/set/?set=a.198351584467453&type=3).
 
 Tak Philip, hmm? A Ward? Jméno jak pro strážce zákona, řekl jsem si. A to bylo poprvé, co jsem si zapamatoval něčí jméno hned napoprvé. A zatím naposled.
 
@@ -53,15 +53,16 @@ Odpověděl jsem mu obratem a jak je mým zvykem, tak jsem se mu ke každé ilus
 
 *Puberta ti teprve klepe na tělo, na kterém dosud není poznat, ke kterému pohlaví patříš, a jakožto mladičký chráněnec zavalitého hostinského máš mnohá privilegia, ale také povinnosti a nepřátele. Strýčkovi, jak hostinskému říkáš, vypomáháš tu v kuchyni s cibulí, tu v sadu s hnojením, tu v lese s nakládkou otepí, tu na trhu při hledání zdravých kurů a za odměnu můžeš spát v podkroví, sem tam olíznout smetanu ve spíži a jíst, co je zrovna na peci. Jen se nesmíš ptát na svůj původ, ani strkat do jídla šváby věčně roztoužené služebné Anně, která tě nesnáší, ponižuje, úkoluje, okřikuje, ale jen když není hostinský v dohledu.*
 
-*A tak se stane, že hostinský jde ke starostovi vyřizovat detaily ohledně veselky starostova jediného syna a Anna dostane za úkol starat se o těch pár hostí, co je k poledni vítr přivane, když v kuchyni dojdou brambory, nejspíš. Nevíš, jak se to Anna dozvěděla, možná to jen tuší, možná je to náhoda, ale poslala tě do sklepa. Do té černé díry, kde ve svitu skomírajícího knotu tvé oči tvrdí, že vidíš podlahu, ale tvá hlava vidí bezednou propast, kde tvé uši tvrdí, že slyšíš pískot myší, tvá hlava ale slyší pískání používaného skřipce, kde tvůj nos tvrdí, že cítí plíseň a hlínu, ale tvá hlava cítí hnilobu a strach. Tvůj strach.*
+*A tak se stane, že hostinský jde ke starostovi vyřizovat detaily ohledně veselky starostova jediného syna a Anna dostane za úkol starat se o těch pár hostí, co je k poledni vítr přivane. A v kuchyni dojdou brambory, nejspíš.
+Nevíš, jak se to Anna dozvěděla, možná to jen tuší, možná je to náhoda, ale poslala tě do sklepa. Do té černé díry, kde ve svitu skomírajícího knotu tvé oči tvrdí, že vidíš podlahu, ale tvá hlava vidí bezednou propast, kde tvé uši tvrdí, že slyšíš pískot myší, tvá hlava ale slyší pískání používaného skřipce, kde tvůj nos tvrdí, že cítí plíseň a hlínu, ale tvá hlava cítí hnilobu a strach. Tvůj strach.*
 
 *Stojíš na schodech, ve zpocené ruce žmouláš ucho kahanu a přemáháš třas vlastního těla, aby si snad Anna tvého děsu nevšimla a nezařadila sklep do svého seznamu mučících nástrojů. Je čas udělat krok do tmy. Za sebou máš historii, kterou zná jen málokdo, ne však ty, v sobě máš strach, o němž víš jen ty a nikdo jiný a před sebou budoucnost, kterou nezná nikdo.*
 
-*Jen jedno je jisté, že člověk, který právě vchází do útrob sklepa, nebude ten samý, který z něj vyjde ven. Ať už s bramborami, nebo bez nich.*
+*Jen jedno je jisté, že jedinec, který právě vchází do útrob sklepa, nebude ten samý, který z něj vyjde ven. Ať už s bramborami, nebo bez nich.*
 
 ----
 
-A zase bylo ticho. Napsal jsem mu ve čtvrtek třináctého prosince 2018. Nastal pátek, přešel víkend, přešel další týden, Vánoce byly za dveřmi a Philip nic. Tak jsem ho opatrně pošťouchnul s odkazem na Michaela Petruse a jeho rady, [jak si najít svůj kreslířský styl](http://www.michaelpetrus.com/6-tipu-jak-najit-svou-specializaci/).
+A zase bylo ticho. Napsal jsem Philipovi ve čtvrtek třináctého prosince 2018. Nastal pátek, přešel víkend, přešel další týden, Vánoce byly za dveřmi a Philip nic. Tak jsem ho opatrně pošťouchnul s odkazem na Michaela Petruse a jeho rady, [jak si najít svůj kreslířský styl](http://www.michaelpetrus.com/6-tipu-jak-najit-svou-specializaci/).
 
 Philip mi poděkoval a popřál hezké svátky. Takže na živu byl, aspoň jedna pozitivní zpráva. Ale o kresbách ani ň.
 
@@ -69,7 +70,7 @@ Philip mi poděkoval a popřál hezké svátky. Takže na živu byl, aspoň jedn
 
 Uplynuly Vánoce, odvál leden, odtál únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
 
-Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilusrátorské budoucno a pustil jsem ho z hlavy.
+Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilustrátorské budoucno a pustil jsem ho z hlavy.
 
 Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil.
 
@@ -167,7 +168,7 @@ Měj se na pozoru, poutníče! Světlo za noci dráždí místní létavce a by�
 #### Želvorec
 
 *Hladinu jen hravě a s něhou čeřil vánek, loďka do té klidné hladiny dnes nepatřila. Ale převozník se nebál. Znal místní jezero, znal jeho strážce a věděl, že matky jsou zuřivé, jen když jsou děti v ohrožení. Věděl, kde má letos vejce, tušil, kolik hamižných bláznů leží na dně, ale některé věci je lepší nechat být. Byl už starý a chtěl klid, v tomhle si s jezerní hladinou skvěle rozuměli.
-Pod kýlem se mihl stín, loďka se lehce rozhoupala a převozník se usmál. Strážce ho pozdravil, všechno je v pořádku.*
+Pod kýlem se mihl stín, loďka se lehce rozhoupala a převozník se usmál. Strážce ho pozdravil, všechno bylo v pořádku.*
 
 #### Houbeles
 
