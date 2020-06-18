@@ -119,4 +119,52 @@ abstract class AbstractBlogTest extends TestCase
     {
         return __DIR__ . '/../../source/assets/images/posts';
     }
+
+    protected function getExpectedVersionHint(string $path): string
+    {
+        return sprintf('?version=%s', md5_file($path));
+    }
+
+    /**
+     * @return array|string[][]
+     */
+    protected static function getAllCssFiles(): array
+    {
+        static $cssFiles = [];
+        if (count($cssFiles) > 0) {
+            return $cssFiles;
+        }
+        $links = [];
+        $generatedPosts = static::getGeneratedPosts();
+        $generatedPost = reset($generatedPosts);
+        $dom = new HTMLDocument($generatedPost);
+        foreach ($dom->head->getElementsByTagName('link') as $link) {
+            $href = $link->getAttribute('href');
+            if ($href && strpos($href, 'assets/css/') !== false && strpos($href, 'http') !== 0) {
+                $links[] = $href;
+            }
+        }
+        self::assertNotEmpty($links, sprintf('No CSS files found in a post %s', key($generatedPosts)));
+
+        $cssBaseDir = self::getCssBaseDir();
+        foreach ($links as $link) {
+            $questionMarkPosition = strpos($link, '?');
+            $version = '';
+            $linkWithoutVersion = $link;
+            if ($questionMarkPosition !== false) {
+                $version = substr($link, $questionMarkPosition + strlen('?version='));
+                $linkWithoutVersion = substr($link, 0, $questionMarkPosition);
+            }
+            $relativeFilePath = preg_replace('~^/?(assets)?(/css)?/?~', '', $linkWithoutVersion);
+            $fullPath = $cssBaseDir . '/' . $relativeFilePath;
+            self::assertFileExists($fullPath);
+            $cssFiles[] = ['link' => $link, 'fullPath' => $fullPath, 'version' => $version];
+        }
+        return $cssFiles;
+    }
+
+    protected static function getCssBaseDir(): string
+    {
+        return __DIR__ . '/../../source/assets/css';
+    }
 }

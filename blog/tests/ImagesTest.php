@@ -56,9 +56,4 @@ class ImagesTest extends AbstractBlogTest
         }
         return $postImagesRealPaths;
     }
-
-    private function getExpectedVersionHint(string $path): string
-    {
-        return sprintf('?version=%s', md5_file($path));
-    }
 }
