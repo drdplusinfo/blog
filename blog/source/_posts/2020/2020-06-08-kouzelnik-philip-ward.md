@@ -17,7 +17,7 @@ perex: |
 
 Kdykoliv jsem četl nějaká pravidla, dobrodružství, příšery, tak jsem plesal nad doprovodnými obrázky, které mi usnadňovali představy.
 
-Holt obrázek vidá za tisíc slov.
+Holt obrázek vydá za tisíc slov.
 
 A proto jsem nejenom cítil (jak je u mě časté), ale i věděl (a to už je vzácnější), že ke své tvorbě taky potřebuju doprovodné ilustrace.
 Jak pro čtenáře, tak i pro sebe jako autora, protože když můžu sledovat scénu očima, tak ji můžu pustit z hlavy, kochat se a hlavu použít na další práci.
@@ -33,7 +33,7 @@ A hlavně, kde takového ilustrátora vzít?
 
 > Mluviti stříbro, mlčeti zlato, kresliti cokoli.
 
-Ke konci roku 2018 jsem proto na naší Facebookové stránce zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dvě stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
+Ke konci roku 2018 jsem proto na [naší facebookové stránce](https://www.facebook.com/drdplus.info/) zmínil, že sháním ilustrátora. Tou dobou tam bylo tak dvě stě sledujících, takže jsem nečekal žádné terno. No, padnul jeden komentář, lákající kohosi zvenčí, který zůstal bez odezvy a pak bylo ticho. Já mám ticho rád, ale co je moc, to je moc.
 
 A pak přišel email. Že prý nějaký Philip Ward a že ilustrace studuje a že mi posílá [ukázky své práce](https://www.facebook.com/media/set/?set=a.198351584467453&type=3).
 
@@ -70,7 +70,7 @@ Philip mi poděkoval a popřál hezké svátky. Takže na živu byl, aspoň jedn
 
 Uplynuly Vánoce, odvál leden, odtál únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
 
-Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamárda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilustrátorské budoucno a pustil jsem ho z hlavy.
+Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamaráda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilustrátorské budoucno a pustil jsem ho z hlavy.
 
 Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil.
 
@@ -212,7 +212,7 @@ Nemůžu si pomoct, ale tohle byl obrovský skok dopředu. Jako kdyby to Philip 
 Želvorec v pohybu byl úchvatný a prasečí rypák brutopýra, včetně těch jeho jehel v hubě, byl nezapomenutelný. Nádhera!
 
 Přesto, jaksi, to pořád nebylo ono. Byly to kresby vhodné na **pokračování** bestiáře. Pro jeho pokročilejší, monstróznější verzi.
-Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátečníky, kterým je zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět, ten jediný vesmír, ve kterém můžou vyprávěcí hry existovat, se uzamkne.
+Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek. Něco, co neodradí úplné RPG začátečníky, kteří už zároveň ztratili svou mladickou naivitu a je jim zatěžko dovolit své hlavě, že by něco takového mohlo existovat. A jak u hráčů vykvete nedůvěra, tak už není cesty zpět a celý myšlenkový svět, ten jediný vesmír, ve kterém můžou vyprávěcí hry existovat, se uzamkne.
 
 Poprosil jsem Philipa o další kolečko úprav. Jak u želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u brutopýra, který vypadal příliš bruto.
 
@@ -232,7 +232,7 @@ Ale pořád ještě jsem nebyl spokojený.
 Zřejmě tím, jak se Philip snažil zavděčit mým představám, tak se vzdaloval od lehkosti přirozené tvorby. Nepozdával se mi až příliš okatě palcátovitý ocas, kterému nyní chyběla samozřejmost. A podobně se mi u brutopýra nezdál ten nosní štít, ta plachta, kterou před sebou rozvinul.
 Oboje jako by bylo těm tvorům vnuceno. Asi už jsem bral Philipovy představy příliš zkrátka.
 
-Přesto jsem ho poprosil o další kolečko úprav. Tentokráte cílěně brutopýrova nosu a želvorcova ocasu.
+Přesto jsem ho poprosil o další kolečko úprav. Tentokráte cíleně brutopýrova nosu a želvorcova ocasu.
 
 A Philip to nevzdal.
 
@@ -313,7 +313,7 @@ A Philip detaily přidal.
 
 ![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png?version=7a2053490cc9028bd992a0677b0e08ca)
 
-Všimli jse si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd, nad ním se nese hejno čehosi a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
+Všimli jste si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd, nad ním se nese hejno čehosi a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
 A dost možná je tam něco, co jsem dosud neobjevil.
 
 Je to paráda!
@@ -379,7 +379,7 @@ Jedna věc mě ale na upravené verzi rušila a to zvláštní poměr velikostí
 
 Optal jsem se Philipa, zda to byl záměr.
 
-O pár dní pozdějí zaslal lehce upravenou verzi.
+O pár dní později zaslal lehce upravenou verzi.
 
 ### Dokonalí brutopýři
 
@@ -440,14 +440,14 @@ Osobně si z toho odnáším, že kresby jsou jako jakákoliv jiná činnost. Ab
 *Dopil, bouchnul džbánkem o fortelný stůl, až šenkýřka nadskočila a pravil: "C...co jsem proved?"*
 
 *Dav otočil hlavy, sledujíc z nenadání vykulený pohled vozky. Ve dveřích stál zárubněmi orámovaný strážce zákona, knír až k uším a mračivě zaduněl: "Vůz zabavujeme, to svinstvo je všude. Musíme to spálit." A na patě se otočil, ukazujíc do šenku kabátec ošoupaný od opěradla služební sesle.
-Vozka zkoprněl a jen polohlasně hlesl "A náhlad?" Strážný se ani neotočil, jen houkl přes rameno "Dřevo jako uhlí." A zmizel ve večerním šeru.*
+Vozka zkoprněl a jen polohlasně hlesl "A náklad?" Strážný se ani neotočil, jen houkl přes rameno "Dřevo jako uhlí." A zmizel ve večerním šeru.*
 
 *"Dřevo jako uhlí" špitl si jako ve snách vozka, "jsem žebrák", došlo mu. Pak se rozjasnil. Je živ? Je! Má kobylu v celku? Má! Tak půjde zas vartovat, jako zamlada. "Juch!" vískl náhle do šenku a s úsměvem se rozpovídal o svém dnešním dobrodružství. Tahle noc patřila jemu.*
 
 ---
 
-*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Od spodu byl plamen přiživován antracitem, odevšad popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
+*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Odspodu byl plamen přiživován antracitem, odevšad popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
 
-*K temnoucímu nebi se líně vznášel dým, to magické spojení drobnounkých zbytků páleného. Tak malých a lehkých, že některé zvedl horký vzduch dříve, než stihly shořet.*
+*K temnoucímu nebi se líně vznášel dým, to magické spojení drobounkých zbytků páleného. Tak malých a lehkých, že některé zvedl horký vzduch dříve, než stihly shořet.*
 
 *Byl to krásný, klidný večer. Jeden z těch, za kterých se život probouzí z dětských snů.*
