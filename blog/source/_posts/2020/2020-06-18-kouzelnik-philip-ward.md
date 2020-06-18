@@ -1,5 +1,5 @@
 ---
-id: 2020-06-08-1
+id: 2020-06-18-1
 title: "Ilustrátoři: Kouzelník Philip Ward"
 image: /assets/images/posts/kouzelnik_philip_ward.png?version=99ab45e2d04d23ac8d7dc292891cdf7a
 image_author: "*Autorem lidského mláděte na prahu hrdinství je Philip Ward. Díky Ti.*"
