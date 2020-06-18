@@ -90,6 +90,7 @@ abstract class AbstractBlogTest extends TestCase
                 }
             }
         }
+        $imageLinks = array_map('urldecode', $imageLinks);
         $uniqueImageLinks = array_unique($imageLinks);
         $imagesDir = self::getImagesBaseDir();
         foreach ($uniqueImageLinks as $imageLink) {
