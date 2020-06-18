@@ -176,12 +176,12 @@ Pod kýlem se mihl stín, loďka se lehce rozhoupala a převozník se usmál. St
 
 *Odložil opratě, však Lysna znala cestu. Spokojeně se na kozlíku zavrtěl. Cosi zavrzalo. Znejistěl a znovu se zavrtěl. Opět cosi zavrzalo, ba dokonce zapraskalo. Stoupl si na podlážce a zaskákal. Praskot se znásobil, hnědka vyrazila poplašeně vpřed a vozka se skulil vzad. Sotva však dechu nabral, rána a zas letěl, tentokráte za hnědkou, následován lesklým antracitem z nákladu.*
 
-*Oddychoval s obtížemi, černý od uhelného mouru, se zády jak povříslo nalámanými, ale živ.
-Se směsicí obav a odporu okopával prošlapanou botou zdatnou sosnu, která mu přepůlila vůz. Střed stromu se drolil jako droždí. Ještě jednou a řádně kmen nakopl a sotva nohu vyprostil, odplivl si a poděkoval svému patronu, že ušetřil jeho i koně. A vlastně i náklad. Takové štěstí! Nadechl se, co mu pochroumaná záda dovolila, potlačil silný houbovitý zápach a radoval se z života. To bylo krásně na světě.*
+*Oddychoval s obtížemi, černý od uhelného mouru, se zády jak povříslo nalámanými, ale živ a, prohmatával se, zdá se že zdráv.
+Se směsicí obav a odporu okopával prošlapanou botou zdatnou sosnu, která mu přepůlila vůz. Střed stromu se drolil jako droždí. Ještě jednou a řádně kmen nakopl a sotva nohu vyprostil, odplivl si a poděkoval svému patronu, že ušetřil jeho i koně. A vlastně i náklad. Takové štěstí! Nadechl se, co mu pochroumaná záda dovolila, potlačil silný houbovitý zápach a radoval se ze života. To bylo krásně na světě.*
 
 Philip odpověděl, že představu má a že se do práce pustí. Paráda!
 
-### Puštěné stvůry a nestvůry
+### Vypuštěné stvůry a nestvůry
 
 Philipovi se první nástřel těchto příšer trochu protáhl, nakonec ho poslal až po dvou měsících. 
 
@@ -191,7 +191,7 @@ Philipovi se první nástřel těchto příšer trochu protáhl, nakonec ho posl
 
 Celkově se mi hodně zamlouval dokumentární styl kreseb - jako kdyby si je do notýsku zakreslil badatel na svých objevitelských cestách.
 
-Naprosto bezchybný mi přišel chorošovitý Houbeles (jo, jsem ulítlej na obyčejnosti).
+Naprosto bezchybný mi přišel chorošovitý houbeles (jo, jsem ulítlej na obyčejnosti).
 
 Želvorec byl pro mě zajímavý, ale silně mimo mé představy. Poprosil jsem proto Philipa o další úpravy, po kterých bude více želvovitý a s ocasem zakončeným takřka povinným kostěným palcátem (*o výrůstku ve tvaru "palcátu" jsem Philipovi popravdě zapomněl říct, moje blbost*).
 
@@ -216,7 +216,7 @@ Jenže já potřeboval nějaký uvěřitelnější, střízlivější začátek.
 
 Poprosil jsem Philipa o další kolečko úprav. Jak u želvorce, kterému stále chyběl onen palcát (přestože mu evoluce, totiž Philip, do vínku už jeho základ dal), tak i u brutopýra, který vypadal příliš bruto.
 
-Popravdě jsem už začínal obávat, že tím Philipa zapudím, protože sám mám potíže zkousnout, když je velký kus mé práce odmítnut a musím to samé dělat znovu.
+Popravdě jsem se už začínal obávat, že tím Philipa zapudím, protože sám mám potíže zkousnout, když je velký kus mé práce odmítnut a musím to samé dělat znovu.
 
 Mé obavy byly liché.
 
@@ -297,11 +297,11 @@ A pro houbeles našel místo, ze kterého mě mrazí.
 
 ![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png?version=d2f6e9c3754cf920c79b2c9eec832cc9)
 
-Čekal jsem něco zničeného, přepůleného, rozdrceného. Philip mi však vytřel zrak a zvolil cestu napětí. Padne most? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou se rozebíhá dramatický příběh, který tiše vyčkává. Možná se stane teď, možná později.
+Čekal jsem něco zničeného, přepůleného, rozdrceného. Philip mi však vytřel zrak a zvolil cestu napětí. Padne most? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou vyčkává dramatický příběh. Možná se stane teď, možná později.
 A ta nejistota je na tom úžasná.
 
-Poprosil jsem Philipa jenom o detaily, protože, inu, miluju detaily.
-Hlavní poselství bylo v ilustraci skvěle zachyceno, ale po čase se okouká. Ale kdyby tam sem tam byl zvláštní lístek, cosi na kameni, něco v dálce, tak by obrázek dráždil fantazii a lákal do čtenářovy hlavy další nápady.
+Poprosil jsem Philipa už jenom o detaily, protože, inu, miluju detaily.
+Hlavní poselství bylo v ilustraci skvěle zachyceno, ale po čase se okouká. Ale kdyby sem tam byl zvláštní lístek, cosi na kameni, něco v dálce, tak by obrázek dráždil fantazii a lákal do čtenářovy hlavy další nápady.
 
 Philip přislíbil, že něco detailů přidá.
 
@@ -323,6 +323,8 @@ To by mě po pravdě nenapadlo, ale přesně o tom to je. Nastínil jsem tvora, 
 Jen tak dál. 
 
 Přesto jsem si dovolil po Philipovi chtít ještě jednu, drobnou, úpravu. Ten medvěd v pozadí už byl příliš. Kdyby utíkal, nebo jenom vykukoval, ale on si tam spokojeně zevluje pár kroků od vyčkávajícího bandity a pár koňských délek od koní, kteří šelmu srdnatě ignorují. Neslučovalo se to s mým cítěním uvěřitelnosti.
+
+Poprosil jsem proto Philipa o drobnou změnu s medvědem.
 
 ### Dokonalý houbeles
 
@@ -354,8 +356,8 @@ Philip první návrh brutopýrů v jejich prostředí poslal zároveň s prvním
 
 Philipovi se povedlo v obrazu zachytit primární, syrové, zvířecí nebezpečí. Žádné přemýšlení co by kdyby. Žádné následky už udeznělé situace. Ale intenzivní, ohrožující **teď**.
 
-Krom intenzivního okamžiku jsem také ocenil prostotu louče a jejího plamene. Je to přesně ten komiksový prvek, ta vyjadřovací schopnost jednoduchosti, kterou Philip tak dobře umí.
-Podobně se mu zdařily i zdánlivě prázdné oči nejvíce dotírajícího létavce, jejichž zornice zmizely v lesku plamenů. Nebo že by je vážně neměl?
+Krom silného okamžiku jsem také ocenil prostotu louče a jejího plamene. Je to přesně ten komiksový prvek, ta vyjadřovací schopnost jednoduchosti, kterou Philip tak dobře umí.
+Podobně se Philipovi zdařily i zdánlivě prázdné oči nejvíce dotírajícího létavce, jejichž zornice zmizely v lesku plamenů. Nebo že by je vážně neměl?
 
 Méně se mi už pozdávaly úhly ostatních brutopýrů, kteří vypadali trochu jako přes kopírák, rozesetí v nepřirozené vodorovnosti. Inu, zase ty detaily.
 
@@ -371,7 +373,7 @@ Philip opět překreslil celou ilustraci a já opět viděl, kolik práce ho mé
 
 Povedlo se mu navodit silný pocit hloubky, kdy jeskyní chodba pokračuje kamsi do temné dály. Netopýří hejno skutečně působí jako hejno s jednotlivci míhajícími se prostorem. Do skrytu stalagmitu skryl příběh života dávno minulého. A menších detailů, které nelze objevit hned na poprvé, je tam více. Přesně to v ilustracích potřebuju.
 
-Trochu se z toho, pravda, ztratila ta animální dravost, ale to je holt cena za to, že se Philip snažil uspokojit moje potřeby a musel tak potlačit svou uměleckou stránku.
+Trochu se z toho, pravda, ztratila ta animální dravost, ale to je holt cena za to, že se Philip snažil uspokojit moje potřeby. Zřejmě to potlačilo jeho tvůrčí pocitovost.
 
 Jedna věc mě ale na upravené verzi rušila a to zvláštní poměr velikostí jednotlivých brutopýrů. Zejména ten přeseknutý byl tam titěrný, že dvounohý opovážlivec měl buďto teleskopickou ruku, nebo byl brutopýr obzvláště malý.
 
@@ -399,7 +401,9 @@ Vdechování života brutopýrům bylo dokonáno.
 ### Zmizení Philipa
 
 Tak jak se Philip zjevil, zdvořilým emailem s nabídkou svých dovedností, tak i zmizel. Jednoho dne mi napsal, tím nejupřímnějším a nejzdrcnutějším způsobem, jaký jsem kdy viděl, že už nemůže být součástí "dračáku". Ani ho hrát, ani ho kreslit.
-Jeho důvod je velmi osobní a já ho ctím. A jsem rád, že jsem mohl s Philipem sdílet po ty dva roky naše představy o fantaskních světech.
+Jeho důvod je velmi osobní a já ho ctím. 
+
+Rmoutí mě to, ale jsem nadmíru rád, že jsem mohl s Philipem sdílet po ty dva roky naše představy o fantaskních světech.
 
 Díky, Philipe!
 
@@ -442,8 +446,8 @@ Vozka zkoprněl a jen polohlasně hlesl "A náhlad?" Strážný se ani neotočil
 
 ---
 
-*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Od spodu byl plamen živen antracitem, z vrchu popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
+*Dubové dřevo letitého vozu vzplálo ochotně a podivuhodně tiše. Od spodu byl plamen přiživován antracitem, odevšad popraškem houbelesových výtrusů. Ty jediné se občas pokusily o lehké zaprskání, jako by ospale nesouhlasily se svým koncem.*
 
-*K nebi se líně vznášel dým, to magické spojení drobnounkých zbytků páleného. Tak malých a lehkých, že některé zvedl horký vzduch dříve, než stihly shořet.*
+*K temnoucímu nebi se líně vznášel dým, to magické spojení drobnounkých zbytků páleného. Tak malých a lehkých, že některé zvedl horký vzduch dříve, než stihly shořet.*
 
-*Byl to krásný, klidný večer. Jeden z těch, za kterých se život budí z dětských snů.*
+*Byl to krásný, klidný večer. Jeden z těch, za kterých se život probouzí z dětských snů.*
