@@ -109,20 +109,20 @@ A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty, poslal
 ##### Šenkýř spěchá na schůzku se starostou
 ![Šenkýř spěchá na schůzku se starostou](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_se_starostou.png?version=369d93240818df60efaf73a2e54208d1)
 - *šenkýř spěchá na schůzku se starostou*
-    - [originál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4961 x 3508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
-        - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+    - [originál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4 961 x 3 508 px, 2,9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
+        - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Narváno v šenku
 ![Narváno v šenku](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku.png?version=b908397c39a5a49ae3f37cd2ff38b516)
 - *narváno v šenku*
-    - [originál ke stažení - *narváno v šenku* - 4961 x 3508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
-       - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+    - [originál ke stažení - *narváno v šenku* - 4 961 x 3 508 px, 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
+       - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Služebná Anna nestíhá kuchyň a hosty dohromady
 ![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png?version=5b60658e1dc612fe5666a3aaa1a5d9c3)
 - *služebná Anna nestíhá kuchyň a hosty dohromady*
-    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4961 x 3508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
-        - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4 961 x 3 508 px, 4,1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
+        - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Prcek se dívá do hlubin sklepení
 ![Prcek se dívá do hlubin sklepení](/assets/images/posts/kouzelnik_philip_ward/prcek_se_diva_do_hlubin_sklepeni.png?version=37a41b4e7e029c308e53532a9468f51b)
@@ -277,8 +277,8 @@ A pak to přišlo.
 
 ![Dokonalý želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_6.0.png?version=3940abf424142e4f827092af637af75f)
 
-- [originál ke stažení - *želvorec chrání své teritorium* - 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
-    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+- [originál ke stažení - *želvorec chrání své teritorium* - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
+    - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Omlouvám se za výrazivo, ale já si z toho kecnul na prdel. Philip opět nastartoval svůj talent se zapnutým sytičem a podobně jako to dokázal u druhého návrhu želvorce a brutopýra, tak i v poslední fázi samotného želvorce vyšvihl nádhernou kresbu.
 
@@ -334,8 +334,8 @@ Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho v
 
 ![Dokonalý houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.1.png?version=a237df69ad4a471dc0d153d2ae793ccf)
 
-- [originál ke stažení - *houbeles v mostě* - 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
-    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+- [originál ke stažení - *houbeles v mostě* - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
+    - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, ze které kdejakého statika poleje ledový pot.
 Dobrá práce.
@@ -387,8 +387,8 @@ O pár dní pozdějí zaslal lehce upravenou verzi.
 
 ![Dokonalí brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.1.png?version=00283caf22c5a34c69bb401f117e461e)
 
-- [originál ke stažení - *brutopýři brání rodnou jeskyni* - 5.7 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
-    - vlastníkem ilustrace je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+- [originál ke stažení - *brutopýři brání rodnou jeskyni* - 5,7 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
+    - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Rušivě malého brutopýřího nešťastníka Philip zvětšil jen lehce. Skoro bych si tipnul, že poprvé použil nějakou digitální techniku.
 
@@ -420,17 +420,17 @@ Osobně si z toho odnáším, že kresby jsou jako jakákoliv jiná činnost. Ab
 
 #### Ke stažení
 
-*vlastníkem ilustrací je Dračí odkaz, [sdílejte pod licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
+*vlastníkem ilustrací je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
 
 ##### Na vesnici
-- [*šenkýř spěchá na schůzku se starostou* - 4 961 × 3 508 px, 2.9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
-- [*narváno v šenku* - 4 961 × 3 508 px, 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
-- [*služka nestíhá dohromady hosty a kuchyň* - 4 961 × 3 508 px, 4.1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
+- [*šenkýř spěchá na schůzku se starostou* - 4 961 × 3 508 px, 2,9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg?version=2deac44f92e004e2dba3a465e0394ed7)
+- [*narváno v šenku* - 4 961 × 3 508 px, 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg?version=a9ca529ab33b12c1a8655da94283fb90)
+- [*služka nestíhá dohromady hosty a kuchyň* - 4 961 × 3 508 px, 4,1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg?version=225da2a18142ad85bf9ef2ccb5461b00)
 
 #### Na cestách
-- [*želvorec chrání své teritorium* - 4 961 × 3 508 px, 33.3 ⚠️ MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
-- [*houbeles v mostě* - 1 754 × 2 481 px - 7.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
-- [*brutopýři brání rodnou jeskyni*  1 754 × 2 481 px - 6.0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
+- [*želvorec chrání své teritorium* - 4 961 × 3 508 px, **33.3** ⚠️ MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
+- [*houbeles v mostě* - 1 754 × 2 481 px - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
+- [*brutopýři brání rodnou jeskyni*  1 754 × 2 481 px - 6,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
 
 
 ### Epilog
