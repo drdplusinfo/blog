@@ -12,6 +12,7 @@
     {% if post is defined %}
         {# Facebook sharing #}
         <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="cs_CZ"/>
         <meta property="og:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
         <meta property="og:description" content="{{ post.perex|striptags }}"/>
         <meta property="og:url" content="{{ site_url }}/{{ post|link }}"/>
