@@ -52,4 +52,48 @@ A rychlé náčrty scény byly ideální nástroj, jak ve mě zamáčknout, co s
 
 Malý, doprovodný obrázek k tehdy novému [článku o konci kalkulátorů](../2019/2019-06-17-sbohem-kalkulatory.md) vzal ticho762 rovnou kolorovaně:
 
-![První nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_1.0.jpg)
+*14. 5. 2019*
+
+![První nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_1.0.jpg)
+
+Na první nástřel dobrý. Ale nebyl jsem spokojený s detaily (jak jinak):
+- tvar křídel evokoval přílet (jsou kolem drápů prohnutá k divákovi), já ale potřeboval odlet - s počítadly jsme se loučili a měly by letět pryč
+- ty duté koláčky vypadaly jako donuty amerického policajta a až když jsem se **zamyslel**, tak mi došlo, že to jsou korálky z rozbitého sčotu - a povinné přemýšlení jsem v hlavní myšlence nepotřeboval - sypající se korálky super, ale jejich postorové uspořádání potřebovalo poladit
+
+---
+
+Ticho762 odpověděl s úsměvem, že chápe a poslal úpravu:
+
+*21. 5. 2019*
+
+![Druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.0.png)
+
+Ticho762 nejenže poladil perspektivu, ale taky "nahodil" celou ilustraci to hezčího hávu. Bylo to o řád lepší a líbilo se mi to. Chtělo už jenom poladit detaily:D
+
+- jeden z korálků letěl nějak do háje, zatímco ostatní poslušně následovaly křivku zatáčky - to bylo rušivé
+
+---
+
+Ticho762 přiznal, že chtěl do pohybu zakomponovat náhodu a že mu to krapet ujelo a obratem poslal úpravu
+
+*22. 5. 2019*
+
+![Lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.1.jpg)
+
+To byl fofr. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadaly jako ručně kreslené, zjevně je vytvářel ve vrstvách, nejspíš digitálním perem.
+Takže žádost o malou úpravu pro něj bylo pár kliknutí v jeho oblíbeném editoru.
+
+Bylo to už téměř dokonalé, chyběl poslední detail:
+- otvory v předposledním a posledím korálku byly stejné, přestože ve velikosti byly korálky samotné kvůli perspektivě dost rozdílné - bylo to divné a opět to nutilo diváka myslet, proč to tak je
+
+---
+
+Ticho762 se s tím opět nemazal a ještě týž den jsem měl na stole dokonalou verzi:
+
+*22. 5. 2019*
+
+![Opět lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.jpg)
+
+Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak prostorová hloubka, tak i světelná s přechodem od osvětleného měsíce až po temný kout vesmíru.
+
+**První výsledek byl s ticho762 povznášejícím způsobem bezbolestný a kvalitní. Těšil jsem se na další spolupráci.**
