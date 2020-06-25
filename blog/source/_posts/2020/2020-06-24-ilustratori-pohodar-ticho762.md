@@ -97,3 +97,46 @@ Ticho762 se s tím opět nemazal a ještě týž den jsem měl na stole dokonalo
 Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak prostorová hloubka, tak i světelná s přechodem od osvětleného měsíce až po temný kout vesmíru.
 
 **První výsledek byl s ticho762 povznášejícím způsobem bezbolestný a kvalitní. Těšil jsem se na další spolupráci.**
+
+#### Dobrodružství ve sklepě
+
+Odlétající sčot byla odlehčená ilustrace pro malý článek na blog. A články na blogu mají jepičí život. Takže tam jsem potřeboval něco prostého a úderného. A taky stačilo malého. Ale obálka k dobrodružství, to už byla jiná.
+
+Chtěl jsem atmosférický obraz, který čtenáře naladí na ponurou atmosféru špatně osvětleného, stísněného prostoru, který je na první pohled používaný a na druhý pohled už méně.
+
+tcho762 poslal dva návrhy:
+
+*14. 5. 2019*
+
+![Skica "do sklepa" na šířku](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_na_sirku.jpg)
+- skica "do sklepa" na šířku
+
+---
+
+![Skica "do sklepa" na výšku](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_na_vysku.jpg)
+- skica "do sklepa" na výšku
+
+Opět musím říct, že zaplaťpánbu za návrhy. Kdyby se ticho762 hned vrhnul do detailní kresby, asi by vyhodil dost času.
+
+Teprve při pohledu na návrhy mi došlo, že chci obyčejně vypadající sklep. Žádné točité schody a závratná hloubka. To se hodí spíš do zřícenín hradů. Návrh na výšku tedy padl.
+
+A taky mi došlo, že pohled na hlavního hrdinu rozhodně nechci. V tom je jedna z myšlenek onoho dobrodružství. Je určené pro nerozhodné začátečníky, které by odradilo kde co. Třeba to, že se nedokáží ztotožnit s navrhovaným hrdinou. A taky jsem chtěl, aby se hráč sám mohl svobodně rozhodnout, jak vypadá, ba dokonce jestli bude muž, nebo žena.
+Proto jsem přijal obyčejnějí vypadající sklep v návrhu na šířku, ale odmítl hlavního protagonistu jako středobod ilustrace.
+
+Nezkusil by to ticho762 bez obličeje? Nejlépe z pohledu první osoby?
+
+No, prý zkusí, ale jistý výsledkem si není.
+
+---
+
+Možná si jist nebyl, ale výsledk se povedl.
+
+*23. 5. 2019*
+
+![Skica "do sklepa" z pohledu první osoby](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_z_prvni_osoby.jpg)
+
+To je ono! Úplně to dráždí vykašlat se na to a vzít nohy na ramena, nebo aspoň zahulákat do tmy.
+
+Poprosil jsem ticho762, aby to nahodil na výšku, protože to bude lépe odpovídat knižnímu formátu, kterého se obvykle u své tvorby držím.
+
+A pak ty detaily. Detaily detaily detaily. Napsal jsem mu jich fakt hodně. Ony to byly vlastně jenom takové nápady, co všechno by tam mohlo být, ale obecně to spadalo do mé záliby v detailech.
