@@ -129,7 +129,7 @@ No, prý zkusí, ale jistý výsledkem si není.
 
 ---
 
-Možná si jist nebyl, ale výsledk se povedl.
+Možná si jist nebyl, ale výsledek stál za to.
 
 *23. 5. 2019*
 
@@ -140,3 +140,46 @@ To je ono! Úplně to dráždí vykašlat se na to a vzít nohy na ramena, nebo 
 Poprosil jsem ticho762, aby to nahodil na výšku, protože to bude lépe odpovídat knižnímu formátu, kterého se obvykle u své tvorby držím.
 
 A pak ty detaily. Detaily detaily detaily. Napsal jsem mu jich fakt hodně. Ony to byly vlastně jenom takové nápady, co všechno by tam mohlo být, ale obecně to spadalo do mé záliby v detailech.
+
+Zas abyste mě neměli za magora. Nejde mi o to, aby na obraze nebylo prázdné místo. Naopak, prázdnota má sílu. Ale potřebuju, aby na obrazech, na které se čtenář bude dívat vícekrát, bylo pořád co objevovat. Aby se moc rychle neokoukaly. Aby to bylo jako film, který shlédnete, dáte si od něj pauzu, znovu se na něj podíváte a... *"Hele, ty oči tam byly už na začátku! Ty jo on vlastně říkal! Sakra ten konec se může vykládat různě co?"*
+Tohle potřebuju, vícevrstvý obsah.
+
+A proto jsem sepsal ticho762 tolik nápadů na detaily, až mu z toho šla hlava kolem a opatrně se ptal "*Tohle všechno tam chceš?*". Všechno jsem nechtěl, ale něco rozhodně.
+
+---
+
+ticho762 to nakonec vzal od podlahy a vlastně přidal do obrazu všechno, co jsem mu napsal. A ještě obraz "nahodil", jak on říká. Tedy překreslil ho do "čučivější" podoby:
+
+*27. 5. 2019*
+![První barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.0.jpg)
+
+*To je, co!?*
+
+Hra se světlem, s prostorem, s předměty... Kam se podíváte, tam něco je. Něco, co do sklepa patří a přitom je to různorodé. Vybělená býčí lebka na okrasu, pernatá zvěř k uzrání, nedojezená ryba na potom, sudy dřevěné i hliněné, velikánksý brus, oči...
+Tohle je něco pro mě. Podívám se na obraz a napadají mě akce. Co bych snědl? Do čeho bych se chtěl podívat nejdřív? Kam bych měl posvítit radši hned?
+
+Byla to voda na můj mlýn a jediné, co jsem na tom potřeboval měnit, byly, samozřejmě, detaily:
+
+- Krysa na třetím schodu byla celá taková pěknoučká, ale nějak moc ochočená. Že by byla krátkozraká? Krysa v příběhu figuruje, ale takhle odhalená mě hodně rušila. Obyčejné zvíře by se takhle nechovalo a pokud je neobyčejné, tak by svou zvláštnost odhalovalo příliš brzy. Museli jsme jí někam schovat.
+- Některé předměty na schodech byly zvláštně nakloněné, nebo deformované. Nůž s máslem se tvářily, že nesouhlasí s náklonem prvního shodu, sud na druhém shodu se tvářil, že neunese váhu pekáče o něj opřeného, vajíčka hrozila, že se skulí dolů.
+
+Poprosil jsem ticho762 o úpravy.
+
+---
+
+Ticho762 odepsal, že s něčím mám pravdu a s něčím, zejména úhlem předmětů, už tolik ne. To je paráda, když si druhá strana dokáže stát za svým a ví proč.
+
+*28. 5. 2019*
+![Prostor kresby "do sklepa"](/assets/images/posts/pohodar_ticho762/prostor_barevne_do_sklepa_1.0.jpg)
+
+Hodili jsme o tom řeč, našli konsenzus a těšil jsem se na úpravy.
+
+---
+
+*29. 5. 2019*
+![Upravená barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.1.jpg)
+
+ticho762 ztlumil jas, odsunul krysu, upravil náklon koše s vejci, narovnal pochroumaný sud, poupravil prkýnko s máslem, aby na něj více platily zákony fyziky.
+
+Opět bylo znát, že ticho762 se už nějaký ten pátek kreslením živí a kamarádí se výdobytky elektronického věku. Žádné ručná překreslování, ale úpravy vrstev v grafickém editoru.
+
