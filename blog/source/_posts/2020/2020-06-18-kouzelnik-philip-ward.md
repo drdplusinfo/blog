@@ -15,7 +15,7 @@ perex: |
 
 > Všechno je jednou poprvé.
 
-Kdykoliv jsem četl nějaká pravidla, dobrodružství, příšery, tak jsem plesal nad doprovodnými obrázky, které mi usnadňovali představy.
+Kdykoliv jsem četl nějaká pravidla, dobrodružství, příšery, tak jsem plesal nad doprovodnými obrázky, které mi usnadňovaly představy.
 
 Holt obrázek vydá za tisíc slov.
 
