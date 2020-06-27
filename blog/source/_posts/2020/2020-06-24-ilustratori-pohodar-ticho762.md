@@ -179,7 +179,24 @@ Hodili jsme o tom řeč, našli konsenzus a těšil jsem se na úpravy.
 *29. 5. 2019*
 ![Upravená barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.1.jpg)
 
-ticho762 ztlumil jas, odsunul krysu, upravil náklon koše s vejci, narovnal pochroumaný sud, poupravil prkýnko s máslem, aby na něj více platily zákony fyziky.
+Opět bylo znát, že ticho762 se už nějaký ten pátek kreslením živí a kamarádí se výdobytky elektronického věku. Žádné ruční překreslování, ale úpravy vrstev v grafickém editoru.
 
-Opět bylo znát, že ticho762 se už nějaký ten pátek kreslením živí a kamarádí se výdobytky elektronického věku. Žádné ručná překreslování, ale úpravy vrstev v grafickém editoru.
+Ticho762 ztlumil jas, odsunul krysu, opravil pochroumaný sud, ořízl prkýnko s máslem, aby na něj více platily zákony fyziky.
+
+Začínal jsem být s výsledkem spokojený.
+
+Jen dvě poslední drobnosti zbývaly. Koš s vejci na mě stále působil dojmem, že se za chvíli skulí dozadu a očka ve tmě zmizela. Potřeboval jsem je.
+
+---
+
+Ticho762 poslal finání úpravu.
+
+*30. 5. 2019*
+![Finální barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.2.jpg)
+
+Hotovo, padla. Obálka k malému dobrodružství ve sklepě byla na světě.
+
+Zbývala poslední veliká věc a to ta největší. Obálka k Dračímu odkazu.
+
+#### Dračí odkaz
 
