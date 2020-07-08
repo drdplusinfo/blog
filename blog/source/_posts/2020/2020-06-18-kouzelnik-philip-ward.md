@@ -15,7 +15,7 @@ perex: |
 
 > Všechno je jednou poprvé.
 
-Kdykoliv jsem četl nějaká pravidla, dobrodružství, příšery, tak jsem plesal nad doprovodnými obrázky, které mi usnadňovali představy.
+Kdykoliv jsem četl nějaká pravidla, dobrodružství, příšery, tak jsem plesal nad doprovodnými obrázky, které mi usnadňovaly představy.
 
 Holt obrázek vydá za tisíc slov.
 
@@ -256,7 +256,7 @@ Philip jako prvního zasadil do výjevu želvorce.
 
 Celou scénu vymyslel Philip a já si tak mohl užít ryzí divácké opojení. Pěkné!
 
-Ale jsem rád, že Philip to nepilovat hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
+Ale jsem rád, že Philip to nepiloval hned na první pokus k dokonalosti. Možná už mu začínalo být jasné, že snaha kreslíře nebývá přímo úměrná spokojenosti zadavatele.
 Uspořádáním byla kresba velmi dobrá, líbilo se mi, že želvorec je tam jako hlavní aktér ve svém živlu. Nepozdávala se mi však celková ponurost ilustrace. K tomu jsem si kroutil krk, jak jsem se snažil nastavit hlavu podle úhlu tonoucího nešťastníka. A nezúčastněné rybičky mě rušili tím, že se vůbec nevzrušovaly.
 
 Opět jsem se začínal bát, že mě Philip pošle do háje, protože to byla další "skartovaná" práce.
