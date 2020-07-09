@@ -200,7 +200,7 @@ Hotovo, padla. Obálka k malému dobrodružství ve sklepě byla na světě.
 
 Zbývala poslední veliká věc a to ta největší. Obálka k Dračímu odkazu.
 
-#### Dračí odkaz
+### Dračí odkaz
 
 Spolupráce s ticho762probíhala bez zádrhelů. Dokázal jak zhmotňovat mé představy, tak se i ozvat, když jsem chtěl blbost.
 
@@ -219,23 +219,23 @@ V názvu *Dračí odkaz* byla špetka nostalgie, pachuť přízemnosti, náznak 
 
 Fajn, a teď tu obálku, poručil jsem si. Pěkně nesourodou partu dobrodruhů, v nichž si každý divák dokáže vybrat své alter ego.
 
-##### Tři návrhy 
+#### Tři návrhy 
 Ticho762 na sebe nenechal dlouho čekat 
 
 *16. 5. 2019*
 
-###### návrh "Družina dobrodruhů v zatáčce do vrchu"
-![návrh "Družina dobrodruhů v zatáčce"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_1.png?version=014ae244a8701b021543eb02a8d09ee0)
+##### První návrh - "Při výstupu"
+![První návrh - "Družina dobrodruhů v zatáčce"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_1.png?version=014ae244a8701b021543eb02a8d09ee0)
 
 ---
 
-###### návrh "Družina dobrodruhů v průsmyku"
-![návrh "Družina dobrodruhů v průsmyku"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_2.png?version=014ae244a8701b021543eb02a8d09ee0)
+##### Druhý návrh - "V průsmyku"
+![Druhý návrh - "Družina dobrodruhů v průsmyku"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_2.png?version=014ae244a8701b021543eb02a8d09ee0)
 
 ---
 
-###### návrh "Družina dobrodruhů v říčním meandru"
-![návrh "Družina dobrodruhů v říčním meandru"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_3.png?version=014ae244a8701b021543eb02a8d09ee0)
+##### Třetí návrh - "V říční zákrutě"
+![Třetí návrh - "Družina dobrodruhů v říční zákrutě"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_3.png?version=014ae244a8701b021543eb02a8d09ee0)
 
 ---
 
@@ -247,9 +247,59 @@ Kamenný artefakt, ať už ulomená obří hlava, milníky s obličeji (či snad
 
 Následovalo několik pingpongů přes email, co je jak povedené a který návrh postoupí do finále.
 
-##### Vybíráme jeden z návrhů
+#### Shoda
 
 První, na čem jsme se shodli, bylo to okaté rádoby logo s dračím zárodkem na obloze. Bylo příliš složité, zároveň jednoznačné a zároveň se to nehodilo na obálku obecných pravidel.
 Kdybychom logo zjenodušili, aby více provokovalo fantasii a dávalo jenom tušit, co to je, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro jakýkoli fantasy svět neměl co dělat. Škrtáme ho.
 
-Druhé, na čem jsme našli shodu, byť už to nebylo až tak jednoznačné, 
+Druhé, na čem jsme našli shodu, byť už to nebylo až tak jednoznačné, byla stopa dávných časů. Kamenný artefakt, který ze severu obrůstá mech a z jihu na něj usedají mouchy a spocení cestovatelé.
+Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
+
+Zbývalo už jenom vybrat si jednu ze tří scenérií. Po krátkém váhání jsem zvolil výstup do vrchu a to z prostého důvodu. Nejvíc mi to přípomínalo čundr v české kotlině. Ne, vážně, bylo to pro mě nejvíc přirozené, hřejivě známé a přitom stále dobrodružné. Přesně to jsem potřeboval.
+
+Prostředí bylo vybrané, hlavní dominanta taky, mohl jsem se začít těšit na "nahozenou" verzi.
+
+#### Hledači pokladů
+
+K vybrané scéně jsem pro ticho762 i pro sebe sama sepsal okmažiky jednoho z dobrodruhů.
+
+*Celý jeho život byl závod s časem. Vždycky byl všude o kousek dřív, než ostatní, rozhodoval se dříve, než ostatní, utíkal dříve, než ostatní a to ho drželo při životě. Jenže celý život běžet, to nejde vydržet věčně. Začínal z toho být unavený. Chtěl se už konečně zastavit a vydechnout si. Chtěl zažít ten pocit, že když nic neudělá, tak se nic nestane. Chtěl se už na stará kolena usadit.*
+
+*Proto vzal zavděk dělat průvodce zelenáčům, kteří mu slíbili podíl na kořisti. Dost velký na to, aby po něm už nemusel nikam. Už nikdy.*
+
+*A tak tu stál. Před monumentem, na který byl čas krátký. Před sochařským dílem, které na něj čekalo a nikam nespěchalo. Kdyby přišel až zítra, za rok, za sto let, pořád by tu odpočívala ještěří hlava, s víčky přivřenými, hubou zavřenou a lišejníkem v každém záhybu. Připadal si jako vyjukaný mladík, nejistý v nové situaci, tváří v tvář vysněnému cíli. Zastavenému času. Byl to zvláštní, neznámý a hřejivý pocit zároveň. Byl to strach z neznáma, bezohledně vrostlý to touhy a očekávání.
+"V pořádku?" Ozval se za ním hlas na oko starostlivý, v jádru podezřívavý, "trochu se chvěješ."
+Rychle si promnul obličej, "to víš, už nejsem nejmladší", odvětil co nejklidněji. A s tím vytasil teatrálně meč. Sázel na to, že zelenáči při tomhle gestu padnou na zadek. Pak už se jen letmo na své svěřence usmál a vykročil k nepřátelským kopřivám. Neměl čas se vybavovat, musel stihnout své klidné stáří.*
+
+A ticho762 se do toho opřel.
+
+*10. 6. 2019*
+![Hledači pokladů v barvě](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
+
+Bylo v tom to, co jsem chtěl a ještě líp a bylo v tom to, co jsem chtěl, ale hůř.
+
+Takhle v barvě už bylo hodně znát, že kresba nevyzývá k akci, ale pouze pozoruje družiníky z pozvdálí. Přesně jak vnitřně potřebuju, v pořádku.
+
+Ticho762 přidal mulu, od prostého vybavení nejmladšího účastníka po nákladnou výstroj nejstaršího, vidle, mapu, tlumoky, čapky, vousy, vlasy i pleše... nádhera!
+
+Na dominantě obrazu, vytesané dračí hlavě, mě něco rušilo. Jako kdyby to byla nějaká zvětšenina, namísto pokusu o podobiznu. Čím to? Po chvíli mi to docvaklo - to ty obrovské šupiny. Kdyby byl takhle veliký nějaký tvor, určitě by jich měl mnohem víc a menších.
+
+Na obloze jsme pak zkusili s ticho762 nahradit původní dračí zárodek za něco méně okatého. Napadl nás náznak dračího oka, které považuji za takový univerzální symbol čehokoliv kolem "dračáku". Ale vyšlo nám z toho oko Saurona a ještě k tomu to opět nabourávalo tu prostou možnost zasadit výjev s dobrodruhy do **jakéhokoliv** světa. Prostě to bylo příliš svazující.
+
+A potom detaily. Detaily detaily detaily. Chtěl jsem různé boty, někoho s batohem, střelnou zbraň, hory v pozadí...
+
+---
+
+Ticho762 nelenil a po dvoiu týdnech poslal úpravy.
+
+*27. 6. 2019*
+
+![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
+
+Jinoch přišel o boty, chlapík s vidlemi dostal sandále, drak jemnější šupiny, všichni cestovatelé detailů až oči přecházely, v pozadí horské štíty evokovaly dálku a protivně výrazné oko na obloze zakryl mrak.
+
+Začíalo to vypadat k světu a já se začal s obálkou chlubit. A začaly přicházet první reakce z mého okolí.
+
+#### TODO První reakce 
+
+Dominanta obrazu, vytesaná dračí hlava, ta už mě tak nenadchla. Miluju náznaky, které dráždí fantasii a způsobují, že se diváci nemůžou v představách shodnout. Tahle hlava ale vypadala jako živá, jako kdyby se tam skrývala opravdová obluda, které si z nějakého naprosto záhadného důvodu ani jeden člen výpravy nevšiml.
