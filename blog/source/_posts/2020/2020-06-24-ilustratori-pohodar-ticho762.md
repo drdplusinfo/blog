@@ -245,12 +245,12 @@ Stočený drak na místě slunce byl můj požadavek. Hledal jsem tímhle způso
 
 Kamenný artefakt, ať už ulomená obří hlava, milníky s obličeji (či snad to jsou náhrobky?) nebo topící se obří socha v záhybu řeky, to všechno je osobní iniciativa ticho762. On má tyhle napůl zaváté stopy padlých civilizací k smrti rád.
 
-Následovalo několik pingpongů přes email, co je jak povedené a který návrh postoupí do finále.
+Počkal jsem několik dní, až se vě mě odplaví rychlokvašné pocity a zůstanou dlouhodobé. Sotva přišel správný čas, spustil jsem na ticho762 lavinu své digitální výmluvnosti a začali jsme řešit jednotlivé části výjevů.
 
 #### Shoda
 
 První, na čem jsme se shodli, bylo to okaté rádoby logo s dračím zárodkem na obloze. Bylo příliš složité, zároveň jednoznačné a zároveň se to nehodilo na obálku obecných pravidel.
-Kdybychom logo zjenodušili, aby více provokovalo fantasii a dávalo jenom tušit, co to je, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro jakýkoli fantasy svět neměl co dělat. Škrtáme ho.
+Kdybychom logo zjenodušili, aby více provokovalo fantasii a dávalo jenom tušit, co to je, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro jakýkoli fantasy svět neměl co dělat. Škrtli jsme ho.
 
 Druhé, na čem jsme našli shodu, byť už to nebylo až tak jednoznačné, byla stopa dávných časů. Kamenný artefakt, který ze severu obrůstá mech a z jihu na něj usedají mouchy a spocení cestovatelé.
 Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
@@ -261,7 +261,7 @@ Prostředí bylo vybrané, hlavní dominanta taky, mohl jsem se začít těšit 
 
 #### Hledači pokladů
 
-K vybrané scéně jsem pro ticho762 i pro sebe sama sepsal okmažiky jednoho z dobrodruhů.
+K vybrané scéně jsem pro ticho762 i pro sebe sama sepsal okamžiky jednoho z dobrodruhů.
 
 *Celý jeho život byl závod s časem. Vždycky byl všude o kousek dřív, než ostatní, rozhodoval se dříve, než ostatní, utíkal dříve, než ostatní a to ho drželo při životě. Jenže celý život běžet, to nejde vydržet věčně. Začínal z toho být unavený. Chtěl se už konečně zastavit a vydechnout si. Chtěl zažít ten pocit, že když nic neudělá, tak se nic nestane. Chtěl se už na stará kolena usadit.*
 
@@ -280,7 +280,7 @@ Bylo v tom to, co jsem chtěl a ještě líp a bylo v tom to, co jsem chtěl, al
 
 Takhle v barvě už bylo hodně znát, že kresba nevyzývá k akci, ale pouze pozoruje družiníky z pozvdálí. Přesně jak vnitřně potřebuju, v pořádku.
 
-Ticho762 přidal mulu, od prostého vybavení nejmladšího účastníka po nákladnou výstroj nejstaršího, vidle, mapu, tlumoky, čapky, vousy, vlasy i pleše... nádhera!
+Ticho762 přidal mulu, hadry mladíkovi a zbraně veteránovi, vidle, mapu, tlumoky, čapky, vousy, vlasy i pleše... nádhera!
 
 Na dominantě obrazu, vytesané dračí hlavě, mě něco rušilo. Jako kdyby to byla nějaká zvětšenina, namísto pokusu o podobiznu. Čím to? Po chvíli mi to docvaklo - to ty obrovské šupiny. Kdyby byl takhle veliký nějaký tvor, určitě by jich měl mnohem víc a menších.
 
@@ -290,15 +290,15 @@ A potom detaily. Detaily detaily detaily. Chtěl jsem různé boty, někoho s ba
 
 ---
 
-Ticho762 nelenil a po dvoiu týdnech poslal úpravy.
+Ticho762 nelenil a po dvou týdnech poslal úpravy.
 
 *27. 6. 2019*
 
 ![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
 
-Jinoch přišel o boty, chlapík s vidlemi dostal sandále, drak jemnější šupiny, všichni cestovatelé detailů až oči přecházely, v pozadí horské štíty evokovaly dálku a protivně výrazné oko na obloze zakryl mrak.
+Jinoch přišel o boty, chlapík s vidlemi dostal sandále, dračí bysta jemnější šupiny, všichni cestovatelé detailů až oči přecházely, v pozadí horské štíty evokovaly dálku a protivně výrazné oko na obloze zakryl mrak.
 
-Začíalo to vypadat k světu a já se začal s obálkou chlubit. A začaly přicházet první reakce z mého okolí.
+Začínalo to vypadat k světu a já se začal s obálkou chlubit. A začaly přicházet první reakce z mého okolí.
 
 #### TODO První reakce 
 
