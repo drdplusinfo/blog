@@ -19,6 +19,12 @@ if ($lastArticlePath) {
     $lastArticleTitle = $matches['title'];
 }
 
+function assembleUrl(string $filePath): string {
+    $urlPath = preg_replace('~^.*/(blog/\d+/.+)/index[.]html$~', '$1', $filePath);
+    $host = preg_replace('~^update[.]~', '', $_SERVER['HTTP_HOST']);
+    return $_SERVER['REQUEST_SCHEME'] . '://' . $host . '/' . $urlPath;
+}
+
 header('Content-Type: application/json');
 header('Cache-Control: no-cache');
 header('Access-Control-Allow-Origin: *');
@@ -27,6 +33,7 @@ echo json_encode([
     'data' => [
         'last_article_date' => max($dates)->format(DATE_ATOM),
         'last_article_title' => $lastArticleTitle ? trim($lastArticleTitle) : '',
+        'last_article_url' => $lastArticlePath ? assembleUrl($lastArticlePath) : '',
     ],
     'generated' => (new DateTime())->format(DATE_ATOM),
 ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
