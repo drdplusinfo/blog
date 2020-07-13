@@ -200,7 +200,7 @@ Hotovo, padla. Obálka k malému dobrodružství ve sklepě byla na světě.
 
 Zbývala poslední veliká věc a to ta největší. Obálka k Dračímu odkazu.
 
-### Dračí odkaz
+### Obálka pro Dračí odkaz
 
 Spolupráce s ticho762probíhala bez zádrhelů. Dokázal jak zhmotňovat mé představy, tak se i ozvat, když jsem chtěl blbost.
 
@@ -337,3 +337,52 @@ Posuďte sami:
 - [Zasloužilý sebemrskač](2020-06-04-zaslouzily-sebemrskac.md)
 *(sebemrskač s nuceným úsměvem)*
 ![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
+
+Tyhle malé kresby lítaly ráz na ráz. Ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
+
+Jen jednou jedinkrát se mi rozezvučelo varování, když se sebe mrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
+
+A to je zatím všechno.
+
+
+## Závěrem
+
+ticho762 je nakažlivě pozitivní (sakra, to se v dnešní době říkat nesmí... no prostě s úsměvem až za roh) a spolupráce s ním je veselá až rozjásaná.
+Naučil mě, že návrh je v tvorbě sakra důležitý a že i do malého prostoru se pohodlně vejde silná scéna.
+
+Ze všech kreseb, které jsem od něj potřeboval, jsme zatím nedokončili jen tu nejrozsáhlejší, u které jsme si museli dát pauzu. Ale to už se u velkých projektů stává. Však není všem dnům konec.
+
+Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám propůjčil a těším se na další kresby!
+
+#### Ke stažení
+
+*vlastníkem ilustrací je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
+
+- [*Do sklepa* - 2 480px × 3 508 px, 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
+
+- [Odlétající sčot - *Loučíme se s počítadly* - 300 px × 300 px, 138 kB](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png?version=7d244ab941cf1a1f441704468e04d62f)
+
+- [Paralympijský dobrodruh - *Únava jako...* - 300 px × 300 px, 160 kB](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png)
+
+- [Sešívaný fešák bez chybičky - *Technický milník - bez chyby* - 300 px × 300 px, 150 kB](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
+
+- [Sebe mrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
+
+### Epilog
+
+(text, který nám vznikl jako reakce na změnu scény na [obálce pro Dračí odkaz](#obalka-pro-draci-odkaz)).
+
+*Stál a zhluboka dýchal. Nasával atmosféru toho místa. V prohřátém vzduchu letního dne cítil heřmánek, mateřídoušku, sluncem rozpálený svor i vzdálený pach, který nebyl s to nikam zařadit. A ještě něco. Mystickou sílu tohoto místa, kterou obří socha spíše narušovala, než aby ji podtrhla. Nepříjemně ho lechtalo na zátylku, jak se snažil svůj pocit zaškatulkovat. Cítí snad silnou událost dávnověku? Míří sem vlákna budoucích? Nebo se tu sbíhají duše před Posledním pochodem? Skrývá se zde jakási mocnost? Nebo tu vyvěrá víra prostých obyvatel?*
+*Nemohl se soustředit, slepé oči ještěří hlavy mu stále strhávaly pozornost. Silně se mu chtělo jim odseknout něco neslušného. A být tam sám, asi by hlasitě zavzpomínal na nepovedená léta v přístavním skladu.*
+
+*Zavřel oči a začal se pomalu otáčet, nohama přešlapoval jako holub na střeše, celým tělem, celou duší se snažil napojit na ten zvláštní pocit. Jako by se tu setkávalo všechno. Křehká síla zrození, zuřivá moc života, klidná energie odcházení, vzdálený chlad věků i palčivost zřídel. Proč zrovna tady? Copak není na světě tajuplnějších míst, kde by se taková zvláštnost vyjímala samozřejměji?*
+*Cítil, jak se v něm spojují nitky poznání, jak se v něm spřádá pocit, kterému stačí už jen kousek, aby tajemství tohoto místa přeskočilo z podvědomí do vědomí, aby odhalil... Sakra! Nemohl se zbavit pocitu, že ho někdo sleduje. Těch slepých očí. Kamkoli se natočil, jakkoli se nutil do soustředění, do klidu, pořád ho dráždil slepý zrak dračí sochy. Její pohled vnímal stejně neodbytně, jako síly vířící kolem.*
+
+*Ano, to je ono, to je ono! Vír. Kde to jenom slyšel? Kdyby se tak jenom mohl soustředit a nechat vzpomínky vyplavat na povrch. Kdyby... kdyby alespoň ten divný zápach neútočil na jeho smysly!*
+
+*Stál, před sebou širý kraj, za sebou ještěří sochu, v hlavě vír myšlenek. V tom do něj cosi narazilo zezadu. Letmo a jaksi opatrně, jako když smrtka oťukává svého příštího zákazníka. Ovanul ho příšerný puch. Přímo do ucha mu cosi zasyčelo jakési "Hešsrčk". Cítil krůpěje potu, jak si hledají cestu mezi jeho obratli. Zvolna, jako ve snách se otočil, odhodlán přežít. Ale nic ho nemohlo připravit na pohled, který se mu naskytl.*
+
+*Mladík, sotva dorostlý otcovým dřevákům, olizoval přímo před jeho obličejem z ušmudlaného plátna rozbředlý, přezrálý sýr. Jeho puch musel co chvíli přivábit pramatku všech much. Jen co dojedl, hlasitě si říhl, vytáhl z mošny přídavek a tentokráte s prázdnou pusou opět nabízel, "Tak co, chceš ty syrečky? Za chvíli nebudou."*
+Co nejzdvořileji ho odmítl.
+
+*Stál a zhluboka dýchal. Nasával atmosféru toho místa. V prohřátém vzduchu letního dne cítil heřmánek, mateřídoušku, sluncem rozpálený svor i blízký pach, který vycházel z úst jeho společníků. A ještě něco. Mystické síly, které se ve víru točily kolem. A slepý pohled, který ho nespouštěl z očí.*
