@@ -94,17 +94,17 @@ Ticho762 se s tím opět nemazal a ještě týž den jsem měl na stole dokonalo
 
 ![Opět lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png?version=7d244ab941cf1a1f441704468e04d62f)
 
-Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak prostorová hloubka, tak i světelná s přechodem od osvětleného měsíce až po temný kout vesmíru.
+Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak prostorová, tak i světelná s přechodem od osvětleného měsíce až po temný kout vesmíru.
 
 **První výsledek byl s ticho762 povznášejícím způsobem bezbolestný a kvalitní. Těšil jsem se na další spolupráci.**
 
 #### Dobrodružství ve sklepě
 
-Odlétající sčot byla odlehčená ilustrace pro malý článek na blog. A články na blogu mají jepičí život. Takže tam jsem potřeboval něco prostého a úderného. A taky stačilo malého. Ale obálka k dobrodružství, to už byla jiná.
+Odlétající sčot byla odlehčená ilustrace pro malý článek na blog. A články na blogu mají jepičí život. Takže tam jsem potřeboval něco prostého a úderného. Ale obálka k dobrodružství, to už byla jiná.
 
-Chtěl jsem atmosférický obraz, který čtenáře naladí na ponurou atmosféru špatně osvětleného, stísněného prostoru, který je na první pohled používaný a na druhý pohled už méně.
+Chtěl jsem náladový obraz, který čtenáře naladí na ponurou atmosféru špatně osvětleného, stísněného prostoru, který je na první pohled používaný a na druhý pohled už méně.
 
-tcho762 poslal dva návrhy:
+ticho762 poslal dva návrhy:
 
 *14. 5. 2019*
 
@@ -118,7 +118,7 @@ tcho762 poslal dva návrhy:
 
 Opět musím říct, že zaplaťpánbu za návrhy. Kdyby se ticho762 hned vrhnul do detailní kresby, asi by vyhodil dost času.
 
-Teprve při pohledu na návrhy mi došlo, že chci obyčejně vypadající sklep. Žádné točité schody a závratná hloubka. To se hodí spíš do zřícenin hradů. Návrh na výšku tedy padl.
+Teprve při pohledu na návrhy mi došlo, že chci obyčejně vypadající sklep. Žádné točité schody a závratná hloubka. To se hodí spíš do zřícenin hradů. Návrh s točitými shody tedy padl.
 
 A taky mi došlo, že pohled na hlavního hrdinu rozhodně nechci. V tom je jedna z myšlenek onoho dobrodružství. Je určené pro nerozhodné začátečníky, které by odradilo kde co. Třeba to, že se nedokáží ztotožnit s navrhovaným hrdinou. A taky jsem chtěl, aby se hráč sám mohl svobodně rozhodnout, jak vypadá, ba dokonce jestli bude muž, nebo žena.
 Proto jsem přijal obyčejněji vypadající sklep v návrhu na šířku, ale odmítl hlavního protagonistu jako středobod ilustrace.
@@ -135,7 +135,7 @@ Možná si jist nebyl, ale výsledek stál za to.
 
 ![Skica "do sklepa" z pohledu první osoby](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_z_prvni_osoby.png?version=1d40acdc922e47c7926fbc2e4de701a3)
 
-To je ono! Úplně to dráždí vykašlat se na to a vzít nohy na ramena, nebo aspoň zahulákat do tmy.
+To je ono! Úplně to dráždí otočit se na patě a vzít nohy na ramena, nebo aspoň zakřičet do tmy.
 
 Poprosil jsem ticho762, aby to nahodil na výšku, protože to bude lépe odpovídat knižnímu formátu, kterého se obvykle u své tvorby držím.
 
@@ -179,7 +179,7 @@ Hodili jsme o tom řeč, našli konsenzus a těšil jsem se na úpravy.
 *29. 5. 2019*
 ![Upravená barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.1.png?version=233da2131bb360e1ecd0f0a771a56e8a)
 
-Opět bylo znát, že ticho762 se už nějaký ten pátek kreslením živí a kamarádí se výdobytky elektronického věku. Žádné ruční překreslování, ale úpravy vrstev v grafickém editoru.
+Opět bylo znát, že ticho762 se už nějaký ten pátek kreslením živí a kamarádí se s výdobytky elektronického věku. Žádné ruční překreslování, ale úpravy vrstev v grafickém editoru.
 
 Ticho762 ztlumil jas, odsunul krysu, opravil pochroumaný sud, ořízl prkýnko s máslem, aby na něj více platily zákony fyziky.
 
@@ -196,13 +196,13 @@ Ticho762 poslal finální úpravu.
 - [originál ke stažení - *Do sklepa* - 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
     - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
-Hotovo, padla. Obálka k malému dobrodružství ve sklepě byla na světě.
+Hotovo, padla. Obálka k *malému dobrodružství ve sklepě* byla na světě.
 
 Zbývala poslední veliká věc a to ta největší. Obálka k Dračímu odkazu.
 
 ### Obálka pro Dračí odkaz
 
-Spolupráce s ticho762probíhala bez zádrhelů. Dokázal jak zhmotňovat mé představy, tak se i ozvat, když jsem chtěl blbost.
+Spolupráce s ticho762 probíhala bez zádrhelů. Dokázal jak zhmotňovat mé představy, tak se i ozvat, když jsem chtěl blbost.
 
 Největší zkouška našeho vztahu ale měla teprve přijít.
 
@@ -249,10 +249,10 @@ Počkal jsem několik dní, až se vě mě odplaví rychlokvašné pocity a zůs
 
 #### Shoda
 
-První, na čem jsme se shodli, bylo to okaté rádoby logo s dračím zárodkem na obloze. Bylo příliš složité, zároveň jednoznačné a zároveň se to nehodilo na obálku obecných pravidel.
-Kdybychom logo zjednodušili, aby více provokovalo fantasii a dávalo jenom tušit, co to je, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro jakýkoli fantasy svět neměl co dělat. Škrtli jsme ho.
+První, na čem jsme se shodli, byla okatost rádoby loga s dračím zárodkem na obloze. Na logo to bylo příliš složité, zároveň jednoznačné a zároveň se to nehodilo na obálku obecných pravidel.
+Kdybychom logo zjednodušili, aby více provokovalo fantasii a dávalo jenom tušit, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro kterýkoliv fantasy svět neměl co dělat. Škrtli jsme ho.
 
-Druhé, na čem jsme našli shodu, byť už to nebylo až tak jednoznačné, byla stopa dávných časů. Kamenný artefakt, který ze severu obrůstá mech a z jihu na něj usedají mouchy a spocení cestovatelé.
+Druhé, na čem jsme našli shodu, byť to už nebylo až tak jednohlasné, byla stopa dávných časů. Kamenný artefakt, který ze severu obrůstá mech a z jihu na něj usedají mouchy a spocení cestovatelé.
 Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
 
 Zbývalo už jenom vybrat si jednu ze tří scenérií. Po krátkém váhání jsem zvolil výstup do vrchu a to z prostého důvodu. Nejvíc mi to připomínalo čundr v české kotlině. Ne, vážně, bylo to pro mě nejvíc přirozené, hřejivě známé a přitom stále dobrodružné. Přesně to jsem potřeboval.
