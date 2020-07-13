@@ -293,13 +293,47 @@ A potom detaily. Detaily detaily detaily. Chtěl jsem různé boty, někoho s ba
 Ticho762 nelenil a po dvou týdnech poslal úpravy.
 
 *27. 6. 2019*
-
-![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
+![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.1.png)
 
 Jinoch přišel o boty, chlapík s vidlemi dostal sandále, dračí bysta jemnější šupiny, všichni cestovatelé detailů až oči přecházely, v pozadí horské štíty evokovaly dálku a protivně výrazné oko na obloze zakryl mrak.
 
 Začínalo to vypadat k světu a já se začal s obálkou chlubit. A začaly přicházet první reakce z mého okolí.
 
-#### TODO První reakce 
+#### První reakce 
 
-Dominanta obrazu, vytesaná dračí hlava, ta už mě tak nenadchla. Miluju náznaky, které dráždí fantasii a způsobují, že se diváci nemůžou v představách shodnout. Tahle hlava ale vypadala jako živá, jako kdyby se tam skrývala opravdová obluda, které si z nějakého naprosto záhadného důvodu ani jeden člen výpravy nevšiml.
+Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i na [Discordu drdplus.info](https://discord.com/invite/FVz5V3Q) a krom *"hmm, pěkné"* jsem dostal i dvě opakující se reakce:
+
+- Kamenná dračí hlava je tak dominantní a tak reálná, že hodně strhává pozornost. A hlavně polovina diváků nepoznala, že jde o sochu, nýbrž měli dojem, že poutníci jsou tupci, co si nevšimli nebezpečí a tudíž si o celém obrázku myslí, že je na hlavu, když se je snaží přesvědčit, že je taková scéna v pořádku.
+  - *Jo, hlavní dominanta ilustrace je dominantní až moc. A navíc miluju náznaky, které dráždí fantasii a způsobují, že se diváci nemůžou v představách shodnout - to ale neplatí o téhle soše, která měla evokovat lidovou tvorbu minulých staletí (takže by měla být trochu naivní, trochu nedokončená, trochu ošoupaná od návštěvníků, trochu obrostlá mechem a tak). Na tom budeme muset ještě zapracovat.*
+- Poutníci vypadají na hrdinskou fantazy nějak hodně obyčejně.
+  - *To je přesně to, co potřebuji a co bude prorůstat celým Dračím odkazem, takže tohle se nám s ticho762 povedlo na jedničku a je to v pořádku.*
+  
+A v tomhle stavu jsme se na obálce zasekli.
+Minulé léto bylo pro mě finálním přerodem z původní představy *"Dělám pokračování Dračího doupěte plus"* na *Inspiruju se Dračím doupětem plus, ale musím jít o dost jednodušší cestou"*, z čehož nakonec vznikl myšlenkový směr Dračího odkazu.
+
+A taky jsem měl pocit, že ticho762 přetěžuju, že dupu po detailech tak moc, až mu nezbývá prostor na radost z nespoutané tvorby, takže jsem chtěl pro nás pro oba chvíli pauzu.
+A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i Sirienovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
+
+Teď už se zase blízká na lepší časy a práci na obálce obnuvujeme. Pokud mi tedy ticho762 nedá vale, ale to uvidíme za pár dní.
+
+### Ještě něco na blog
+
+Zatímco naše spolupráce na obálce usnula, v lehkých kresbách k článkům na tomhle blogu jsme pokračovali v lehkém tempu dál. A jak jsme se vzjáemně stále více poznávali, tak i klesal počet slovních výměn, než jsem byl spokojený s výsledkem. Několik posledních kreseb jsem dokonce vzal na první dobrou v plné spokojenosti.
+
+Posuďte sami:
+
+- [Únava jako...](../2019/2019-09-13-unava-jako.md)
+*(paralympijský dobrodruh)*
+![Skica ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_skica_300x300.png) ![Ilustrace ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png)
+
+---
+
+- [Technický milník - bez chyby](../2019/2019-10-01-technicky-milnik-bez-chyby.md)
+*(fešák bez chybičky)*
+![Skica ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_skica_300x300.png) ![Ilustrace ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
+
+---
+
+- [Zasloužilý sebemrskač](2020-06-04-zaslouzily-sebemrskac.md)
+*(sebemrskač s nuceným úsměvem)*
+![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
