@@ -13,7 +13,7 @@ perex: |
 
 ## Bratři v triku
 
-Kdysi dávno, řekl bych tak 2014, napsal dlouholetý kamarád knížku.Jen tak. Prostě si sednul na múzu a vypadlo z něj několik desítek stran. Byla to malá knížka, skoro rodokaps, ale byla.
+Kdysi dávno, řekl bych tak 2014, napsal dlouholetý kamarád knížku. Jen tak. Prostě si sednul na múzu a vypadlo z něj několik desítek stran. Byla to malá knížka, skoro rodokaps, ale byla.
 Příběh mu našeptávaly prazážitky s našimi alter egy z ranného hraní "dračáku". 
 
 A pak napsal druhou a pak i třetí. Čtvrtou odložil rozepsanou, protože ho otcovské povinnosti odvolaly na neurčito. Ale tři knihy byly na světě, vytištěné v malém nákladu, prodávané za symbolickou cenu známým i méně známým, aby tak živily fantazii v hlavách čtenářů.
@@ -364,7 +364,7 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 *vlastníkem ilustrací je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
 
-- [*Do sklepa* - 2 480px × 3 508 px, 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg?version=8580fd6876421e28be80eef31bc25a97)
+- [První dobrodružství - *Do sklepa* - 2 480 px × 3 508 px, 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg?version=8580fd6876421e28be80eef31bc25a97)
 
 - [Odlétající sčot - *Loučíme se s počítadly* - 300 px × 300 px, 138 kB](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png?version=7d244ab941cf1a1f441704468e04d62f)
 
