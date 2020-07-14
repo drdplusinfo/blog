@@ -16,7 +16,7 @@ perex: |
 Kdysi dávno, řekl bych tak 2014, napsal dlouholetý kamarád knížku. Jen tak. Prostě si sednul na múzu a vypadlo z něj několik desítek stran. Byla to malá knížka, skoro rodokaps, ale byla.
 Příběh mu našeptávaly prazážitky s našimi alter egy z ranného hraní "dračáku". 
 
-A pak napsal druhou a pak i třetí. Čtvrtou odložil rozepsanou, protože ho otcovské povinnosti odvolaly na neurčito. Ale tři knihy byly na světě, vytištěné v malém nákladu, prodávané za symbolickou cenu známým i méně známým, aby tak živily fantazii v hlavách čtenářů.
+A pak napsal druhou a pak i třetí. Čtvrtou odložil rozepsanou, protože ho otcovské povinnosti odvolaly na neurčito. Ale tři knihy byly na světě, vytištěné v malém nákladu, prodávané za symbolickou cenu známým i méně známým, aby v nich živily plamínek fantazie.
 
 Jeden z výtisků se dostal k bývalému studentovy medicíny, který léčil pohybové aparáty tak dlouho, až prohlásil všechny pacienty za ignoranty a odešel do Orlických hor dělat dřevorubce. A od něj už to byl jenom kousek k Petrovi Novákovi, respektive ticho762, který nechal ducha knihy vstoupit do sebe a pak nechal sám sebe, aby nakreslil ducha knihy.
 
@@ -28,7 +28,7 @@ Jen tak pro radost tak dal tvář nerozlučné a přesto tolik odlišné dvojici
 
 Nechme kočky na pokoji a pokračujme v tom hlavním. Ve spolupráci s ticho762.
 
-Ilustraci dostal kamarád pisálek, inženýr gentleman, darem pěkně v originále, na velkém papíře. A ten plakát mu pak visel za zády, když uspořádal autorské čtení.
+Ilustraci dostal onen kamarád, pisálek, inženýr a gentleman v jednom, darem pěkně v originále, na velkém papíře. A ten plakát mu pak visel za zády, když pořádal autorské čtení.
 
 Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ještě jsem netušil, že s autorem ilustrace budu spolupracovat.
 
@@ -252,7 +252,7 @@ Počkal jsem několik dní, až se vě mě odplaví rychlokvašné pocity a zůs
 #### Shoda
 
 První, na čem jsme se shodli, byla okatost rádoby loga s dračím zárodkem na obloze. Na logo to bylo příliš složité, zároveň jednoznačné a zároveň se to nehodilo na obálku obecných pravidel.
-Kdybychom logo zjednodušili, aby více provokovalo fantasii a dávalo jenom tušit, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro kterýkoliv fantasy svět neměl co dělat. Škrtli jsme ho.
+Kdybychom logo zjednodušili, aby více provokovalo fantazii a dávalo jenom tušit, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro kterýkoliv fantasy svět neměl co dělat. Škrtli jsme ho.
 
 Druhé, na čem jsme našli shodu, byť to už nebylo až tak jednohlasné, byla stopa dávných časů. Kamenný artefakt, který ze severu obrůstá mech a z jihu na něj usedají mouchy a spocení cestovatelé.
 Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
@@ -306,7 +306,7 @@ Začínalo to vypadat k světu a já se začal s obálkou chlubit. A začaly př
 Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i na [Discordu drdplus.info](https://discord.com/invite/FVz5V3Q) a krom *"hmm, pěkné"* jsem dostal i dvě opakující se reakce:
 
 - Kamenná dračí hlava je tak dominantní a tak reálná, že hodně strhává pozornost. A hlavně polovina diváků nepoznala, že jde o sochu, nýbrž měli dojem, že poutníci jsou tupci, co si nevšimli nebezpečí a tudíž si o celém obrázku myslí, že je na hlavu, když se je snaží přesvědčit, že je taková scéna v pořádku.
-  - *Jo, hlavní dominanta ilustrace je dominantní až moc. A navíc miluju náznaky, které dráždí fantasii a způsobují, že se diváci nemůžou v představách shodnout - to ale neplatí o téhle soše, která měla evokovat lidovou tvorbu minulých staletí (takže by měla být trochu naivní, trochu nedokončená, trochu ošoupaná od návštěvníků, trochu obrostlá mechem a tak). Na tom budeme muset ještě zapracovat.*
+  - *Jo, hlavní dominanta ilustrace je dominantní až moc. A navíc miluju náznaky, které dráždí fantazii a způsobují, že se diváci nemůžou v představách shodnout - to ale neplatí o téhle soše, která měla evokovat lidovou tvorbu minulých staletí (takže by měla být trochu naivní, trochu nedokončená, trochu ošoupaná od návštěvníků, trochu obrostlá mechem a tak). Na tom budeme muset ještě zapracovat.*
 - Poutníci vypadají na hrdinskou fantasy nějak hodně obyčejně.
   - *To je přesně to, co potřebuji a co bude prorůstat celým Dračím odkazem, takže tohle se nám s ticho762 povedlo na jedničku a je to v pořádku.*
   
