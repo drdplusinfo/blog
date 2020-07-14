@@ -36,7 +36,7 @@ Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ješ
 
 > Ahoj, sice se neznáme, ale nosím tvou kresbu na tričku.
 
-Hledal jsem ilustrátora pro malé dobrodružství ve sklepě a protože [Philip Ward se tou dobou neozýval](2020-06-18-ilustratori-kouzelnik-philip-ward.md), tak jsem si vzpomněl na své tričko s reklamou na [DrdPlus.info](https://www.drdplus.info/), na kterém jsem hrdě nosil kresbu *elfa, krolla a číči v pozadí* a napsal nesmělý mail jejímu autorovi.
+Hledal jsem ilustrátora pro malé dobrodružství ve sklepě a protože [Philip Ward se tou dobou neozýval](2020-06-18-ilustratori-kouzelnik-philip-ward.md), tak jsem si vzpomněl na své tričko s reklamou na [DrdPlus.info](https://www.drdplus.info/), na kterém jsem hrdě nosil kresbu *elfa, krolla a číči v pozadí*, tu, kterou jsem poprvé uzřel na osudovém autorském čtení, a napsal nesmělý mail jejímu autorovi.
 
 Odpověděl prakticky obratem, ihned svým rozjásaným bohémským stylem a rovnou šel k věci. Kolik toho chci, kdy to chci a za kolik to chci. Bylo cítit, že ticho762 není žádné ořezávátko, ale že už má něco za sebou. A že ač umělec, tak také profík.
 
