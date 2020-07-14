@@ -193,10 +193,12 @@ Ticho762 poslal finální úpravu.
 
 *30. 5. 2019*
 ![Finální barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.2.png?version=7d63683d8f4e5db28f429e4588fc67d2)
-- [originál ke stažení - *Do sklepa* - 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
+- [originál ke stažení - *Do sklepa* - 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg?version=8580fd6876421e28be80eef31bc25a97)
     - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Hotovo, padla. Obálka k *malému dobrodružství ve sklepě* byla na světě.
+
+**I spolupráce na větší kresbě šlapala s ticho762 jako hodinky a přestože to už nějakou práci dalo, tak nepolevil ani před cílovou čárou. Popravdě jsem na začátku ani nedoufal, že výsledek bude pro mě tak opravdový.**
 
 Zbývala poslední veliká věc a to ta největší. Obálka k Dračímu odkazu.
 
@@ -230,12 +232,12 @@ Ticho762 na sebe nenechal dlouho čekat
 ---
 
 ##### Druhý návrh - "V průsmyku"
-![Druhý návrh - "Družina dobrodruhů v průsmyku"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_2.png?version=014ae244a8701b021543eb02a8d09ee0)
+![Druhý návrh - "Družina dobrodruhů v průsmyku"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_2.png?version=1db507a6fe4c4ecc2710720eaa05f2e9)
 
 ---
 
 ##### Třetí návrh - "V říční zákrutě"
-![Třetí návrh - "Družina dobrodruhů v říční zákrutě"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_3.png?version=014ae244a8701b021543eb02a8d09ee0)
+![Třetí návrh - "Družina dobrodruhů v říční zákrutě"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_3.png?version=0173aeec130ff762bf53875053a51ced)
 
 ---
 
@@ -261,7 +263,7 @@ Prostředí bylo vybrané, hlavní dominanta taky, mohl jsem se začít těšit 
 
 #### Hledači pokladů
 
-K vybrané scéně jsem pro ticho762 i pro sebe sama sepsal okamžiky jednoho z dobrodruhů.
+K vybrané scéně jsem pro ticho762 i pro sebe sama sepsal okamžiky jednoho z dobrodruhů:
 
 *Celý jeho život byl závod s časem. Vždycky byl všude o kousek dřív, než ostatní, rozhodoval se dříve, než ostatní, utíkal dříve, než ostatní a to ho drželo při životě. Jenže celý život běžet, to nejde vydržet věčně. Začínal z toho být unavený. Chtěl se už konečně zastavit a vydechnout si. Chtěl zažít ten pocit, že když nic neudělá, tak se nic nestane. Chtěl se už na stará kolena usadit.*
 
@@ -274,7 +276,7 @@ Rychle si promnul obličej, "to víš, už nejsem nejmladší", odvětil co nejk
 A ticho762 se do toho opřel.
 
 *10. 6. 2019*
-![Hledači pokladů v barvě](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
+![Hledači pokladů v barvě](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png?version=7e6eb836efc94d375c34257987e92a3a)
 
 Bylo v tom to, co jsem chtěl a ještě líp a bylo v tom to, co jsem chtěl, ale hůř.
 
@@ -293,13 +295,13 @@ A potom detaily. Detaily detaily detaily. Chtěl jsem různé boty, někoho s ba
 Ticho762 nelenil a po dvou týdnech poslal úpravy.
 
 *27. 6. 2019*
-![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.1.png)
+![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.1.png?version=4d89ee30a7278a763b6913a5ee70e2c4)
 
 Jinoch přišel o boty, chlapík s vidlemi dostal sandále, dračí bysta jemnější šupiny, všichni cestovatelé detailů až oči přecházely, v pozadí horské štíty evokovaly dálku a protivně výrazné oko na obloze zakryl mrak.
 
 Začínalo to vypadat k světu a já se začal s obálkou chlubit. A začaly přicházet první reakce z mého okolí.
 
-#### První reakce 
+#### První reakce na obálku
 
 Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i na [Discordu drdplus.info](https://discord.com/invite/FVz5V3Q) a krom *"hmm, pěkné"* jsem dostal i dvě opakující se reakce:
 
@@ -324,19 +326,19 @@ Posuďte sami:
 
 - [Únava jako...](../2019/2019-09-13-unava-jako.md)
 *(paralympijský dobrodruh)*
-![Skica ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_skica_300x300.png) ![Ilustrace ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png)
+![Skica ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_skica_300x300.png?version=497efcd9e50f1deef83a88f79a7f2c50) ![Ilustrace ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png?version=92cd325e5c5ee0f2eacfb7e2114bfd18)
 
 ---
 
 - [Technický milník - bez chyby](../2019/2019-10-01-technicky-milnik-bez-chyby.md)
 *(fešák bez chybičky)*
-![Skica ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_skica_300x300.png) ![Ilustrace ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
+![Skica ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_skica_300x300.png?version=966fe05d0e605e4b21d6843cdaf67c27) ![Ilustrace ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png?version=c3e3e46d53d240ff99d9bc2b5da3e833)
 
 ---
 
 - [Zasloužilý sebemrskač](2020-06-04-zaslouzily-sebemrskac.md)
 *(sebemrskač s nuceným úsměvem)*
-![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
+![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png?version=9eec9d6d6db7e7fd1ab87f66c23c7405) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
 Tyhle malé kresby lítaly ráz na ráz. Ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
 
@@ -358,15 +360,15 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 *vlastníkem ilustrací je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
 
-- [*Do sklepa* - 2 480px × 3 508 px, 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
+- [*Do sklepa* - 2 480px × 3 508 px, 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg?version=8580fd6876421e28be80eef31bc25a97)
 
 - [Odlétající sčot - *Loučíme se s počítadly* - 300 px × 300 px, 138 kB](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png?version=7d244ab941cf1a1f441704468e04d62f)
 
-- [Paralympijský dobrodruh - *Únava jako...* - 300 px × 300 px, 160 kB](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png)
+- [Paralympijský dobrodruh - *Únava jako...* - 300 px × 300 px, 160 kB](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png?version=92cd325e5c5ee0f2eacfb7e2114bfd18)
 
-- [Sešívaný fešák bez chybičky - *Technický milník - bez chyby* - 300 px × 300 px, 150 kB](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
+- [Sešívaný fešák bez chybičky - *Technický milník - bez chyby* - 300 px × 300 px, 150 kB](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png?version=c3e3e46d53d240ff99d9bc2b5da3e833)
 
-- [Sebe mrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
+- [Sebe mrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
 ### Epilog
 
