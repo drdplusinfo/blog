@@ -45,7 +45,7 @@ Nechtěl jsem ho ani přeplácet, ani odradit nízkými částkami, ale lezl jse
 
 Ticho762 ale opět ukázal, že je zkušený harcovník a několika dobře mířenými otázkami ze mě dostal zadání o hlavní ilustraci k dobrodružství ve sklepě a doprovodný obrázek k novému článku na blogu a k nim mi obratem poslal odhad ceny. A hned mě taky požádal o zálohu, protože život je pes a lidi jsou... no, nebudeme urážet zvířecí říši... prostě lidi.
 
-Slovo dalo slovo, ticho762 dostal zálohu, já slib a začali jsme kolečko se skicami. To byla pro mě opět nová zkušenost a ticho762 mě ani v tomhle nenechal na holičkách. Věděl, že myslet si, že něco chceme, ještě neznamená, že to budeme chtít, až to dostaneme.
+Slovo dalo slovo, ticho762 dostal zálohu, já slib a začali jsme kolečko se skicami. To byla pro mě opět nová zkušenost a ticho762 mě ani v tomhle nenechal na holičkách. Věděl, že myslet si, že něco chci, ještě neznamená, že to budu chtít, až to dostanu.
 A rychlé náčrty scény byly ideální nástroj, jak ve mě zamáčknout, co si myslím, že chci a vymáčknout ze mě, co opravdu chci.
 
 #### Sbohem, kalkulátory
