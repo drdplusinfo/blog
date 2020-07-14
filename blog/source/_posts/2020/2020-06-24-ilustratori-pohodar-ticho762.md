@@ -84,7 +84,7 @@ To byl fofr. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadal
 Takže žádost o malou úpravu pro něj bylo pár kliknutí v jeho oblíbeném editoru.
 
 Bylo to už téměř dokonalé, chyběl poslední detail:
-- otvory v předposledním a posledním korálku byly stejné, přestože ve velikosti byly korálky samotné kvůli perspektivě dost rozdílné - bylo to divné a opět to nutilo diváka myslet, proč to tak je
+- otvory v předposledním a posledním korálku by měly být různě veliké, protože i korálky byly kvůli perspektivě různě veliké - bylo to divné a opět to nutilo diváka **přemýšlet**
 
 ---
 
