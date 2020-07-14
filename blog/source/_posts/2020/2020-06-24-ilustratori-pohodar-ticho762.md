@@ -28,7 +28,7 @@ Jen tak pro radost tak dal tvář nerozlučné a přesto tolik odlišné dvojici
 
 Nechme kočky na pokoji a pokračujme v tom hlavním. Ve spolupráci s ticho762.
 
-Ilustraci dostal onen kamarád, pisálek, inženýr a gentleman v jednom, darem pěkně v originále, na velkém papíře. A ten plakát mu pak visel za zády, když pořádal autorské čtení.
+Ilustraci dostal onen kamarád-pisálek-inženýr-gentleman darem pěkně v originále, na velkém papíře. A ten plakát mu pak visel za zády, když pořádal autorské čtení.
 
 Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ještě jsem netušil, že s autorem ilustrace budu spolupracovat.
 
