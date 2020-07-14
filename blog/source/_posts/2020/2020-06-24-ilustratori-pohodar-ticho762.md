@@ -316,7 +316,9 @@ Minulé léto bylo pro mě finálním přerodem z původní představy *"Dělám
 A taky jsem měl pocit, že ticho762 přetěžuju, že dupu po detailech tak moc, až mu nezbývá prostor na radost z nespoutané tvorby, takže jsem chtěl pro nás pro oba chvíli pauzu.
 A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i Sirienovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
 
-Teď už se zase blízká na lepší časy a práci na obálce obnovujeme. Pokud mi tedy ticho762 nedá vale, ale to uvidíme za pár dní.
+Teď už se zase blízká na lepší časy a práci na obálce obnovujeme.
+
+**Obálka je zatím naše nejobtížnější společná tvorba a postupujeme vpřed jen malými, opatrnými kroky. Mírou svých požadavků už citelně dusím uměleckého ducha, kterého v sobě ticho762 má a našlapuji proto opatrnými kroky, jako na přetížené lávce. Je to pro mě velká zkušenost.**
 
 ### Ještě něco na blog
 
@@ -354,6 +356,8 @@ Naučil mě, že návrh je v tvorbě sakra důležitý a že i do malého prosto
 
 Ze všech kreseb, které jsem od něj potřeboval, jsme zatím nedokončili jen tu nejrozsáhlejší, u které jsme si museli dát pauzu. Ale to už se u velkých projektů stává. Však není všem dnům konec.
 
+Všechny dokončené kresby mají v sobě jiskru a opravdovost a jsem rád za každou, že vznikla.
+
 Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám propůjčil a těším se na další kresby!
 
 #### Ke stažení
@@ -372,7 +376,7 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 ### Epilog
 
-(text, který nám vznikl jako reakce na změnu scény na [obálce pro Dračí odkaz](#obalka-pro-draci-odkaz)).
+(s odkazem na [obálku pro Dračí odkaz](#obalka-pro-draci-odkaz)).
 
 *Stál a zhluboka dýchal. Nasával atmosféru toho místa. V prohřátém vzduchu letního dne cítil heřmánek, mateřídoušku, sluncem rozpálený svor i vzdálený pach, který nebyl s to nikam zařadit. A ještě něco. Mystickou sílu tohoto místa, kterou obří socha spíše narušovala, než aby ji podtrhla. Nepříjemně ho lechtalo na zátylku, jak se snažil svůj pocit zaškatulkovat. Cítí snad silnou událost dávnověku? Míří sem vlákna budoucích? Nebo se tu sbíhají duše před Posledním pochodem? Skrývá se zde jakási mocnost? Nebo tu vyvěrá víra prostých obyvatel?*
 *Nemohl se soustředit, slepé oči ještěří hlavy mu stále strhávaly pozornost. Silně se mu chtělo jim odseknout něco neslušného. A být tam sám, asi by hlasitě zavzpomínal na nepovedená léta v přístavním skladu.*
@@ -385,6 +389,6 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 *Stál, před sebou širý kraj, za sebou ještěří sochu, v hlavě vír myšlenek. V tom do něj cosi narazilo zezadu. Letmo a jaksi opatrně, jako když smrtka oťukává svého příštího zákazníka. Ovanul ho příšerný puch. Přímo do ucha mu cosi zasyčelo jakési "Hešsrčk". Cítil krůpěje potu, jak si hledají cestu mezi jeho obratli. Zvolna, jako ve snách se otočil, odhodlán přežít. Ale nic ho nemohlo připravit na pohled, který se mu naskytl.*
 
 *Mladík, sotva dorostlý otcovým dřevákům, olizoval přímo před jeho obličejem z ušmudlaného plátna rozbředlý, přezrálý sýr. Jeho puch musel co chvíli přivábit pramatku všech much. Jen co dojedl, hlasitě si říhl, vytáhl z mošny přídavek a tentokráte s prázdnou pusou opět nabízel, "Tak co, chceš ty syrečky? Za chvíli nebudou."*
-Co nejzdvořileji ho odmítl.
+*Poněkud kvapně odmítl.*
 
 *Stál a zhluboka dýchal. Nasával atmosféru toho místa. V prohřátém vzduchu letního dne cítil heřmánek, mateřídoušku, sluncem rozpálený svor i blízký pach, který vycházel z úst jeho společníků. A ještě něco. Mystické síly, které se ve víru točily kolem. A slepý pohled, který ho nespouštěl z očí.*
