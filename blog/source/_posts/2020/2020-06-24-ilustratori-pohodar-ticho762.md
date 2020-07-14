@@ -100,7 +100,7 @@ Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak p
 
 #### Dobrodružství ve sklepě
 
-Odlétající sčot byla odlehčená ilustrace pro malý článek na blog. A články na blogu mají jepičí život. Takže tam jsem potřeboval něco prostého a úderného. Ale obálka k dobrodružství, to už byla jiná.
+Odlétající sčot byla odlehčená ilustrace pro malý článek na blog. A články na blogu mají jepičí život. Takže tam stačilo něco prostého a úderného. Ale obálka k dobrodružství, to už byla jiná.
 
 Chtěl jsem náladový obraz, který čtenáře naladí na ponurou atmosféru špatně osvětleného, stísněného prostoru, který je na první pohled používaný a na druhý pohled už méně.
 
@@ -118,9 +118,9 @@ ticho762 poslal dva návrhy:
 
 Opět musím říct, že zaplaťpánbu za návrhy. Kdyby se ticho762 hned vrhnul do detailní kresby, asi by vyhodil dost času.
 
-Teprve při pohledu na návrhy mi došlo, že chci obyčejně vypadající sklep. Žádné točité schody a závratná hloubka. To se hodí spíš do zřícenin hradů. Návrh s točitými shody tedy padl.
+Teprve při pohledu na črty mi došlo, že chci obyčejně vypadající sklep. Žádné točité schody a závratná hloubka. To se hodí spíš do zřícenin hradů. Návrh s točitými shody tedy padl.
 
-A taky mi došlo, že pohled na hlavního hrdinu rozhodně nechci. V tom je jedna z myšlenek onoho dobrodružství. Je určené pro nerozhodné začátečníky, které by odradilo kde co. Třeba to, že se nedokáží ztotožnit s navrhovaným hrdinou. A taky jsem chtěl, aby se hráč sám mohl svobodně rozhodnout, jak vypadá, ba dokonce jestli bude muž, nebo žena.
+A taky mi došlo, že pohled na hlavního hrdinu rozhodně nechci. V tom je jedna z myšlenek onoho dobrodružství. Je určené pro nerozhodné začátečníky, které by odradilo kde co. Třeba to, že se nedokáží ztotožnit s navrhovaným hrdinou. A taky jsem chtěl, aby se hráč sám mohl svobodně rozhodnout, jak ve hře vypadá, ba dokonce jestli bude muž, nebo žena.
 Proto jsem přijal obyčejněji vypadající sklep v návrhu na šířku, ale odmítl hlavního protagonistu jako středobod ilustrace.
 
 Nezkusil by to ticho762 bez obličeje? Nejlépe z pohledu první osoby?
