@@ -20,7 +20,7 @@ A pak napsal druhou a pak i třetí. Čtvrtou odložil rozepsanou, protože ho o
 
 Jeden z výtisků se dostal k bývalému studentovy medicíny, který léčil pohybové aparáty tak dlouho, až prohlásil všechny pacienty za ignoranty a odešel do Orlických hor dělat dřevorubce. A od něj už to byl jenom kousek k Petrovi Novákovi, respektive ticho762, který nechal ducha knihy vstoupit do sebe a pak nechal sám sebe, aby nakreslil ducha knihy.
 
-Jen tak pro radost tak dal tvář nerozlučné a přesto tolik odlišné dvojici, hlavním protagonistům malého literárního díla:
+Jen tak pro radost dal tvář nerozlučné a přesto tolik odlišné dvojici, hlavním protagonistům malého literárního díla:
 
 ![pan Ajs a pan Kvoš, ke svým službám](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg?version=2385b9ed273e73984e7702f8cecbd97b)
 
@@ -30,7 +30,7 @@ Nechme kočky na pokoji a pokračujme v tom hlavním. Ve spolupráci s ticho762.
 
 Ilustraci dostal onen kamarád-pisálek-inženýr-gentleman darem pěkně v originále, na velkém papíře. A ten plakát mu pak visel za zády, když pořádal autorské čtení.
 
-Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ještě jsem netušil, že s autorem ilustrace budu spolupracovat.
+Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ještě jsem netušil, že s jejím autorem budu spolupracovat.
 
 ### Se sčotem do sklepa
 
@@ -43,14 +43,14 @@ Odpověděl prakticky obratem, ihned svým rozjásaným bohémským stylem a rov
 Jelikož jsem byl v komunikaci s ilustrátory nepolíbený, tak nastala oťukávačka, kolik by asi tak stálo tohleto a kolik támhleto, kdyby...
 Nechtěl jsem ho ani přeplácet, ani odradit nízkými částkami, ale lezl jsem do neprobádaných krajů, takže jsem vlastně nevěděl, jak začít.
 
-Ticho762 ale opět ukázal, že je zkušený harcovník a několika dobře mířenými otázkami ze mě dostal zadání o hlavní ilustraci k dobrodružství ve sklepě a doprovodný obrázek k novému článku na blogu a k nim mi obratem poslal odhad ceny. A hned mě taky požádal o zálohu, protože život je pes a lidi jsou... no, nebudeme urážet zvířecí říši... prostě lidi.
+Ticho762 ale opět ukázal, že je zkušený harcovník a několika dobře mířenými otázkami ze mě dostal zadání o hlavní ilustraci k dobrodružství ve sklepě a pidi obrázku k novému článku na blogu a k nim mi obratem poslal odhad ceny. A hned mě taky požádal o zálohu, protože život je pes a lidi jsou... no, nebudeme urážet zvířecí říši... prostě lidi.
 
 Slovo dalo slovo, ticho762 dostal zálohu, já slib a začali jsme kolečko se skicami. To byla pro mě opět nová zkušenost a ticho762 mě ani v tomhle nenechal na holičkách. Věděl, že myslet si, že něco chci, ještě neznamená, že to budu chtít, až to dostanu.
-A rychlé náčrty scény byly ideální nástroj, jak ve mě zamáčknout, co si myslím, že chci a vymáčknout ze mě, co opravdu chci.
+A rychlé náčrty scény byly ideální nástroj, jak ve mě zamáčknout, co si myslím, že chci a vymáčknout, co opravdu chci.
 
 #### Sbohem, kalkulátory
 
-Malý, doprovodný obrázek k tehdy novému [článku o konci kalkulátorů](../2019/2019-06-17-sbohem-kalkulatory.md) vzal ticho762 rovnou kolorovaně:
+Malý, doprovodný obrázek k tehdy novému článku o [konci kalkulátorů](../2019/2019-06-17-sbohem-kalkulatory.md) vzal ticho762 rovnou kolorovaně:
 
 *14. 5. 2019*
 
@@ -58,7 +58,7 @@ Malý, doprovodný obrázek k tehdy novému [článku o konci kalkulátorů](../
 
 Na první nástřel dobrý. Ale nebyl jsem spokojený s detaily (jak jinak):
 - tvar křídel evokoval přílet (jsou kolem drápů prohnutá k divákovi), já ale potřeboval odlet - s počítadly jsme se loučili a měly by letět pryč
-- ty duté koláčky vypadaly jako donuty amerického policajta a až když jsem se **zamyslel**, tak mi došlo, že to jsou korálky z rozbitého sčotu - a povinné přemýšlení jsem v hlavní myšlence nepotřeboval - sypající se korálky super, ale jejich prostorové uspořádání potřebovalo poladit
+- ty duté koláčky vypadaly jako donuty amerického policajta a až když jsem se **zamyslel**, tak mi došlo, že to jsou korálky z rozbitého sčotu - a povinné přemýšlení jsem v hlavní myšlence nepotřeboval - sypající se korálky super, ale jejich uspořádání potřebovalo poladit
 
 ---
 
@@ -80,7 +80,7 @@ Ticho762 přiznal, že chtěl do pohybu zakomponovat náhodu a že mu to krapet 
 
 ![Lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.1.png?version=0f9025fe12ff6084f12a02d07f612040)
 
-To byl fofr. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadaly jako ručně kreslené, zjevně je vytvářel ve vrstvách, nejspíš digitálním perem.
+Úprava přišla už druhý den, to byl fofr. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadaly jako ručně kreslené, zjevně je vytvářel ve vrstvách, nejspíš digitálním perem.
 Takže žádost o malou úpravu pro něj bylo pár kliknutí v jeho oblíbeném editoru.
 
 Bylo to už téměř dokonalé, chyběl poslední detail:
@@ -247,17 +247,16 @@ Stočený drak na místě slunce byl můj požadavek. Hledal jsem tímhle způso
 
 Kamenný artefakt, ať už ulomená obří hlava, milníky s obličeji (či snad to jsou náhrobky?) nebo topící se obří socha v záhybu řeky, to všechno je osobní iniciativa ticho762. On má tyhle napůl zaváté stopy padlých civilizací k smrti rád.
 
-Počkal jsem několik dní, až se vě mě odplaví rychlokvašné pocity a zůstanou dlouhodobé. Sotva přišel správný čas, spustil jsem na ticho762 lavinu své digitální výmluvnosti a začali jsme řešit jednotlivé části výjevů.
+Počkal jsem několik dní, až se ve mě odplaví rychlokvašné pocity a zůstanou dlouhodobé. Sotva přišel správný čas, spustil jsem na ticho762 lavinu své digitální výmluvnosti a začali jsme řešit jednotlivé části výjevů.
 
 #### Shoda
 
 První, na čem jsme se shodli, byla okatost rádoby loga s dračím zárodkem na obloze. Na logo to bylo příliš složité, zároveň jednoznačné a zároveň se to nehodilo na obálku obecných pravidel.
-Kdybychom logo zjednodušili, aby více provokovalo fantazii a dávalo jenom tušit, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro kterýkoliv fantasy svět neměl co dělat. Škrtli jsme ho.
+Kdybychom logo zjednodušili, aby více provokovalo fantazii a dávalo jenom tušit, tak by to snad šlo použít, ale ne na tuhle obálku. Zárodek draka měl zůstat jako skrytá hnací síla jednoho smyšleného světa. Na pravidlech pro **kterýkoliv** svět neměl co dělat. Škrtli jsme ho.
 
-Druhé, na čem jsme našli shodu, byť to už nebylo až tak jednohlasné, byla stopa dávných časů. Kamenný artefakt, který ze severu obrůstá mech a z jihu na něj usedají mouchy a spocení cestovatelé.
-Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
+Druhé, na čem jsme našli shodu, byť to už nebylo až tak jednohlasné, byla stopa dávných časů. Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
 
-Zbývalo už jenom vybrat si jednu ze tří scenérií. Po krátkém váhání jsem zvolil výstup do vrchu a to z prostého důvodu. Nejvíc mi to připomínalo čundr v české kotlině. Ne, vážně, bylo to pro mě nejvíc přirozené, hřejivě známé a přitom stále dobrodružné. Přesně to jsem potřeboval.
+Zbývalo už jenom vybrat si jednu ze tří scenérií. Po krátkém váhání jsem zvolil výstup do vrchu a to z prostého důvodu - připomínalo mi to čundr v české kotlině. Ne, vážně, bylo to pro mě nepřirozenější, hřejivě známé a přitom stále dobrodružné. Přesně to jsem potřeboval.
 
 Prostředí bylo vybrané, hlavní dominanta taky, mohl jsem se začít těšit na "nahozenou" verzi.
 
