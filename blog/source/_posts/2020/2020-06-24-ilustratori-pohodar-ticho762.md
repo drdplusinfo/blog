@@ -42,7 +42,7 @@ Odpověděl prakticky obratem, ihned svým rozjásaným bohémským stylem a rov
 
 Jelikož jsem byl v komunikaci s ilustrátory nepolíbený, tak nastala oťukávačka, kolik by asi tak stálo tohleto a kolik támhleto, kdyby...
 Nechtěl jsem ho ani přeplácet, ani odradit nízkými částkami, ale lezl jsem do neprobádaných krajů, takže jsem vlastně nevěděl, jak začít.
-jpg
+
 Ticho762 ale opět ukázal, že je zkušený harcovník a několika dobře mířenými otázkami ze mě dostal zadání o hlavní ilustraci k dobrodružství ve sklepě a doprovodný obrázek k novému článku na blogu a k nim mi obratem poslal odhad ceny. A hned mě taky požádal o zálohu, protože život je pes a lidi jsou... no, nebudeme urážet zvířecí říši... prostě lidi.
 
 Slovo dalo slovo, ticho762 dostal zálohu, já slib a začali jsme kolečko se skicami. To byla pro mě opět nová zkušenost a ticho762 mě ani v tomhle nenechal na holičkách. Věděl, že myslet si, že něco chceme, ještě neznamená, že to budeme chtít, až to dostaneme.
