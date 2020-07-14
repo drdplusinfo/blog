@@ -310,19 +310,21 @@ Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i 
 - Poutníci vypadají na hrdinskou fantasy nějak hodně obyčejně.
   - *To je přesně to, co potřebuji a co bude prorůstat celým Dračím odkazem, takže tohle se nám s ticho762 povedlo na jedničku a je to v pořádku.*
   
-A v tomhle stavu jsme se na obálce zasekli.
+*A v tomhle stavu jsme se na obálce zasekli.*
+
+##### Pauza od obálky
 Minulé léto bylo pro mě finálním přerodem z původní představy *"Dělám pokračování Dračího doupěte plus"* na *Inspiruju se Dračím doupětem plus, ale musím jít o dost jednodušší cestou"*, z čehož nakonec vznikl myšlenkový směr Dračího odkazu.
 
 A taky jsem měl pocit, že ticho762 přetěžuju, že dupu po detailech tak moc, až mu nezbývá prostor na radost z nespoutané tvorby, takže jsem chtěl pro nás pro oba chvíli pauzu.
-A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i Sirienovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
+A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i SiriZaseknutíenovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
 
-Teď už se zase blízká na lepší časy a práci na obálce obnovujeme.
+*Teď už se zase blízká na lepší časy a práci na obálce obnovujeme.*
 
-**Obálka je zatím naše nejobtížnější společná tvorba a postupujeme vpřed jen malými, opatrnými kroky. Mírou svých požadavků už citelně dusím uměleckého ducha, kterého v sobě ticho762 má a našlapuji proto opatrnými kroky, jako na přetížené lávce. Je to pro mě velká zkušenost.**
+**Obálka je zatím naše nejobtížnější společná tvorba a postupujeme vpřed jen malými, opatrnými kroky. Mírou svých požadavků už citelně dusím uměleckého ducha, kterého v sobě ticho762 má a našlapuji proto opatrně, jako na přetížené lávce. Je to pro mě velká zkušenost.**
 
 ### Ještě něco na blog
 
-Zatímco naše spolupráce na obálce usnula, v lehkých kresbách k článkům na tomhle blogu jsme pokračovali v lehkém tempu dál. A jak jsme se vzájemně stále více poznávali, tak i klesal počet slovních výměn, než jsem byl spokojený s výsledkem. Několik posledních kreseb jsem dokonce vzal na první dobrou v plné spokojenosti.
+Zatímco naše spolupráce na obálce usnula, v malých kresbách k na blog jsme pokračovali dál. A jak jsme se vzájemně stále více poznávali, tak i klesal počet slovních výměn, než jsem dosáhl spokojenosti. Několik posledních kreseb jsem dokonce vzal na první dobrou.
 
 Posuďte sami:
 
@@ -342,12 +344,10 @@ Posuďte sami:
 *(sebemrskač s nuceným úsměvem)*
 ![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png?version=9eec9d6d6db7e7fd1ab87f66c23c7405) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
-Tyhle malé kresby lítaly ráz na ráz. Ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
+Jen jednou jedinkrát se mi rozezvučel alarm, když se sebemrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
+Jinak tyhle malé kresby lítaly ráz na ráz, ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
 
-Jen jednou jedinkrát se mi rozezvučelo varování, když se sebe mrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
-
-A to je zatím všechno.
-
+A to je z naší spolupráce zatím všechno.
 
 ## Závěrem
 
@@ -372,7 +372,7 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 - [Sešívaný fešák bez chybičky - *Technický milník - bez chyby* - 300 px × 300 px, 150 kB](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png?version=c3e3e46d53d240ff99d9bc2b5da3e833)
 
-- [Sebe mrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
+- [sebemrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
 ### Epilog
 
