@@ -43,14 +43,14 @@ Odpověděl prakticky obratem, ihned svým rozjásaným bohémským stylem a rov
 Jelikož jsem byl v komunikaci s ilustrátory nepolíbený, tak nastala oťukávačka, kolik by asi tak stálo tohleto a kolik támhleto, kdyby...
 Nechtěl jsem ho ani přeplácet, ani odradit nízkými částkami, ale lezl jsem do neprobádaných krajů, takže jsem vlastně nevěděl, jak začít.
 
-Ticho762 ale opět ukázal, že je zkušený harcovník a několika dobře mířenými otázkami ze mě dostal zadání o hlavní ilustraci k dobrodružství ve sklepě a pidi obrázku k novému článku na blogu a k nim mi obratem poslal odhad ceny. A hned mě taky požádal o zálohu, protože život je pes a lidi jsou... no, nebudeme urážet zvířecí říši... prostě lidi.
+Ticho762 ale opět ukázal, že je zkušený harcovník a několika dobře mířenými otázkami ze mě dostal zadání o hlavní ilustraci k dobrodružství ve sklepě a pidi obrázku na blog a k nim mi obratem poslal odhad ceny. A hned mě taky požádal o zálohu, protože život je pes a lidi jsou... no, nebudeme urážet zvířecí říši... prostě lidi.
 
 Slovo dalo slovo, ticho762 dostal zálohu, já slib a začali jsme kolečko se skicami. To byla pro mě opět nová zkušenost a ticho762 mě ani v tomhle nenechal na holičkách. Věděl, že myslet si, že něco chci, ještě neznamená, že to budu chtít, až to dostanu.
-A rychlé náčrty scény byly ideální nástroj, jak ve mě zamáčknout, co si myslím, že chci a vymáčknout, co opravdu chci.
+A rychlé náčrty scény byly ideální nástroj, jak ve mě zamáčknout, co si myslím, že chci a jak ze mě vymáčknout, co opravdu chci.
 
 #### Sbohem, kalkulátory
 
-Malý, doprovodný obrázek k tehdy novému článku o [konci kalkulátorů](../2019/2019-06-17-sbohem-kalkulatory.md) vzal ticho762 rovnou kolorovaně:
+Malý, doprovodný obrázek k tehdy novému článku o [konci kalkulátorů pro DrD+](../2019/2019-06-17-sbohem-kalkulatory.md) vzal ticho762 rovnou kolorovaně:
 
 *14. 5. 2019*
 
@@ -80,11 +80,11 @@ Ticho762 přiznal, že chtěl do pohybu zakomponovat náhodu a že mu to krapet 
 
 ![Lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.1.png?version=0f9025fe12ff6084f12a02d07f612040)
 
-Úprava přišla už druhý den, to byl fofr. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadaly jako ručně kreslené, zjevně je vytvářel ve vrstvách, nejspíš digitálním perem.
+Úprava přišla už druhý den. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadaly jako ručně kreslené, zjevně je vytvářel ve vrstvách, nejspíš digitálním perem.
 Takže žádost o malou úpravu pro něj bylo pár kliknutí v jeho oblíbeném editoru.
 
 Bylo to už téměř dokonalé, chyběl poslední detail:
-- otvory v předposledním a posledním korálku by měly být různě veliké, protože i korálky byly kvůli perspektivě různě veliké - bylo to divné a opět to nutilo diváka **přemýšlet**
+- otvory v předposledním a posledním korálku by měly být různě veliké, protože i korálky byly kvůli perspektivě různě veliké - stejná velikost byla podezřelá a opět to nutilo diváka **přemýšlet**
 
 ---
 
@@ -121,7 +121,7 @@ Opět musím říct, že zaplaťpánbu za návrhy. Kdyby se ticho762 hned vrhnul
 Teprve při pohledu na črty mi došlo, že chci obyčejně vypadající sklep. Žádné točité schody a závratná hloubka. To se hodí spíš do zřícenin hradů. Návrh s točitými shody tedy padl.
 
 A taky mi došlo, že pohled na hlavního hrdinu rozhodně nechci. V tom je jedna z myšlenek onoho dobrodružství. Je určené pro nerozhodné začátečníky, které by odradilo kde co. Třeba to, že se nedokáží ztotožnit s navrhovaným hrdinou. A taky jsem chtěl, aby se hráč sám mohl svobodně rozhodnout, jak ve hře vypadá, ba dokonce jestli bude muž, nebo žena.
-Proto jsem přijal obyčejněji vypadající sklep v návrhu na šířku, ale odmítl hlavního protagonistu jako středobod ilustrace.
+Proto jsem přijal obyčejněji vypadající sklep, ale odmítl hlavního protagonistu jako středobod ilustrace.
 
 Nezkusil by to ticho762 bez obličeje? Nejlépe z pohledu první osoby?
 
@@ -139,7 +139,7 @@ To je ono! Úplně to dráždí otočit se na patě a vzít nohy na ramena, nebo
 
 Poprosil jsem ticho762, aby to nahodil na výšku, protože to bude lépe odpovídat knižnímu formátu, kterého se obvykle u své tvorby držím.
 
-A pak ty detaily. Detaily detaily detaily. Napsal jsem mu jich fakt hodně. Ony to byly vlastně jenom takové nápady, co všechno by tam mohlo být, ale obecně to spadalo do mé záliby v detailech.
+A pak ty detaily. Detaily detaily detaily. Napsal jsem mu jich fakt hodně. Ony to byly vlastně jenom takové nápady, co všechno by tam **mohlo** být, ale obecně to spadalo do mé záliby v detailech.
 
 Zas abyste mě neměli za magora. Nejde mi o to, aby na obraze nebylo prázdné místo. Naopak, prázdnota má sílu. Ale potřebuju, aby na obrazech, na které se čtenář bude dívat vícekrát, bylo pořád co objevovat. Aby se moc rychle neokoukaly. Aby to bylo jako film, který shlédnete, dáte si od něj pauzu, znovu se na něj podíváte a... *"Hele, ty oči tam byly už na začátku! Ty jo on vlastně říkal! Sakra ten konec se může vykládat různě co?"*
 Tohle potřebuju, vícevrstvý obsah.
@@ -170,6 +170,7 @@ Poprosil jsem ticho762 o úpravy.
 Ticho762 odepsal, že s něčím mám pravdu a s něčím, zejména úhlem předmětů, už tolik ne. To je paráda, když si druhá strana dokáže stát za svým a ví proč.
 
 *28. 5. 2019*
+*(prostor ve sklepě)*
 ![Prostor kresby "do sklepa"](/assets/images/posts/pohodar_ticho762/prostor_barevne_do_sklepa_1.0.png?version=cf73d116703c3ab55c5b8d8cf6c5e83a)
 
 Hodili jsme o tom řeč, našli konsenzus a těšil jsem se na úpravy.
