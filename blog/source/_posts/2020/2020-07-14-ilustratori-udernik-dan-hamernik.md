@@ -14,9 +14,59 @@ perex: |
 
 ## Dračí odkaz
 
-V [článku o kouzelníkovi Philipu Wardovi](2020-06-18-kouzelnik-philip-ward.md) jsem prozradil, že autorem kreseb je jakýsi *Dračí odkaz*. V článku o [pohodáři ticho762](2020-06-24-ilustratori-pohodar-ticho762.md#Dračí_odkaz) už jsem naplno popisoval, proč jsme hledali nový název a jaký byl vlastně ten starý.
+V [článku o kouzelníkovi Philipu Wardovi](2020-06-18-kouzelnik-philip-ward.md) jsem prozradil, že autorem kreseb je jakýsi *Dračí odkaz*. V článku o pohodáři ticho762 už jsem naplno [popisoval](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název a jaký byl vlastně ten starý.
 
 A teď si dáme malé opáčko.
 
 ### Změna směru
+
+Dračí doupě plus jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Nikdy jsme se nedostali nad desátou úroveň a vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
+Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a tělesných následků, odvahu s jakou každé povolání dostalo jiný přístup ke hře i herním mechaníkám.
+Jenže nás nedostatek osobního času a přemíra obtíží s hraním podle DrD+ dohnala. Úplně jako z příručky pro hráče a velikostí pasti - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou jak řešit různé situace).
+Svou roli hrála i zvyšující se koncentrace dětí v našich rodinách.
+
+Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html), pro které je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... jenže je to na mě příliš americké. Mě zajímá nejen fantasie, ale i skutečnost. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
+Asi by i takový styl šel naroubovat na DnD, ale jak bych Pánovi jeskyně, pardon Dungeon masterovi vysvětloval, že má zahodit dvě třetiny bestiáře a hráčům dvě třetiny schopností, to si nechám na propocené noční můry.
+
+Potřeboval jsem něco obyčejnějšího a dosavadní myšlenky mě vedly k tomu, že jsem začal šlapat v jiném směru, než ostatní.
+
+Už delší dobu jsem věděl, jaký pocit chci, aby z mé práce na nových, menších pravidlech sálal. Střízlivý, až přízemní, špinavý a jen lehce tajemný, s ďáblem skrytým v přirozených, ale nečekaných detailech.
+A to samé jsem chtěl i po názvu takové hry.
+
+Původně jsem samozřejmě chtěl *Dračí doupě plus 2*, ale čím více jsem se nořil do detailů [původních plusek](https://www.drdplus.info/), tím více jsem věděl, že to není moje cesta.
+Potřeboval jsem pravidla, která mi dají ve hře *kořeny a křídla*, nikoli logaritmickou křivku a tunu tabulek. Zároveň jsem potřeboval odkazovat na své dlouholeté zážitky se všemožnými verzemi a klony Dračího doupěte, k tomu na svou nechuť k příliš epickým Dungeon and dragons a ještě trochu na mou potřebu obyčejnosti.
+Převracel jsem v hlavě, pak na jazyku a pak i na klávesnici různé názvy. Až nám nakonec po několika týdnech vykrystalizovalo jméno *Dračí odkaz*.
+
+V názvu *Dračí odkaz* byla špetka nostalgie, pachuť přízemnosti, náznak časů dávno minulých i příslib tajemství.
+
+To samé se snažíme [vtisknout do obálky](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz) takových pravidel a to samé jsem chtěl po logu.
+
+Takže další úkol zněl jasně, potřebujeme jednoduché logo!
+
+### Dan Hamerník
+
+Opět jsem se optal nejdříve Facebook DrdPlus.info a takticky vyčkával. Grafiků, co umí loga, jsou zástupy, ale já chtěl ideálně někoho z "dračákovské" komunity.
+
+Během pár dní se ozval Dan Hamerník, což není nikdo jiný, než jeden z našich nejvěrnějších fanoušků. A že by logo udělal.
+
+No tak jo. Docela jsem es mu do mailu rozpovídal o myšlence Dračího odkazu a přidal zdánlivě prosté zadání:
+
+> Chtěli bychom oko draka, které ale vypadá jako vytesané. Oko draka, ze kterého je vidět jen část (protože je zbytek zakrytý či ulomený).
+
+Odpověděl po pár dnech, rovnou s příklady různých očí z dribble.com a ať si vyberu styl.
+
+- [https://dribbble.com/shots/1408200-Dragon-Eye-iOS-Icon](https://dribbble.com/shots/1408200-Dragon-Eye-iOS-Icon)
+- [https://dribbble.com/shots/1140096-Dragon-eye](https://dribbble.com/shots/1140096-Dragon-eye)
+- [https://dribbble.com/shots/6737265-Dragon-Eye-Mascot](https://dribbble.com/shots/6737265-Dragon-Eye-Mascot)
+- [https://dribbble.com/shots/4821994-Griffins-logo](https://dribbble.com/shots/4821994-Griffins-logo)
+- [https://dribbble.com/shots/6621580-dragon-eye](https://dribbble.com/shots/6621580-dragon-eye)
+- [https://dribbble.com/shots/2629909-Dragon-eye](https://dribbble.com/shots/2629909-Dragon-eye)
+
+Z nich do mého cítění zapadlo jediné:
+
+![oko_z_dribble.png](/assets/images/posts/ilustratori_udernik_philip_ward/oko_z_dribble_300x300.png?version=)
+
+A tím započala naše práce na logu.
+
+### Logo
 
