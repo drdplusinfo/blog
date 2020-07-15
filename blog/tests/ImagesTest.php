@@ -11,7 +11,9 @@ class ImagesTest extends AbstractBlogTest
      */
     public function Images_are_linked_with_their_md5_versions()
     {
-        foreach (self::getAllPostsImages() as $image) {
+        $images = self::getAllPostsImages();
+        $images[] = self::getFavicon();
+        foreach ($images as $image) {
             ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $image;
             self::assertNotEmpty(
                 $version,

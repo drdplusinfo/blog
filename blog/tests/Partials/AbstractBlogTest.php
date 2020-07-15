@@ -125,6 +125,48 @@ abstract class AbstractBlogTest extends TestCase
         return sprintf('?version=%s', md5_file($path));
     }
 
+    protected static function getFavicon(): array
+    {
+        static $favicon;
+        if ($favicon) {
+            return $favicon;
+        }
+        $faviconLink = null;
+        foreach (static::getGeneratedPosts() as $generatedPost) {
+            $dom = new HTMLDocument($generatedPost);
+            foreach ($dom->head->getElementsByTagName('link') as $link) {
+                $type = $link->getAttribute('type');
+                if ($type && $type === 'image/x-icon') {
+                    $faviconLink = $link->getAttribute('href');
+                    break;
+                }
+            }
+        }
+        if (!$faviconLink) {
+            throw new \RuntimeException('Favicon has not been found');
+        }
+        $faviconLink = urldecode($faviconLink);
+        $projectRootDir = self::projectRootDir();
+        $questionMarkPosition = strpos($faviconLink, '?');
+        $version = '';
+        $faviconLinkWithoutVersion = $faviconLink;
+        if ($questionMarkPosition !== false) {
+            $version = substr($faviconLink, $questionMarkPosition + strlen('?version='));
+            $faviconLinkWithoutVersion = substr($faviconLink, 0, $questionMarkPosition);
+        }
+        $relativeFaviconPath = $faviconLinkWithoutVersion;
+        $imageFullPath = $projectRootDir . '/output/' . $relativeFaviconPath;
+        self::assertFileExists($imageFullPath);
+        $favicon = ['link' => $faviconLink, 'fullPath' => $imageFullPath, 'version' => $version];
+        self::assertNotEmpty($favicon);
+        return $favicon;
+    }
+
+    protected static function projectRootDir(): string
+    {
+        return __DIR__ . '/../..';
+    }
+
     /**
      * @return array|string[][]
      */
