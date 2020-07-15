@@ -12,3 +12,11 @@ perex: |
 
 ---
 
+## Dračí odkaz
+
+V [článku o kouzelníkovi Philipu Wardovi](2020-06-18-kouzelnik-philip-ward.md) jsem prozradil, že autorem kreseb je jakýsi *Dračí odkaz*. V článku o [pohodáři ticho762](2020-06-24-ilustratori-pohodar-ticho762.md#Dračí_odkaz) už jsem naplno popisoval, proč jsme hledali nový název a jaký byl vlastně ten starý.
+
+A teď si dáme malé opáčko.
+
+### Změna směru
+
