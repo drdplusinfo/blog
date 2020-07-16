@@ -698,3 +698,12 @@ blockquote p:last-child {
     width: 1em;
     height: 1em;
 }
+
+img[src*="300x300"] {
+    max-width: 300px;
+}
+
+img[src*="original_size"] {
+    max-width: initial;
+    width: initial;
+}
