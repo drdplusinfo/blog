@@ -2,7 +2,7 @@
 id: 2020-07-14-1
 title: "Ilustrátoři: úderník Dan Hamerník"
 image: /assets/images/posts/udernik_dan_hamernik.png?version=0a621633465f0713f3388ca6b1bb665f
-image_author: "*Autorem dračího oka je Dan Hamerník.*"
+image_author: "*Autorem dračího oka je Dan Hamerník. Děkujeme.*"
 perex: |
     *Není čas ztrácet čas.*
     
@@ -14,7 +14,7 @@ perex: |
 
 ## Dračí odkaz
 
-V [článku o Philipu Wardovi](2020-06-18-kouzelnik-philip-ward.md#ke_stazeni) jsem prozradil, že vlastníkem kreseb je jakýsi *Dračí odkaz*. V článku o pohodáři ticho762 už jsem naplno [popisoval](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název.
+V [článku o Philipu Wardovi](2020-06-18-kouzelnik-philip-ward.md#ke_stazeni) jsem prozradil, že vlastníkem kreseb je jakýsi *Dračí odkaz*. V následujícím článku o pohodáři ticho762 už jsem naplno [popisoval](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název.
 
 A teď si dáme malé opáčko.
 
