@@ -84,7 +84,7 @@ Ticho762 přiznal, že chtěl do pohybu zakomponovat náhodu a že mu to krapet 
 Takže žádost o malou úpravu pro něj bylo pár kliknutí v jeho oblíbeném editoru.
 
 Bylo to už téměř dokonalé, chyběl poslední detail:
-- otvory v předposledním a posledním korálku by měly být různě veliké, protože i korálky byly kvůli perspektivě různě veliké - stejná velikost byla podezřelá a opět to nutilo diváka **přemýšlet**
+- otvory v předposledním a posledním korálku by měly být různě veliké, protože i korálky byly kvůli perspektivě různě veliké - stejná velikost děr byla podezřelá a opět to nutilo diváka **přemýšlet**
 
 ---
 
