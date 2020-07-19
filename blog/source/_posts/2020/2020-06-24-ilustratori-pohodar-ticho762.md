@@ -102,7 +102,7 @@ Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak p
 
 Odlétající sčot byla odlehčená ilustrace pro malý článek na blog. A články na blogu mají jepičí život. Takže tam stačilo něco prostého a úderného. Ale obálka k dobrodružství, to už byla jiná.
 
-Chtěl jsem náladový obraz, který čtenáře naladí na ponurou atmosféru špatně osvětleného, stísněného prostoru, který je na první pohled používaný a na druhý pohled už méně.
+Chtěl jsem emoční obraz, který čtenáře naladí na ponurou atmosféru špatně osvětleného, stísněného prostoru, který je na první pohled používaný a na druhý pohled už méně.
 
 ticho762 poslal dva návrhy:
 
