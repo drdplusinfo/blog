@@ -8,29 +8,22 @@ a.perex:hover {
     background-color: rgba(255, 255, 255, 0.45);
 }
 
-.perex img {
-    min-width: 220px;
-    max-height: 23rem;
-    display: block;
-    float: left;
-    padding: 0 1em 0 0;
+.perex-image-container {
+    text-align: center;
+}
+
+@media(min-width: 576px) {
+    .perex-image-container {
+        padding-right: 0;
+    }
+}
+
+@media(max-width: 575px) {
+    .perex img {
+        padding: 0 0 1em;
+    }
 }
 
 #post .perex img {
     margin: 0;
-}
-
-@media (max-width: 540px) {
-    .perex img {
-        display: none;
-    }
-}
-
-.perex table {
-    margin: 0;
-}
-
-.perex td {
-    padding: 0;
-    border: none;
 }
