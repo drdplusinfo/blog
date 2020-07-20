@@ -25,16 +25,16 @@ Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a těles
 Jenže nedostatek osobního času a přemíra obtíží s hraním podle DrD+ nás dohnala. Úplně jako z příručky pro hráče a [hodu na úspěch](https://pph.drdplus.info/#znaceni_a_zapis_zakladniho_hodu_na_uspech) - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou v různých herních situacích).
 Svou roli hrála i zvyšující se koncentrace dětí v našich rodinách.
 
-Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html). Pro tuhle americkou legendu je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... já DnD nerad, je to na mě **příliš** americké. Mě zajímá nejen fantazie, ale i skutečnost - nebo aspoň její dojem. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
+Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html), protože pro tuhle americkou legendu je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... já DnD nerad, je to na mě **příliš** americké. Mě zajímá nejen fantazie, ale i skutečnost - nebo aspoň její dojem. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
 Asi by i takový styl šel naroubovat na DnD, ale jak bych Pánovi jeskyně, pardon Dungeon masterovi vysvětloval, že má zahodit dvě třetiny bestiáře a hráčům dvě třetiny schopností? Takové představy si nechám na propocené noční můry.
 
-Potřeboval jsem něco obyčejnějšího, něco přízemnějšího a něco vnitřně známějšího. Dosavadní myšlenky mě vedly k tomu, že jsem začal šlapat v jiném směru, než ostatní. Jiném, než [Dračí hlídka](https://www.dracihlidka.cz/#top), [Dračí doupě II](http://www.drd2.cz/), o [Jeskyních a dracích nemluvě](https://www.jeskyneadraci.cz/).
+Potřeboval jsem něco obyčejnějšího, něco přízemnějšího a něco vnitřně známějšího. Dosavadní myšlenky mě vedly k tomu, že jsem začal šlapat v jiném směru, než ostatní. Jiném, než [Dračí hlídka](https://www.dracihlidka.cz/#top), [Dračí doupě II](http://www.drd2.cz/), o [Jeskyních a dracích](https://www.jeskyneadraci.cz/) nemluvě.
 
 Už delší dobu jsem věděl, jaký pocit chci, aby z mé práce na nových, menších pravidlech sálal. Střízlivý, až přízemní, špinavý a jen lehce tajemný, s ďáblem skrytým v přirozených, ale nečekaných detailech.
 A to samé jsem chtěl i po názvu takové hry.
 
 Původně jsem samozřejmě chtěl *Dračí doupě plus 2*, ale čím více jsem se nořil do detailů [původních plusek](https://www.drdplus.info/), tím více jsem věděl, že to není moje cesta.
-Potřeboval jsem pravidla, která mi dají ve hře *kořeny a křídla*, nikoli logaritmickou křivku a tunu tabulek. Zároveň jsem chtěl odkazovat na své dlouholeté zážitky se všemožnými verzemi a klony Dračího doupěte, k tomu na svou nechuť k příliš epickým Dungeon and dragons a ještě trochu na mou potřebu obyčejnosti.
+Potřeboval jsem pravidla, která mi dají ve hře *kořeny a křídla*, nikoli logaritmickou křivku a tunu tabulek. Zároveň jsem chtěl odkazovat na své dlouholeté zážitky se všemožnými verzemi a klony Dračího doupěte a trochu na mou potřebu obyčejnosti.
 Převracel jsem v hlavě, pak na jazyku a pak i na klávesnici různé názvy. Až nám nakonec po několika týdnech vykrystalizovalo jméno *Dračí odkaz*.
 
 V názvu *Dračí odkaz* byla špetka nostalgie, pachuť přízemnosti, náznak časů dávno minulých i příslib tajemství.
