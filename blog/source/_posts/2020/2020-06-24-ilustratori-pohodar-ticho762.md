@@ -16,7 +16,7 @@ perex: |
 Kdysi dávno, řekl bych tak 2014, napsal dlouholetý kamarád knížku. Jen tak. Prostě si sednul na múzu a vypadlo z něj několik desítek stran. Byla to malá knížka, skoro rodokaps, ale byla.
 Příběh mu našeptávaly prazážitky s našimi alter egy z ranného hraní "dračáku". 
 
-A pak napsal druhou a pak i třetí. Čtvrtou odložil rozepsanou, protože ho otcovské povinnosti odvolaly na neurčito. Ale tři knihy byly na světě, vytištěné v malém nákladu, prodávané za symbolickou cenu známým i méně známým, aby v nich živily plamínek fantazie.
+A pak napsal druhou a pak načal i třetí. Tu odložil rozepsanou, protože ho otcovské povinnosti odvolaly na neurčito. Ale dvě knihy byly na světě, vytištěné v malém nákladu, prodávané za symbolickou cenu známým i méně známým, aby v nich živily plamínek fantazie.
 
 Jeden z výtisků se dostal k bývalému studentovy medicíny, který léčil pohybové aparáty tak dlouho, až prohlásil všechny pacienty za ignoranty a odešel do Orlických hor dělat dřevorubce. A od něj už to byl jenom kousek k Petrovi Novákovi, respektive ticho762, který nechal ducha knihy vstoupit do sebe a pak nechal sám sebe, aby nakreslil ducha knihy.
 
@@ -30,7 +30,7 @@ Nechme kočky na pokoji a pokračujme v tom hlavním. Ve spolupráci s ticho762.
 
 Ilustraci dostal onen kamarád-pisálek-inženýr-gentleman darem pěkně v originále, na velkém papíře. A ten plakát mu pak visel za zády, když pořádal autorské čtení.
 
-Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ještě jsem netušil, že s jejím autorem budu spolupracovat.
+Ta jednoduchost a přitom vyjadřovací síla črtů se do mě zapsala. Ale ještě jsem netušil, že s autorem kresby budu spolupracovat.
 
 ### Se sčotem do sklepa
 
