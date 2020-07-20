@@ -20,12 +20,12 @@ A teď si dáme malé opáčko.
 
 ### Změna směru
 
-Dračí doupě plus jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Nikdy jsme se nedostali nad desátou úroveň a vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
-Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a tělesných následků, odvahu s jakou autoři každému povolání dovolili jiný přístup ke hře i herním mechaníkám.
-Jenže nedostatek osobního času a přemíra obtíží s hraním podle DrD+ nás dohnala. Úplně jako z příručky pro hráče a velikostí pasti - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou v různých herních situacích).
+[Dračí doupě plus](https://www.drdplus.info) jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Nikdy jsme se nedostali nad desátou úroveň a vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
+Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a tělesných následků, odvahu s jakou autoři každému povolání dovolili jiný přístup ke hře i herním mechanikám.
+Jenže nedostatek osobního času a přemíra obtíží s hraním podle DrD+ nás dohnala. Úplně jako z příručky pro hráče a [hodu na úspěch](https://pph.drdplus.info/#znaceni_a_zapis_zakladniho_hodu_na_uspech) - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou v různých herních situacích).
 Svou roli hrála i zvyšující se koncentrace dětí v našich rodinách.
 
-Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html). Pro ně je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... já DnD nerad, je to na mě příliš americké. Mě zajímá nejen fantazie, ale i skutečnost. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
+Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html). Pro tuhle americkou legendu je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... já DnD nerad, je to na mě **příliš** americké. Mě zajímá nejen fantazie, ale i skutečnost - nebo aspoň její dojem. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
 Asi by i takový styl šel naroubovat na DnD, ale jak bych Pánovi jeskyně, pardon Dungeon masterovi vysvětloval, že má zahodit dvě třetiny bestiáře a hráčům dvě třetiny schopností? Takové představy si nechám na propocené noční můry.
 
 Potřeboval jsem něco obyčejnějšího, něco přízemnějšího a něco vnitřně známějšího. Dosavadní myšlenky mě vedly k tomu, že jsem začal šlapat v jiném směru, než ostatní. Jiném, než [Dračí hlídka](https://www.dracihlidka.cz/#top), [Dračí doupě II](http://www.drd2.cz/), o [Jeskyních a dracích nemluvě](https://www.jeskyneadraci.cz/).
@@ -62,6 +62,8 @@ Odpověděl po pár dnech, rovnou s příklady různých očí z dribble.com a a
 - [https://dribbble.com/shots/6621580-dragon-eye](https://dribbble.com/shots/6621580-dragon-eye)
 - [https://dribbble.com/shots/2629909-Dragon-eye](https://dribbble.com/shots/2629909-Dragon-eye)
 
+*V tu dobu mě ještě netrklo, že Dan neposlal žádné svoje náčrtky. To mě mělo dohnat až později.* 
+
 Z nich do mého cítění zapadlo jediné:
 
 *([https://dribbble.com/shots/6621580-dragon-eye](https://dribbble.com/shots/6621580-dragon-eye))*
@@ -71,9 +73,10 @@ A tím započala naše práce na logu.
 
 ### Logo
 
-*17. 9. 2019*
 
 Dan poslal tři návrhy
+
+*17. 9. 2019*
 
 ![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png)
 
