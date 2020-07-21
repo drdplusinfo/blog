@@ -20,7 +20,7 @@ A teď si dáme malé opáčko.
 
 ### Změna směru
 
-[Dračí doupě plus](https://www.drdplus.info) jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Nikdy jsme se nedostali nad desátou úroveň a vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
+[Dračí doupě plus](https://www.drdplus.info) jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Ani jednou nás naše narůstající moc nepustila nad desátou úroveň, protože by to zbořilo příběh a náš oblíbený styl hry. A vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
 Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a tělesných následků, odvahu s jakou autoři každému povolání dovolili jiný přístup ke hře i herním mechanikám.
 Jenže nedostatek osobního času a přemíra obtíží s hraním podle DrD+ nás dohnala. Úplně jako z příručky pro hráče a [hodu na úspěch](https://pph.drdplus.info/#znaceni_a_zapis_zakladniho_hodu_na_uspech) - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou v různých herních situacích).
 Svou roli hrála i zvyšující se koncentrace dětí v našich rodinách.
