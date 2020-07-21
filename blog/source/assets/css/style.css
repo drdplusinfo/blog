@@ -706,6 +706,6 @@ img[src*="300x300"] {
 }
 
 img[src*="original_size"] {
-    max-width: initial;
+    max-width: 100%;
     width: initial;
 }
