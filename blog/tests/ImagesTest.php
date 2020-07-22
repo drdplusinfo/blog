@@ -13,18 +13,32 @@ class ImagesTest extends AbstractBlogTest
     {
         $images = self::getAllPostsImages();
         $images[] = self::getFavicon();
+        $imagesWithoutVersion = [];
+        $imagesWithInvalidVersion = [];
         foreach ($images as $image) {
-            ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $image;
-            self::assertNotEmpty(
-                $version,
-                sprintf("Missing version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath))
-            );
-            self::assertSame(
-                md5_file($imageFullPath),
-                $version,
-                sprintf("Invalid version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath))
-            );
+            ['version' => $version, 'fullPath' => $imageFullPath] = $image;
+            if (empty($version)) {
+                $imagesWithoutVersion[] = $image;
+                continue;
+            }
+            if (md5_file($imageFullPath) !== $version) {
+                $imagesWithInvalidVersion[] = $image;
+            }
         }
+        $errorMessages = [];
+        foreach ($imagesWithoutVersion as $imageWithoutVersion) {
+            ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $imageWithoutVersion;
+            $errorMessages[] = sprintf("Missing version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath));
+        }
+        foreach ($imagesWithInvalidVersion as $imageWithInvalidVersion) {
+            ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $imageWithInvalidVersion;
+            $errorMessages[] = sprintf("Missing version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath));
+        }
+        self::assertCount(
+            0,
+            $errorMessages,
+            implode("\n", $errorMessages)
+        );
     }
 
     /**
