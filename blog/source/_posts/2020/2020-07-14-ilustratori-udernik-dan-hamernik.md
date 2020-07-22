@@ -67,7 +67,7 @@ Odpověděl po pár dnech, rovnou s příklady různých očí z dribble.com a a
 Z nich do mého cítění zapadlo jediné:
 
 *([https://dribbble.com/shots/6621580-dragon-eye](https://dribbble.com/shots/6621580-dragon-eye))*
-![Oko z dribble.com](/assets/images/posts/ilustratori_udernik_dan_hamernik/oko_z_dribble_300x300.png?version=)
+![Oko z dribble.com](/assets/images/posts/ilustratori_udernik_dan_hamernik/oko_z_dribble_300x300.png?version=06a813feac71938d6cde359c2488e72b)
 
 A tím započala naše práce na logu.
 
@@ -78,15 +78,25 @@ Dan poslal tři návrhy
 
 *17. 9. 2019*
 
-![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png)
+![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png?version=040487494d97297943956532da87cf32) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png)
 
 Jako, nebylo to špatné. Ale nebylo to logo. Nebylo to jednoduché a ikonické. A bylo to naprosto jednoznačné - prostě dračí oko - což jsem taky nechtěl.
 
-*Pomalu mě začínalo dohánět, že jsem mylně považoval grafiky za ilustrátory, kteří to navíc umí s Photoshopem.*
+*Pomalu mě začínalo dohánět, že jsem mylně považoval grafiky za ilustrátory s Photoshopem.*
 
-To co ale jako logo vypadalo, mohlo se to stát ikonou a mohlo to být zjednodušené natolik, že by to nemuselo být naprosto jasně a jenom dračí oko, bylo, ano, oko samotné. Přivřené víčko, upřený pohled, ostře řezaná "duhovka" s úzkou štěrbinou panenky a prázdnotou uvnitř.
-Zatímco všechno ostatní byly rušivé "kudrlinky", ony detaily, které mám jindy tak rád, tak oko samotné byl solidní základ pro nezaměnítelný symbol.
+To co ale jako logo vypadalo, co by se mohlo stát ikonou a mohlo to být zjednodušené natolik, že by to nemuselo být naprosto jasně a neomylně dračí oko, bylo, ano, oko samotné. Přivřené víčko, upřený pohled, ostře řezaná "duhovka" s úzkou štěrbinou panenky a prázdnotou uvnitř.
+Zatímco všechno ostatní byly rušivé "kudrlinky", ony detaily, které mám jindy tak rád, tak oko samotné byl solidní základ pro nezaměnitelný symbol.
 
 Ovšem jedna drobnost i v samotném oku překážela - když jsem ho přiblížil, abych ořezal všechny ty parády okolo a zaměřil se jenom na to symbolické uvnitř, tak jsem se nemohl zbavit pocitu, že se dívám na lidské oko. Kulaté, jen přivřené.
 
-Poprosil jsem Dana, aby se zaměřil právě na oko samotné a trochu
+Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěřil". Žádné bělmo, žádná duhovka a panenku jen jako úzký proužek. Tak jako každý slušně vychovaný [krokodýl](https://i.pinimg.com/originals/92/96/4c/92964c159285445dd578d321afb17b81.jpg).
+
+*Přitom jsem zjistil, že někteří plazi skutečně mají kulatou panenku - a to [denní plazi](https://www.abicko.cz/clanek/precti-si-priroda/21054/ocima-hada-tajemstvi-hadich-smyslu.html).*
+
+---
+
+Po dvou týdnech mi do mailu přistála předělávka ve třech barevných provedeních.
+
+*30. 9. 2019*
+![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png)
+
