@@ -80,3 +80,13 @@ Dan poslal tři návrhy
 
 ![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png)
 
+Jako, nebylo to špatné. Ale nebylo to logo. Nebylo to jednoduché a ikonické. A bylo to naprosto jednoznačné - prostě dračí oko - což jsem taky nechtěl.
+
+*Pomalu mě začínalo dohánět, že jsem mylně považoval grafiky za ilustrátory, kteří to navíc umí s Photoshopem.*
+
+To co ale jako logo vypadalo, mohlo se to stát ikonou a mohlo to být zjednodušené natolik, že by to nemuselo být naprosto jasně a jenom dračí oko, bylo, ano, oko samotné. Přivřené víčko, upřený pohled, ostře řezaná "duhovka" s úzkou štěrbinou panenky a prázdnotou uvnitř.
+Zatímco všechno ostatní byly rušivé "kudrlinky", ony detaily, které mám jindy tak rád, tak oko samotné byl solidní základ pro nezaměnítelný symbol.
+
+Ovšem jedna drobnost i v samotném oku překážela - když jsem ho přiblížil, abych ořezal všechny ty parády okolo a zaměřil se jenom na to symbolické uvnitř, tak jsem se nemohl zbavit pocitu, že se dívám na lidské oko. Kulaté, jen přivřené.
+
+Poprosil jsem Dana, aby se zaměřil právě na oko samotné a trochu
