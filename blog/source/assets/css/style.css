@@ -625,6 +625,7 @@ nobr {
     display: inline-block;
     max-height: 1.4em;
     vertical-align: text-bottom;
+    width: initial;
 }
 
 .card {
