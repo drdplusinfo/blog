@@ -328,19 +328,19 @@ Zatímco naše spolupráce na obálce usnula, v malých kresbách k na blog jsme
 
 Posuďte sami:
 
-- [Únava jako...](../2019/2019-09-13-unava-jako.md)
+- ke článku [*Únava jako...*](../2019/2019-09-13-unava-jako.md)
 *(paralympijský dobrodruh)*
 ![Skica ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_skica_300x300.png?version=497efcd9e50f1deef83a88f79a7f2c50) ![Ilustrace ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png?version=92cd325e5c5ee0f2eacfb7e2114bfd18)
 
 ---
 
-- [Technický milník - bez chyby](../2019/2019-10-01-technicky-milnik-bez-chyby.md)
+- ke článku [*Technický milník - bez chyby*](../2019/2019-10-01-technicky-milnik-bez-chyby.md)
 *(fešák bez chybičky)*
 ![Skica ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_skica_300x300.png?version=966fe05d0e605e4b21d6843cdaf67c27) ![Ilustrace ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png?version=c3e3e46d53d240ff99d9bc2b5da3e833)
 
 ---
 
-- [Zasloužilý sebemrskač](2020-06-04-zaslouzily-sebemrskac.md)
+- ke článku [*Zasloužilý sebemrskač*](2020-06-04-zaslouzily-sebemrskac.md)
 *(sebemrskač s nuceným úsměvem)*
 ![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png?version=9eec9d6d6db7e7fd1ab87f66c23c7405) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
