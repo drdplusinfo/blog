@@ -432,7 +432,6 @@ Osobně si z toho odnáším, že kresby jsou jako jakákoliv jiná činnost. Ab
 - [*houbeles v mostě* - 1 754 × 2 481 px - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png?version=2478ecdd6a1924eba02d83752d061cbb)
 - [*brutopýři brání rodnou jeskyni*  1 754 × 2 481 px - 6,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png?version=c3fafbcfc2f3fb29b9f11a70f8160f75)
 
-uderni
 ### Epilog
 
 *Mozolnatými prsty svíral džbánek a lemtal jako ohař po honitbě. Vůkol postávali ostatní hosti, dychtiví senzace.*

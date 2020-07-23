@@ -6,7 +6,7 @@ image_author: "*Autorem dračího oka je Dan Hamerník. Děkujeme.*"
 perex: |
     *Není čas ztrácet čas.*
     
-    Dan mě chytil pod krkem a v rekordním čase z nás dostal seriózní logo. A tím byl oficiálně stvrzen Dračí odkaz.
+    Dan mě chytil pod krkem a v rekordním čase z nás dostal seriózní logo. A tím byl de facto stvrzen Dračí odkaz.
     
     *A co vy, umíte dokončovat práci v termínu?*
 
@@ -73,7 +73,6 @@ A tím započala naše práce na logu.
 
 ### Logo
 
-
 Dan poslal tři návrhy
 
 *17. 9. 2019*
@@ -114,7 +113,33 @@ Ale už jsme byli příliš daleko, abychom tohle všechno měnili. Už mi mělo
 
 ---
 
-Dan se zasnažil. Pravou část ukryl do stínů a celkově logo krapet zesvětlil. Ale na "různé střepy" nereagoval. Už to bylo prostě moc.
+Dan se zasnažil. Pravou část ukryl do stínů a celkově logo krapet zesvětlil.
+Ale na "různé střepy" nereagoval. Už to bylo prostě moc. Respektive bez obalu mě varoval, že jsme dosáhli dohodnutého času (a částky). Víc říkat nemusel, některé hranice je neradno překračovat, obzvlášť pokud zasahují do rodiného rozpočtu.
 
 *3. 11. 2019*
 ![zelené oko se stínem](/assets/images/posts/ilustratori_udernik_dan_hamernik/zelene_draci_oko_se_stinem_original_size.png)
+
+A bylo to.
+
+#### Ke stažení
+
+*vlastníkem loga je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
+
+Ano, i tohle logo si klidně použijte, kde se vám zlíbí. Jen o jedno vás prosím, nepoužívejte ho jako logo pro RPG hru. To bychom si už vážně lezli do zelí.
+
+- [*ikona zeleného dračího oka* - v křivkách (roztažitelné do **libovolné** velikosti), 315 kB](/assets/images/posts/ilustratori_udernik_dan_hamernik/draci_odkaz_logo.svg)
+
+#### Závěrem
+
+S hotovým logem ve schránce jsem se cítil vlastně trochu rozpačitě. Jako bych náhle vystřízlivěl, jako kdyby mě někdo plesknutím probral ze sna.
+Jo, jsem snílek a pořád jsem v sobě neměl uzavřenou přestavu, jak by **dokonalá** verze loga měla vlastně vypadat.
+- U Philipa Warda jsem měl štěstí v tom, že Philip sháněl reference a potřeboval za sebou mít hotovou práci, takže předělával a předělával a [předělával](2020-06-18-kouzelnik-philip-ward.md).
+- U ticho762 jsem měl také štěstí, protože je jako ilustrátor zvyklý na nejisté zákazníky a nejdříve mě vždy zahrnul prostými návrhy, na kterých jsme si sladili notičky, než se [pustil do finále](TODO).
+
+S Danem jsem ovšem narazil. Na začátku jsme si nastavili pravidla (ceny a tím času) a Dan je dodržel do puntíku. A k tomu je Dan grafik, který co slíbí, to splní, ale netahá zákazníka za ručičku.
+
+Finální logo je velmi dobré, díky Danovi jsem objevil sílu jediné barvy a ostrých hran, ze kterých by měl i [Piccaso](https://cz.pinterest.com/philsaxon/pablo-picasso-cubism/) radost. Jen jsem svojí vinou nenašel to srdeční - to, při čem bych se připitoměle usmíval a broukal si "jo jo, to je vono, to je vono".
+
+Tím končí naše trojdílná minisérie o ilustrátorech, do které Dan Hamerník spadl mým omylem, když jsem o něm z počátku uvažoval jako o rozevlátém kreslíři, než mi ukázal, že je profi grafik.
+
+A nyní už zase můžeme pokračovat tam, kde jsme skončili při hledání jednoduchých, úderných pravidel. Jen tentokrát už pod novou vlajkou - pod vlajkou *Dračího odkazu*. Krleš!
