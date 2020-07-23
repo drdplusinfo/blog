@@ -91,12 +91,30 @@ Ovšem jedna drobnost i v samotném oku překážela - když jsem ho přiblíži
 
 Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěřil". Žádné bělmo, žádná duhovka a panenku jen jako úzký proužek. Tak jako každý slušně vychovaný [krokodýl](https://i.pinimg.com/originals/92/96/4c/92964c159285445dd578d321afb17b81.jpg).
 
-*Přitom jsem zjistil, že někteří plazi skutečně mají kulatou panenku - a to [denní plazi](https://www.abicko.cz/clanek/precti-si-priroda/21054/ocima-hada-tajemstvi-hadich-smyslu.html).*
+*Přitom jsem zjistil, že někteří plazi skutečně mají kulatou panenku - a to [denní plazi](https://www.abicko.cz/clanek/precti-si-priroda/21054/ocima-hada-tajemstvi-hadich-smyslu.html). Ale i tak jsem pořád chtěl tu známnější úzkou verzi*
 
 ---
 
 Po dvou týdnech mi do mailu přistála předělávka ve třech barevných provedeních.
 
 *30. 9. 2019*
-![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png?version=3d56b4b9c2f33ca8cc66df087d43f5a1) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png?version=1c62e3da248f396912cf24c6be8f270b) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png?version=e5152f51be2086e145c77766ba67aed1)
+![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png?version=3d56b4b9c2f33ca8cc66df087d43f5a1) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png?version=1c62e3da248f396912cf24c6be8f270b) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png?version=fc6823615ab87c63c6f5733286478ac2)
 
+*Tady musím Danovi poděkovat, že mi poslal více barevných návrhů. Jasně, co je na tom chtít jinou barvu, jenže... Právě že nejdříve nás musí napadnout, že to vůbec můžeme chtít. Kdyby Dan neposlal více barev, asi bych o nich ani nepřemýšlel.*
+
+Dan oko přiblížil, bělmo obarvil, panenku zůžil a začernil. A hlavně to celé předělal do úhelníků. Trojúhelníky, mimoběžníky, mnohoúhelníky... Přesně jak jsem chtěl. Tahle změna se Danovi povedla na jedničku.
+
+A díky varevným variacím jsem mohl popřemýšlet i o pocitech, které barevný nádech navozoval. Po koketování s červenou jsem nakonec vybral zelenou verzi. Po zmenšení na malou ikonku vypadal nejlépe. A taky mám zelenou rád.
+
+Začínali jsme se blížit k finále.
+
+A já se začal štourat do detailů. "Střepy", ze kterých bylo oko složené, byly vlastně z přímek. Chtěl jsem něco přítodnějšího, jako kdyby to byly poskládané drahokamy ve šperku, s náhodnější strukturou. A uříznuté oko zprava mě rušilo, chtěl jsem jeho pravou část zakrytou přirozeně, stínem. A taky mi přišlo, že té tmavé plochy je tam hodně a na oko už moc místa nezbylo.
+
+Ale už jsme byli příliš daleko, abychom tohle všechno měnili. Už mi mělo naplno dojít, že kreslíři a grafici jsou dvě odlišné profese.
+
+---
+
+Dan se zasnažil. Pravou část ukryl do stínů a celkově logo krapet zesvětlil. Ale na "různé střepy" nereagoval. Už to bylo prostě moc.
+
+*3. 11. 2019*
+![zelené oko se stínem](/assets/images/posts/ilustratori_udernik_dan_hamernik/zelene_draci_oko_se_stinem_original_size.png)

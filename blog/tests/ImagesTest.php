@@ -32,7 +32,7 @@ class ImagesTest extends AbstractBlogTest
         }
         foreach ($imagesWithInvalidVersion as $imageWithInvalidVersion) {
             ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $imageWithInvalidVersion;
-            $errorMessages[] = sprintf("Missing version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath));
+            $errorMessages[] = sprintf("Invalid version for image %s, expected\n%s", $imageLink, $this->getExpectedVersionHint($imageFullPath));
         }
         self::assertCount(
             0,
