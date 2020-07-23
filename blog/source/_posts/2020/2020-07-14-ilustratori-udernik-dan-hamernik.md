@@ -78,7 +78,7 @@ Dan poslal tři návrhy
 
 *17. 9. 2019*
 
-![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png?version=040487494d97297943956532da87cf32) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png)
+![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png?version=040487494d97297943956532da87cf32) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png?version=62088afa68458c50f6cd6b95d4be4666) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png?version=7a65083c0f0c0b85a9526ce392543cec)
 
 Jako, nebylo to špatné. Ale nebylo to logo. Nebylo to jednoduché a ikonické. A bylo to naprosto jednoznačné - prostě dračí oko - což jsem taky nechtěl.
 
@@ -98,5 +98,5 @@ Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěř
 Po dvou týdnech mi do mailu přistála předělávka ve třech barevných provedeních.
 
 *30. 9. 2019*
-![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png)
+![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png?version=3d56b4b9c2f33ca8cc66df087d43f5a1) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png?version=1c62e3da248f396912cf24c6be8f270b) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png?version=e5152f51be2086e145c77766ba67aed1)
 
