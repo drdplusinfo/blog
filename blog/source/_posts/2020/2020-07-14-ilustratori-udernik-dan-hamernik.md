@@ -14,7 +14,7 @@ perex: |
 
 ## Dračí odkaz
 
-V [článku o Philipu Wardovi](2020-06-18-kouzelnik-philip-ward.md#ke_stazeni) jsem prozradil, že vlastníkem kreseb je jakýsi *Dračí odkaz*. V následujícím článku o pohodáři ticho762 už jsem naplno [popisoval](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název.
+V článku o Philipu Wardovi jsem [prozradil](2020-06-18-kouzelnik-philip-ward.md#ke_stazeni), že vlastníkem kreseb je jakýsi *Dračí odkaz*. V následujícím článku o pohodáři ticho762 už jsem naplno [popisoval](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název.
 
 A teď si dáme malé opáčko.
 
@@ -49,7 +49,7 @@ Opět jsem se optal nejdříve na [Facebooku DrdPlus.info](https://www.facebook.
 
 Během pár dní se ozval Dan Hamerník, což není nikdo jiný, než jeden z našich nejvěrnějších fanoušků. A že by logo udělal.
 
-No tak jo. Docela jsem se mu do mailu rozpovídal o myšlence Dračího odkazu a přidal zdánlivě prosté zadání:
+No tak jo. Docela jsem se mu do mailu rozpovídal o myšlence *Dračího odkazu* a přidal zdánlivě prosté zadání:
 
 > Chtěli bychom oko draka, které ale vypadá jako vytesané. Oko draka, ze kterého je vidět jen část (protože je zbytek zakrytý či ulomený).
 
@@ -79,7 +79,7 @@ Dan poslal tři návrhy
 
 ![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png?version=040487494d97297943956532da87cf32) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png?version=62088afa68458c50f6cd6b95d4be4666) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png?version=7a65083c0f0c0b85a9526ce392543cec)
 
-Jako, nebylo to špatné. Ale nebylo to logo. Nebylo to jednoduché a ikonické. A bylo to naprosto jednoznačné - prostě dračí oko - což jsem taky nechtěl.
+Jako, nebylo to špatné. Ale nebylo to logo. Nebylo to jednoduché a ikonické. A bylo to naprosto jednoznačné - prostě dračí oko - což jsem nechtěl.
 
 *Pomalu mě začínalo dohánět, že jsem mylně považoval grafiky za ilustrátory s Photoshopem.*
 
