@@ -88,9 +88,12 @@ Zatímco všechno okolo byly rušivé "kudrlinky", ony detaily, které mám jind
 
 Ovšem jedna drobnost i v samotném oku překážela - když jsem ho přiblížil, abych ořezal všechny ty parády okolo a zaměřil se jenom na to symbolické uvnitř, tak jsem se nemohl zbavit pocitu, že se dívám na lidské oko. Kulaté, jen přivřené.
 
-Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěřil". Žádné bělmo, žádná duhovka a panenku jen jako úzký proužek. Tak jako každý slušně vychovaný [krokodýl](https://i.pinimg.com/originals/92/96/4c/92964c159285445dd578d321afb17b81.jpg).
+Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěřil". Žádné bělmo, žádná duhovka a panenku jen jako úzký proužek. Tak jako každý [krokodýl](https://i.pinimg.com/originals/92/96/4c/92964c159285445dd578d321afb17b81.jpg) z dobrého rodu.
 
 *Přitom jsem zjistil, že někteří plazi skutečně mají kulatou panenku - a to [denní plazi](https://www.abicko.cz/clanek/precti-si-priroda/21054/ocima-hada-tajemstvi-hadich-smyslu.html). Ale i tak jsem pořád chtěl tu známnější úzkou verzi*
+
+Ale jeden prvek mě na Danově návrhu uchvátil - ty trojúhelníky, ten styl "střepů" použitý pod oken v prvním návrhu, ty byly skvělé.
+Požádal jsem Dana, aby daší návrh vytvořil už jenom ze střepů.
 
 ---
 
@@ -103,11 +106,11 @@ Po dvou týdnech mi do mailu přistála předělávka ve třech barevných prove
 
 Dan oko přiblížil, bělmo obarvil, panenku zůžil a začernil. A hlavně to celé předělal do úhelníků. Trojúhelníky, mimoběžníky, mnohoúhelníky... Přesně jak jsem chtěl. Tahle změna se Danovi povedla na jedničku.
 
-A díky varevným variacím jsem mohl popřemýšlet i o pocitech, které barevný nádech navozoval. Po koketování s červenou jsem nakonec vybral zelenou verzi. Po zmenšení na malou ikonku vypadal nejlépe. A taky mám zelenou rád.
+A díky barevným variacím jsem mohl popřemýšlet i o pocitech, které navozovaly. Po koketování s červenou jsem nakonec vybral zelenou verzi. která po zmenšení na malou ikonku vypadala nejlépe. A taky mám zelenou rád.
 
 Začínali jsme se blížit k finále.
 
-A já se začal štourat do detailů. "Střepy", ze kterých bylo oko složené, byly vlastně z přímek. Chtěl jsem něco přítodnějšího, jako kdyby to byly poskládané drahokamy ve šperku, s náhodnější strukturou. A uříznuté oko zprava mě rušilo, chtěl jsem jeho pravou část zakrytou přirozeně, stínem. A taky mi přišlo, že té tmavé plochy je tam hodně a na oko už moc místa nezbylo.
+A já se začal štourat do detailů. "Střepy", ze kterých bylo oko složené, byly vlastně z přímek. Chtěl jsem něco příhodnějšího, jako kdyby to byly poskládané drahokamy ve šperku, s náhodnější strukturou. A uříznuté oko zprava mě rušilo, chtěl jsem jeho pravou část zakrytou přirozeně, stínem. A taky mi přišlo, že té tmavé plochy je tam hodně a na oko už moc místa nezbylo.
 
 Ale už jsme byli příliš daleko, abychom tohle všechno měnili. Už mi mělo naplno dojít, že kreslíři a grafici jsou dvě odlišné profese.
 
