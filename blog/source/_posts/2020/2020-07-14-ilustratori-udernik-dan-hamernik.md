@@ -102,9 +102,9 @@ Po dvou týdnech mi do mailu přistála předělávka ve třech barevných prove
 *30. 9. 2019*
 ![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png?version=3d56b4b9c2f33ca8cc66df087d43f5a1) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png?version=1c62e3da248f396912cf24c6be8f270b) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png?version=fc6823615ab87c63c6f5733286478ac2)
 
-*Tady musím Danovi poděkovat, že mi poslal více barevných návrhů. Jasně, co je na tom chtít jinou barvu, jenže... Právě že nejdříve nás musí napadnout, že to vůbec můžeme chtít. Kdyby Dan neposlal více barev, asi bych o nich ani nepřemýšlel.*
+*Tady musím Danovi poděkovat, že mi poslal více barevných návrhů. Jasně, co je na tom chtít jinou barvu, jenže... Jenže nejdříve nás musí napadnout, že to vůbec můžeme chtít. Kdyby Dan neposlal více barev, asi bych o nich ani nepřemýšlel.*
 
-Dan oko přiblížil, bělmo obarvil, panenku zůžil a začernil. A hlavně to celé předělal do úhelníků. Trojúhelníky, mimoběžníky, mnohoúhelníky... Přesně jak jsem chtěl. Tahle změna se Danovi povedla na jedničku.
+Dan oko přiblížil, bělmo obarvil, panenku zúžil a začernil. A hlavně to celé předělal do úhelníků - trojúhelníků, mimoběžníků, mnohoúhelníků... Přesně jak jsem chtěl. Tahle změna se Danovi povedla na jedničku.
 
 A díky barevným variacím jsem mohl popřemýšlet i o pocitech, které navozovaly. Po koketování s červenou jsem nakonec vybral zelenou verzi. která po zmenšení na malou ikonku vypadala nejlépe. A taky mám zelenou rád.
 
