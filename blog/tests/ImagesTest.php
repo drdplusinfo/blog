@@ -16,23 +16,23 @@ class ImagesTest extends AbstractBlogTest
         $imagesWithoutVersion = [];
         $imagesWithInvalidVersion = [];
         foreach ($images as $image) {
-            ['version' => $version, 'fullPath' => $imageFullPath] = $image;
+            ['version' => $version, 'fullPath' => $fullPath] = $image;
             if (empty($version)) {
                 $imagesWithoutVersion[] = $image;
                 continue;
             }
-            if (md5_file($imageFullPath) !== $version) {
+            if (md5_file($fullPath) !== $version) {
                 $imagesWithInvalidVersion[] = $image;
             }
         }
         $errorMessages = [];
         foreach ($imagesWithoutVersion as $imageWithoutVersion) {
-            ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $imageWithoutVersion;
-            $errorMessages[] = sprintf("Missing version for image %s, expected\n%s", $imageLink, $version ? '' : $this->getExpectedVersionHint($imageFullPath));
+            ['version' => $version, 'fullPath' => $fullPath, 'link' => $link] = $imageWithoutVersion;
+            $errorMessages[] = sprintf("Missing version for image %s, expected\n%s", $link, $version ? '' : $this->getExpectedVersionHint($fullPath));
         }
         foreach ($imagesWithInvalidVersion as $imageWithInvalidVersion) {
-            ['version' => $version, 'fullPath' => $imageFullPath, 'link' => $imageLink] = $imageWithInvalidVersion;
-            $errorMessages[] = sprintf("Invalid version for image %s, expected\n%s", $imageLink, $this->getExpectedVersionHint($imageFullPath));
+            ['version' => $version, 'fullPath' => $fullPath, 'link' => $link] = $imageWithInvalidVersion;
+            $errorMessages[] = sprintf("Invalid version for image %s, expected\n%s", $link, $this->getExpectedVersionHint($fullPath));
         }
         self::assertCount(
             0,

@@ -1,3 +1,7 @@
+#post .perex {
+    font-size: 23px;
+}
+
 a.perex, a.perex:hover {
     color: #333;
     text-decoration: none;
@@ -8,6 +12,7 @@ a.perex:hover {
     background-color: rgba(255, 255, 255, 0.45);
 }
 
+/* IMAGE s*/
 .perex-image-container {
     text-align: center;
 }
@@ -18,12 +23,18 @@ a.perex:hover {
     }
 }
 
-@media(max-width: 575px) {
-    .perex img {
-        padding: 0 0 1em;
-    }
+.perex img {
+    width: 82%;
 }
 
 #post .perex img {
+    width: 100%;
     margin: 0;
+}
+
+@media(max-width: 575px) {
+    .perex img {
+        padding: 0 0 1em;
+        width: 100%;
+    }
 }

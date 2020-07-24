@@ -11,18 +11,32 @@ class CssTest extends AbstractBlogTest
      */
     public function Css_files_are_linked_with_their_md5_versions()
     {
+        $stylesWithoutVersion = [];
+        $stylesWithInvalidVersion = [];
         foreach (self::getAllCssFiles() as $cssFile) {
             ['version' => $version, 'fullPath' => $fullPath, 'link' => $link] = $cssFile;
-            self::assertNotEmpty(
-                $version,
-                sprintf("Missing version for CSS file %s, expected\n%s", $link, $this->getExpectedVersionHint($fullPath))
-            );
-            self::assertSame(
-                md5_file($fullPath),
-                $version,
-                sprintf("Invalid version for CSS file %s, expected\n%s", $link, $this->getExpectedVersionHint($fullPath))
-            );
+            if (empty($version)) {
+                $stylesWithoutVersion[] = $cssFile;
+                continue;
+            }
+            if (md5_file($fullPath) !== $version) {
+                $stylesWithInvalidVersion[] = $cssFile;
+            }
         }
+        $errorMessages = [];
+        foreach ($stylesWithoutVersion as $styleWithoutVersion) {
+            ['version' => $version, 'fullPath' => $fullPath, 'link' => $link] = $styleWithoutVersion;
+            $errorMessages[] = sprintf("Missing version for CSS file %s, expected\n%s", $link, $version ? '' : $this->getExpectedVersionHint($fullPath));
+        }
+        foreach ($stylesWithInvalidVersion as $styleWithInvalidVersion) {
+            ['version' => $version, 'fullPath' => $fullPath, 'link' => $link] = $styleWithInvalidVersion;
+            $errorMessages[] = sprintf("Invalid version for CSS file %s, expected\n%s", $link, $this->getExpectedVersionHint($fullPath));
+        }
+        self::assertCount(
+            0,
+            $errorMessages,
+            implode("\n", $errorMessages)
+        );
     }
 
     /**

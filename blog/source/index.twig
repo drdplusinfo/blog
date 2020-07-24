@@ -22,8 +22,8 @@ id: blog
             {% endif %}
 
             {% if loop.first %}
-                <article class="pt-2 pb-4 mb-4 col-md-12">
-                    <h2 class="first-post text-center">
+                <article class="pt-2 pb-4 mb-4 col-md-12 first-post">
+                    <h2 class="text-center">
                         <a href="/{{ post|link }}/">
                             {{ post.title|raw }}
                         </a>

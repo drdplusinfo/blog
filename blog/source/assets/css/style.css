@@ -386,8 +386,8 @@ nav a:hover, nav ul li.active a, nav a.active, nav a:active {
 }
 
 /* default post setting */
-#blog .first-post, #post h1 {
-    font-size: 3.3em;
+#blog .first-post h2 {
+    font-size: 2.3em;
     font-weight: 300;
 }
 
@@ -503,7 +503,7 @@ table ul {
         line-height: 2.4em;
     }
 
-    #blog .first-post, #post h1 {
+    #blog .first-post h2, #post h1 {
         font-size: 2.3em;
         font-weight: 300;
         margin-top: .8em;
