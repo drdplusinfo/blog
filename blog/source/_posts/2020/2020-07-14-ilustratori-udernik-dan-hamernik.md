@@ -77,14 +77,14 @@ Dan poslal tři návrhy
 
 *17. 9. 2019*
 
-![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png?version=040487494d97297943956532da87cf32) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png?version=62088afa68458c50f6cd6b95d4be4666) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png?version=7a65083c0f0c0b85a9526ce392543cec)
+![první návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/prvni_oko_original_size.png?version=040487494d97297943956532da87cf32) ![druhý návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/druhe_oko_original_size.png?version=855a6df261b53070100ea6d374a3748b) ![třetí návrh oka](/assets/images/posts/ilustratori_udernik_dan_hamernik/treti_oko_original_size.png?version=7a65083c0f0c0b85a9526ce392543cec)
 
 Jako, nebylo to špatné. Ale nebylo to logo. Nebylo to jednoduché a ikonické. A bylo to naprosto jednoznačné - prostě dračí oko - což jsem nechtěl.
 
 *Pomalu mě začínalo dohánět, že jsem mylně považoval grafiky za ilustrátory s Photoshopem.*
 
 To co ale jako logo vypadalo, co by se mohlo stát ikonou a mohlo to být zjednodušené natolik, že by to nemuselo být naprosto jasně a neomylně dračí oko, bylo, ano, oko samotné. Přivřené víčko, upřený pohled, ostře řezaná "duhovka" s úzkou štěrbinou panenky a prázdnotou uvnitř.
-Zatímco všechno ostatní byly rušivé "kudrlinky", ony detaily, které mám jindy tak rád, tak oko samotné byl solidní základ pro nezaměnitelný symbol.
+Zatímco všechno okolo byly rušivé "kudrlinky", ony detaily, které mám jindy tak rád, tak oko samotné byl solidní základ pro nezaměnitelný symbol.
 
 Ovšem jedna drobnost i v samotném oku překážela - když jsem ho přiblížil, abych ořezal všechny ty parády okolo a zaměřil se jenom na to symbolické uvnitř, tak jsem se nemohl zbavit pocitu, že se dívám na lidské oko. Kulaté, jen přivřené.
 
@@ -117,7 +117,7 @@ Dan se zasnažil. Pravou část ukryl do stínů a celkově logo krapet zesvětl
 Ale na "různé střepy" nereagoval. Už to bylo prostě moc. Respektive bez obalu mě varoval, že jsme dosáhli dohodnutého času (a částky). Víc říkat nemusel, některé hranice je neradno překračovat, obzvlášť pokud zasahují do rodiného rozpočtu.
 
 *3. 11. 2019*
-![zelené oko se stínem](/assets/images/posts/ilustratori_udernik_dan_hamernik/zelene_draci_oko_se_stinem_original_size.png)
+![zelené oko se stínem](/assets/images/posts/ilustratori_udernik_dan_hamernik/zelene_draci_oko_se_stinem_original_size.png?version=2fe06f1df0d545904262e478c89a4046)
 
 A bylo to.
 
@@ -127,7 +127,7 @@ A bylo to.
 
 Ano, i tohle logo si klidně použijte, kde se vám zlíbí. Jen o jedno vás prosím, nepoužívejte ho jako logo pro RPG hru. To bychom si už vážně lezli do zelí.
 
-- [*ikona zeleného dračího oka* - v křivkách (roztažitelné do **libovolné** velikosti), 315 kB](/assets/images/posts/ilustratori_udernik_dan_hamernik/draci_odkaz_logo.svg)
+- [*ikona zeleného dračího oka* - v křivkách (roztažitelné do **libovolné** velikosti), 315 kB](/assets/images/posts/ilustratori_udernik_dan_hamernik/draci_odkaz_logo.svg?version=02717dcf248e06f8c801fc4b9f0d7ac1)
 
 #### Závěrem
 
