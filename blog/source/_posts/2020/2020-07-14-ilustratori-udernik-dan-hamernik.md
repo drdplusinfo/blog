@@ -142,4 +142,6 @@ Finální logo je velmi dobré, díky Danovi jsem objevil sílu jediné barvy a 
 
 Tím končí naše trojdílná minisérie o ilustrátorech, do které Dan Hamerník spadl mým omylem, když jsem o něm z počátku uvažoval jako o rozevlátém kreslíři, než mi ukázal, že je profi grafik.
 
+*Danovi děkuji, že se se mnou nemazlil a že díky němu máme logo zelené a kubistické, což jsem nevěděl že chci, dokud jsem to neuviděl.*
+
 A nyní už zase můžeme pokračovat tam, kde jsme skončili při hledání jednoduchých, úderných pravidel. Jen tentokrát už pod novou vlajkou - pod vlajkou *Dračího odkazu*. Krleš!
