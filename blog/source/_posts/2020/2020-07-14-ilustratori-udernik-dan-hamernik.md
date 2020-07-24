@@ -20,7 +20,7 @@ A teď si dáme malé opáčko.
 
 ### Změna směru
 
-[Dračí doupě plus](https://www.drdplus.info) jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Ani jednou nás naše narůstající moc nepustila nad desátou úroveň, protože by to zbořilo příběh a náš oblíbený styl hry. A vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
+[Dračí doupě plus](https://www.drdplus.info) jsme hráli, no, abych nekecal, tak deset let. S přestávkami, samozřejmě. Vždy jsme odmítli kvůli naší narůstající moci pokračovat nad desátou úroveň, protože by to zbořilo příběh a náš oblíbený styl hry. A vždycky jsme prskali, že pravida jsou složitá a nevyvážená... něco mezi vysokoškolskými skripty a hospodskou stravou.
 Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a tělesných následků, odvahu s jakou autoři každému povolání dovolili jiný přístup ke hře i herním mechanikám.
 Jenže nedostatek osobního času a přemíra obtíží s hraním podle DrD+ nás dohnala. Úplně jako z příručky pro hráče a [hodu na úspěch](https://pph.drdplus.info/#znaceni_a_zapis_zakladniho_hodu_na_uspech) - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou v různých herních situacích).
 Svou roli hrála i zvyšující se koncentrace dětí v našich rodinách.
@@ -88,11 +88,11 @@ Zatímco všechno okolo byly rušivé "kudrlinky", ony detaily, které mám jind
 
 Ovšem jedna drobnost i v samotném oku překážela - když jsem ho přiblížil, abych ořezal všechny ty parády okolo a zaměřil se jenom na to symbolické uvnitř, tak jsem se nemohl zbavit pocitu, že se dívám na lidské oko. Kulaté, jen přivřené.
 
-Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěřil". Žádné bělmo, žádná duhovka a panenku jen jako úzký proužek. Tak jako každý [krokodýl](https://i.pinimg.com/originals/92/96/4c/92964c159285445dd578d321afb17b81.jpg) z dobrého rodu.
+Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěřil". Žádné bělmo, žádná duhovka a panenka jen jako úzký proužek. Tak jako každý [krokodýl](https://i.pinimg.com/originals/92/96/4c/92964c159285445dd578d321afb17b81.jpg) z dobrého rodu.
 
 *Přitom jsem zjistil, že někteří plazi skutečně mají kulatou panenku - a to [denní plazi](https://www.abicko.cz/clanek/precti-si-priroda/21054/ocima-hada-tajemstvi-hadich-smyslu.html). Ale i tak jsem pořád chtěl tu známnější úzkou verzi*
 
-Ale jeden prvek mě na Danově návrhu uchvátil - ty trojúhelníky, ten styl "střepů" použitý pod oken v prvním návrhu, ty byly skvělé.
+Jeden prvek mě ovšem na Danově návrhu uchvátil - ty trojúhelníky, ten styl "střepů" použitý pod oken v prvním návrhu, ty byly skvělé.
 Požádal jsem Dana, aby daší návrh vytvořil už jenom ze střepů.
 
 ---
@@ -102,11 +102,11 @@ Po dvou týdnech mi do mailu přistála předělávka ve třech barevných prove
 *30. 9. 2019*
 ![čtvrtý návrh oka červeně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_cervene_original_size.png?version=3d56b4b9c2f33ca8cc66df087d43f5a1) ![čtvrtý návrh oka modře](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_modre_original_size.png?version=1c62e3da248f396912cf24c6be8f270b) ![čtvrtý návrh oka zeleně](/assets/images/posts/ilustratori_udernik_dan_hamernik/ctvrte_oko_zelene_original_size.png?version=fc6823615ab87c63c6f5733286478ac2)
 
-*Tady musím Danovi poděkovat, že mi poslal více barevných návrhů. Jasně, co je na tom chtít jinou barvu, jenže... Jenže nejdříve nás musí napadnout, že to vůbec můžeme chtít. Kdyby Dan neposlal více barev, asi bych o nich ani nepřemýšlel.*
+*Tady musím Danovi poděkovat, že mi poslal více barevných návrhů. Jasně, co je na tom chtít jinou barvu, jenže... Jenže nejdříve mě musí napadnout, že to vůbec můžu chtít. Kdyby Dan neposlal více barev, asi bych o nich ani nepřemýšlel.*
 
 Dan oko přiblížil, bělmo obarvil, panenku zúžil a začernil. A hlavně to celé předělal do úhelníků - trojúhelníků, mimoběžníků, mnohoúhelníků... Přesně jak jsem chtěl. Tahle změna se Danovi povedla na jedničku.
 
-A díky barevným variacím jsem mohl popřemýšlet i o pocitech, které navozovaly. Po koketování s červenou jsem nakonec vybral zelenou verzi. která po zmenšení na malou ikonku vypadala nejlépe. A taky mám zelenou rád.
+A díky barevným variacím jsem mohl popřemýšlet i o pocitech, které navozovaly. Po koketování s červenou jsem nakonec vybral zelenou verzi, která po zmenšení na malou ikonku vypadala nejlépe. A taky mám zelenou prostě rád.
 
 Začínali jsme se blížit k finále.
 
