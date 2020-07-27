@@ -3,14 +3,13 @@
     "require": {
         "php": "^7.2",
         "ext-json": "*",
-        "drdplusinfo/statie": "^5.6",
+        "drdplusinfo/statie": "6.0",
         "granam/git": "^1.2",
         "nette/finder": "^2.4",
         "nette/utils": "^2.5",
         "nikic/php-parser": "^4.1",
         "symfony/console": "^4.2",
-        "symfony/http-kernel": "^4.2",
-        "symplify/package-builder": "^5.4"
+        "symfony/http-kernel": "^4.2"
     },
     "require-dev": {
         "ext-dom": "*",
