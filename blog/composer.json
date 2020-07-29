@@ -40,7 +40,7 @@
             "vendor/bin/ecs check bin src tests --fix --ansi",
             "bin/clear_posts_trailing_whitespaces.sh"
         ],
-        "check-status": "vendor/bin/http-status-check scan https://tomasvotruba.cz --output invalid-links.txt --ansi"
+        "check-status": "vendor/bin/http-status-check scan https://blog.draciodkaz.cz --output invalid-links.txt --ansi"
     },
     "config": {
         "sort-packages": true
