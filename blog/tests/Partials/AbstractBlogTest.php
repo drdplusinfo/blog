@@ -24,7 +24,11 @@ abstract class AbstractBlogTest extends TestCase
         static $postsByFullPath = [];
         if (!$postsByFullPath) {
             $postNames = [];
-            exec(__DIR__ . '/../../vendor/bin/statie generate source');
+            $command = __DIR__ . '/../../vendor/bin/statie generate source';
+            if (extension_loaded('xdebug')) {
+                $command = 'php -dzend_extension=xdebug.so ' . $command;
+            }
+            exec($command);
             $blogDir = __DIR__ . '/../../output/blog';
             foreach (scandir($blogDir, SCANDIR_SORT_ASCENDING) as $folder) {
                 if ($folder === '.' || $folder === '..' || !is_dir($blogDir . '/' . $folder)) {

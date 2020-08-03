@@ -31,3 +31,7 @@ parameters:
 
     date_format: 'j. n. Y'
     day_month_format: 'j. n.'
+
+    assets:
+        root_dir: './source'
+        auto_version_excluding_regexp: '~(^/rss[.]xml$|[.]md(#.+)?$)~'

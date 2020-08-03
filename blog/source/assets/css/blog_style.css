@@ -367,20 +367,6 @@ nav a:hover, nav ul li.active a, nav a.active, nav a:active {
     font-size: 1.4em;
 }
 
-/* style in cards */
-#mission .card h2 {
-    margin: .3em 0 .3em 0;
-}
-
-#mission ul li {
-    line-height: 1.6em;
-}
-
-#mission .card ul {
-    margin: .3em 0 0 0;
-    padding-left: 1.2em;
-}
-
 .pull-right {
     float: right;
 }
@@ -569,15 +555,6 @@ table ul {
 
 }
 
-#mission h2 {
-    margin-bottom: .9em;
-}
-
-#mission .card h3 {
-    text-align: center;
-    font-size: 2em;
-}
-
 .thead-inverse th h3 {
     color: #DDD;
     margin: 0;
@@ -588,7 +565,6 @@ table ul {
 .small {
     font-size: .8em;
 }
-
 
 .thead-inverse a, .thead-inverse a:visited, #content .thead-inverse a:visited:not(.btn):not(.badge), .badge-info a, .badge-info a:visited {
     color: #DDD;

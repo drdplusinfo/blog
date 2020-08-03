@@ -3,7 +3,7 @@
     "require": {
         "php": "^7.2",
         "ext-json": "*",
-        "drdplusinfo/statie": "6.0",
+        "drdplusinfo/statie": "^6.0",
         "granam/git": "^1.2",
         "nette/finder": "^2.4",
         "nette/utils": "^2.5",
