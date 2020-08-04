@@ -374,6 +374,9 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 - [sebemrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
+- [opičák čmárající skřetí postavičku - *Ilustrátoři - pohodář ticho762* - 2000 px × 1000 px, 2,57 MB](/assets/images/posts/pohodar_ticho762/ilustratori_pohodar_ticho762.png)
+  - jo to je k tomuhle článku
+
 ### Epilog
 
 (s odkazem na [obálku pro Dračí odkaz](#obalka-pro-draci-odkaz)).
