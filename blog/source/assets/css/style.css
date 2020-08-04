@@ -12,7 +12,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: #333;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.5em;
     background: url(/assets/images/rules-background.png?version=40fd24846865c459e4f38300e2ae9377) repeat-y #FFEDD5 left fixed;
     background-size: 100%;
@@ -622,6 +622,7 @@ nobr {
 .inline-image {
     display: inline-block;
     max-height: 1.4em;
+    width: initial;
     vertical-align: text-bottom;
 }
 
@@ -697,4 +698,8 @@ blockquote p:last-child {
     display: inline-flex;
     width: 1em;
     height: 1em;
+}
+
+img[src*="300x300"] {
+    max-width: 300px;
 }

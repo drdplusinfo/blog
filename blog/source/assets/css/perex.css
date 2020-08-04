@@ -12,15 +12,27 @@ a.perex:hover {
     text-align: center;
 }
 
-@media(min-width: 576px) {
-    .perex-image-container {
-        padding-right: 0;
+/*
+    .col- (extra small devices - screen width less than 576px)
+    .col-sm- (small devices - screen width equal to or greater than 576px)
+    .col-md- (medium devices - screen width equal to or greater than 768px)
+    .col-lg- (large devices - screen width equal to or greater than 992px)
+    .col-xl- (xlarge devices - screen width equal to or greater than 1200px)
+ */
+
+@media(max-width: 576px) {
+    .perex-image-container.bootstrap-column-size-sm {
+        padding: 1em;
     }
 }
-
-@media(max-width: 575px) {
-    .perex img {
-        padding: 0 0 1em;
+@media(max-width: 768px) {
+    .perex-image-container.bootstrap-column-size-md {
+        padding: 1em;
+    }
+}
+@media(max-width: 992px) {
+    .perex-text-container.bootstrap-column-size-lg {
+        padding: 1em;
     }
 }
 

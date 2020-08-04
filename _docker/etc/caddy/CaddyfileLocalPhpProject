@@ -7,6 +7,6 @@
     }
     rewrite {
     		if {file} not favicon.ico
-    		to {path} {path}/ /maintenance.html /index.php
+    		to {path} {path}/ /maintenance.html /index.php /index.html
     }
     log /var/log/caddy
