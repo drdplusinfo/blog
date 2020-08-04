@@ -2,7 +2,7 @@
 id: 2020-07-05-1
 title: "Ilustrátoři: Pohodář ticho762"
 image: /assets/images/posts/pohodar_ticho762.png?version=b1673284d14b33eda0b3a2cb1063cd8e
-image_author: "*Autorem opičího alter ega, drze až vyzývavě čmárajícícho našeho skřetího maskota, je ticho762. Děkujeme!*"
+image_author: "*Autorem opičího alter ega, drze až vyzývavě čmárajícího našeho skřetího maskota, je ticho762. Děkujeme!*"
 perex: |
     *Když není nic problém, všechno jde snáz.*
     
@@ -280,7 +280,7 @@ A ticho762 se do toho opřel.
 
 Bylo v tom to, co jsem chtěl a ještě líp a bylo v tom to, co jsem chtěl, ale hůř.
 
-Takhle v barvě už bylo hodně znát, že kresba nevyzývá k akci, ale pouze pozoruje družiníky zpozdálí. Přesně jak vnitřně potřebuju, v pořádku.
+Takhle v barvě už bylo hodně znát, že kresba nevyzývá k akci, ale pouze pozoruje družiníky zpovzdálí. Přesně jak vnitřně potřebuju, v pořádku.
 
 Ticho762 přidal mulu, hadry mladíkovi a zbraně veteránovi, vidle, mapu, tlumoky, čapky, vousy, vlasy i pleše... nádhera!
 
@@ -313,7 +313,7 @@ Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i 
 *A v tomhle stavu jsme se na obálce zasekli.*
 
 ##### Pauza od obálky
-Minulé léto bylo pro mě finálním přerodem z původní představy *"Dělám pokračování Dračího doupěte plus"* na *Inspiruju se Dračím doupětem plus, ale musím jít o dost jednodušší cestou"*, z čehož nakonec vznikl myšlenkový směr Dračího odkazu.
+Minulé léto bylo pro mě finálním přerodem z původní představy *"Dělám pokračování Dračího doupěte plus"* na *"Inspiruju se Dračím doupětem plus, ale musím jít o dost jednodušší cestou"*, z čehož nakonec vznikl myšlenkový směr Dračího odkazu.
 
 A taky jsem měl pocit, že ticho762 přetěžuju, že dupu po detailech tak moc, až mu nezbývá prostor na radost z nespoutané tvorby, takže jsem chtěl pro nás pro oba chvíli pauzu.
 A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i SiriZaseknutíenovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
