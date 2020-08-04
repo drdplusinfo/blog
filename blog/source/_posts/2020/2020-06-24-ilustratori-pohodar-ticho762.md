@@ -2,7 +2,7 @@
 id: 2020-06-24-1
 title: "Ilustrátoři: Pohodář ticho762"
 image: /assets/images/posts/pohodar_ticho762.png?version=b1673284d14b33eda0b3a2cb1063cd8e
-image_author: "*Autorem sebe sama je ticho762.*"
+image_author: "*Autorem opičího alter ega, drze až vyzývavě čmárajícícho našeho skřetího maskota, je ticho762. Děkujeme!*"
 perex: |
     *Když není nic problém, všechno jde snáz.*
     
