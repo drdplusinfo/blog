@@ -265,7 +265,7 @@ Prostředí bylo vybrané, hlavní dominanta taky, mohl jsem se začít těšit 
 
 K vybrané scéně jsem pro ticho762 i pro sebe sama sepsal okamžiky jednoho z dobrodruhů:
 
-*Celý jeho život byl závod s časem. Vždycky byl všude o kousek dřív, než ostatní, rozhodoval se dříve, než ostatní, utíkal dříve, než ostatní a to ho drželo při životě. Jenže celý život běžet, to nejde vydržet věčně. Začínal z toho být unavený. Chtěl se už konečně zastavit a vydechnout si. Chtěl zažít ten pocit, že když nic neudělá, tak se nic nestane. Chtěl se už na stará kolena usadit.*
+*Celý jeho život byl závod s časem. Vždycky byl všude o kousek dřív než ostatní, rozhodoval se dříve než ostatní, utíkal dříve než ostatní a to ho drželo při životě. Jenže celý život běžet, to nejde vydržet věčně. Začínal z toho být unavený. Chtěl se už konečně zastavit a vydechnout si. Chtěl zažít ten pocit, že když nic neudělá, tak se nic nestane. Chtěl se už na stará kolena usadit.*
 
 *Proto vzal zavděk dělat průvodce zelenáčům, kteří mu slíbili podíl na kořisti. Dost velký na to, aby po něm už nemusel nikam. Už nikdy.*
 
