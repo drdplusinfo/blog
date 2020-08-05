@@ -344,7 +344,7 @@ Posuďte sami:
 *(sebemrskač s nuceným úsměvem)*
 ![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png?version=9eec9d6d6db7e7fd1ab87f66c23c7405) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
-Jen jednou jedinkrát se mi rozezvučel alarm, když se sebemrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
+Jen jednou jedinkrát se mi rozezvučel alarm a to když se sebemrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
 Jinak tyhle malé kresby lítaly ráz na ráz, ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
 
 A to je z naší spolupráce zatím všechno.
