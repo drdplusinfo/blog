@@ -316,7 +316,7 @@ Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i 
 Minulé léto bylo pro mě finálním přerodem z původní představy *"Dělám pokračování Dračího doupěte plus"* na *"Inspiruju se Dračím doupětem plus, ale musím jít o dost jednodušší cestou"*, z čehož nakonec vznikl myšlenkový směr Dračího odkazu.
 
 A taky jsem měl pocit, že ticho762 přetěžuju, že dupu po detailech tak moc, až mu nezbývá prostor na radost z nespoutané tvorby, takže jsem chtěl pro nás pro oba chvíli pauzu.
-A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i SiriZaseknutíenovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
+A k tomu jsem už tou dobou dost pracoval na Gameconu (znáte to, nové koště dobře mete), což vyvrcholilo oným osudným velkým úkolem na importu aktivit, což v kombinaci s mou i Sirienovou nechutí k nedokonalostem, k tomu s náročností mé placené práce za časů koronaviru, k tomu koronavirus samotný a psychická zátěž s prací z domova i strachem z neznámého, tohle všechno způsobilo, že jsem doslova [padnul na kolena](2020-06-04-zaslouzily-sebemrskac.md) a rozhodně mi nezbývala energie na vlastní iniciativy.
 
 *Teď už se zase blízká na lepší časy a práci na obálce obnovujeme.*
 
