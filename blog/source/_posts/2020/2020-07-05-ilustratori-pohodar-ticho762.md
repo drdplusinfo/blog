@@ -257,7 +257,7 @@ Kdybychom logo zjednodušili, aby více provokovalo fantazii a dávalo jenom tu�
 
 Druhé, na čem jsme našli shodu, byť to už nebylo až tak jednohlasné, byla stopa dávných časů. Všechny tři návrhy artefaktů se mi líbily, ale já potřeboval odkaz na draka. Z oblohy jsme ho smetli, měl proto zůstat alespoň na zemi. Dohodl jsem se proto s ticho762, že artefakt překreslí na vytesanou, napůl zavátou dračí hlavu.
 
-Zbývalo už jenom vybrat si jednu ze tří scenérií. Po krátkém váhání jsem zvolil výstup do vrchu a to z prostého důvodu - připomínalo mi to čundr v české kotlině. Ne, vážně, bylo to pro mě nepřirozenější, hřejivě známé a přitom stále dobrodružné. Přesně to jsem potřeboval.
+Zbývalo už jenom vybrat si jednu ze tří scenérií. Po krátkém váhání jsem zvolil výstup do vrchu a to z prostého důvodu - připomínalo mi to čundr v české kotlině. Ne, vážně, bylo to pro mě nejpřirozenější, hřejivě známé a přitom stále dobrodružné. Přesně to jsem potřeboval.
 
 Prostředí bylo vybrané, hlavní dominanta taky, mohl jsem se začít těšit na "nahozenou" verzi.
 
