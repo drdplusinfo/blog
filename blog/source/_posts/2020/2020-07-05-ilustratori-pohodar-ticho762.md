@@ -344,6 +344,16 @@ Posuďte sami:
 *(sebemrskač s nuceným úsměvem)*
 ![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png?version=9eec9d6d6db7e7fd1ab87f66c23c7405) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d)
 
+---
+
+- k tomuto článku *Ilustrátoři - pohodář ticho762* *(opičák čmárající skřeta)*
+![Ilustrace ke článku Ilustrátoři - pohodář ticho762](/assets/images/posts/pohodar_ticho762/ilustratori_pohodar_ticho762.png)
+
+---
+
+- k příštímu článku *Ilustrátoři - úderník Dan Hamerník* *(skřet obtiskávající sám seme)*
+![Ilustrace ke článku Ilustrátoři - úderník Dan Hamerník](/assets/images/posts/pohodar_ticho762/ilustratori_udernik_dan_hamernik_300x300.png)
+
 Jen jednou jedinkrát se mi rozezvučel alarm a to když se sebemrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
 Jinak tyhle malé kresby lítaly ráz na ráz, ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
 
@@ -376,6 +386,9 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 - [opičák čmárající skřetí postavičku - *Ilustrátoři - pohodář ticho762* - 2000 px × 1000 px, 2,57 MB](/assets/images/posts/pohodar_ticho762/ilustratori_pohodar_ticho762.png)
   - jo to je k tomuhle článku
+
+- [skřet obtisknuvší sebe sama - *Ilustrátoři - úderník Dan Hamerník* - 1000 px × 1000 px, 439 kB](/assets/images/posts/pohodar_ticho762/ilustratori_udernik_dan_hamernik.jpg)
+  - a tohle je k příštímu
 
 ### Epilog
 
