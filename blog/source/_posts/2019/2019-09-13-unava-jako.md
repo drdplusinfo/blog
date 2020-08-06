@@ -1,7 +1,7 @@
 ---
 id: 2019-09-13-1
 title: "Únava jako..."
-image: /assets/images/posts/olympiada.png?version=92cd325e5c5ee0f2eacfb7e2114bfd18
+image: /assets/images/posts/olympiada.png
 image_author: "*Autorem ilustrace paralympijského dobrodruha je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Hrál by Usain Bolt Dračí doupě, kdyby uměl česky? A hrál ho Emil Zátopek? A hraje ho Sáblíková?*
