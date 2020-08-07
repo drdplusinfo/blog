@@ -29,6 +29,7 @@ Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/p
 Asi by i takový styl šel naroubovat na DnD, ale jak bych Pánovi jeskyně, pardon Dungeon masterovi vysvětloval, že má zahodit dvě třetiny bestiáře a hráčům dvě třetiny schopností? Takové představy si nechám na propocené noční můry.
 
 Potřeboval jsem něco obyčejnějšího, něco přízemnějšího a něco vnitřně známějšího. Dosavadní myšlenky mě vedly k tomu, že jsem začal šlapat v jiném směru, než ostatní. Jiném, než [Dračí hlídka](https://www.dracihlidka.cz/#top), [Dračí doupě II](http://www.drd2.cz/), o [Jeskyních a dracích](https://www.jeskyneadraci.cz/) nemluvě.
+Nejblíže jsou mému cítění asi Zapovězené země, které [připravuje Mytago](https://mytago.cz/chystame/zapovezene-zeme/) a [Grimoár](https://drive.google.com/file/d/1Rvxj547DfCSIQPK2L7dAhtjQova1FWD8/view) od Quentina, ale pořád to jaksi není úplně ono.
 
 Už delší dobu jsem věděl, jaký pocit chci, aby z mé práce na nových, menších pravidlech sálal. Střízlivý, až přízemní, špinavý a jen lehce tajemný, s ďáblem skrytým v přirozených, ale nečekaných detailech.
 A to samé jsem chtěl i po názvu takové hry.
