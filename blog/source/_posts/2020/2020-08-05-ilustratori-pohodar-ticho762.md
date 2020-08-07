@@ -1,5 +1,5 @@
 ---
-id: 2020-07-05-1
+id: 2020-08-05-1
 title: "Ilustrátoři: Pohodář ticho762"
 image: /assets/images/posts/pohodar_ticho762.png
 image_author: "*Autorem opičího alter ega, drze až vyzývavě čmárajícího našeho skřetího maskota, je ticho762. Děkujeme!*"
@@ -388,7 +388,7 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
   - jo to je k tomuhle článku
 
 - [skřet obtisknuvší sebe sama - *Ilustrátoři - úderník Dan Hamerník* - 1000 px × 1000 px, 439 kB](/assets/images/posts/ilustratori_pohodar_ticho762/ilustratori_udernik_dan_hamernik.jpg)
-  - a tohle je k příštímu
+  - a tohle je k [příštímu](2020-08-14-ilustratori-udernik-dan-hamernik.md)
 
 ### Epilog
 
