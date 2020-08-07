@@ -70,7 +70,7 @@ Philip mi poděkoval a popřál hezké svátky. Takže na živu byl, aspoň jedn
 
 Uplynuly Vánoce, odvál leden, odtál únor, odhopkal březen, odrostl duben, květen začal tahat ze stromů květy jeden za druhým jak kouzelník králíky a Philip nic. Odpískal jsem to.
 
-Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamaráda stvořil [dva neznámé hrdiny](/assets/images/posts/kouzelnik_philip_ward/neznami_hrdinove.jpg), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilustrátorské budoucno a pustil jsem ho z hlavy.
+Tou dobou jsem už čile komunikoval s [ticho762](https://www.facebook.com/ticho762) (který kdysi pro kamaráda stvořil [dva neznámé hrdiny](/assets/images/posts/ilustratori_kouzelnik_philip_ward/neznami_hrdinove.jpg), jen tak pro radost), zkoušel jsem to i s [Ondřejem Hrdinou](https://ondrejhrdina.wordpress.com/) (kreslířem [Dračí hlídky](https://www.dracihlidka.cz/download/#kestazeni-1-4)), takže jsem si řekl, že je čas, abych naší ne-spolupráci řádně ukončil. Poslal jsem mu poslední mail s hrubým nástřelem cen ostatních kreslířů, aby měl představu pro své ilustrátorské budoucno a pustil jsem ho z hlavy.
 
 Odpověděl ještě týž den, poprvé svým osobitým zdrcnutě šroubovaným slohem, že už něco nakreslil.
 
@@ -80,7 +80,7 @@ Překvapil chlapec.
 
 Philip poslal jednoduchou skicu čtyř návrhů v jednom
 
-![Philipova prvni skica](/assets/images/posts/kouzelnik_philip_ward/philip_ward_navrhy_drd.png)
+![Philipova prvni skica](/assets/images/posts/ilustratori_kouzelnik_philip_ward/philip_ward_navrhy_drd.png)
 
 a ať si prý vyberu styl.
 
@@ -102,40 +102,40 @@ Philip dostal dva měsíce na to, aby nakreslil třikrát tolik obsahu, než kol
 A Philip slovo dodržel. 26. 7. 2019, pět dní před vypršením lhůty, poslal, co jsme chtěli a ještě přidal návdavek.
 
 ##### Šenkýř přijímá zálohu za veselku
-![Šenkýř přijímá zálohu za veselku](/assets/images/posts/kouzelnik_philip_ward/senkyr_prijima_zalohu_za_veselku.png)
+![Šenkýř přijímá zálohu za veselku](/assets/images/posts/ilustratori_kouzelnik_philip_ward/senkyr_prijima_zalohu_za_veselku.png)
 - *šenkýř přijímá zálohu za veselku*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
 ##### Šenkýř spěchá na schůzku se starostou
-![Šenkýř spěchá na schůzku se starostou](/assets/images/posts/kouzelnik_philip_ward/senkyr_specha_na_schuzku_se_starostou.png)
+![Šenkýř spěchá na schůzku se starostou](/assets/images/posts/ilustratori_kouzelnik_philip_ward/senkyr_specha_na_schuzku_se_starostou.png)
 - *šenkýř spěchá na schůzku se starostou*
-    - [originál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4 961 x 3 508 px, 2,9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg)
+    - [originál ke stažení - *šenkýř spěchá na schůzku se starostou* - 4 961 x 3 508 px, 2,9 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg)
         - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Narváno v šenku
-![Narváno v šenku](/assets/images/posts/kouzelnik_philip_ward/narvano_v_senku.png)
+![Narváno v šenku](/assets/images/posts/ilustratori_kouzelnik_philip_ward/narvano_v_senku.png)
 - *narváno v šenku*
-    - [originál ke stažení - *narváno v šenku* - 4 961 x 3 508 px, 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg)
+    - [originál ke stažení - *narváno v šenku* - 4 961 x 3 508 px, 7,0 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg)
        - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Služebná Anna nestíhá kuchyň a hosty dohromady
-![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png)
+![Služebná Anna nestíhá kuchyň a hosty dohromady](/assets/images/posts/ilustratori_kouzelnik_philip_ward/sluzebna_anna_nestiha_kuchyn_a_hosty_dohromady.png)
 - *služebná Anna nestíhá kuchyň a hosty dohromady*
-    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4 961 x 3 508 px, 4,1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg)
+    - [originál ke stažení - *služka nestíhá dohromady hosty a kuchyň* - 4 961 x 3 508 px, 4,1 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg)
         - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 ##### Prcek se dívá do hlubin sklepení
-![Prcek se dívá do hlubin sklepení](/assets/images/posts/kouzelnik_philip_ward/prcek_se_diva_do_hlubin_sklepeni.png)
+![Prcek se dívá do hlubin sklepení](/assets/images/posts/ilustratori_kouzelnik_philip_ward/prcek_se_diva_do_hlubin_sklepeni.png)
 - *prcek se dívá do hlubin sklepení*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
 ##### Prcek se odhodlává vstoupit do sklepa
-![Prcek se odhodlává vstoupit do sklepa](/assets/images/posts/kouzelnik_philip_ward/prcek_se_odhodlava_vstoupit_do_sklepa.png)
+![Prcek se odhodlává vstoupit do sklepa](/assets/images/posts/ilustratori_kouzelnik_philip_ward/prcek_se_odhodlava_vstoupit_do_sklepa.png)
 - *prcek se odhodlává vstoupit do sklepa*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
 ##### Strach má velké oči
-![Strach má velké oči](/assets/images/posts/kouzelnik_philip_ward/strach_ma_velke_oci.png)
+![Strach má velké oči](/assets/images/posts/ilustratori_kouzelnik_philip_ward/strach_ma_velke_oci.png)
 - *strach má velké oči*
     - vlastníkem ilustrace je Philip Ward, nesdílejte bez jeho souhlasu
 
@@ -187,7 +187,7 @@ Philipovi se první nástřel těchto příšer trochu protáhl, nakonec ho posl
 
 *10. 10. 2019*
 
-![První skica brutopýra, želvorce a houbelesu](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_houbeles_1.0.png)
+![První skica brutopýra, želvorce a houbelesu](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_zelvorec_houbeles_1.0.png)
 
 Celkově se mi hodně zamlouval dokumentární styl kreseb - jako kdyby si je do notýsku zakreslil badatel na svých objevitelských cestách.
 
@@ -205,7 +205,7 @@ A Philip slib splnil. Už po dvou týdnech poslal upravené kresby želvorce i b
 
 *23. 10. 2019*
 
-![První úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_2.0.png)
+![První úprava brutopýra a želvorce](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_zelvorec_2.0.png)
 
 Nemůžu si pomoct, ale tohle byl obrovský skok dopředu. Jako kdyby to Philip nakreslil až po dalších třech letech zkušeností.
 
@@ -226,7 +226,7 @@ Pouhý týden uplynul a Philip poslal další várku úprav. Ta tam byla rozmác
 
 *29. 10. 2019*
 
-![Druhá úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_3.0.png)
+![Druhá úprava brutopýra a želvorce](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_zelvorec_3.0.png)
 
 Ale pořád ještě jsem nebyl spokojený.
 Zřejmě tím, jak se Philip snažil zavděčit mým představám, tak se vzdaloval od lehkosti přirozené tvorby. Nepozdával se mi až příliš okatě palcátovitý ocas, kterému nyní chyběla samozřejmost. A podobně se mi u brutopýra nezdál ten nosní štít, ta plachta, kterou před sebou rozvinul.
@@ -242,7 +242,7 @@ Na další úpravy jsem si musel počkat měsíc. A tentokrát Philip stvořil n
 
 *25. 11. 2019*
 
-![Třetí úprava brutopýra a želvorce](/assets/images/posts/kouzelnik_philip_ward/brutopyr_zelvorec_4.0.png)
+![Třetí úprava brutopýra a želvorce](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_zelvorec_4.0.png)
 
 Základní vzhled příšer byl daný, mohli jsme přejít ke konkrétním výjevům z jejich života.
 
@@ -252,7 +252,7 @@ Nastal čas na bestiální finále.
 
 Philip jako prvního zasadil do výjevu želvorce.
 
-![Želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_5.0.png)
+![Želvorec](/assets/images/posts/ilustratori_kouzelnik_philip_ward/zelvorec_5.0.png)
 
 Celou scénu vymyslel Philip a já si tak mohl užít ryzí divácké opojení. Pěkné!
 
@@ -275,9 +275,9 @@ A pak to přišlo.
 
 *27. 2. 2020*
 
-![Dokonalý želvorec](/assets/images/posts/kouzelnik_philip_ward/zelvorec_6.0.png)
+![Dokonalý želvorec](/assets/images/posts/ilustratori_kouzelnik_philip_ward/zelvorec_6.0.png)
 
-- [originál ke stažení - *želvorec chrání své teritorium* - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
+- [originál ke stažení - *želvorec chrání své teritorium* - 7,0 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
     - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Omlouvám se za výrazivo, ale já si z toho kecnul na prdel. Philip opět nastartoval svůj talent se zapnutým sytičem a podobně jako to dokázal u druhého návrhu želvorce a brutopýra, tak i v poslední fázi samotného želvorce vyšvihl nádhernou kresbu.
@@ -295,7 +295,7 @@ A pro houbeles našel místo, ze kterého mě mrazí.
 
 *7. 1. 2020*
 
-![Nebezpečný houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.0.png)
+![Nebezpečný houbeles](/assets/images/posts/ilustratori_kouzelnik_philip_ward/houbeles_2.0.png)
 
 Čekal jsem něco zničeného, přepůleného, rozdrceného. Philip mi však vytřel zrak a zvolil cestu napětí. Padne most? Všimne si vozka praskotu? Splaší se koně? Za jedinou kresbou vyčkává dramatický příběh. Možná se stane teď, možná později.
 A ta nejistota je na tom úžasná.
@@ -311,7 +311,7 @@ A Philip detaily přidal.
 
 *27. 2. 2020*
 
-![Nebezpečný houbeles s detaily](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.png)
+![Nebezpečný houbeles s detaily](/assets/images/posts/ilustratori_kouzelnik_philip_ward/houbeles_2.1.png)
 
 Všimli jste si? Koně mají různou barvu, vozka zestárnul a v puse žmoulá stéblo, za nově obrněným vozem kráčí voják, pod mostem číhá bandita, v říčce je žába se vzdouvajícím se voletem, na kameni kdosi zanechal značku, nad mostem se vznáší krkavcovitý pták, v pozadí se kochá krajinou medvěd, nad ním se nese hejno čehosi a dokonce je na obrázku i cvrček! Ale toho si najděte sami.
 A dost možná je tam něco, co jsem dosud neobjevil.
@@ -332,9 +332,9 @@ Philip vzal změnu zkrátka. Medvěda ani neposunul, ani neotočil, prostě ho v
 
 *5. 3. 2020*
 
-![Dokonalý houbeles](/assets/images/posts/kouzelnik_philip_ward/houbeles_2.1.1.png)
+![Dokonalý houbeles](/assets/images/posts/ilustratori_kouzelnik_philip_ward/houbeles_2.1.1.png)
 
-- [originál ke stažení - *houbeles v mostě* - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
+- [originál ke stažení - *houbeles v mostě* - 7,0 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
     - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Nečekal jsem, že z přírodovědecké ilustrace rozmnožovací techniky choroše, kterou Philip celého houbelesa otevřel, vznikne tak dramatická, technologická scéna, ze které kdejakého statika poleje ledový pot.
@@ -350,7 +350,7 @@ Philip první návrh brutopýrů v jejich prostředí poslal zároveň s prvním
 
 *7. 1. 2020*
 
-![Brutopýří hejno](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.0.png)
+![Brutopýří hejno](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_5.0.png)
 
 *Fuj! Nechtěl bych dostat takovejma potvorama do ksichtu.*
 
@@ -369,7 +369,7 @@ Philip opět překreslil celou ilustraci a já opět viděl, kolik práce ho mé
 
 *27. 2. 2020*
 
-![Všude brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.png)
+![Všude brutopýři](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_5.1.png)
 
 Povedlo se mu navodit silný pocit hloubky, kdy jeskyní chodba pokračuje kamsi do temné dály. Netopýří hejno skutečně působí jako hejno s jednotlivci míhajícími se prostorem. Do skrytu stalagmitu skryl příběh života dávno minulého. A menších detailů, které nelze objevit hned na poprvé, je tam více. Přesně to v ilustracích potřebuju.
 
@@ -385,9 +385,9 @@ O pár dní později zaslal lehce upravenou verzi.
 
 *5. 3. 2020*
 
-![Dokonalí brutopýři](/assets/images/posts/kouzelnik_philip_ward/brutopyr_5.1.1.png)
+![Dokonalí brutopýři](/assets/images/posts/ilustratori_kouzelnik_philip_ward/brutopyr_5.1.1.png)
 
-- [originál ke stažení - *brutopýři brání rodnou jeskyni* - 5,7 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
+- [originál ke stažení - *brutopýři brání rodnou jeskyni* - 5,7 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
     - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Rušivě malého brutopýřího nešťastníka Philip zvětšil jen lehce. Skoro bych si tipnul, že poprvé použil nějakou digitální techniku.
@@ -423,14 +423,14 @@ Osobně si z toho odnáším, že kresby jsou jako jakákoliv jiná činnost. Ab
 *vlastníkem ilustrací je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
 
 ##### Na vesnici
-- [*šenkýř spěchá na schůzku se starostou* - 4 961 × 3 508 px, 2,9 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg)
-- [*narváno v šenku* - 4 961 × 3 508 px, 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg)
-- [*služka nestíhá dohromady hosty a kuchyň* - 4 961 × 3 508 px, 4,1 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg)
+- [*šenkýř spěchá na schůzku se starostou* - 4 961 × 3 508 px, 2,9 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Šenkýř_spěchá_na_schůzku_original.jpg)
+- [*narváno v šenku* - 4 961 × 3 508 px, 7,0 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Narváno_v_šenku_original.jpg)
+- [*služka nestíhá dohromady hosty a kuchyň* - 4 961 × 3 508 px, 4,1 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Služka_nestíhá_kuchyň_a_hosty_original.jpg)
 
 ##### Na cestách
-- [*želvorec chrání své teritorium* - 4 961 × 3 508 px, **33.3** ⚠️ MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
-- [*houbeles v mostě* - 1 754 × 2 481 px - 7,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
-- [*brutopýři brání rodnou jeskyni*  1 754 × 2 481 px - 6,0 MB](/assets/images/posts/kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
+- [*želvorec chrání své teritorium* - 4 961 × 3 508 px, **33.3** ⚠️ MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Želvorec_original_6.0.png)
+- [*houbeles v mostě* - 1 754 × 2 481 px - 7,0 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Houbeles_original_2.1.1.png)
+- [*brutopýři brání rodnou jeskyni*  1 754 × 2 481 px - 6,0 MB](/assets/images/posts/ilustratori_kouzelnik_philip_ward/Philip_Ward_pro_Dračí_odkaz_cc_Brutopýr_original_5.1.1.png)
 
 ### Epilog
 

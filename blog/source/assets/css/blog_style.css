@@ -219,6 +219,10 @@ article {
     line-height: 1.6em;
 }
 
+.post-metadata + .card-bigger {
+    margin-top: 0;
+}
+
 .card#relatedPosts .card-body {
     padding: .7em 0 .3em 0;
     line-height: 2em;

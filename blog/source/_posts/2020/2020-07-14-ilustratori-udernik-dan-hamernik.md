@@ -2,7 +2,7 @@
 id: 2020-07-14-1
 title: "Ilustrátoři: Úderník Dan Hamerník"
 image: /assets/images/posts/udernik_dan_hamernik.png?version=0a621633465f0713f3388ca6b1bb665f
-image_author: "*Autorem dračího oka je Dan Hamerník. Děkujeme.*"
+image_author: "*Autorem pokusu o vtisknutí sebe sama do loga je ticho762. Děkujeme!*"
 perex: |
     *Není čas ztrácet čas.*
     
