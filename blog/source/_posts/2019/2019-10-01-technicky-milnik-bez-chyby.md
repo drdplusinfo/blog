@@ -1,7 +1,7 @@
 ---
 id: 2019-10-01-1
 title: "Technický milník - Bez chyby"
-image: /assets/images/posts/technicky_milnik_bez_chyby.png?version=c3e3e46d53d240ff99d9bc2b5da3e833
+image: /assets/images/posts/technicky_milnik_bez_chyby.png
 image_author: "*Autorem ilustrace fešáka bez chybičky je [Ticho 762](https://www.facebook.com/ticho762). Děkujeme!*"
 perex: |
     *Konzervujeme pravidla DrD+ a čistíme hlavu.*

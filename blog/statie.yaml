@@ -28,10 +28,11 @@ parameters:
         # old url → new url
         /blog: '/'
         /kontakty: '/kontakt'
+        /blog/2020/06/18/kouzelnik-philip-ward: '/blog/2020/06/18/ilustratori-kouzelnik-philip-ward'
 
     date_format: 'j. n. Y'
     day_month_format: 'j. n.'
 
     assets:
         root_dir: './source'
-        auto_version_excluding_regexp: '~(^/rss[.]xml$|[.]md(#.+)?$)~'
+        auto_version_excluding_regexp: '~(^/rss[.]xml|[.]md(#.+)?)$~'

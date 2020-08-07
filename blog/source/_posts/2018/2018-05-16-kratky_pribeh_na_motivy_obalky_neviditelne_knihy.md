@@ -55,6 +55,6 @@ Naštěstí úmrtnost brigádníků je dostatečná na to, abych nebyl ohrožen 
 
 Napsáno na motivy obálky [Neviditelné knihy](http://neviditelnakniha.cz) a [debaty o ní na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=12812&hilit=neviditeln%C3%A1+kniha&start=225).
 
-![o obálce na RPG fóru](/assets/images/posts/holka_bez_helmy_rpg_forum.png?version=1d545bea3566fce0d88bccaa91f5f348 "o obálce na RPG fóru")
+![o obálce na RPG fóru](/assets/images/posts/holka_bez_helmy_rpg_forum.png "o obálce na RPG fóru")
 
 ![obálka Neviditelné knihy](https://www.fantasyobchod.cz/image/cache/neviditelna-kniha-neklidny-tauril-33121-0-1000x1000.jpg "obálka Neviditelné knihy")

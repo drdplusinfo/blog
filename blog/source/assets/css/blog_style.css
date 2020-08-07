@@ -12,14 +12,14 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: #333;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.5em;
-    background: url(/assets/images/rules-background.png?version=40fd24846865c459e4f38300e2ae9377) repeat-y #FFEDD5 left fixed;
+    background: url(/assets/images/rules-background.png) repeat-y #FFEDD5 left fixed;
     background-size: 100%;
 }
 
 .background-image {
-    background: url(/assets/images/main-background.png?version=a8099756c736b40a4d234deab28d0304) no-repeat top;
+    background: url(/assets/images/main-background.png) no-repeat top;
     background-size: contain;
     position: fixed;
     top: 0;
@@ -117,6 +117,12 @@ hr {
 
 p {
     margin-bottom: .5em;
+}
+
+/* fixing <ul> in <ul> position broken by a <p> wrapping parent <ul> */
+li p + ul {
+    position: relative;
+    top: -.5em;
 }
 
 .card-body p:last-child {
@@ -600,6 +606,7 @@ nobr {
 .inline-image {
     display: inline-block;
     max-height: 1.4em;
+    width: initial;
     vertical-align: text-bottom;
     width: initial;
 }

@@ -1,7 +1,7 @@
 ---
 id: 2020-06-04-1
 title: "Zasloužilý sebemrskač"
-image: /assets/images/posts/zaslouzily_sebemrskac.png?version=cfbae27ddaadbc8ecf0814f4b9e6e55d
+image: /assets/images/posts/zaslouzily_sebemrskac.png
 image_author: "*Autorem ilustrace sebemrskače s nuceným úsměvem je [Ticho 762](https://www.facebook.com/ticho762). Děkuju!*"
 perex: |
     *Práce šlechtí! A šlechtění pohřbívá přirozenost.*

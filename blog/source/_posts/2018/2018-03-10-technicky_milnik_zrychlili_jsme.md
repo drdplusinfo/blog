@@ -110,7 +110,7 @@ Na serveru už jsem měl kešování vyřešené a mohl jsem se zas věnovat ke�
 
 Jak jsem psal na začátku, největším problémem u keše je vychytat ten okamžik, kdy se to má zahodit (úplně nový rozměr dal tomuhle problému (hlavně) Intel, který má v současnosti zatraceně velký problém se svými procesory, které vlastně [umožňují číst komukoli cokoli](https://www.root.cz/clanky/jak-funguje-spectre-a-meltdown-linux-na-orange-pi-a-zmena-algoritmu-dnssec/) - no, je to složité, ale základní kámen úrazu je právě touha kešovat co nejvíce výsledků a co nejméně je zahazovat).
 
-Takže kdy se má zahodit keš nějaké části stránky? Například kdy se má načíst nový [obrázek koně](https://bestiar.ppj.drdplus.info/images/175.png?version=6434d6bef64654cef24f5529516a16e4)? Když se změní, jasně!
+Takže kdy se má zahodit keš nějaké části stránky? Například kdy se má načíst nový [obrázek koně](https://bestiar.ppj.drdplus.info/images/kun.png)? Když se změní, jasně!
 K tomu se hodí prostý otisk obsahu, pro který kdysi dávno (v roce 1991, což je v IT dávno) vynalezl jeden chytrý pán [algoritmus MD5](https://cs.wikipedia.org/wiki/Message-Digest_algorithm), který byl sice původně určený pro skrytí hesel a dalších důvěrností, ale u kterého už dávno zjistili, že moc bezpečný není, a zároveň že je fajn pro rychlé získání krátkého, unikátního otisku (no dobře, [pidi šance na kolizi tu je](https://www.root.cz/clanky/hasovaci-funkce-md5-a-dalsi-prolomeny/)) libovolně dlouhého textu, obrázku a vlastně jakéhokoli obsahu.
 Fajn, tak mám unikátní otisk souboru (třeba ona kresba koně má `6434d6bef64654cef24f5529516a16e4`), ale co s tím? Někoho by napadlo měnit pokaždé jméno souboru, protože prohlížeč ho pak **musí** načíst, jelikož pod novým názvem nic kešovaného ještě nemá, takže co třeba `obrazek_kone_6434d6bef64654cef24f5529516a16e4.png`.
 
@@ -122,10 +122,10 @@ Stačí totiž k webovému odkazu, který ukazuje na chtěný soubor, něco unik
 
 a zahazování keše je vyřešeno.
 
-Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný `obrazek_kone.png` pořád existuje, ať už má otisk jakýkoli, schválně [si to zkus](https://bestiar.ppj.drdplus.info/images/175.png?version=už_mě_koně_vedou)).
+Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný `obrazek_kone.png` pořád existuje, ať už má otisk jakýkoli, schválně [si to zkus](https://bestiar.ppj.drdplus.info/images/kun.png?version=už_mě_koně_vedou)).
 
 Výsledkem je například u [Pravidel pro hráče](https://pph.drdplus.info/?trial=1) namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá, i když už o ní *všechno* ví).
-A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem (styly)](https://pph.drdplus.info/css/generic/anchors.css?version=f430266ecbf9ceaddc17690121fcb2f5). A to se počítá!
+A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem (styly)](https://pph.drdplus.info/css/generic/anchors.css). A to se počítá!
 
 ### Vánoční úklid
 
