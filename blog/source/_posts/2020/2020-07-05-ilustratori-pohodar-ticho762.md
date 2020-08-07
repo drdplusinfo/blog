@@ -22,7 +22,7 @@ Jeden z výtisků se dostal k bývalému studentovy medicíny, který léčil po
 
 Jen tak pro radost dal tvář nerozlučné a přesto tolik odlišné dvojici, hlavním protagonistům malého literárního díla:
 
-![pan Ajs a pan Kvoš, ke svým službám](/assets/images/posts/kouzelnik_philip_ward/neznamy_hrdinove.jpg)
+![pan Ajs a pan Kvoš, ke svým službám](/assets/images/posts/kouzelnik_philip_ward/neznami_hrdinove.jpg)
 
 *A ta kočka s vyhláškou padesát tam dělá co?*
 
