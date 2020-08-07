@@ -14,7 +14,7 @@ perex: |
 
 ## Dračí odkaz
 
-V článku o Philipu Wardovi jsem [prozradil](2020-06-18-kouzelnik-philip-ward.md#ke_stazeni), že vlastníkem kreseb je jakýsi *Dračí odkaz*. V následujícím článku o pohodáři ticho762 už jsem naplno [popisoval](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název.
+V článku o Philipu Wardovi jsem [prozradil](2020-06-18-ilustratori-kouzelnik-philip-ward.md#ke_stazeni), že vlastníkem kreseb je jakýsi *Dračí odkaz*. V následujícím článku o pohodáři ticho762 už jsem naplno [popisoval](2020-08-05-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz), proč jsme hledali nový název.
 
 A teď si dáme malé opáčko.
 
@@ -39,7 +39,7 @@ Převracel jsem v hlavě, pak na jazyku a pak i na klávesnici různé názvy. A
 
 V názvu *Dračí odkaz* byla špetka nostalgie, pachuť přízemnosti, náznak časů dávno minulých i příslib tajemství.
 
-To samé se snažíme s ticho762 [vtisknout do obálky](2020-06-24-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz) takových pravidel a to samé jsem chtěl po logu.
+To samé se snažíme s ticho762 [vtisknout do obálky](2020-08-05-ilustratori-pohodar-ticho762.md#obalka-pro-draci-odkaz) takových pravidel a to samé jsem chtěl po logu.
 
 Takže další úkol zněl jasně, potřebujeme jednoduché logo!
 
@@ -136,8 +136,8 @@ Ano, i tohle logo si klidně použijte, kde se vám zlíbí. Jen o jedno vás pr
 
 S hotovým logem ve schránce jsem se cítil vlastně trochu rozpačitě. Jako bych náhle vystřízlivěl, jako kdyby mě někdo plesknutím probral ze sna.
 Jo, jsem snílek a pořád v sobě nemám uzavřenou přestavu, jak by **dokonalá** verze loga měla vlastně vypadat.
-- U Philipa Warda jsem měl štěstí v tom, že Philip sháněl reference a potřeboval za sebou mít hotovou práci, takže předělával a předělával a [předělával](2020-06-18-kouzelnik-philip-ward.md).
-- U ticho762 jsem měl také štěstí, protože je jako ilustrátor zvyklý na nejisté zákazníky a nejdříve mě vždy zahrnul prostými návrhy, na kterých jsme si sladili notičky, než se [pustil do finále](TODO).
+- U Philipa Warda jsem měl štěstí v tom, že Philip sháněl reference a potřeboval za sebou mít hotovou práci, takže předělával a předělával a [předělával](2020-06-18-ilustratori-kouzelnik-philip-ward.md).
+- U ticho762 jsem měl také štěstí, protože je jako ilustrátor zvyklý na nejisté zákazníky a nejdříve mě vždy zahrnul prostými návrhy, na kterých jsme si sladili notičky, než se [pustil do finále](2020-08-05-ilustratori-pohodar-ticho762.md#ke_stazeni).
 
 S Danem jsem ovšem narazil. Na začátku jsme si nastavili pravidla (ceny a tím času) a Dan je dodržel do puntíku. A k tomu je Dan grafik, který co slíbí, to splní, ale nevodí zákazníka za ručičku.
 
