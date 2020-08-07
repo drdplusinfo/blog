@@ -25,7 +25,7 @@ Ale zároveň jsme oceňovali jednotlivé nápady, samozřejmost únavy a těles
 Jenže nedostatek osobního času a přemíra obtíží s hraním podle DrD+ nás dohnala. Úplně jako z příručky pro hráče a [hodu na úspěch](https://pph.drdplus.info/#znaceni_a_zapis_zakladniho_hodu_na_uspech) - prostě jsme neměli dostatečné předpoklady k tomu, abychom zvládali vyšší náročnost pravidel (ať už danou přehršlí tabulek, nebo nejistotou v různých herních situacích).
 Svou roli hrála i zvyšující se koncentrace dětí v našich rodinách.
 
-Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html), protože pro tuhle americkou legendu je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... já DnD nerad, je to na mě **příliš** americké. Mě zajímá nejen fantazie, ale i skutečnost - nebo aspoň její dojem. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
+Výsledkem bylo, že moje družina přešla na [DnD5](http://www.d20.cz/clanky/pravidla/preklad-dnd-5e.html), protože pro tuhle americkou legendu je taková kupa obsahu, že několik generací hráčů může jenom líně prstíčkem přehrabovat. Jenže... jenže já DnD nerad, je to na mě **příliš** americké. Mě zajímá nejen fantazie, ale i skutečnost - nebo aspoň její dojem. Já mám rád [Tarii](http://taria.unas.cz/index2.php) a [Vukogvazd](https://www.letopisy.vg/), ze kterých je cítit střední Evropa smrdící koňským hnojem.
 Asi by i takový styl šel naroubovat na DnD, ale jak bych Pánovi jeskyně, pardon Dungeon masterovi vysvětloval, že má zahodit dvě třetiny bestiáře a hráčům dvě třetiny schopností? Takové představy si nechám na propocené noční můry.
 
 Potřeboval jsem něco obyčejnějšího, něco přízemnějšího a něco vnitřně známějšího. Dosavadní myšlenky mě vedly k tomu, že jsem začal šlapat v jiném směru, než ostatní. Jiném, než [Dračí hlídka](https://www.dracihlidka.cz/#top), [Dračí doupě II](http://www.drd2.cz/), o [Jeskyních a dracích](https://www.jeskyneadraci.cz/) nemluvě.
@@ -92,7 +92,7 @@ Poprosil jsem Dana, aby se zaměřil jen na oko samotné a trochu ho "zještěř
 
 *Přitom jsem zjistil, že někteří plazi skutečně mají kulatou panenku - a to [denní plazi](https://www.abicko.cz/clanek/precti-si-priroda/21054/ocima-hada-tajemstvi-hadich-smyslu.html). Ale i tak jsem pořád chtěl tu známnější úzkou verzi*
 
-Jeden prvek mě ovšem na Danově návrhu uchvátil - ty trojúhelníky, ten styl "střepů" použitý pod oken v prvním návrhu, ty byly skvělé.
+Jeden prvek mě ovšem na Danově návrhu uchvátil - ty trojúhelníky, ten styl "střepů" použitý pod okem v prvním návrhu, ty byly skvělé.
 Požádal jsem Dana, aby daší návrh vytvořil už jenom ze střepů.
 
 ---
@@ -112,7 +112,7 @@ Začínali jsme se blížit k finále.
 
 A já se začal štourat do detailů. "Střepy", ze kterých bylo oko složené, byly vlastně z přímek. Chtěl jsem něco příhodnějšího, jako kdyby to byly poskládané drahokamy ve šperku, s náhodnější strukturou. A uříznuté oko zprava mě rušilo, chtěl jsem jeho pravou část zakrytou přirozeně, stínem. A taky mi přišlo, že té tmavé plochy je tam hodně a na oko už moc místa nezbylo.
 
-Ale už jsme byli příliš daleko, abychom tohle všechno měnili. Už mi mělo naplno dojít, že kreslíři a grafici jsou dvě odlišné profese.
+*Ale už jsme byli příliš daleko, abychom tohle všechno měnili. Už mi mělo naplno dojít, že kreslíři a grafici jsou dvě odlišné profese.*
 
 ---
 
@@ -122,11 +122,11 @@ Ale na "různé střepy" nereagoval. Už to bylo prostě moc. Respektive bez oba
 *3. 11. 2019*
 ![zelené oko se stínem](/assets/images/posts/ilustratori_udernik_dan_hamernik/zelene_draci_oko_se_stinem_original_size.png?version=2fe06f1df0d545904262e478c89a4046)
 
-A bylo to.
+A logo bylo na světě.
 
 #### Ke stažení
 
-*vlastníkem loga je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
+*Vlastníkem loga je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
 
 Ano, i tohle logo si klidně použijte, kde se vám zlíbí. Jen o jedno vás prosím, nepoužívejte ho jako logo pro RPG hru. To bychom si už vážně lezli do zelí.
 
@@ -135,11 +135,11 @@ Ano, i tohle logo si klidně použijte, kde se vám zlíbí. Jen o jedno vás pr
 #### Závěrem
 
 S hotovým logem ve schránce jsem se cítil vlastně trochu rozpačitě. Jako bych náhle vystřízlivěl, jako kdyby mě někdo plesknutím probral ze sna.
-Jo, jsem snílek a pořád jsem v sobě neměl uzavřenou přestavu, jak by **dokonalá** verze loga měla vlastně vypadat.
+Jo, jsem snílek a pořád v sobě nemám uzavřenou přestavu, jak by **dokonalá** verze loga měla vlastně vypadat.
 - U Philipa Warda jsem měl štěstí v tom, že Philip sháněl reference a potřeboval za sebou mít hotovou práci, takže předělával a předělával a [předělával](2020-06-18-kouzelnik-philip-ward.md).
 - U ticho762 jsem měl také štěstí, protože je jako ilustrátor zvyklý na nejisté zákazníky a nejdříve mě vždy zahrnul prostými návrhy, na kterých jsme si sladili notičky, než se [pustil do finále](TODO).
 
-S Danem jsem ovšem narazil. Na začátku jsme si nastavili pravidla (ceny a tím času) a Dan je dodržel do puntíku. A k tomu je Dan grafik, který co slíbí, to splní, ale netahá zákazníka za ručičku.
+S Danem jsem ovšem narazil. Na začátku jsme si nastavili pravidla (ceny a tím času) a Dan je dodržel do puntíku. A k tomu je Dan grafik, který co slíbí, to splní, ale nevodí zákazníka za ručičku.
 
 Finální logo je velmi dobré, díky Danovi jsem objevil sílu jediné barvy a ostrých hran, ze kterých by měl i [Piccaso](https://cz.pinterest.com/philsaxon/pablo-picasso-cubism/) radost. Jen jsem svojí vinou nenašel to srdeční - to, při čem bych se připitoměle usmíval a broukal si "jo jo, to je vono, to je vono".
 
