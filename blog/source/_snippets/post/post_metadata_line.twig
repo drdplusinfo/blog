@@ -1,4 +1,4 @@
-<ul class="list-inline post-metadata">
+<ul class="list-inline post-metadata text-center">
     <li class="list-inline-item mr-3" title="Časová náročnost">
         <em class="fas fa-clock fa-fw"></em>
         {{ post.getReadingTimeSmiley() }}
@@ -19,13 +19,6 @@
         <li class="list-inline-item mr-3">
             <em class="fas fa-fw fa-comments"></em>
             <a href="{{ site_url }}/{{ post|link }}/#disqus_thread">X</a> komentáře
-        </li>
-    {% endif %}
-
-    {% if showPullRequestLink is defined %}
-        <li class="list-inline-item">
-            <em class="fas fa-fw fa-edit"></em>
-            <a href="{{ post|githubEditPostUrl }}">Překlep? Oprav mě, prosím</a>
         </li>
     {% endif %}
 
