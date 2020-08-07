@@ -4,7 +4,7 @@ ini_set('display_errors', '1');
 
 $composerInstall = static function() {
     $composerInstall = ['start' => new DateTimeImmutable()];
-    exec('composer install 2>&1', $composerOutput, $composerExitCode);
+    exec('composer install --no-dev 2>&1', $composerOutput, $composerExitCode);
     $composerOutput = array_filter($composerOutput, static function (string $row) {
         return trim($row) !== '';
     });
