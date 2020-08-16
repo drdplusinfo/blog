@@ -118,7 +118,7 @@ A já se začal štourat do detailů. "Střepy", ze kterých bylo oko složené,
 ---
 
 Dan se zasnažil. Pravou část ukryl do stínů a celkově logo krapet zesvětlil.
-Ale na "různé střepy" nereagoval. Už to bylo prostě moc. Respektive bez obalu mě varoval, že jsme dosáhli dohodnutého času (a částky). Víc říkat nemusel, některé hranice je neradno překračovat, obzvlášť pokud zasahují do rodiného rozpočtu.
+Ale na "různé střepy" nereagoval. Už to bylo prostě moc. Respektive bez obalu mě varoval, že jsme dosáhli dohodnutého času (a částky). Víc říkat nemusel, některé hranice je neradno překračovat, obzvlášť pokud zasahují do rodinného rozpočtu.
 
 *3. 11. 2019*
 ![zelené oko se stínem](/assets/images/posts/ilustratori_udernik_dan_hamernik/zelene_draci_oko_se_stinem_original_size.png?version=2fe06f1df0d545904262e478c89a4046)
