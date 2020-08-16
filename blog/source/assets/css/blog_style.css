@@ -46,7 +46,7 @@ h1 a, h1 a:hover, h1 a:focus, h2 a, h2 a:hover, h2 a:focus, h3 a, h3 a:hover, h3
 
 h2 {
     font-size: 1.7em;
-    margin: 1.7em 0 .4em;
+    margin: 45px 0 20px;
 }
 
 h3 {
@@ -61,8 +61,14 @@ h1 {
     font-size: 2em;
     line-height: 1.3em;
     text-align: center;
-    padding-bottom: 1em;
-    border-bottom: 3px solid #fff8eab3;
+}
+
+#post h1 {
+    margin-bottom: 0;
+}
+
+#post h1 + ul {
+    margin-bottom: 0;
 }
 
 h1, h2, h3 {
@@ -211,6 +217,10 @@ article {
     margin-top: 1em;
     margin-bottom: .8em;
     line-height: 1.6em;
+}
+
+.post-metadata + .card-bigger {
+    margin-top: 0;
 }
 
 .card#relatedPosts .card-body {
@@ -367,37 +377,19 @@ nav a:hover, nav ul li.active a, nav a.active, nav a:active {
     font-size: 1.4em;
 }
 
-/* style in cards */
-#mission .card h2 {
-    margin: .3em 0 .3em 0;
-}
-
-#mission ul li {
-    line-height: 1.6em;
-}
-
-#mission .card ul {
-    margin: .3em 0 0 0;
-    padding-left: 1.2em;
-}
-
 .pull-right {
     float: right;
 }
 
 /* default post setting */
-#blog .first-post, #post h1 {
-    font-size: 3.3em;
+#blog .first-post h2 {
+    font-size: 2.3em;
     font-weight: 300;
-    margin-top: 1em;
-    margin-bottom: 1em;
 }
 
 #post h1 {
     font-size: 3.3em;
     font-weight: 300;
-    /*margin-top: 1em;*/
-    /*margin-bottom: 1em;*/
 }
 
 /* own util classe */
@@ -507,7 +499,7 @@ table ul {
         line-height: 2.4em;
     }
 
-    #blog .first-post, #post h1 {
+    #blog .first-post h2, #post h1 {
         font-size: 2.3em;
         font-weight: 300;
         margin-top: .8em;
@@ -573,15 +565,6 @@ table ul {
 
 }
 
-#mission h2 {
-    margin-bottom: .9em;
-}
-
-#mission .card h3 {
-    text-align: center;
-    font-size: 2em;
-}
-
 .thead-inverse th h3 {
     color: #DDD;
     margin: 0;
@@ -592,7 +575,6 @@ table ul {
 .small {
     font-size: .8em;
 }
-
 
 .thead-inverse a, .thead-inverse a:visited, #content .thead-inverse a:visited:not(.btn):not(.badge), .badge-info a, .badge-info a:visited {
     color: #DDD;
@@ -630,6 +612,7 @@ nobr {
     max-height: 1.4em;
     width: initial;
     vertical-align: text-bottom;
+    width: initial;
 }
 
 .card {
@@ -708,4 +691,9 @@ blockquote p:last-child {
 
 img[src*="300x300"] {
     max-width: 300px;
+}
+
+img[src*="original_size"] {
+    max-width: 100%;
+    width: initial;
 }

@@ -1,3 +1,7 @@
+#post .perex {
+    font-size: 23px;
+}
+
 a.perex, a.perex:hover {
     color: #333;
     text-decoration: none;

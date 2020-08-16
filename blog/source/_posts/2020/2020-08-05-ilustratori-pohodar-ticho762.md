@@ -22,7 +22,7 @@ Jeden z výtisků se dostal k bývalému studentovy medicíny, který léčil po
 
 Jen tak pro radost dal tvář nerozlučné a přesto tolik odlišné dvojici, hlavním protagonistům malého literárního díla:
 
-![pan Ajs a pan Kvoš, ke svým službám](/assets/images/posts/kouzelnik_philip_ward/neznami_hrdinove.jpg)
+![pan Ajs a pan Kvoš, ke svým službám](/assets/images/posts/ilustratori_kouzelnik_philip_ward/neznami_hrdinove.jpg)
 
 *A ta kočka s vyhláškou padesát tam dělá co?*
 
@@ -54,7 +54,7 @@ Malý, doprovodný obrázek k tehdy novému článku o [konci kalkulátorů pro 
 
 *14. 5. 2019*
 
-![První nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_1.0.png)
+![První nástřel "Loučíme se s počítadly"](/assets/images/posts/ilustratori_pohodar_ticho762/loucime_se_s_pocitadly_300x300_1.0.png)
 
 Na první nástřel dobrý. Ale nebyl jsem spokojený s detaily (jak jinak):
 - tvar křídel evokoval přílet (jsou kolem drápů prohnutá k divákovi), já ale potřeboval odlet - s počítadly jsme se loučili a měly by letět pryč
@@ -66,7 +66,7 @@ Ticho762 odpověděl s úsměvem, že chápe a poslal úpravu:
 
 *21. 5. 2019*
 
-![Druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.0.png)
+![Druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/ilustratori_pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.0.png)
 
 Ticho762 nejenže poladil perspektivu, ale taky "nahodil" celou ilustraci to hezčího hávu. Bylo to o řád lepší a líbilo se mi to. Chtělo už jenom poladit, inu, detaily.
 
@@ -78,7 +78,7 @@ Ticho762 přiznal, že chtěl do pohybu zakomponovat náhodu a že mu to krapet 
 
 *22. 5. 2019*
 
-![Lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.1.png)
+![Lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/ilustratori_pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.1.png)
 
 Úprava přišla už druhý den. Bylo znát, že ticho762 se vyzná a i když jeho ilustrace vypadaly jako ručně kreslené, zjevně je vytvářel ve vrstvách, nejspíš digitálním perem.
 Takže žádost o malou úpravu pro něj bylo pár kliknutí v jeho oblíbeném editoru.
@@ -92,7 +92,7 @@ Ticho762 se s tím opět nemazal a ještě týž den jsem měl na stole dokonalo
 
 *22. 5. 2019*
 
-![Opět lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png)
+![Opět lehce upravený druhý nástřel "Loučíme se s počítadly"](/assets/images/posts/ilustratori_pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png)
 
 Tak malý obrázek (pouhých 300 na 300 pixelů) a taková hloubka scény. Jak prostorová, tak i světelná s přechodem od osvětleného měsíce až po temný kout vesmíru.
 
@@ -108,12 +108,12 @@ ticho762 poslal dva návrhy:
 
 *14. 5. 2019*
 
-![Skica "do sklepa" na šířku](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_na_sirku.png)
+![Skica "do sklepa" na šířku](/assets/images/posts/ilustratori_pohodar_ticho762/do_sklepa_navrh_na_sirku.png)
 - skica "do sklepa" na šířku
 
 ---
 
-![Skica "do sklepa" na výšku](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_na_vysku.png)
+![Skica "do sklepa" na výšku](/assets/images/posts/ilustratori_pohodar_ticho762/do_sklepa_navrh_na_vysku.png)
 - skica "do sklepa" na výšku
 
 Opět musím říct, že zaplaťpánbu za návrhy. Kdyby se ticho762 hned vrhnul do detailní kresby, asi by vyhodil dost času.
@@ -133,7 +133,7 @@ Možná si jist nebyl, ale výsledek stál za to.
 
 *23. 5. 2019*
 
-![Skica "do sklepa" z pohledu první osoby](/assets/images/posts/pohodar_ticho762/do_sklepa_navrh_z_prvni_osoby.png)
+![Skica "do sklepa" z pohledu první osoby](/assets/images/posts/ilustratori_pohodar_ticho762/do_sklepa_navrh_z_prvni_osoby.png)
 
 To je ono! Úplně to dráždí otočit se na patě a vzít nohy na ramena, nebo aspoň zakřičet do tmy.
 
@@ -151,7 +151,7 @@ A proto jsem sepsal ticho762 tolik nápadů na detaily, až mu z toho šla hlava
 ticho762 to nakonec vzal od podlahy a vlastně přidal do obrazu všechno, co jsem mu napsal. A ještě obraz "nahodil", jak on říká. Tedy překreslil ho do "čučivější" podoby:
 
 *27. 5. 2019*
-![První barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.0.png)
+![První barevná verze "do sklepa"](/assets/images/posts/ilustratori_pohodar_ticho762/barevne_do_sklepa_1.0.png)
 
 *To je, co!?*
 
@@ -171,14 +171,14 @@ Ticho762 odepsal, že s něčím mám pravdu a s něčím, zejména úhlem před
 
 *28. 5. 2019*
 *(prostor ve sklepě)*
-![Prostor kresby "do sklepa"](/assets/images/posts/pohodar_ticho762/prostor_barevne_do_sklepa_1.0.png)
+![Prostor kresby "do sklepa"](/assets/images/posts/ilustratori_pohodar_ticho762/prostor_barevne_do_sklepa_1.0.png)
 
 Hodili jsme o tom řeč, našli konsenzus a těšil jsem se na úpravy.
 
 ---
 
 *29. 5. 2019*
-![Upravená barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.1.png)
+![Upravená barevná verze "do sklepa"](/assets/images/posts/ilustratori_pohodar_ticho762/barevne_do_sklepa_1.1.png)
 
 Opět bylo znát, že ticho762 se už nějaký ten pátek kreslením živí a kamarádí se s výdobytky elektronického věku. Žádné ruční překreslování, ale úpravy vrstev v grafickém editoru.
 
@@ -193,8 +193,8 @@ Jen dvě poslední drobnosti zbývaly. Koš s vejci na mě stále působil dojme
 Ticho762 poslal finální úpravu.
 
 *30. 5. 2019*
-![Finální barevná verze "do sklepa"](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_1.2.png)
-- [originál ke stažení - *Do sklepa* - 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
+![Finální barevná verze "do sklepa"](/assets/images/posts/ilustratori_pohodar_ticho762/barevne_do_sklepa_1.2.png)
+- [originál ke stažení - *Do sklepa* - 10,1 MB](/assets/images/posts/ilustratori_pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
     - vlastníkem ilustrace je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 
 Hotovo, padla. Obálka k *malému dobrodružství ve sklepě* byla na světě.
@@ -228,17 +228,17 @@ Ticho762 na sebe nenechal dlouho čekat
 *16. 5. 2019*
 
 ##### První návrh - "Při výstupu"
-![První návrh - "Družina dobrodruhů v zatáčce"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_1.png)
+![První návrh - "Družina dobrodruhů v zatáčce"](/assets/images/posts/ilustratori_pohodar_ticho762/draci_odkaz_obalka_skica_1.png)
 
 ---
 
 ##### Druhý návrh - "V průsmyku"
-![Druhý návrh - "Družina dobrodruhů v průsmyku"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_2.png)
+![Druhý návrh - "Družina dobrodruhů v průsmyku"](/assets/images/posts/ilustratori_pohodar_ticho762/draci_odkaz_obalka_skica_2.png)
 
 ---
 
 ##### Třetí návrh - "V říční zákrutě"
-![Třetí návrh - "Družina dobrodruhů v říční zákrutě"](/assets/images/posts/pohodar_ticho762/draci_odkaz_obalka_skica_3.png)
+![Třetí návrh - "Družina dobrodruhů v říční zákrutě"](/assets/images/posts/ilustratori_pohodar_ticho762/draci_odkaz_obalka_skica_3.png)
 
 ---
 
@@ -276,7 +276,7 @@ Rychle si promnul obličej, "to víš, už nejsem nejmladší", odvětil co nejk
 A ticho762 se do toho opřel.
 
 *10. 6. 2019*
-![Hledači pokladů v barvě](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
+![Hledači pokladů v barvě](/assets/images/posts/ilustratori_pohodar_ticho762/obalka_draciho_odkazu_1.0.png)
 
 Bylo v tom to, co jsem chtěl a ještě líp a bylo v tom to, co jsem chtěl, ale hůř.
 
@@ -295,7 +295,7 @@ A potom detaily. Detaily detaily detaily. Chtěl jsem různé boty, někoho s ba
 Ticho762 nelenil a po dvou týdnech poslal úpravy.
 
 *27. 6. 2019*
-![Hledači pokladů s detaily postav](/assets/images/posts/pohodar_ticho762/obalka_draciho_odkazu_1.1.png)
+![Hledači pokladů s detaily postav](/assets/images/posts/ilustratori_pohodar_ticho762/obalka_draciho_odkazu_1.1.png)
 
 Jinoch přišel o boty, chlapík s vidlemi dostal sandále, dračí bysta jemnější šupiny, všichni cestovatelé detailů až oči přecházely, v pozadí horské štíty evokovaly dálku a protivně výrazné oko na obloze zakryl mrak.
 
@@ -330,29 +330,29 @@ Posuďte sami:
 
 - ke článku [*Únava jako...*](../2019/2019-09-13-unava-jako.md)
 *(paralympijský dobrodruh)*
-![Skica ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_skica_300x300.png) ![Ilustrace ke článku Únava jako...](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png)
+![Skica ke článku Únava jako...](/assets/images/posts/ilustratori_pohodar_ticho762/unava_jako_skica_300x300.png) ![Ilustrace ke článku Únava jako...](/assets/images/posts/ilustratori_pohodar_ticho762/unava_jako_final_300x300.png)
 
 ---
 
 - ke článku [*Technický milník - bez chyby*](../2019/2019-10-01-technicky-milnik-bez-chyby.md)
 *(fešák bez chybičky)*
-![Skica ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_skica_300x300.png) ![Ilustrace ke článku Technický milník - bez chyby](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
+![Skica ke článku Technický milník - bez chyby](/assets/images/posts/ilustratori_pohodar_ticho762/technicky_milnik_bez_chyby_skica_300x300.png) ![Ilustrace ke článku Technický milník - bez chyby](/assets/images/posts/ilustratori_pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
 
 ---
 
 - ke článku [*Zasloužilý sebemrskač*](2020-06-04-zaslouzily-sebemrskac.md)
 *(sebemrskač s nuceným úsměvem)*
-![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
+![Skica ke článku Zasloužilý sebemrskač](/assets/images/posts/ilustratori_pohodar_ticho762/zaslouzily_sebemrskac_skica_300x300.png) ![Ilustrace ke článku Zasloužilý sebemrskač](/assets/images/posts/ilustratori_pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
 
 ---
 
 - k tomuto článku *Ilustrátoři - pohodář ticho762* *(opičák čmárající skřeta)*
-![Ilustrace ke článku Ilustrátoři - pohodář ticho762](/assets/images/posts/pohodar_ticho762/ilustratori_pohodar_ticho762.png)
+![Ilustrace ke článku Ilustrátoři - pohodář ticho762](/assets/images/posts/ilustratori_pohodar_ticho762/ilustratori_pohodar_ticho762.png)
 
 ---
 
 - k příštímu článku *Ilustrátoři - úderník Dan Hamerník* *(skřet obtiskávající sám seme)*
-![Ilustrace ke článku Ilustrátoři - úderník Dan Hamerník](/assets/images/posts/pohodar_ticho762/ilustratori_udernik_dan_hamernik_300x300.png)
+![Ilustrace ke článku Ilustrátoři - úderník Dan Hamerník](/assets/images/posts/ilustratori_pohodar_ticho762/ilustratori_udernik_dan_hamernik_300x300.png)
 
 Jen jednou jedinkrát se mi rozezvučel alarm a to když se sebemrskající skřet sledoval v podezřele přesně orámovaném zrcadle. Takhle dobře, že by lícovaly kosti? Raději jsme přešli na veliký střep.
 Jinak tyhle malé kresby lítaly ráz na ráz, ticho762 se s nimi moc nemazal a přesto mají co říct. Prostě talent.
@@ -374,21 +374,21 @@ Děkuji [ticho762](https://www.facebook.com/ticho762/) za náboj, který nám pr
 
 *vlastníkem ilustrací je Dračí odkaz, sdílejte pod [licencí Creative commons - uveďte původ](https://creativecommons.org/licenses/by/4.0/legalcode.cs)*
 
-- [První dobrodružství - *Do sklepa* - 2 480 px × 3 508 px, 10,1 MB](/assets/images/posts/pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
+- [První dobrodružství - *Do sklepa* - 2 480 px × 3 508 px, 10,1 MB](/assets/images/posts/ilustratori_pohodar_ticho762/barevne_do_sklepa_original_1.2.jpg)
 
-- [Odlétající sčot - *Loučíme se s počítadly* - 300 px × 300 px, 138 kB](/assets/images/posts/pohodar_ticho762/loucime_se_s_pocitadly_300x300_2.2.png)
+- [Odlétající sčot - *Loučíme se s počítadly* - 300 px × 300 px, 138 kB](/assets/images/posts/ilustratori_pohodar_ticho762/Loučíme_se_s_počítadly_2.2.png)
 
-- [Paralympijský dobrodruh - *Únava jako...* - 300 px × 300 px, 160 kB](/assets/images/posts/pohodar_ticho762/unava_jako_final_300x300.png)
+- [Paralympijský dobrodruh - *Únava jako...* - 300 px × 300 px, 160 kB](/assets/images/posts/ilustratori_pohodar_ticho762/unava_jako_final_300x300.png)
 
-- [Sešívaný fešák bez chybičky - *Technický milník - bez chyby* - 300 px × 300 px, 150 kB](/assets/images/posts/pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
+- [Sešívaný fešák bez chybičky - *Technický milník - bez chyby* - 300 px × 300 px, 150 kB](/assets/images/posts/ilustratori_pohodar_ticho762/technicky_milnik_bez_chyby_final_300x300.png)
 
-- [sebemrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
+- [sebemrskající skřet před zrcadlem - *Zasloužilý sebemrskač* - 300 px × 300 px, 140 kB](/assets/images/posts/ilustratori_pohodar_ticho762/zaslouzily_sebemrskac_final_300x300.png)
 
-- [opičák čmárající skřetí postavičku - *Ilustrátoři - pohodář ticho762* - 2000 px × 1000 px, 2,57 MB](/assets/images/posts/pohodar_ticho762/ilustratori_pohodar_ticho762.png)
+- [opičák čmárající skřetí postavičku - *Ilustrátoři - pohodář ticho762* - 2000 px × 1000 px, 2,57 MB](/assets/images/posts/ilustratori_pohodar_ticho762/ilustratori_pohodar_ticho762.png)
   - jo to je k tomuhle článku
 
-- [skřet obtisknuvší sebe sama - *Ilustrátoři - úderník Dan Hamerník* - 1000 px × 1000 px, 439 kB](/assets/images/posts/pohodar_ticho762/ilustratori_udernik_dan_hamernik.jpg)
-  - a tohle je k příštímu
+- [skřet obtisknuvší sebe sama - *Ilustrátoři - úderník Dan Hamerník* - 1000 px × 1000 px, 439 kB](/assets/images/posts/ilustratori_pohodar_ticho762/ilustratori_udernik_dan_hamernik.jpg)
+  - a tohle je k [příštímu](2020-08-14-ilustratori-udernik-dan-hamernik.md)
 
 ### Epilog
 

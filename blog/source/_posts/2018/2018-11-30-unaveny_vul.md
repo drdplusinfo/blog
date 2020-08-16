@@ -71,7 +71,7 @@ S placením zvlášť či jednou a dost to vidíme jasně, je to pořád jedna a
 Kdo sem pustil toho hnidopicha... Fajn, tak se zamyslíme hlouběji.
 Ve chvíli, kdy začnu dělat nějakou činnost, tak se nastavuju na současné podmínky - oťukávám si nepřítele, kterým je mnohdy bolest, někdy prostě slabost a učím se ho porazit v konkrétní situaci, třeba bolest hlavy při lezení po prosluněné střeše. Když se situace změní, například si kecnu za sopouch a zavřu oči, hledajíc v hlavě vzpomínku na kanalizační síť, tak... hmmm... tak je to jiná situace, jiné prostředí a asi budu muset bolest hlavy porazit úplně znovu, v úplně nových podmínkách. Sakra, to nezní jako jádro jednoduchého pravidla.
 
-Ovšem jádro pudla a tím i řešení jsme už vlastně nakousli, nejdříve u [Krásy](2018-11-09-vzpominky_na_krasu.md##Druhy_krás), potom u [Výdrže](2018-11-19-vydrz.md#Odolná_výdrž), totiž že problém je s mícháním těla a duše, se slepováním tělesných a duševních vlastností. V našem příkladu jsme míchali tělesný výstup na střechu a duševní vybavování si plánku kanalizace. A to je celé, stačí tohle nemíchat.
+Ovšem jádro pudla a tím i řešení jsme už vlastně nakousli, nejdříve u [Krásy](2018-11-09-vzpominky_na_krasu.md#Druhy_krás), potom u [Výdrže](2018-11-19-vydrz.md#Odolná_výdrž), totiž že problém je s mícháním těla a duše, se slepováním tělesných a duševních vlastností. V našem příkladu jsme míchali tělesný výstup na střechu a duševní vybavování si plánku kanalizace. A to je celé, stačí tohle nemíchat.
 Budeme proto potlačovat **zvlášť tělesný postih** k tělesným vlastnostem a **zvlášť duševní postih** k duševním vlastnostem, byť má onen postih stejnou příčinu.
 
 A teď vyřešme, jaký největší postih ještě dokážu potlačit.

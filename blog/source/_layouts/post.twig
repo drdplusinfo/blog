@@ -10,8 +10,6 @@
 
 <div class="mainContent">
     <div class="container-fluid" id="post">
-        <h1>{{ post.title|raw }}</h1>
-
         {% include "_snippets/post/post_metadata_line.twig" with { "post": post, "showPullRequestLink": TRUE, "showCommentCount": false } %}
 
         {% if post.deprecated_since is defined %}
@@ -50,48 +48,17 @@
 
 
         {% if post.getImageAuthor() %}
-            <div class="hidden-xs-down">
+            <div>
                 {{ post.getImageAuthor()|raw }}
                 <hr>
             </div>
         {% endif %}
 
+        <h1>{{ post.title|raw }}</h1>
+
         {{ post.content|raw }}
 
         <br>
-
-        {% if post.tested is defined %}
-            <div class="mt-1 mb-5 card">
-                <div class="card-header text-center">
-                    <h3 class="text-center mt-2">
-                        <em class="fas fa-check text-success"></em>
-                        &nbsp;
-                        Travis Knows the Code Works
-                    </h3>
-                </div>
-
-                <div class="card-body">
-                    {% set testDirectoryOnGithub %}{{ github_repository_tests_directory }}/Posts/Year{{ post.getDateInFormat('Y') }}/{{ post.test_slug }}{% endset %}
-
-                    <p>
-                        The code used in this post is tested daily with Travis CI. You can <a
-                                href="{{ testDirectoryOnGithub }}">see tests on Github</a>.
-                    </p>
-
-                    <div>
-                        Thanks to tests this post:
-                        <ul>
-                            <li>always run against the most recent dependencies</li>
-                            <li>
-                                <strong>gets updates and stays relevant for many years</strong> even when ne
-                                <a href="https://semver.org/#spec-item-8">major version</a> of PHP or Symfony is
-                                released
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        {% endif %}
 
         <div class="licence">
             <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"
@@ -133,7 +100,7 @@
             </div>
         {% endif %}
 
-        <div class="mb-5 hidden-sm-down text-center">
+        <div class="mb-5 text-center">
             <a href="{{ post|githubEditPostUrl }}" class="btn btn-warning btn-sm">
                 <em class="fas fa-fw fa-edit"></em>
                 Oprav překlep, zachráníš mozkovou buňku
