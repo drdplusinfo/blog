@@ -18,6 +18,11 @@ if ($lastArticlePath) {
     preg_match('~<meta property="og:title" content="(?<title>[^"]+)"/>~', file_get_contents($lastArticlePath), $matches);
     $lastArticleTitle = $matches['title'];
 }
+$lastArticleImage = null;
+if ($lastArticlePath) {
+    preg_match('~<meta property="og:image" content="(?<image>[^"]+)"/>~', file_get_contents($lastArticlePath), $matches);
+    $lastArticleImage = $matches['image'];
+}
 
 function assembleUrl(string $filePath): string {
     $urlPath = preg_replace('~^.*/(blog/\d+/.+)/index[.]html$~', '$1', $filePath);
@@ -34,6 +39,7 @@ echo json_encode([
         'last_article_date' => max($dates)->format(DATE_ATOM),
         'last_article_title' => $lastArticleTitle ? trim($lastArticleTitle) : '',
         'last_article_url' => $lastArticlePath ? assembleUrl($lastArticlePath) : '',
+        'last_article_image' => $lastArticlePath ? $lastArticleImage : '',
     ],
     'generated' => (new DateTime())->format(DATE_ATOM),
 ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT);
