@@ -16,8 +16,8 @@
         <meta property="og:title" content="{{ post.title|striptags|replace('&nbsp;', ' ')|escape }}"/>
         <meta property="og:description" content="{{ post.perex|striptags }}"/>
         <meta property="og:url" content="{{ site_url }}/{{ post|link }}"/>
-        {% if post.image %}
-            <meta property="og:image" content="{{ site_url }}/{{ post.image|trim('/', 'left') }}"/>
+        {% if post.getFacebookImage() %}
+            <meta property="og:image" content="{{ site_url }}/{{ post.getFacebookImage()|trim('/', 'left') }}"/>
         {% endif %}
 
         {# Twitter sharing #}

@@ -1,6 +1,7 @@
 ---
 id: 2020-08-14-1
 title: "Ilustrátoři: Úderník Dan Hamerník"
+facebook_image: /assets/images/posts/ilustratori_udernik_dan_hamernik/draci_odkaz_logo.svg?version=02717dcf248e06f8c801fc4b9f0d7ac1
 image: /assets/images/posts/udernik_dan_hamernik.png?version=0a621633465f0713f3388ca6b1bb665f
 image_author: "*Autorem pokusu o vtisknutí sebe sama do loga je ticho762. Děkujeme!*"
 perex: |
