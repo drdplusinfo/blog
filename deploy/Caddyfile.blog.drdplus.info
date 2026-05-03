@@ -1,0 +1,18 @@
+http://blog.drdplus.info {
+    redir https://blog.drdplus.info{uri}
+}
+https://blog.drdplus.info {
+    tls mail@jaroslavtyc.com
+    header / Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+    gzip
+    expires {
+        match .png$ 1y
+        match .jpg$ 1y
+        match .svg$ 1y
+        match .css$ 1y
+        match .js$ 1y
+        match .woff2?$ 1y
+    }
+    root /var/www/drd/plus/blog
+    log /var/www/access_logs/blog.drdplus.info.access.log
+}

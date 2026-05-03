@@ -1,0 +1,41 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.140.2'
+          extended: true
+
+      - name: Build site
+        working-directory: blog
+        run: hugo --minify
+
+      - name: Set up SSH
+        run: |
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          echo "${{ secrets.DEPLOY_SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          cat >> ~/.ssh/known_hosts <<'EOF'
+          drdplus.info ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJqQGHdzmSihezydk4IJfNcKzUZtLVDUrsAOtdXO/vYs
+          drdplus.info ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQChl4JC17MvK7c6QUk1ogYMp9NDpUOhoXifpUrRjksURSZcQZCURqNhOssNQuGE8RKnD+F9fDE6Ro+yybXJs370gGwC/EQ/f6f6PE51HvPbA3WBmozE5V5oqKK/EiO5PvnRSIJu3Xped1gHU9mT3riDjnljS52V+27ZcV5UAwUZLVtO+1ExO1Yo0rONewjc/OsJ3IlToakHiLdFXlj35WC3QVkB0mjWqTVraBU88RGmqqSsiwuhV94X41iP1nf4+Ofw6b56RVHpbOZLfMUiWo7QgCCFPmywy2MTDl6zGr7v/VZYT1sTWYURtDhEvdYtRWvz4ARRuiQqCQIt4RTrfIiJ
+          EOF
+          chmod 600 ~/.ssh/known_hosts
+
+      - name: Deploy via rsync
+        run: |
+          rsync -az --delete --chown=www-data:www-data \
+            -e "ssh -i ~/.ssh/id_ed25519" \
+            blog/public/ \
+            root@drdplus.info:/var/www/drd/plus/blog/
