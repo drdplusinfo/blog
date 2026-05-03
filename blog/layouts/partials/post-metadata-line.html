@@ -1,0 +1,16 @@
+{{- $post := .post -}}
+{{- $dateFormat := site.Params.dateFormat | default "2. 1. 2006" -}}
+{{- $dayMonthFormat := site.Params.dayMonthFormat | default "2. 1." -}}
+{{- $isCurrentYear := eq ($post.Date.Format "2006") (now.Format "2006") -}}
+<ul class="list-inline post-metadata text-center">
+    <li class="list-inline-item mr-3" title="Datum">
+        <em class="fas fa-calendar fa-fw"></em>
+        <time datetime="{{ $post.Date.Format "2006-01-02" }}">
+            {{ if $isCurrentYear }}
+                {{ $post.Date.Format $dayMonthFormat }}
+            {{ else }}
+                {{ $post.Date.Format $dateFormat }}
+            {{ end }}
+        </time>
+    </li>
+</ul>

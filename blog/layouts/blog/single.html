@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="mainContent">
+    <div class="container-fluid" id="post">
+        {{ partial "post-metadata-line.html" (dict "post" .) }}
+
+        {{ with .Params.perex }}
+            <div class="card card-bigger">
+                <div class="card-body perex">
+                    {{ . | markdownify }}
+                </div>
+            </div>
+        {{ end }}
+
+        {{ with .Params.image_author }}
+            <div>
+                {{ . | markdownify }}
+                <hr>
+            </div>
+        {{ end }}
+
+        <h1>{{ .Title | safeHTML }}</h1>
+
+        {{ .Content }}
+
+        {{/* prev / next within the section */}}
+        {{ $prev := .PrevInSection }}
+        {{ $next := .NextInSection }}
+        {{ if or $prev $next }}
+            <div class="card mb-5 mt-4">
+                <div class="card-deck">
+                    {{ with $prev }}
+                        <div class="card-body text-left">
+                            <a href="{{ .RelPermalink }}">
+                                <em>
+                                    &lt;&lt;
+                                    <span class="hidden-sm-down">{{ .Date.Format (site.Params.dateFormat | default "2. 1. 2006") }}</span>
+                                    {{ .Title | safeHTML }}
+                                </em>
+                            </a>
+                        </div>
+                    {{ end }}
+                    {{ with $next }}
+                        <div class="card-body text-right">
+                            <a href="{{ .RelPermalink }}">
+                                <em>
+                                    <span class="hidden-sm-down">{{ .Date.Format (site.Params.dateFormat | default "2. 1. 2006") }}</span>
+                                    {{ .Title | safeHTML }}
+                                    &gt;&gt;
+                                </em>
+                            </a>
+                        </div>
+                    {{ end }}
+                </div>
+            </div>
+        {{ end }}
+
+    </div>
+</div>
+{{ end }}

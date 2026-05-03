@@ -1,0 +1,57 @@
+{{- $isPost := eq .Section "blog" -}}
+{{- $isPost = and $isPost (eq .Kind "page") -}}
+<head>
+    <title>{{ with .Title }}{{ . | plainify }} | {{ end }}{{ site.Title }}</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="index, follow">
+
+    {{/* mobile */}}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+
+    {{ if $isPost }}
+        {{/* Facebook sharing */}}
+        <meta property="og:type" content="article"/>
+        <meta property="og:locale" content="cs_CZ"/>
+        <meta property="og:title" content="{{ .Title | plainify }}"/>
+        <meta property="og:description" content="{{ with .Params.perex }}{{ . | plainify }}{{ end }}"/>
+        <meta property="og:url" content="{{ .Permalink }}"/>
+        {{ with .Params.facebook_image }}
+            <meta property="og:image" content="{{ site.Params.siteUrl }}{{ . }}"/>
+        {{ else }}
+            {{ with .Params.image }}
+                <meta property="og:image" content="{{ site.Params.siteUrl }}{{ . }}"/>
+            {{ end }}
+        {{ end }}
+
+        {{/* Twitter sharing */}}
+        <meta name="twitter:card" content="summary"/>
+        <meta name="twitter:site" content="@draciodkaz">
+        <meta name="twitter:title" content="{{ .Title | plainify }}"/>
+        <meta name="twitter:description" content="{{ with .Params.perex }}{{ . | plainify }}{{ end }}"/>
+        {{ with .Params.image }}
+            <meta property="twitter:image" content="{{ site.Params.siteUrl }}{{ . }}"/>
+        {{ end }}
+    {{ end }}
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.Title }} Blog RSS" href="/rss.xml">
+
+    <link href="/assets/fonts/Open_Sans-300_400_700-2020-07-24.css" rel="stylesheet">
+    <link href="/assets/font-awesome.5.0.13/css/fontawesome-all.min.css" rel="stylesheet">
+    <link href="/assets/bootstrap-4.0.0/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="/assets/prism-1.15.0/prism.css" rel="stylesheet" type="text/css"/>
+
+    {{/* this is the last, so prism can be overriden here */}}
+    <link href="/assets/css/blog_style.css" rel="stylesheet" type="text/css"/>
+    <link href="/assets/css/blog_perex.css" rel="stylesheet" type="text/css"/>
+
+    <link href="/assets/gifplayer-0.3.3/gifplayer.css" rel="stylesheet" type="text/css"/>
+
+    {{/* bookies checklist */}}
+    <link href="/assets/css/blog_checklist.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="/assets/js/redirect.js"></script>
+</head>

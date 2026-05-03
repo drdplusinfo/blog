@@ -1,0 +1,36 @@
+baseURL = "https://blog.draciodkaz.cz/"
+languageCode = "cs"
+defaultContentLanguage = "cs"
+title = "Dračí odkaz"
+disableKinds = ["taxonomy", "term"]
+
+# Statie used directories like /blog/2018/05/03/slug/ — match that.
+[permalinks]
+  blog = "/blog/:year/:month/:day/:slug/"
+
+# Pretty URLs (trailing slash) and home RSS.
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+# Serve home RSS at /rss.xml (default would be /index.xml).
+[outputFormats.RSS]
+  baseName = "rss"
+
+[params]
+  siteUrl = "https://blog.draciodkaz.cz"
+  googleAnalyticsId = "UA-121206931-15"
+  avatarUrl = "/assets/images/red_dragon_128.png"
+  githubRepoSourceDir = "https://github.com/drdplusinfo/blog/tree/master/blog/source"
+  dateFormat = "2. 1. 2006"
+  dayMonthFormat = "2. 1."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2

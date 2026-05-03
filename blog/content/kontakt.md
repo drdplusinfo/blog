@@ -1,0 +1,69 @@
+---
+title: "Kontakty"
+id: kontakt
+url: /kontakt/
+---
+
+<div class="container" id="contact">
+<h1>Sdílejme a tvořme</h1>
+
+<p class="text-center bigger">
+Ptej se, hledej parťáky, nadávej, chval, raď, <strong>nenech si to pro sebe</strong>
+</p>
+
+<div class="row mt-4 mb-5 ml-sm-0 ml-md-5" id="contact-points">
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="https://www.drdplus.info/">
+<em class="fab drdplus-info-square fa-fw">
+<img alt="drdplus.info logo" src="/assets/images/red_dragon_square_A30444.png">
+</em>
+www.drdplus.info
+</a>
+</div>
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="https://www.facebook.com/drdplus.info/">
+<em class="fab fa-facebook-square fa-fw"></em>
+Facebook @drdplus.info
+</a>
+</div>
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="https://twitter.com/DrdInfo">
+<em class="fab fa-twitter-square fa-fw"></em>
+Twitter @drdinfo
+</a>
+</div>
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="https://discordapp.com/invite/kwFXmWz">
+<em class="fab fa-discord fa-fw"></em>
+Discord #DrdPlus.info
+</a>
+</div>
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="https://rpgforum.cz/forum/viewtopic.php?f=238&t=14870">
+<em class="fas fa-dice-six fa-fw rotate-45"></em>
+RPG fórum
+</a>
+</div>
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="mailto:info@drdplus.info">
+<em class="fas fa-envelope fa-fw"></em>
+info@drdplus.info
+</a>
+</div>
+<div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
+<a href="https://trello.com/b/L64FNYj3/drdplusinfo">
+<em class="fab fa-trello fa-fw"></em>
+Úkoly v Trellu
+</a>
+</div>
+</div>
+
+<div class="text-center bigger">
+<p>
+Máš doma něco v šuplíku? Bojíš se, že to není dokonalé?<br>
+Tak to ti něco prozradíme - <em>dokonalost je beztak jen nedostatek kritiky</em>.
+</p>
+<p><strong>Pošli to dál, nikdy nevíš, komu se to bude líbit</strong></p>
+</div>
+
+</div>

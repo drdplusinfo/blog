@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container-fluid" id="blog">
+    <h1>{{ .Title }}</h1>
+    <ul class="list-unstyled line-separated">
+        {{ range where .Pages "Params.deprecated_since" nil }}
+            <li class="col-md-12">
+                <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
+                {{ partial "post-metadata-line.html" (dict "post" .) }}
+            </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}

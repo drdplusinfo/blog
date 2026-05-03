@@ -1,0 +1,44 @@
+{{ define "main" }}
+{{- $posts := where (where site.RegularPages "Section" "blog") "Params.deprecated_since" nil -}}
+<div class="container-fluid" id="blog">
+    <div class="row">
+        {{- $currentYear := now.Format "2006" -}}
+        {{- $seenYears := slice -}}
+        {{ range $index, $post := $posts }}
+            {{- $postYear := .Date.Format "2006" -}}
+            {{ if and (ne $postYear $currentYear) (not (in $seenYears $postYear)) }}
+                <div class="col-md-12 yearLine mb-5 clearfix" id="year-{{ $postYear }}">
+                    {{ $postYear }}
+                </div>
+                {{- $seenYears = $seenYears | append $postYear -}}
+            {{ end }}
+
+            {{ if eq $index 0 }}
+                <article class="pt-2 pb-4 mb-4 col-md-12 first-post">
+                    <h2 class="text-center">
+                        <a href="{{ .RelPermalink }}">
+                            {{ .Title | safeHTML }}
+                        </a>
+                    </h2>
+                    <div class="text-center">
+                        {{ partial "post-metadata-line.html" (dict "post" .) }}
+                    </div>
+                    {{ with .Params.perex }}
+                        <div class="card">
+                            <a class="card-body perex" href="{{ $post.RelPermalink }}">{{ . | markdownify }}</a>
+                        </div>
+                    {{ end }}
+                </article>
+            {{ else }}
+                {{ if eq $index 1 }}<ul class="list-unstyled">{{ end }}
+                <li class="mb-3 col-md-12">
+                    <a href="{{ .RelPermalink }}">{{ .Title | safeHTML }}</a>
+                    {{ partial "post-metadata-line.html" (dict "post" .) }}
+                </li>
+                <hr>
+            {{ end }}
+        {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}
