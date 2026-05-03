@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
   siteUrl = "https://blog.draciodkaz.cz"
   googleAnalyticsId = "UA-121206931-15"
   avatarUrl = "/assets/images/red_dragon_128.png"
-  githubRepoSourceDir = "https://github.com/drdplusinfo/blog/tree/master/blog/source"
+  githubRepoSourceDir = "https://github.com/drdplusinfo/blog/tree/main/blog/content"
   dateFormat = "2. 1. 2006"
   dayMonthFormat = "2. 1."
 
