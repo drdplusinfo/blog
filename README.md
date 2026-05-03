@@ -1,17 +1,35 @@
 # [blog.DračíOdkaz.cz](https://blog.draciodkaz.cz)
 
-**Powered by [Statie](https://github.com/Symplify/Statie)**
+**Powered by [Hugo](https://gohugo.io/)**
 
-## Install & Run
+## Run locally
 
 ```sh
-git clone git@github.com:drdplusinfo/blog.git blog.drdplus.info # use your fork if you want to contribute
-cd blog.drdplus.info
-composer install
-npm install
-gulp # see gulpfile.js for more
+docker compose up
 ```
 
-And open [http://localhost:8000](http://localhost:8000) in your browser.
+Then open [http://localhost:1313](http://localhost:1313).
 
-That's all!
+The Hugo dev server watches for changes in `blog/content/`, `blog/layouts/`,
+`blog/static/`, and `blog/data/` and rebuilds automatically.
+
+## Add a post
+
+Create a directory under `blog/content/blog/<year>/` with the date prefix and
+a slug, e.g. `blog/content/blog/2026/03-04-novy-clanek/`. Inside, put an
+`index.md` with YAML front matter:
+
+```yaml
+---
+date: 2026-03-04
+slug: novy-clanek
+title: "Nadpis článku"
+image: /assets/images/posts/some_image.png
+perex: |
+    Krátký úvodní text.
+---
+
+Tělo článku v Markdownu.
+```
+
+The post will be served at `/blog/2026/03/04/novy-clanek/`.

@@ -1,3 +1,4 @@
 *.local.yaml
-/blog/node_modules
-/blog/vendor
+/var/
+/blog/public/
+/blog/.hugo_build.lock
