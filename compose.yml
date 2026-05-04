@@ -1,6 +1,6 @@
 services:
   hugo:
-    image: hugomods/hugo:exts-0.140.2
+    image: hugomods/hugo:0.161.1
     working_dir: /src
     volumes:
       - ./blog:/src:delegated

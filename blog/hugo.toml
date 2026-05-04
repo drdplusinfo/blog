@@ -1,5 +1,5 @@
 baseURL = "https://blog.draciodkaz.cz/"
-languageCode = "cs"
+locale = "cs"
 defaultContentLanguage = "cs"
 title = "Dračí odkaz"
 disableKinds = ["taxonomy", "term"]
