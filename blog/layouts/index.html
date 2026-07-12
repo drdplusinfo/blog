@@ -25,7 +25,12 @@
                     </div>
                     {{ with .Params.perex }}
                         <div class="card">
-                            <a class="card-body perex" href="{{ $post.RelPermalink }}">{{ . | markdownify }}</a>
+                            <a class="card-body perex" href="{{ $post.RelPermalink }}">
+                                {{ with $post.Params.image }}
+                                    <img src="{{ . }}" alt="{{ $post.Title | plainify }}" class="post-image img-fluid">
+                                {{ end }}
+                                {{ . | markdownify }}
+                            </a>
                         </div>
                     {{ end }}
                 </article>

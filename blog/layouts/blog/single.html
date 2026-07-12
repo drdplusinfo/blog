@@ -6,6 +6,9 @@
         {{ with .Params.perex }}
             <div class="card card-bigger">
                 <div class="card-body perex">
+                    {{ with $.Params.image }}
+                        <img src="{{ . }}" alt="{{ $.Title | plainify }}" class="post-image img-fluid">
+                    {{ end }}
                     {{ . | markdownify }}
                 </div>
             </div>

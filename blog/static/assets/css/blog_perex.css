@@ -43,3 +43,29 @@ a.perex:hover {
 #post .perex img {
     margin: 0;
 }
+
+.post-image,
+#post .perex img.post-image {
+    float: left;
+    max-width: 40%;
+    max-height: 420px;
+    width: auto;
+    margin: 0 1.5rem 1rem 0;
+    border-radius: 4px;
+}
+
+/* clear the float so content after the perex doesn't wrap around the image */
+.card-body.perex::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+@media (max-width: 576px) {
+    .post-image {
+        float: none;
+        display: block;
+        max-width: 100%;
+        margin: 0 auto 1rem;
+    }
+}
