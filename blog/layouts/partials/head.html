@@ -45,13 +45,21 @@
     <link href="/assets/prism-1.15.0/prism.css" rel="stylesheet" type="text/css"/>
 
     {{/* this is the last, so prism can be overriden here */}}
-    <link href="/assets/css/blog_style.css" rel="stylesheet" type="text/css"/>
-    <link href="/assets/css/blog_perex.css" rel="stylesheet" type="text/css"/>
+    {{ with resources.Get "css/blog_style.css" }}{{ with . | minify | fingerprint }}
+    <link href="{{ .RelPermalink }}" rel="stylesheet" type="text/css"/>
+    {{ end }}{{ end }}
+    {{ with resources.Get "css/blog_perex.css" }}{{ with . | minify | fingerprint }}
+    <link href="{{ .RelPermalink }}" rel="stylesheet" type="text/css"/>
+    {{ end }}{{ end }}
 
     <link href="/assets/gifplayer-0.3.3/gifplayer.css" rel="stylesheet" type="text/css"/>
 
     {{/* bookies checklist */}}
-    <link href="/assets/css/blog_checklist.css" rel="stylesheet" type="text/css"/>
+    {{ with resources.Get "css/blog_checklist.css" }}{{ with . | minify | fingerprint }}
+    <link href="{{ .RelPermalink }}" rel="stylesheet" type="text/css"/>
+    {{ end }}{{ end }}
 
-    <script type="text/javascript" src="/assets/js/redirect.js"></script>
+    {{ with resources.Get "js/redirect.js" }}{{ with . | minify | fingerprint }}
+    <script type="text/javascript" src="{{ .RelPermalink }}"></script>
+    {{ end }}{{ end }}
 </head>

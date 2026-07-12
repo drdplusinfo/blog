@@ -2,3 +2,4 @@
 /var/
 /blog/public/
 /blog/.hugo_build.lock
+/.playwright-mcp/
