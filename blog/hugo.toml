@@ -1,4 +1,4 @@
-baseURL = "https://blog.draciodkaz.cz/"
+baseURL = "https://blog.drdplus.info/"
 locale = "cs"
 defaultContentLanguage = "cs"
 title = "Dračí odkaz"
@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
   baseName = "rss"
 
 [params]
-  siteUrl = "https://blog.draciodkaz.cz"
+  siteUrl = "https://blog.drdplus.info"
   googleAnalyticsId = "UA-121206931-15"
   avatarUrl = "/assets/images/red_dragon_128.png"
   githubRepoSourceDir = "https://github.com/drdplusinfo/blog/tree/main/blog/content"
