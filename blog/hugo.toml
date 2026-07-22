@@ -4,6 +4,10 @@ defaultContentLanguage = "cs"
 title = "Dračí odkaz"
 disableKinds = ["taxonomy", "term"]
 
+# Presentation comes from the md-publisher submodule.
+theme = ["blog-classic"]
+themesDir = "../md-publisher/modules"
+
 # Statie used directories like /blog/2018/05/03/slug/ — match that.
 [permalinks]
   blog = "/blog/:year/:month/:day/:slug/"
@@ -19,12 +23,34 @@ disableKinds = ["taxonomy", "term"]
   baseName = "rss"
 
 [params]
-  siteUrl = "https://blog.drdplus.info"
   googleAnalyticsId = "UA-121206931-15"
-  avatarUrl = "/assets/images/red_dragon_128.png"
-  githubRepoSourceDir = "https://github.com/drdplusinfo/blog/tree/main/blog/content"
   dateFormat = "2. 1. 2006"
   dayMonthFormat = "2. 1."
+  description = "Na co jsme přišli během vývoje Dračím odkazu"
+  rssTitle = "Blog o Dračím odkazu"
+  author = "DrdPlus.info"
+  twitterSite = "@draciodkaz"
+  ogLocale = "cs_CZ"
+  searchDomain = "blog.drdplus.info"
+  searchPlaceholder = "Hledej..."
+  footerHtml = '<span class="hidden-sm-down">Kódy skladujeme na <a href="https://github.com/drdplusinfo">GitHubu</a></span>'
+  notFoundTitle = "Tady nic není 😢"
+  notFoundText = 'Zkus <a href="/">hlavní stránku</a> nebo nás <a href="/kontakt/">kontaktuj</a>'
+
+  [[params.menu]]
+    name = "Blog"
+    id = "blog"
+    url = "/"
+
+  [[params.menu]]
+    name = "Kontakty"
+    id = "kontakt"
+    url = "/kontakt/"
+
+  [[params.menu]]
+    name = "www.drdplus.info"
+    url = "https://www.drdplus.info"
+    hideOnSmall = true
 
 [markup]
   [markup.goldmark]

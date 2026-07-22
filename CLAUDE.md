@@ -6,29 +6,29 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Static site for [blog.draciodkaz.cz](https://blog.draciodkaz.cz), a Czech-language blog about the Dračí doupě / DrD+ tabletop RPG. Built with **Hugo** (static site generator). Content is in Czech.
 
-The repo was previously a PHP/Statie/Twig project; the legacy code (Statie config, Twig templates under `blog/source/`, composer/npm tooling, PHPUnit tests, the PHP-FPM Dockerfile, etc.) has been removed. If a piece of legacy infrastructure is still referenced somewhere and isn't used, it can be deleted.
+Presentation (templates, CSS, JS, vendored front-end libraries) is NOT in this repo — it comes from the `blog-classic` module of [drdplusinfo/md-publisher](https://github.com/drdplusinfo/md-publisher), mounted as the git submodule `md-publisher/` and wired via `theme = ["blog-classic"]` + `themesDir = "../md-publisher/modules"` in `blog/hugo.toml`. This repo keeps only content, images, site config, and deployment. Look-and-feel changes belong in md-publisher; site texts (menu, footer, RSS metadata, 404) are `[params]` in `blog/hugo.toml`.
 
 ## Run locally
 
 ```sh
+git submodule update --init   # once, after clone
 docker compose up
 ```
 
-Serves on http://localhost:1313 via the `hugomods/hugo:exts-0.140.2` container (see `compose.yml`). Hugo watches `blog/content/`, `blog/layouts/`, `blog/static/`, and `blog/data/` and rebuilds automatically. Drafts and future-dated posts are included by the dev server (`--buildDrafts --buildFuture`).
+Serves on http://localhost:1313 via the `hugomods/hugo` container (see `compose.yml`; the repo root is mounted so the submodule is visible, Hugo runs from `blog/`). Hugo watches content, static files and the module templates and rebuilds automatically. Drafts and future-dated posts are included by the dev server (`--buildDrafts --buildFuture`).
 
-There is no test suite, lint, or build script for the Hugo site. Verify changes by reloading the dev server in a browser.
+There is no test suite, lint, or build script. Verify changes by reloading the dev server in a browser.
 
-## Hugo site layout
+## Repo layout
 
-All Hugo files live under `blog/`:
-
-- `blog/hugo.toml` — site config. Notable: `[permalinks] blog = "/blog/:year/:month/:day/:slug/"` preserves the legacy Statie URL shape so old links keep working. Czech default language, RSS at `/rss.xml`.
+- `md-publisher/` — git submodule with the `blog-classic` module (layouts, CSS/JS pipeline assets, Bootstrap/Font Awesome/Prism/gifplayer). Update with `git -C md-publisher pull origin main`, then commit the new submodule pointer.
+- `blog/hugo.toml` — site config. Notable: `[permalinks] blog = "/blog/:year/:month/:day/:slug/"` preserves the legacy Statie URL shape so old links keep working. Czech default language, RSS at `/rss.xml`. Module behaviour (menu items, footer HTML, search domain, Twitter/OG metadata, 404 texts) is configured under `[params]` — see the md-publisher README for the full param table.
 - `blog/content/blog/<year>/<MM-DD-slug>/index.md` — one directory per post (page bundle). Front matter uses `date`, `slug`, `title`, `perex` (lead paragraph), `image`, optional `facebook_image`, `image_author`, and `deprecated_since` (posts with `deprecated_since` set are hidden from listings).
-- `blog/layouts/` — Go templates. `_default/baseof.html` is the shell; `blog/list.html` and `blog/single.html` render the section and individual posts; `index.html` is the homepage; `partials/` holds head, menu, footer, and `post-metadata-line.html`.
-- `blog/static/` — assets copied verbatim to site root. Includes Bootstrap 4, Font Awesome 5, Prism, gifplayer, custom CSS in `assets/css/`, and `assets/images/`.
+- `blog/static/` — site-specific assets copied verbatim to site root: `assets/images/` (including all post images), `favicon.ico`, `CNAME`.
 - `blog/archetypes/` and `blog/data/` — currently empty; available if needed.
+- `deploy/`, `.github/workflows/deploy.yml` — GitHub Actions builds `hugo --minify` (with `submodules: true` checkout) and rsyncs `blog/public/` to the server.
 
-The homepage (`layouts/index.html`) shows the most recent post as a featured card and the rest as a year-grouped list. Listings filter out posts whose `deprecated_since` front-matter is set.
+A file placed in `blog/layouts/` or `blog/static/` overrides its module counterpart (Hugo project-over-theme precedence).
 
 ## Adding a post
 
