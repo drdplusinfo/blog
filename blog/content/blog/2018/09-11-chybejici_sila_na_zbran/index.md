@@ -16,7 +16,7 @@ Odpověď zní *samozřejmě ano*, vždyť tohle je Dračí doupě plus, ve kter
 ## S tabulkou
 *Mají **původní** postihy za chybějící sílu vlastně smysl?*
 
-Druhá otázka je, jestli původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_za_chybejici_silu) dává vyčerpávající přehled postihů.
+Druhá otázka je, jestli původní [Tabulka postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu) dává vyčerpávající přehled postihů.
 No, mě teda vyčerpává určitě. Sice to na první pohled vypadá krásně...
 
 - nejdříve se snižuje *Boj* (šance že něco stihnu)
@@ -38,7 +38,7 @@ Tak jsem napsal [kalkulátor boje](https://boj.drdplus.info), který sice funguj
 
 A proto jsem se pustil do úprav DrD+, protože hrát ho pořád chceme, ale těch nejistot, zmatení a otazníků je v původní verzi moc a pokud mají pravidla přežít, tak je musíme **zjednodušit**.
 
-A co s [Tabulkou postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_za_chybejici_silu)? Potřebujeme ji vůbec?
+A co s [Tabulkou postihů ke zbrani za chybějící sílu](https://pph.drdplus.info/?trial=1#tabulka_postihu_ke_zbrani_za_chybejici_silu)? Potřebujeme ji vůbec?
 
 Tabulka popisuje myšlenku, že když na něco nemám dost síly, tak mě to bude negativně ovlivňovat v každé činnosti trochu **jinak** a ať o tom přemýšlíme jak o tom přemýšlíme, tak vlastně nevíme proč.
 

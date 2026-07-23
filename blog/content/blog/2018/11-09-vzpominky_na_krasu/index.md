@@ -63,7 +63,7 @@ Dejme teď šanci té aktivní složce.
 
 ### Aktivní krása
 
-Aktivní složkou *Krásy* je plejáda činností, kterými zapůsobíš na své okolí, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?trial=1#cenik_obleceni) až po [aristokratické vystupování](https://pph.drdplus.info/?trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme leda v *Dovednostech*, které by jako jeden ze svých efektů měly vliv na *Krásu*. Ale stojí to za to?
+Aktivní složkou *Krásy* je plejáda činností, kterými zapůsobíš na své okolí, ať už ladným pohybem vycházejícím z tvé *Zručnosti*, vtipnými poznámkami a postřehem při rozhovoru s využitím tvé *Inteligence* a *Citu*, tedy *Charisma* a mnoha triky od [*Svádění*](https://pph.drdplus.info/?trial=1#svadeni), přes [drahý a ještě dražší vzhled](https://ppj.drdplus.info/?trial=1#cenik) až po [aristokratické vystupování](https://pph.drdplus.info/?trial=1#puvod). Je toho tolik, že šanci na rozmotání takového klubka vidíme leda v *Dovednostech*, které by jako jeden ze svých efektů měly vliv na *Krásu*. Ale stojí to za to?
 
 *Pšššt! Přemýšlíme...*
 

@@ -126,7 +126,7 @@ a zahazování keše je vyřešeno.
 Další velkou výhodou je, že takhle rozšířený odkaz na soubor platí pořád, i když už je jeho otisk dávno jiný, protože název souboru je vlastně pořád stejný a správný (samotný `obrazek_kone.png` pořád existuje, ať už má otisk jakýkoli, schválně [si to zkus](https://bestiar.ppj.drdplus.info/images/kun.png?version=už_mě_koně_vedou)).
 
 Výsledkem je například u [Pravidel pro hráče](https://pph.drdplus.info/?trial=1) namísto přenesených 13.1 MB pouhých 0.4 MB (pouhá 3 %) a místo 17.5 sekundy jenom 7.5 sekundy (je to přeci jen velká stránka a prohlížeč se zapotí, než ji poskládá, i když už o ní *všechno* ví).
-A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem (styly)](https://pph.drdplus.info/css/generic/anchors.css). A to se počítá!
+A když něco změním, například vzhled odkazů, tak se ti stáhne jen ten změněný mrňavý [soubor se vzhledem (styly)](https://pph.drdplus.info/css/generic/skeleton/rules-anchors.css). A to se počítá!
 
 ### Vánoční úklid
 

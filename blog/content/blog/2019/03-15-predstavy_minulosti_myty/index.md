@@ -29,7 +29,7 @@ V tomhle máme my, následovníci odkazu DrD+, jednu nespornou a jednu spornou v
 
 ### Rozborka sborka
 
-U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítit touha po *přesnosti*. Z té pak pramení přehršel matematických modelů, zjednodušených jen natolik, aby *ještě* šli [odházet dvěma kostkami](https://pph.drdplus.info/?trial=1#hod2k_6_plus).
+U dalších kapitol se pozastavíme jen krátce a technicky. Jak z tohoto historickém článku, tak potom z celých pravidel DrD+ je cítit touha po *přesnosti*. Z té pak pramení přehršel matematických modelů, zjednodušených jen natolik, aby *ještě* šli [odházet dvěma kostkami](https://pph.drdplus.info/?trial=1#hod_2_k_6_plus).
 
 Jestli se o něco snažíme dlouhodobě, tak je to najít způsob, jak nacpat *co nejvíce situací* do *co nejméně pravidel* a pořád doufáme, že to zvládne jedna šestistěnná kostka, prosté sčítání a odčítání a povolení přístupu selskému rozumu (s čímž musíme být opatrní, známe své lidi - jak je někde v pravidlech mezírka, nacpou tam páčidlo a pak se tváří, že ostatní jen přehlédli oficiální zkratku).
 

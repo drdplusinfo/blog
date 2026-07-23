@@ -54,9 +54,9 @@ A tohle je výtah těch nejdůležitějších, které chrání každého čtená
 - úplně každý nadpis je unikátní
     - takže když někomu řeknete, že má něco hledat v kapitole [*Body zkušenosti*](https://pph.drdplus.info/?trial=1#body_zkusenosti), tak se vás nebude ptát "ve které z nich"
 - úplně každý nadpis má v sobě kotvu (odkaz)
-    - takže komukoli můžete poslat odkaz na kapitolu, o které se právě bavíte, třeba [Další bojové akce](https://pph.drdplus.info/#dalsi_bojove_akce)
+    - takže komukoli můžete poslat odkaz na kapitolu, o které se právě bavíte, třeba [Další bojové akce](https://pph.drdplus.info/?trial=1#dalsi_bojove_akce)
 - úplně každý výpočet má v sobě také kotvu (odkaz)
-    - takže i na konkrétní výpočet můžete komukoli poslat odkaz, třeba [Hod na zpracování úlovku](https://pph.drdplus.info/#hod_na_zpracovani_ulovku)
+    - takže i na konkrétní výpočet můžete komukoli poslat odkaz, třeba [Hod na zpracování úlovku](https://pph.drdplus.info/?trial=1#hod_na_zpracovani_ulovku)
 - každá položka v rejstříku odkazuje na existující kapitolu
     - takže se vám nestane, že byste marně klikali na název, který slibuje to, co zrovna teď nutně potřebujete - odkaz bude prostě fungovat
 - všechny tabulky si můžete zobrazit na jednom místě, třeba všechny [tabulky z *Pravidel pro hráče*](https://pph.drdplus.info/tabulky) - a nebo tabulky z jakýchkoli jiných pravidel, stačí jen přidat do adresy `/tabulky`
