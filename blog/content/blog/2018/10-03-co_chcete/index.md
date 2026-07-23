@@ -175,7 +175,7 @@ A ten hod 2k6+ chceme jaksi omezit, tak snad tě to moc neotráví 😇.
 > setting + feeling
 
 Na tohle si budeme muset vzít k ruce Google, počkej chvíli... jo, prostředí a, no... dojmy. My jsme zrovna v tomhle trochu rozpačití, protože v DrD+ je od všeho trochu, ale nic silněji. Draci jsou popsaní jako v příručce skautského vlčete, jak rozeznat hlodavce (jsou tam prostě jen jako příšery, nikoli mocné bytosti hrající v kostky se zákony světa), zbraně ani zbroje neodkazují na konkrétnější styl a tak všelijak podobně.
-Na druhou stranu je skvělý nosný [příběh](https://pribeh.drdplu.info) všech příruček a podle našeho soudu je **velmi** zajímavá různorodost jednotlivých povolání, ať už ryzí kalkul theurga, záplava kouzel našprtej-se-a-jdi u čaroděje, doslova nutná práce s davem u kněze a tak dále, za což se samozřejmě musela zaplatit nějaká cena a jednotlivá povolání jsou nevyvážená, někdy zmatená, občas náročná na hráče i Pána jeskyně, ovšem s tím se popasujeme.
+Na druhou stranu je skvělý nosný [příběh](https://pribeh.drdplus.info) všech příruček a podle našeho soudu je **velmi** zajímavá různorodost jednotlivých povolání, ať už ryzí kalkul theurga, záplava kouzel našprtej-se-a-jdi u čaroděje, doslova nutná práce s davem u kněze a tak dále, za což se samozřejmě musela zaplatit nějaká cena a jednotlivá povolání jsou nevyvážená, někdy zmatená, občas náročná na hráče i Pána jeskyně, ovšem s tím se popasujeme.
 
 ## Hmm
 

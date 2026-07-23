@@ -106,7 +106,7 @@ I z toho důvodu je možné [Neviditelnou knihu](http://neviditelnakniha.cz) ote
 
 *Jen se v té studnici nápadů neutopit*.
 
-Samotné zápletky mají ale jedno společné, co mi není úplně komfortní a to je jejich vážnost a dospělost. Zatímco já mám raději hravé [Baldur's gate](https://www.youtube.com/watch?v=DjWWuUDtSaEgate), kde se můžu kochat přátelským vztahem bojovníka s křečkem, koláči květin na loukách či skutečným strachem obyčejných lidí, tak Tauril jsou spíše [Pillar's of Eternity](https://www.youtube.com/watch?v=KZM2wWTvWwM), kde vtip umřel společně s dušemi dětí, což atmosféru neničí, jen ji to dělá jinou, než má vlastní dětská duše potřebuje.
+Samotné zápletky mají ale jedno společné, co mi není úplně komfortní a to je jejich vážnost a dospělost. Zatímco já mám raději hravé [Baldur's gate](https://www.youtube.com/watch?v=DjWWuUDtSaE), kde se můžu kochat přátelským vztahem bojovníka s křečkem, koláči květin na loukách či skutečným strachem obyčejných lidí, tak Tauril jsou spíše [Pillar's of Eternity](https://www.youtube.com/watch?v=KZM2wWTvWwM), kde vtip umřel společně s dušemi dětí, což atmosféru neničí, jen ji to dělá jinou, než má vlastní dětská duše potřebuje.
 Navíc se většina zápletek zakládá na konfliktu mezi politickými názory, kulturními rozdíly nebo prostě odlišným pohledem na svět, takže i kvůli tomu si téměř žádnou zápletku nedokážu představit pro postavy na nižší než šesté úrovni (z hlediska [DrD+](https://drdplus.info)).
 
 *[Neviditelnou knihu](http://neviditelnakniha.cz) bych nedoporučil jako základní kámen začínajícím hráčům, ale zato bych ji předepisoval všem, kteří hrají léta a přitom ještě nedokážou pustit z ruky kostky a meč.*
