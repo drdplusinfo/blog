@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Discord DrD+</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding: 3rem 1rem; }
+    </style>
+</head>
+<body>
+<p>Přesměrování na Discord DrD+&hellip;</p>
+<p><a id="invite" href="#">Pokud přesměrování neproběhne, klikni sem.</a></p>
+<noscript><p>Pro vstup na Discord si prosím zapni JavaScript.</p></noscript>
+<script>
+    // The invite code is assembled at runtime so link-harvesting bots
+    // scraping raw HTML don't pick it up.
+    var inviteUrl = 'https://discord.gg/' + ['kCeg', 'cAe3', 'Hf'].join('');
+    document.getElementById('invite').setAttribute('href', inviteUrl);
+    window.location.replace(inviteUrl);
+</script>
+</body>
+</html>

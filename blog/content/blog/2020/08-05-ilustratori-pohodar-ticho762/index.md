@@ -304,7 +304,7 @@ Začínalo to vypadat k světu a já se začal s obálkou chlubit. A začaly př
 
 #### První reakce na obálku
 
-Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i na [Discordu drdplus.info](https://discord.com/invite/FVz5V3Q) a krom *"hmm, pěkné"* jsem dostal i dvě opakující se reakce:
+Současným stavem obálky jsem se pochlubil jak mezi svými družiníky, tak i na [Discordu drdplus.info](/discord/) a krom *"hmm, pěkné"* jsem dostal i dvě opakující se reakce:
 
 - Kamenná dračí hlava je tak dominantní a tak reálná, že hodně strhává pozornost. A hlavně polovina diváků nepoznala, že jde o sochu, nýbrž měli dojem, že poutníci jsou tupci, co si nevšimli nebezpečí a tudíž si o celém obrázku myslí, že je na hlavu, když se je snaží přesvědčit, že je taková scéna v pořádku.
   - *Jo, hlavní dominanta ilustrace je dominantní až moc. A navíc miluju náznaky, které dráždí fantazii a způsobují, že se diváci nemůžou v představách shodnout - to ale neplatí o téhle soše, která měla evokovat lidovou tvorbu minulých staletí (takže by měla být trochu naivní, trochu nedokončená, trochu ošoupaná od návštěvníků, trochu obrostlá mechem a tak). Na tom budeme muset ještě zapracovat.*

@@ -33,7 +33,7 @@ Twitter @drdinfo
 </a>
 </div>
 <div class="col-12 pt-md-3 pt-lg-3 pl-md-4 pl-lg-5">
-<a href="https://discordapp.com/invite/kwFXmWz">
+<a href="/discord/">
 <em class="fab fa-discord fa-fw"></em>
 Discord #DrdPlus.info
 </a>
