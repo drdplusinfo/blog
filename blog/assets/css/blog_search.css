@@ -1,0 +1,66 @@
+#blog-search-form {
+    position: relative;
+}
+
+#search-results {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    z-index: 1000;
+    width: 30rem;
+    max-width: calc(100vw - 2rem);
+    max-height: 70vh;
+    overflow-y: auto;
+    background: #fff;
+    border: 1px solid #d8d8d8;
+    border-radius: 3px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, .18);
+    text-align: left;
+}
+
+#search-results .search-note {
+    margin: 0;
+    padding: .75rem 1rem;
+    color: #666;
+    font-size: .9rem;
+}
+
+#search-results .search-result {
+    display: block;
+    padding: .6rem 1rem;
+    border-bottom: 1px solid #eee;
+    color: #333;
+    text-decoration: none;
+}
+
+#search-results .search-result:last-child {
+    border-bottom: none;
+}
+
+#search-results .search-result:hover,
+#search-results .search-result.highlighted {
+    background: #f2f6fa;
+    text-decoration: none;
+}
+
+#search-results .search-result-title {
+    display: block;
+    color: #1a5f9e;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+#search-results .search-result-date {
+    display: block;
+    margin-top: .1rem;
+    color: #999;
+    font-size: .78rem;
+}
+
+#search-results .search-result-snippet {
+    display: block;
+    margin-top: .25rem;
+    color: #555;
+    font-size: .85rem;
+    line-height: 1.4;
+}

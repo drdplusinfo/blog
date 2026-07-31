@@ -14,13 +14,20 @@ themesDir = "../md-publisher/modules"
 
 # Pretty URLs (trailing slash) and home RSS.
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML"]
   page = ["HTML"]
 
 # Serve home RSS at /rss.xml (default would be /index.xml).
 [outputFormats.RSS]
   baseName = "rss"
+
+# Client-side search index, built at /search-index.json.
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "search-index"
+  isPlainText = true
+  notAlternative = true
 
 [params]
   googleAnalyticsId = "UA-121206931-15"

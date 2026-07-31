@@ -1,0 +1,13 @@
+{{- $posts := slice -}}
+{{- range where (where site.RegularPages "Section" "blog") "Params.deprecated_since" nil -}}
+  {{- $perex := .Params.perex | default "" | markdownify | plainify | htmlUnescape | replaceRE "\\s+" " " | chomp -}}
+  {{- $body := .Plain | htmlUnescape | replaceRE "\\s+" " " | chomp -}}
+  {{- $posts = $posts | append (dict
+    "t" (.Title | markdownify | plainify | htmlUnescape)
+    "u" .RelPermalink
+    "d" (.Date.Format site.Params.dateFormat)
+    "p" $perex
+    "b" $body
+  ) -}}
+{{- end -}}
+{{- $posts | jsonify -}}

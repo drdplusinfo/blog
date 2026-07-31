@@ -1,0 +1,30 @@
+{{/*
+    Local override of blog-classic's menu: the search box queries an in-browser
+    index instead of Google, which used a deprecated `sitesearch` parameter and
+    leaked hits from retired domains.
+*/}}
+<div class="container-fluid no-padding-md-down">
+    <nav class="navbar">
+        <ul>
+            {{ range site.Params.menu }}
+                <li class="{{ if and .id (or (eq $.Params.id .id) (and (eq $.Section .id) (eq $.Kind "page"))) }}active{{ end }}">
+                    <a href="{{ .url }}">
+                        {{- if .hideOnSmall }}<span class="hidden-sm-down">{{ .name }}</span>{{ else }}{{ .name }}{{ end -}}
+                    </a>
+                </li>
+            {{ end }}
+            {{ if ne site.Params.showRssInMenu false }}
+                <li>
+                    <a href="/rss.xml"><img src="/assets/images/Rss-feed.svg" alt="RSS feed" class="inline-image"></a>
+                </li>
+            {{ end }}
+            <li id="top-menu-search" class="hidden-xs-down">
+                <form id="blog-search-form" role="search" autocomplete="off">
+                    <input type="search" id="search-query" class="form-control"
+                           name="q" placeholder="{{ site.Params.searchPlaceholder | default "Search..." }}"
+                           autocomplete="off" aria-label="{{ site.Params.searchPlaceholder | default "Search..." }}"/>
+                </form>
+            </li>
+        </ul>
+    </nav>
+</div>
