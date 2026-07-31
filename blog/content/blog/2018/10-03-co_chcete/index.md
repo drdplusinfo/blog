@@ -272,7 +272,7 @@ Nám například opakovaně chyběla dovednost *Projev*, jelikož jsme se mnohok
 
 > Dovednosti jsou dle mého mírný krok správným směrem. Ale možná bych je použil spíš jako FATE systém pracuje s aspekty a skilly. DrD+ pravidla jsou na to prostě příliš úzkoprsá a zkostnatělá.
 
-V tomhle si ještě budeme muset rozšířit obzory, [FATE](http://faterpg.cz/) nás krapet minul, každopádně budeme sjednocovat původní různé bonusy pro různé *Dovednosti* na +2 / +4 / +6 podle stupně znalosti a na některé z nich budou navazovat pokročilé *Dovednosti* jednotlivých povolání.
+V tomhle si ještě budeme muset rozšířit obzory, [FATE](https://fatesrd.d20.cz/) nás krapet minul, každopádně budeme sjednocovat původní různé bonusy pro různé *Dovednosti* na +2 / +4 / +6 podle stupně znalosti a na některé z nich budou navazovat pokročilé *Dovednosti* jednotlivých povolání.
 
 > Přijdou mi spíš zbytečné;řada dovedností jako nošení zbroje dávala díky herním mechanismům smysl spoustě hráčů, avšak třeba znalost města spíš ne. Hráči dokázali řadu věci dobře zahrát, či zdůvodnit třeba vyšší inteligencí své postavy a některé dovednosti se jednoduše nevyužili. Omezil bych je na takové, které jsou pasivní.
 
