@@ -117,7 +117,7 @@ Během psaní recenze jsem se neubránil vzpomínkám na rozčarování z méně
 Cítím, že autoři neřekli své poslední slovo jak vzhledem k [živé komunitě na RPG fóru](https://rpgforum.cz/forum/viewforum.php?f=310), tak i kvůli herní historii *Taurilu*, kterou *Sparkle* už prožila a nosí ji v hlavě i srdci dlouhá léta a spoustu svých myšlenek i zážitků dosud nesdělila širé veřejnosti.
 Těším se na přídavky.
 
-*Jen doufám, že mě moje družina za zvýšené požadavky na kvalitu hry neupálí. No, radši jdu shánět [Minimaxe](http://minimaxfp.com/fire-extinguishers).*
+*Jen doufám, že mě moje družina za zvýšené požadavky na kvalitu hry neupálí. No, radši jdu shánět [Minimaxe](https://en.wikipedia.org/wiki/Minimax_Limited).*
 
 ## Zdroje
 
@@ -133,7 +133,7 @@ Těším se na přídavky.
 - [*Drakkar* - Monumenty Agol Zaru](http://drakkar.sk/66/monumenty-agol-zaru.html)
 - [další recenze včetně komentářů k nim na RPG fóru](https://rpgforum.cz/forum/viewtopic.php?f=310&t=14867):
   - [recenze ve stylu českého národního sportu "nadávání na cokoli"](http://www.d20.cz/clanky/produkty/recenze-neklidny-tauril.html)
-  - [praktická recenze z pohledu hráčky (ve slovenštině)](https://www.fantasy-svet.sk/index.php/publicistika/recenzie/798-neviditelna-kniha-neklidny-tauril)
+  - [praktická recenze z pohledu hráčky (ve slovenštině)](http://web.archive.org/web/20200814043041/https://www.fantasy-svet.sk/index.php/publicistika/recenzie/798-neviditelna-kniha-neklidny-tauril)
 
 Na závěr si dovolím vypůjčit myšlenku Karla Čapka
 > Kritizovat - to znamená usvědčit autora, že to nedělá tak, jak bych to dělal já, kdybych to uměl.
